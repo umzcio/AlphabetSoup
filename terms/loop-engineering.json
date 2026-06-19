@@ -1,0 +1,15 @@
+{
+  "slug": "loop-engineering",
+  "term": "Loop Engineering",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Designing the control loop that decides how an agent thinks, acts, and stops.",
+  "definition": "Loop engineering is the craft of designing the iterative control loop at the heart of an agent: when to call the model, how to feed tool results back in, how to manage and compact context across turns, when to branch or retry, and crucially when to stop. As agents handle longer tasks, the quality of this loop — not just the underlying model — increasingly determines reliability and cost.",
+  "example": null,
+  "related": [
+    "agent",
+    "tool-calling",
+    "react",
+    "context-window"
+  ]
+}

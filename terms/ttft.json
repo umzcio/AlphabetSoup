@@ -1,0 +1,15 @@
+{
+  "slug": "ttft",
+  "term": "TTFT",
+  "acronym": "Time To First Token",
+  "category": "Inference & Serving",
+  "short": "How long after a request before the model emits its first output token.",
+  "definition": "Time-to-first-token measures the latency between sending a request and receiving the first generated token. It is dominated by the prefill phase (processing the prompt) and is a key user-experience metric for streaming applications. Prefix caching and chunked prefill are common ways to reduce it.",
+  "example": null,
+  "related": [
+    "chunked-prefill",
+    "prefix-caching",
+    "continuous-batching",
+    "speculative-decoding"
+  ]
+}

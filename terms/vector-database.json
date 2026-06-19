@@ -1,0 +1,13 @@
+{
+  "slug": "vector-database",
+  "term": "Vector Database",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A database optimized for storing embeddings and finding nearest neighbors fast.",
+  "definition": "A vector database stores high-dimensional embedding vectors and supports fast approximate nearest-neighbor (ANN) search to find items most similar to a query vector. It is the retrieval backbone of most RAG systems. Examples include Pinecone, Weaviate, Milvus, Qdrant, and pgvector.",
+  "example": null,
+  "related": [
+    "embedding",
+    "rag"
+  ]
+}

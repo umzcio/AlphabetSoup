@@ -1,0 +1,14 @@
+{
+  "slug": "prompt-engineering",
+  "term": "Prompt Engineering",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Crafting inputs to steer a model toward better, more reliable outputs.",
+  "definition": "Prompt engineering is the practice of designing the text (and structure, examples, and instructions) you give a model to get the desired behavior. Techniques include clear role/task framing, few-shot examples, chain-of-thought, output format constraints, and decomposition of complex tasks.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "few-shot",
+    "llm"
+  ]
+}

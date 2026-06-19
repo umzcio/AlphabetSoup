@@ -1,0 +1,12 @@
+{
+  "categories": [
+    "Foundations",
+    "Architectures",
+    "Training",
+    "Optimization",
+    "Inference & Serving",
+    "Patterns",
+    "Prompting",
+    "Hardware & Systems"
+  ]
+}

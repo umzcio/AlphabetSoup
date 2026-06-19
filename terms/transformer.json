@@ -1,0 +1,15 @@
+{
+  "slug": "transformer",
+  "term": "Transformer",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "The neural-network architecture, built on attention, behind modern LLMs.",
+  "definition": "The Transformer is the neural network architecture introduced in the 2017 paper 'Attention Is All You Need.' It replaced recurrence with self-attention, letting the model weigh the relevance of every token to every other token in parallel. This parallelism made it scalable to massive datasets and parameter counts, and it underpins essentially every modern large language model.",
+  "example": null,
+  "related": [
+    "attention",
+    "kv-cache",
+    "llm",
+    "embedding"
+  ]
+}

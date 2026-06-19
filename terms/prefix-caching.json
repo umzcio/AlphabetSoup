@@ -1,0 +1,15 @@
+{
+  "slug": "prefix-caching",
+  "term": "Prefix Caching",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Reusing already-computed KV cache for prompt text shared across requests.",
+  "definition": "Prefix caching is the general technique of storing and reusing the KV cache for a portion of a prompt that many requests share — typically a long system prompt, few-shot examples, or a retrieved document. Because the model has already 'read' that prefix, it can skip recomputing it and jump straight to the new tokens, cutting latency and cost. RadixAttention (SGLang) and automatic prefix caching (vLLM) are concrete implementations.",
+  "example": null,
+  "related": [
+    "radix-attention",
+    "kv-cache",
+    "vllm",
+    "sglang"
+  ]
+}

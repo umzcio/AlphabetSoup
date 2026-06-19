@@ -1,0 +1,15 @@
+{
+  "slug": "react",
+  "term": "ReAct",
+  "acronym": "Reasoning + Acting",
+  "category": "Patterns",
+  "short": "An agent pattern that interleaves reasoning steps with tool actions.",
+  "definition": "ReAct is a prompting pattern in which a model alternates between 'Thought' (reasoning about what to do), 'Action' (calling a tool), and 'Observation' (the tool's result), repeating until it reaches an answer. Making the reasoning explicit improves reliability and makes agent behavior easier to debug.",
+  "example": null,
+  "related": [
+    "agent",
+    "tool-calling",
+    "loop-engineering",
+    "chain-of-thought"
+  ]
+}

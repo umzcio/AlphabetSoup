@@ -1,0 +1,15 @@
+{
+  "slug": "rag",
+  "term": "RAG",
+  "acronym": "Retrieval-Augmented Generation",
+  "category": "Patterns",
+  "short": "Fetching relevant documents at query time and feeding them to the model as context.",
+  "definition": "Retrieval-Augmented Generation grounds a model's answer in external knowledge by retrieving relevant documents (usually via embedding similarity from a vector database) and inserting them into the prompt before generation. This reduces hallucination, lets the model cite sources, and keeps answers current without retraining.",
+  "example": null,
+  "related": [
+    "embedding",
+    "vector-database",
+    "context-window",
+    "prefix-caching"
+  ]
+}

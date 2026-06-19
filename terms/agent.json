@@ -1,0 +1,15 @@
+{
+  "slug": "agent",
+  "term": "Agent",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An LLM that can plan, call tools, and act in a loop toward a goal.",
+  "definition": "In modern AI usage, an agent is a system built around an LLM that can take actions — calling tools or APIs, reading results, and deciding what to do next — in a loop until it achieves a goal. Unlike a single prompt-response, an agent maintains state, plans across multiple steps, and can recover from errors. Frameworks add memory, tool schemas, and orchestration.",
+  "example": null,
+  "related": [
+    "loop-engineering",
+    "tool-calling",
+    "react",
+    "mcp"
+  ]
+}

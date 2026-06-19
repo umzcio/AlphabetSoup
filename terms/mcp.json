@@ -1,0 +1,13 @@
+{
+  "slug": "mcp",
+  "term": "MCP",
+  "acronym": "Model Context Protocol",
+  "category": "Patterns",
+  "short": "An open standard for connecting models to tools and data sources.",
+  "definition": "The Model Context Protocol is an open standard (introduced by Anthropic) for connecting AI applications to external tools, data sources, and context. It defines a common client-server interface so any MCP-compatible model host can use any MCP server — think of it as a universal adapter that replaces bespoke per-integration glue code.",
+  "example": null,
+  "related": [
+    "tool-calling",
+    "agent"
+  ]
+}

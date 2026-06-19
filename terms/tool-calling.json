@@ -1,0 +1,15 @@
+{
+  "slug": "tool-calling",
+  "term": "Tool Calling",
+  "acronym": "Function Calling",
+  "category": "Patterns",
+  "short": "Letting a model emit structured calls to external functions or APIs.",
+  "definition": "Tool calling (also function calling) is the capability where a model, given a set of tool definitions, outputs a structured request to invoke one — specifying the tool name and arguments — instead of answering directly. The host runs the tool, returns the result, and the model continues. It is the foundation of agents and lets LLMs reach beyond their training data.",
+  "example": "{ \"tool\": \"get_weather\", \"arguments\": { \"city\": \"Missoula\" } }",
+  "related": [
+    "agent",
+    "loop-engineering",
+    "mcp",
+    "react"
+  ]
+}

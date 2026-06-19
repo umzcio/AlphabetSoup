@@ -1,0 +1,14 @@
+{
+  "slug": "few-shot",
+  "term": "Few-Shot Learning",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Giving a model a handful of examples in the prompt to teach a task on the fly.",
+  "definition": "Few-shot (or in-context) learning provides several worked examples directly in the prompt so the model infers the pattern and applies it to a new input — no training required. Zero-shot uses none; one-shot uses a single example. It works because large models can generalize from patterns shown in their context.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "chain-of-thought",
+    "context-window"
+  ]
+}

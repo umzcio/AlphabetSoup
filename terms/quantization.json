@@ -1,0 +1,15 @@
+{
+  "slug": "quantization",
+  "term": "Quantization",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Shrinking a model by storing its weights in fewer bits (e.g. 16-bit to 4-bit).",
+  "definition": "Quantization reduces the numerical precision of a model's weights (and sometimes activations) — for example from 16-bit floats to 8-bit or 4-bit integers. This cuts memory use and speeds up inference, usually with only a small accuracy loss. Common schemes include GPTQ, AWQ, FP8, and NF4. It is what lets large models run on a single consumer GPU.",
+  "example": null,
+  "related": [
+    "trt-llm",
+    "vllm",
+    "lora",
+    "tensorrt"
+  ]
+}

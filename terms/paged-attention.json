@@ -1,0 +1,15 @@
+{
+  "slug": "paged-attention",
+  "term": "PagedAttention",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "A memory trick that stores the KV cache in small reusable blocks like OS paging.",
+  "definition": "PagedAttention is the KV cache memory-management algorithm introduced by vLLM (SOSP 2023). Instead of pre-allocating one large contiguous block of GPU memory per request, it splits the cache into fixed-size blocks (16 tokens by default) mapped through a block table to non-contiguous physical memory. This is virtual memory for GPUs: it nearly eliminates fragmentation and over-allocation, letting many more requests share the GPU.",
+  "example": null,
+  "related": [
+    "kv-cache",
+    "vllm",
+    "continuous-batching",
+    "radix-attention"
+  ]
+}

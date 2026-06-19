@@ -1,0 +1,14 @@
+{
+  "slug": "distillation",
+  "term": "Distillation",
+  "acronym": "Knowledge Distillation",
+  "category": "Optimization",
+  "short": "Training a small 'student' model to mimic a larger 'teacher' model.",
+  "definition": "Knowledge distillation trains a smaller, cheaper 'student' model to reproduce the outputs (or internal distributions) of a larger 'teacher' model. The student captures much of the teacher's capability at a fraction of the size and cost, a common way to ship capable models on limited hardware.",
+  "example": null,
+  "related": [
+    "quantization",
+    "fine-tuning",
+    "llm"
+  ]
+}

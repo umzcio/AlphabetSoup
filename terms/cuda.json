@@ -1,0 +1,15 @@
+{
+  "slug": "cuda",
+  "term": "CUDA",
+  "acronym": "Compute Unified Device Architecture",
+  "category": "Hardware & Systems",
+  "short": "NVIDIA's platform for running general-purpose parallel programs on GPUs.",
+  "definition": "CUDA is NVIDIA's parallel computing platform and programming model that lets developers run general-purpose code on GPUs. Nearly all modern AI training and inference runs on CUDA under the hood: frameworks like PyTorch dispatch tensor operations to CUDA kernels. Its dominance is a major reason NVIDIA hardware is the default for AI, since most optimized libraries (cuDNN, cuBLAS, TensorRT) are CUDA-based.",
+  "example": null,
+  "related": [
+    "cuda-kernel",
+    "gpu",
+    "tensorrt",
+    "trt-llm"
+  ]
+}

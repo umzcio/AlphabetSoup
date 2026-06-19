@@ -1,0 +1,16 @@
+{
+  "slug": "trt-llm",
+  "term": "TensorRT-LLM",
+  "acronym": "TRT-LLM",
+  "category": "Inference & Serving",
+  "short": "NVIDIA's library for compiling LLMs into highly optimized GPU inference engines.",
+  "definition": "TensorRT-LLM (often abbreviated TRT-LLM) is NVIDIA's open-source library for optimizing and running LLM inference on NVIDIA GPUs. It builds on TensorRT to compile a model into a hardware-specific engine, applying kernel fusion, quantization (FP8/FP4/INT8), in-flight batching, and paged KV cache. The result is very low latency and high throughput on NVIDIA hardware, at the cost of an ahead-of-time build step. It is one of the engines underneath NVIDIA NIM and Triton Inference Server.",
+  "example": null,
+  "related": [
+    "tensorrt",
+    "nim",
+    "vllm",
+    "quantization",
+    "cuda"
+  ]
+}

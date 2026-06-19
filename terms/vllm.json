@@ -1,0 +1,16 @@
+{
+  "slug": "vllm",
+  "term": "vLLM",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "An open-source engine for serving LLMs fast by packing many requests onto a GPU.",
+  "definition": "vLLM is a high-throughput inference and serving engine for large language models. Its headline innovation is PagedAttention, which manages the KV cache in small non-contiguous blocks the way an operating system pages RAM, eliminating memory fragmentation. Combined with continuous (iteration-level) batching, it keeps the GPU saturated and packs far more concurrent requests onto the same hardware than naive serving. It exposes an OpenAI-compatible API, making it a near drop-in replacement for hosted inference.",
+  "example": "vllm serve meta-llama/Llama-3.1-8B-Instruct --gpu-memory-utilization 0.95",
+  "related": [
+    "paged-attention",
+    "continuous-batching",
+    "kv-cache",
+    "sglang",
+    "trt-llm"
+  ]
+}

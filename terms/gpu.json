@@ -1,0 +1,15 @@
+{
+  "slug": "gpu",
+  "term": "GPU",
+  "acronym": "Graphics Processing Unit",
+  "category": "Hardware & Systems",
+  "short": "Massively parallel hardware that does the heavy math for AI training and inference.",
+  "definition": "A GPU is a processor with thousands of cores designed for the parallel matrix and vector math that dominates deep learning. Its throughput on these operations vastly exceeds a CPU's, making it the workhorse of AI. In AI contexts, GPU usually means a data-center accelerator (e.g. NVIDIA H100/H200) programmed through CUDA.",
+  "example": null,
+  "related": [
+    "cuda",
+    "cuda-kernel",
+    "tensorrt",
+    "trt-llm"
+  ]
+}

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the contributing guide
+    url: https://github.com/umzcio/AlphabetSoup/blob/main/CONTRIBUTING.md
+    about: How to add or fix a term, including the format and style rules.

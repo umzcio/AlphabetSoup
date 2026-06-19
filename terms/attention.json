@@ -1,0 +1,14 @@
+{
+  "slug": "attention",
+  "term": "Attention",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "The mechanism that lets a model weigh how much each token matters to another.",
+  "definition": "Attention is the mechanism that computes, for each token, a weighted combination of other tokens' representations based on relevance. Self-attention (each token attending to others in the same sequence) is the core operation of the Transformer. Variants like multi-head, grouped-query (GQA), and flash attention optimize quality, memory, or speed.",
+  "example": null,
+  "related": [
+    "transformer",
+    "kv-cache",
+    "flash-attention"
+  ]
+}

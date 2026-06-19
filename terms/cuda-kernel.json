@@ -1,0 +1,15 @@
+{
+  "slug": "cuda-kernel",
+  "term": "CUDA Kernel",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A function that runs in parallel across many GPU threads.",
+  "definition": "A CUDA kernel is a function written to execute simultaneously across thousands of GPU threads. AI performance work often comes down to writing or tuning custom kernels (for attention, matrix multiply, etc.) to squeeze maximum throughput from the hardware. Libraries like FlashAttention and TensorRT ship highly optimized kernels.",
+  "example": null,
+  "related": [
+    "cuda",
+    "gpu",
+    "flash-attention",
+    "tensorrt"
+  ]
+}

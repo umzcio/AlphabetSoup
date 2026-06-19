@@ -1,0 +1,73 @@
+name: Suggest a term
+description: Suggest a new AI term for the dictionary (no coding required).
+title: "[Term] "
+labels: ["new term"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for adding to the soup. Fill in what you can — a maintainer will turn this into a dictionary entry. Plain language is the goal.
+  - type: input
+    id: term
+    attributes:
+      label: Term
+      description: The name as it should appear, e.g. "vLLM" or "Mixture of Experts".
+      placeholder: e.g. Mixture of Experts
+    validations:
+      required: true
+  - type: input
+    id: acronym
+    attributes:
+      label: Acronym / expansion (optional)
+      description: The expansion or an alternate name, if any.
+      placeholder: e.g. MoE
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category fits best?
+      options:
+        - Foundations
+        - Architectures
+        - Training
+        - Optimization
+        - Inference & Serving
+        - Patterns
+        - Prompting
+        - Hardware & Systems
+        - "Not sure / propose a new one"
+    validations:
+      required: true
+  - type: input
+    id: short
+    attributes:
+      label: One-line summary
+      description: A single plain-language sentence (about 140 characters). This is the hook shown on cards.
+      placeholder: e.g. A model with many expert sub-networks, only a few of which run per token.
+    validations:
+      required: true
+  - type: textarea
+    id: definition
+    attributes:
+      label: Definition
+      description: A short paragraph explaining it in plain language. Accurate and jargon-light.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example (optional)
+      description: A code snippet or concrete example, if helpful.
+      render: text
+    validations:
+      required: false
+  - type: input
+    id: related
+    attributes:
+      label: Related terms (optional)
+      description: Comma-separated list of related terms already in the dictionary.
+      placeholder: e.g. transformer, llm
+    validations:
+      required: false

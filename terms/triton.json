@@ -1,0 +1,14 @@
+{
+  "slug": "triton",
+  "term": "Triton Inference Server",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "NVIDIA's open-source server for deploying models from many frameworks at scale.",
+  "definition": "Triton Inference Server is NVIDIA's open-source serving system for deploying trained models in production. It supports multiple backends (TensorRT, PyTorch, ONNX, TensorRT-LLM, and more), dynamic batching, concurrent model execution, and standard HTTP/gRPC APIs. It is a core building block underneath NVIDIA NIM. (Not to be confused with OpenAI's Triton GPU programming language.)",
+  "example": null,
+  "related": [
+    "nim",
+    "trt-llm",
+    "tensorrt"
+  ]
+}

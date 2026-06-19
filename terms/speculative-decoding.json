@@ -1,0 +1,15 @@
+{
+  "slug": "speculative-decoding",
+  "term": "Speculative Decoding",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Using a small fast model to draft tokens that a big model verifies in bulk.",
+  "definition": "Speculative decoding speeds up generation by having a small 'draft' model propose several tokens ahead, which the large 'target' model then verifies in a single parallel pass. Accepted tokens are kept; rejected ones fall back to the target model. Since verification is cheaper than sequential generation, it cuts latency with no change in output quality.",
+  "example": null,
+  "related": [
+    "sglang",
+    "vllm",
+    "ttft",
+    "distillation"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "skills",
+  "term": "Skills",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Packaged instructions and tools that give an agent a reusable capability.",
+  "definition": "In agent systems, a 'skill' is a self-contained, reusable package of instructions, examples, and sometimes tools or scripts that teaches an agent how to perform a specific kind of task — like reviewing a contract or building a slide deck. The agent loads the relevant skill on demand instead of carrying all knowledge in its base prompt, keeping behavior modular and composable.",
+  "example": null,
+  "related": [
+    "agent",
+    "tool-calling",
+    "mcp",
+    "loop-engineering"
+  ]
+}

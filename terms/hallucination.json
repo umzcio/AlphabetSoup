@@ -1,0 +1,14 @@
+{
+  "slug": "hallucination",
+  "term": "Hallucination",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "When a model states something fluent and confident but false or made up.",
+  "definition": "A hallucination is output that is plausible and confidently stated but factually wrong or fabricated — invented citations, nonexistent APIs, or incorrect facts. It stems from the model optimizing for likely-sounding text rather than truth. Mitigations include retrieval-augmented generation, tool use, and grounding answers in verifiable sources.",
+  "example": null,
+  "related": [
+    "rag",
+    "llm",
+    "grounding"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "chunked-prefill",
+  "term": "Chunked Prefill",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Splitting a long prompt's prefill into chunks so it doesn't block other requests.",
+  "definition": "Chunked prefill breaks the prefill phase of a long prompt into smaller token chunks that can be interleaved with the decode steps of other in-flight requests. Without it, one very long prompt can monopolize the GPU and spike time-to-first-token for everyone else. It is a key knob for keeping latency low in mixed short/long workloads.",
+  "example": null,
+  "related": [
+    "continuous-batching",
+    "ttft",
+    "vllm"
+  ]
+}

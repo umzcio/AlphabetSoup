@@ -1,0 +1,15 @@
+{
+  "slug": "embedding",
+  "term": "Embedding",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A numeric vector that captures the meaning of text so similar things sit nearby.",
+  "definition": "An embedding is a dense vector of numbers that represents the meaning of a piece of text (or image, audio, etc.) in a high-dimensional space, where semantically similar items are close together. Embeddings power semantic search, clustering, and retrieval-augmented generation, where a query is embedded and matched against a vector database.",
+  "example": null,
+  "related": [
+    "rag",
+    "vector-database",
+    "token",
+    "llm"
+  ]
+}

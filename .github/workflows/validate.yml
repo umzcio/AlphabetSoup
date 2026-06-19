@@ -1,0 +1,24 @@
+name: Validate terms
+
+on:
+  pull_request:
+    paths:
+      - "terms/**"
+      - "categories.json"
+      - "schema.json"
+      - "scripts/validate.mjs"
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install validator
+        run: npm install ajv@8 ajv-formats@3
+      - name: Validate all term files
+        run: node scripts/validate.mjs

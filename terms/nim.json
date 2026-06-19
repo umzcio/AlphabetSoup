@@ -1,0 +1,16 @@
+{
+  "slug": "nim",
+  "term": "NIM",
+  "acronym": "NVIDIA Inference Microservices",
+  "category": "Inference & Serving",
+  "short": "NVIDIA's prebuilt, containerized microservices for deploying AI models anywhere.",
+  "definition": "NVIDIA NIM is a set of prebuilt, optimized inference microservices that package a model together with an inference engine, standard APIs, and runtime dependencies into an enterprise-grade container. The goal is to make deploying generative AI as simple as a managed API while keeping the model self-hosted on your own NVIDIA infrastructure (cloud, data center, workstation, or RTX PC). Under the hood NIM is built on engines like Triton Inference Server, TensorRT, TensorRT-LLM, and vLLM/SGLang, and it exposes OpenAI-compatible endpoints.",
+  "example": null,
+  "related": [
+    "trt-llm",
+    "tensorrt",
+    "triton",
+    "vllm",
+    "sglang"
+  ]
+}

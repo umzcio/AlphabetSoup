@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AI Alphabet Soup term",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["slug", "term", "category", "short", "definition", "related"],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "URL-safe identifier. Lowercase, hyphen-separated. Must match the filename (slug.json) and be unique."
+    },
+    "term": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The display name of the term, e.g. \"vLLM\"."
+    },
+    "acronym": {
+      "type": ["string", "null"],
+      "description": "Expansion or alternate name, or null if none. e.g. \"Large Language Model\"."
+    },
+    "category": {
+      "type": "string",
+      "description": "Must be one of the categories listed in categories.json."
+    },
+    "short": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 140,
+      "description": "One-line plain-language summary shown on cards and lists."
+    },
+    "definition": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The full plain-language definition. Accurate, jargon-light, a short paragraph."
+    },
+    "example": {
+      "type": ["string", "null"],
+      "description": "An optional code snippet or concrete example, or null."
+    },
+    "related": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+      "description": "Slugs of related terms. Each should point to another term file."
+    }
+  }
+}

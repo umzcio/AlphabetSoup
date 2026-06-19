@@ -1,0 +1,15 @@
+{
+  "slug": "fine-tuning",
+  "term": "Fine-Tuning",
+  "acronym": null,
+  "category": "Training",
+  "short": "Further training a pretrained model on your own data to specialize it.",
+  "definition": "Fine-tuning continues training a pretrained model on a smaller, task- or domain-specific dataset so it adapts its behavior, style, or knowledge. Full fine-tuning updates all weights and is expensive; parameter-efficient methods like LoRA update only a small number of added parameters, making it far cheaper.",
+  "example": null,
+  "related": [
+    "lora",
+    "rlhf",
+    "llm",
+    "quantization"
+  ]
+}

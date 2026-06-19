@@ -1,0 +1,14 @@
+{
+  "slug": "chain-of-thought",
+  "term": "Chain of Thought",
+  "acronym": "CoT",
+  "category": "Prompting",
+  "short": "Prompting a model to show its step-by-step reasoning before answering.",
+  "definition": "Chain-of-thought prompting asks a model to work through a problem step by step before giving a final answer. Exposing intermediate reasoning markedly improves performance on math, logic, and multi-step tasks. Modern 'reasoning models' are trained to do this internally and at length.",
+  "example": null,
+  "related": [
+    "react",
+    "prompt-engineering",
+    "llm"
+  ]
+}

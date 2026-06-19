@@ -1,0 +1,16 @@
+{
+  "slug": "llm",
+  "term": "LLM",
+  "acronym": "Large Language Model",
+  "category": "Foundations",
+  "short": "A large neural network trained on text to predict and generate language.",
+  "definition": "A large language model is a neural network (almost always a Transformer) with billions of parameters, trained on vast text corpora to predict the next token. Through this objective it learns grammar, facts, reasoning patterns, and style, and can be prompted or fine-tuned for tasks like chat, summarization, coding, and translation.",
+  "example": null,
+  "related": [
+    "transformer",
+    "token",
+    "fine-tuning",
+    "rag",
+    "context-window"
+  ]
+}

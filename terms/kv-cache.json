@@ -1,0 +1,15 @@
+{
+  "slug": "kv-cache",
+  "term": "KV Cache",
+  "acronym": "Key-Value Cache",
+  "category": "Inference & Serving",
+  "short": "Stored attention keys/values that let a model avoid recomputing past tokens.",
+  "definition": "The KV cache stores the key and value vectors computed for every token already processed in a sequence. During autoregressive generation, each new token attends to all previous tokens; caching their keys and values means the model never has to recompute them. The cache grows with sequence length and batch size and is often the dominant consumer of GPU memory during inference — which is why PagedAttention and prefix caching matter so much.",
+  "example": null,
+  "related": [
+    "paged-attention",
+    "radix-attention",
+    "attention",
+    "transformer"
+  ]
+}
