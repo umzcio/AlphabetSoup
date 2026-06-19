@@ -1,0 +1,21 @@
+name: Notify web app
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'terms/**'
+      - 'categories.json'
+      - 'schema.json'
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger web app deploy
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.WEB_DISPATCH_TOKEN }}
+          repository: umzcio/AlphabetSoup-web
+          event-type: content-updated
