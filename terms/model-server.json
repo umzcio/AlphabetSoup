@@ -9,7 +9,7 @@
   "related": [
     "vllm",
     "sglang",
-    "triton-inference-server",
+    "triton",
     "continuous-batching",
     "kv-cache"
   ]

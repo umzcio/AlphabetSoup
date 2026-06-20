@@ -9,7 +9,6 @@
   "related": [
     "rag",
     "agent",
-    "agentic-loop",
-    "retrieval-augmented-generation"
+    "agentic-loop"
   ]
 }

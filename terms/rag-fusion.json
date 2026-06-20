@@ -10,7 +10,6 @@
     "rag",
     "reranking",
     "semantic-search",
-    "retrieval-augmented-generation",
     "embedding"
   ]
 }

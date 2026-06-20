@@ -10,7 +10,6 @@
     "rag",
     "grounding",
     "vector-database",
-    "hallucination",
-    "retrieval-augmented-generation"
+    "hallucination"
   ]
 }

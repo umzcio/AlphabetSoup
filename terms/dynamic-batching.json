@@ -10,7 +10,7 @@
     "static-batching",
     "continuous-batching",
     "batching",
-    "triton-inference-server",
+    "triton",
     "throughput"
   ]
 }

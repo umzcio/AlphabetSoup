@@ -8,7 +8,7 @@
   "example": null,
   "related": [
     "context-window",
-    "retrieval-augmented-generation",
+    "rag",
     "retrieval-prompt",
     "prompt-compression"
   ]

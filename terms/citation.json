@@ -9,7 +9,6 @@
   "related": [
     "grounding",
     "rag",
-    "hallucination",
-    "retrieval-augmented-generation"
+    "hallucination"
   ]
 }

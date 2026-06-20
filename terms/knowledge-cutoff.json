@@ -10,7 +10,6 @@
     "pretraining",
     "rag",
     "grounding",
-    "retrieval-augmented-generation",
     "tool-use"
   ]
 }
