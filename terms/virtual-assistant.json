@@ -1,0 +1,15 @@
+{
+  "slug": "virtual-assistant",
+  "term": "Virtual Assistant",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "An AI helper you talk or type to, like Siri, Alexa, or Google Assistant.",
+  "definition": "A virtual assistant is an AI-powered helper that responds to voice or text to answer questions, set reminders, control devices, or handle simple tasks. Familiar examples include Siri, Alexa, and Google Assistant. Newer assistants are built on large language models, making them more conversational and capable than earlier command-based versions.",
+  "example": null,
+  "related": [
+    "chatbot",
+    "agent",
+    "llm",
+    "asr"
+  ]
+}

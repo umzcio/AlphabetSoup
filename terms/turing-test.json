@@ -1,0 +1,15 @@
+{
+  "slug": "turing-test",
+  "term": "Turing Test",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A classic test of whether a machine's conversation is indistinguishable from a human's.",
+  "definition": "The Turing test, proposed by Alan Turing in 1950, is a way of thinking about machine intelligence: if a person chatting by text cannot reliably tell whether they are talking to a human or a machine, the machine is said to pass. It shaped early AI, though today it is seen as a limited measure of real understanding.",
+  "example": null,
+  "related": [
+    "artificial-intelligence",
+    "chatbot",
+    "agi",
+    "evaluation"
+  ]
+}

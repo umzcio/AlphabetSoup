@@ -1,0 +1,15 @@
+{
+  "slug": "edge-ai",
+  "term": "Edge AI",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Running AI directly on a local device instead of in the cloud.",
+  "definition": "Edge AI is running AI models directly on a local device — a phone, camera, car, or sensor — instead of sending data to the cloud. Keeping the work on the device lowers delay, works offline, and improves privacy, at the cost of the limited memory and power of small hardware. It often relies on compressed, efficient models.",
+  "example": null,
+  "related": [
+    "quantization",
+    "npu",
+    "cloud-computing",
+    "low-precision-inference"
+  ]
+}

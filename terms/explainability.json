@@ -1,0 +1,15 @@
+{
+  "slug": "explainability",
+  "term": "Explainability",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "How well a person can understand why an AI system produced a given output.",
+  "definition": "Explainability is how well a person can understand why an AI system produced a particular output. Because many models are opaque, explainability methods try to surface the reasons behind a decision in human terms. It matters for trust, debugging, fairness, and rules that give people a right to an explanation, and it is closely related to interpretability.",
+  "example": null,
+  "related": [
+    "interpretability",
+    "responsible-ai",
+    "fairness",
+    "ai-governance"
+  ]
+}

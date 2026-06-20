@@ -1,0 +1,15 @@
+{
+  "slug": "machine-translation",
+  "term": "Machine Translation",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Automatically translating text or speech from one language to another using AI.",
+  "definition": "Machine translation is the automatic conversion of text or speech from one language to another using AI. Modern systems use neural networks and large language models to produce far more fluent results than older word-by-word methods, and they power tools like Google Translate and built-in webpage translation.",
+  "example": null,
+  "related": [
+    "nlp",
+    "llm",
+    "transformer",
+    "multilingual-data"
+  ]
+}

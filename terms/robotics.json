@@ -1,0 +1,15 @@
+{
+  "slug": "robotics",
+  "term": "Robotics",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Building machines that sense, move, and act in the physical world, increasingly guided by AI.",
+  "definition": "Robotics is the field of designing and building machines that can sense their environment, move, and perform physical tasks. AI increasingly powers a robot's perception and decision-making, letting it handle less predictable settings — from factory arms to warehouse and household robots. Pairing language models with robots is an active research area.",
+  "example": null,
+  "related": [
+    "artificial-intelligence",
+    "computer-vision",
+    "reinforcement-learning",
+    "autonomous-vehicle"
+  ]
+}

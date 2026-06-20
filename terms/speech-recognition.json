@@ -1,0 +1,15 @@
+{
+  "slug": "speech-recognition",
+  "term": "Speech Recognition",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Technology that converts spoken words into text; also called ASR.",
+  "definition": "Speech recognition is technology that converts spoken words into written text. Also called automatic speech recognition (ASR), it powers voice assistants, dictation, captions, and call transcription. Modern systems use neural networks and handle many languages, accents, and noisy audio far better than earlier approaches.",
+  "example": null,
+  "related": [
+    "asr",
+    "nlp",
+    "whisper",
+    "tts"
+  ]
+}

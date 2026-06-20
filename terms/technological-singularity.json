@@ -1,0 +1,15 @@
+{
+  "slug": "technological-singularity",
+  "term": "Technological Singularity",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A hypothetical point where AI improves itself so fast that change becomes unpredictable.",
+  "definition": "The technological singularity is a hypothetical future point at which AI becomes able to improve itself so rapidly that progress runs away beyond human understanding or control. It is a popular but speculative idea, tied to debates about superintelligence, and experts disagree sharply on whether, when, or how it could happen.",
+  "example": null,
+  "related": [
+    "asi",
+    "agi",
+    "artificial-intelligence",
+    "ai-safety"
+  ]
+}

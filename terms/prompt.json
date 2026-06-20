@@ -1,0 +1,15 @@
+{
+  "slug": "prompt",
+  "term": "Prompt",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "The text or instruction you give an AI model to tell it what you want.",
+  "definition": "A prompt is the text, question, or instruction you give an AI model to tell it what you want. It can be a single sentence or a long set of directions with examples and context. The exact wording strongly shapes the response, which is why writing good prompts has become a skill of its own.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "system-prompt",
+    "llm",
+    "context-window"
+  ]
+}

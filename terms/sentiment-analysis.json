@@ -1,0 +1,15 @@
+{
+  "slug": "sentiment-analysis",
+  "term": "Sentiment Analysis",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Automatically detecting the emotional tone or opinion expressed in text.",
+  "definition": "Sentiment analysis is the automatic detection of the tone or opinion in text — for example, whether a review is positive, negative, or neutral. Businesses use it to track customer feedback, social media, and support tickets at scale. Modern systems use language models that catch nuance like sarcasm better than older keyword methods.",
+  "example": null,
+  "related": [
+    "nlp",
+    "classification",
+    "llm",
+    "embedding"
+  ]
+}

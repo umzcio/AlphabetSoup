@@ -1,0 +1,15 @@
+{
+  "slug": "recommendation-system",
+  "term": "Recommendation System",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A system that suggests items you might like based on your behavior and others'.",
+  "definition": "A recommendation system suggests items a person might like — videos, products, songs, posts — by learning patterns from their past behavior and that of similar users. It is one of the most widely used forms of AI, powering feeds and stores at companies like Netflix, Amazon, and YouTube, and it strongly shapes what people see online.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "embedding",
+    "predictive-analytics",
+    "bias"
+  ]
+}

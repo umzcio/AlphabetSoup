@@ -1,0 +1,15 @@
+{
+  "slug": "facial-recognition",
+  "term": "Facial Recognition",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Technology that identifies or verifies a person from an image of their face.",
+  "definition": "Facial recognition is technology that identifies or verifies a person by matching an image of their face against stored examples. It is used to unlock phones, tag photos, and screen at borders, but it raises significant privacy, accuracy, and bias concerns, especially across different groups of people.",
+  "example": null,
+  "related": [
+    "computer-vision",
+    "image-recognition",
+    "data-privacy",
+    "bias"
+  ]
+}

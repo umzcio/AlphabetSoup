@@ -1,0 +1,15 @@
+{
+  "slug": "training",
+  "term": "Training",
+  "acronym": null,
+  "category": "Training",
+  "short": "Teaching an AI model by adjusting it on many examples until it performs well.",
+  "definition": "Training is the process of teaching an AI model by showing it many examples and gradually adjusting its internal numbers so its outputs improve. It is usually the most time- and compute-intensive stage of building a model, and it happens in stages such as broad pretraining followed by fine-tuning for specific tasks.",
+  "example": null,
+  "related": [
+    "pretraining",
+    "fine-tuning",
+    "training-data",
+    "machine-learning"
+  ]
+}

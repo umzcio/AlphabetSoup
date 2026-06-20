@@ -1,0 +1,15 @@
+{
+  "slug": "cloud-computing",
+  "term": "Cloud Computing",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Renting computing power and storage over the internet instead of owning the hardware.",
+  "definition": "Cloud computing is renting computing power, storage, and services over the internet from providers' data centers rather than owning the hardware yourself. Most AI training and large-scale serving run in the cloud because it offers on-demand access to expensive GPUs. It is the backbone of how most people use AI today.",
+  "example": null,
+  "related": [
+    "datacenter",
+    "gpu",
+    "edge-ai",
+    "cluster"
+  ]
+}

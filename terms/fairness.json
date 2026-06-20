@@ -1,0 +1,15 @@
+{
+  "slug": "fairness",
+  "term": "Fairness",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The goal of an AI system treating different people and groups equitably.",
+  "definition": "Fairness in AI is the goal of systems that treat different people and groups equitably, rather than systematically advantaging or harming some over others. Because models learn from historical data, they can absorb and amplify existing bias, so measuring and improving fairness is central in high-stakes uses like lending, hiring, and policing.",
+  "example": null,
+  "related": [
+    "bias",
+    "ai-ethics",
+    "responsible-ai",
+    "explainability"
+  ]
+}

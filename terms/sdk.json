@@ -1,0 +1,15 @@
+{
+  "slug": "sdk",
+  "term": "SDK",
+  "acronym": "Software Development Kit",
+  "category": "Frameworks & Tools",
+  "short": "A bundle of tools and code that helps developers build on a platform or service.",
+  "definition": "An SDK (software development kit) is a bundle of tools, libraries, and documentation that helps developers build software for a particular platform or service. In AI, an SDK often wraps a model's API with ready-made helpers for prompts, tools, and agents, so developers write less plumbing code.",
+  "example": null,
+  "related": [
+    "api",
+    "agents-sdk",
+    "tool-calling",
+    "llm"
+  ]
+}

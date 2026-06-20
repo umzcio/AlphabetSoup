@@ -1,0 +1,15 @@
+{
+  "slug": "autonomous-vehicle",
+  "term": "Autonomous Vehicle",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A vehicle that senses its surroundings and drives itself with little or no human input.",
+  "definition": "An autonomous vehicle, or self-driving car, uses cameras, sensors, and AI to perceive its surroundings and drive with little or no human input. Self-driving ability is described in levels, from basic driver assistance up to full autonomy. The hardest challenges are safety, rare situations, and unpredictable human behavior on the road.",
+  "example": null,
+  "related": [
+    "computer-vision",
+    "robotics",
+    "object-detection",
+    "reinforcement-learning"
+  ]
+}

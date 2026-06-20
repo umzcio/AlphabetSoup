@@ -1,0 +1,15 @@
+{
+  "slug": "data-privacy",
+  "term": "Data Privacy",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Protecting people's personal information in the data used to train and run AI.",
+  "definition": "Data privacy is about protecting people's personal information in the data used to train and operate AI systems. Concerns include collecting data without consent, models memorizing and leaking private details, and re-identifying individuals. Techniques like anonymization and differential privacy, along with laws like GDPR, aim to reduce these risks.",
+  "example": null,
+  "related": [
+    "differential-privacy",
+    "de-identification",
+    "personally-identifiable-information",
+    "data-governance"
+  ]
+}

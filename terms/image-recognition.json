@@ -1,0 +1,15 @@
+{
+  "slug": "image-recognition",
+  "term": "Image Recognition",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "AI that identifies what appears in an image, such as objects, scenes, or faces.",
+  "definition": "Image recognition is AI that identifies what appears in a picture — objects, scenes, text, or faces — and labels it. It underlies photo search, medical imaging, quality inspection, and content moderation. It is a core part of computer vision and is usually built on neural networks trained on large sets of labeled images.",
+  "example": null,
+  "related": [
+    "computer-vision",
+    "object-detection",
+    "facial-recognition",
+    "clip"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "responsible-ai",
+  "term": "Responsible AI",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Practices for developing and deploying AI safely, fairly, and accountably.",
+  "definition": "Responsible AI is the set of practices for building and deploying AI systems safely, fairly, transparently, and accountably. It turns ethical principles into concrete steps — testing for bias, protecting privacy, documenting limitations, and keeping humans in control of high-stakes decisions. Many organizations adopt responsible-AI policies and tools to manage risk.",
+  "example": null,
+  "related": [
+    "ai-ethics",
+    "fairness",
+    "ai-governance",
+    "ai-impact-assessment"
+  ]
+}

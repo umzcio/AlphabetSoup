@@ -1,0 +1,15 @@
+{
+  "slug": "deepfake",
+  "term": "Deepfake",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "A realistic but fake image, video, or audio clip created or altered by AI.",
+  "definition": "A deepfake is a realistic but fabricated image, video, or audio clip made or altered by AI to show someone saying or doing something they never did. The technology has legitimate uses in film and accessibility, but it also enables convincing misinformation, fraud, and impersonation, which has driven interest in detection and content provenance.",
+  "example": null,
+  "related": [
+    "generative-ai",
+    "diffusion-model",
+    "content-credentials",
+    "provenance"
+  ]
+}

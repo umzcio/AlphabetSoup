@@ -1,0 +1,15 @@
+{
+  "slug": "expert-system",
+  "term": "Expert System",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "An early kind of AI that decides from hand-written rules instead of learning from data.",
+  "definition": "An expert system is an early style of AI that makes decisions by following a large set of hand-written 'if-then' rules, capturing a human expert's knowledge in a narrow field. Popular in the 1980s for tasks like medical diagnosis, expert systems were rigid and hard to maintain, and they were largely overtaken by machine learning.",
+  "example": null,
+  "related": [
+    "artificial-intelligence",
+    "machine-learning",
+    "knowledge-base",
+    "ai-winter"
+  ]
+}

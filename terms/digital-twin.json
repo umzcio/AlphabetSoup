@@ -1,0 +1,15 @@
+{
+  "slug": "digital-twin",
+  "term": "Digital Twin",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A virtual replica of a real object, system, or process used for simulation and monitoring.",
+  "definition": "A digital twin is a virtual replica of a real object, system, or process — a jet engine, a factory, or a city block — kept in sync with live data. Engineers use digital twins to simulate, monitor, and predict behavior without touching the real thing, and AI helps make these models richer and more predictive.",
+  "example": null,
+  "related": [
+    "predictive-analytics",
+    "model-monitoring",
+    "machine-learning",
+    "automation"
+  ]
+}

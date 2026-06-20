@@ -1,0 +1,15 @@
+{
+  "slug": "predictive-analytics",
+  "term": "Predictive Analytics",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Using data and models to forecast likely future outcomes.",
+  "definition": "Predictive analytics uses historical data and statistical or machine-learning models to forecast likely future outcomes — which customers may leave, when a machine may fail, or how demand may shift. It turns past patterns into actionable estimates, and it is one of the most common business uses of AI.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "supervised-learning",
+    "recommendation-system",
+    "concept-drift"
+  ]
+}

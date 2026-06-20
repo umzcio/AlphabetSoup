@@ -1,0 +1,15 @@
+{
+  "slug": "multimodal",
+  "term": "Multimodal",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "AI that works with more than one kind of input or output, such as text, images, and audio.",
+  "definition": "Multimodal AI can take in or produce more than one kind of data — text, images, audio, or video — rather than just one. A multimodal model might describe a photo, answer questions about a chart, or generate an image from a sentence. Combining modalities makes AI more flexible and closer to how people perceive the world.",
+  "example": null,
+  "related": [
+    "multimodal-model",
+    "vision-language-model",
+    "clip",
+    "omni-model"
+  ]
+}

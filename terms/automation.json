@@ -1,0 +1,15 @@
+{
+  "slug": "automation",
+  "term": "Automation",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Using technology to perform tasks with little or no human effort.",
+  "definition": "Automation is using technology to carry out tasks with little or no human effort. AI extends automation beyond fixed, repetitive steps to work that needs perception or judgment — reading documents, answering questions, or handling exceptions. Agentic AI pushes it further by letting software plan and act across multi-step workflows.",
+  "example": null,
+  "related": [
+    "agent",
+    "workflow-automation",
+    "llm",
+    "robotics"
+  ]
+}

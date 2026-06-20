@@ -1,0 +1,15 @@
+{
+  "slug": "ai-winter",
+  "term": "AI Winter",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A past period when AI funding and interest collapsed after hype outran results.",
+  "definition": "An AI winter is a stretch when funding, interest, and progress in AI sharply decline after inflated expectations fail to pan out. There were notable AI winters in the 1970s and late 1980s. The term is a cautionary reference in debates about whether today's AI enthusiasm is sustainable.",
+  "example": null,
+  "related": [
+    "artificial-intelligence",
+    "expert-system",
+    "machine-learning",
+    "agi"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "ai-ethics",
+  "term": "AI Ethics",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The study of how to build and use AI in ways that are fair, safe, and respectful of people.",
+  "definition": "AI ethics is the study of how to develop and use AI in ways that are fair, safe, transparent, and respectful of human rights. It covers bias, privacy, accountability, misuse, and effects on jobs and society. The goal is to weigh benefits against harms and guide responsible choices, not just what is technically possible.",
+  "example": null,
+  "related": [
+    "responsible-ai",
+    "fairness",
+    "bias",
+    "ai-governance"
+  ]
+}

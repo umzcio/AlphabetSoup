@@ -1,0 +1,15 @@
+{
+  "slug": "model",
+  "term": "Model",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A trained program that turns input into output — answering a question or labeling an image.",
+  "definition": "In AI, a model is a program whose behavior is learned from data rather than hand-written. After training, it takes an input — text, an image, a sound — and produces an output such as an answer, a label, or a prediction. 'Model' is the general word for the thing you actually run, from a small classifier to a large language model.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "neural-network",
+    "llm",
+    "training"
+  ]
+}

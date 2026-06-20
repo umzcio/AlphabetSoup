@@ -1,0 +1,15 @@
+{
+  "slug": "knowledge-base",
+  "term": "Knowledge Base",
+  "acronym": null,
+  "category": "Data",
+  "short": "An organized store of facts and documents a system can look things up in.",
+  "definition": "A knowledge base is an organized store of facts, rules, or documents that a system can search or reason over. In AI, knowledge bases ground answers in trusted information — for example, a company's policies feeding a support chatbot — and they are a common ingredient in retrieval-based systems.",
+  "example": null,
+  "related": [
+    "knowledge-graph",
+    "rag",
+    "vector-database",
+    "grounding"
+  ]
+}

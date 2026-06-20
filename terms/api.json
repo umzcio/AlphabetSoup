@@ -1,0 +1,15 @@
+{
+  "slug": "api",
+  "term": "API",
+  "acronym": "Application Programming Interface",
+  "category": "Frameworks & Tools",
+  "short": "A standard way for one piece of software to request services or data from another.",
+  "definition": "An API (application programming interface) is a defined way for one program to request services or data from another. With AI, developers call a model's API to send a prompt and get a response, so they can add AI features to an app without hosting the model themselves. It is the main way AI gets built into products.",
+  "example": null,
+  "related": [
+    "responses-api",
+    "sdk",
+    "tool-calling",
+    "llm"
+  ]
+}

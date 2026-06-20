@@ -1,0 +1,15 @@
+{
+  "slug": "telemetry",
+  "term": "Telemetry",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Automatically collected data about how a system is running and being used.",
+  "definition": "Telemetry is data automatically collected from a running system about its performance, usage, and errors, then sent back for analysis. For AI products, telemetry tracks things like response times, costs, failures, and how people use features. It is the raw material for monitoring, debugging, and improving a deployed system.",
+  "example": null,
+  "related": [
+    "model-monitoring",
+    "llmops",
+    "concept-drift",
+    "evaluation"
+  ]
+}
