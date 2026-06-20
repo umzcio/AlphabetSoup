@@ -54,6 +54,13 @@ Use one of these exactly (see [`categories.json`](categories.json)):
 - Patterns
 - Prompting
 - Hardware & Systems
+- Organizations
+- Models & Products
+- Frameworks & Tools
+- Safety & Alignment
+- Evaluation
+- Multimodal
+- Data
 
 If a term genuinely doesn't fit any category, propose a new one in your PR description and we'll discuss it.
 
