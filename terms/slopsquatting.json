@@ -1,0 +1,15 @@
+{
+  "slug": "slopsquatting",
+  "term": "Slopsquatting",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Registering fake software packages whose names AI coding tools tend to invent.",
+  "definition": "Slopsquatting is a software supply-chain attack that exploits AI coding tools inventing package names that do not exist. An attacker registers that made-up name and publishes malicious code under it, so a developer who trusts the AI's suggestion installs the attacker's package by mistake.",
+  "example": null,
+  "related": [
+    "package-hallucination",
+    "hallucination",
+    "malicious-mcp-server",
+    "code-generation"
+  ]
+}

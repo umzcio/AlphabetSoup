@@ -1,0 +1,15 @@
+{
+  "slug": "systemic-risk-model",
+  "term": "Systemic Risk Model",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A model powerful enough that its capabilities or scale could create broad societal risks.",
+  "definition": "A systemic risk model is a powerful general-purpose model whose abilities or scale of deployment could create risks reaching across society — markets, security, or critical infrastructure. The term shows up in policy debates about frontier models and the wide downstream harm they could enable.",
+  "example": null,
+  "related": [
+    "frontier-model",
+    "gpai",
+    "ai-safety",
+    "ai-governance"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "vibe-coding",
+  "term": "Vibe Coding",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Building software by steering an AI coding assistant in plain language instead of writing every line.",
+  "definition": "Vibe coding is a way of building software where a person describes what they want in plain language and lets an AI coding assistant generate, revise, and debug most of the code. The human guides the work through intent, testing, and judgment rather than typing out every line.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "agent",
+    "claude-code",
+    "code-generation"
+  ]
+}

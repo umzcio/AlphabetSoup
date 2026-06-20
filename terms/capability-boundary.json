@@ -1,0 +1,15 @@
+{
+  "slug": "capability-boundary",
+  "term": "Capability Boundary",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A defined limit on what an AI system is allowed or able to do.",
+  "definition": "A capability boundary is a deliberate limit on what an AI system is allowed or able to do. Boundaries can be technical, policy-based, or built into a workflow, and they help stop a system from quietly expanding its reach beyond its intended job.",
+  "example": null,
+  "related": [
+    "agent-permissioning",
+    "guardrails",
+    "agent-sandbox",
+    "ai-safety"
+  ]
+}

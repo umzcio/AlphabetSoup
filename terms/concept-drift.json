@@ -1,0 +1,15 @@
+{
+  "slug": "concept-drift",
+  "term": "Concept Drift",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "When the data a model sees in production changes over time, eroding its accuracy.",
+  "definition": "Concept drift is when the relationship between inputs and the right outputs shifts after a model is deployed, so its predictions slowly get worse. Real-world patterns change — tastes, prices, behavior — and detecting and adapting to that drift is a core challenge of keeping production AI accurate.",
+  "example": null,
+  "related": [
+    "model-monitoring",
+    "evaluation",
+    "generalization",
+    "dataset"
+  ]
+}

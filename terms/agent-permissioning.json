@@ -1,0 +1,15 @@
+{
+  "slug": "agent-permissioning",
+  "term": "Agent Permissioning",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Giving an AI agent only the permissions it needs for the task at hand.",
+  "definition": "Agent permissioning is the practice of granting an AI agent only the access it needs for a given task, and no more. Good permissioning keeps sensitive data out of reach, asks for approval before risky actions, and avoids handing the agent broad powers by default.",
+  "example": null,
+  "related": [
+    "agent",
+    "agent-sandbox",
+    "delegated-authority",
+    "action-confirmation"
+  ]
+}

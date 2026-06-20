@@ -1,0 +1,15 @@
+{
+  "slug": "deep-research",
+  "term": "Deep Research",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An AI workflow that searches many sources, reads and compares them, and writes a cited report.",
+  "definition": "Deep research is an AI workflow where the system performs many steps of research across multiple sources, then synthesizes what it finds into a cited report. It is more involved than a normal chatbot answer because it plans, searches, reads, compares, and summarizes before responding, which takes longer but covers more ground.",
+  "example": null,
+  "related": [
+    "agent",
+    "rag",
+    "citation",
+    "reasoning-model"
+  ]
+}

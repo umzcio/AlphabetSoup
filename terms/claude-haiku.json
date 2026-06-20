@@ -1,0 +1,15 @@
+{
+  "slug": "claude-haiku",
+  "term": "Claude Haiku",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Anthropic's fastest, most compact Claude tier, built for speed and low cost.",
+  "definition": "Claude Haiku is the fastest and most compact tier of Anthropic's Claude models. It trades some depth for low latency and low cost, which suits high-volume, simple, or near-real-time tasks. It sits below the Sonnet and Opus tiers in raw capability.",
+  "example": null,
+  "related": [
+    "claude",
+    "claude-sonnet",
+    "claude-opus",
+    "anthropic"
+  ]
+}

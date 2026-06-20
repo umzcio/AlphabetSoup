@@ -1,0 +1,15 @@
+{
+  "slug": "mcp-client",
+  "term": "MCP Client",
+  "acronym": "Model Context Protocol Client",
+  "category": "Frameworks & Tools",
+  "short": "The part of an AI app that connects out to MCP servers and requests their tools.",
+  "definition": "An MCP client is the piece of an AI application that connects to MCP servers and asks for their tools or data. It acts as the bridge between the environment running the model and the outside capabilities those servers provide.",
+  "example": null,
+  "related": [
+    "mcp",
+    "mcp-server",
+    "mcp-host",
+    "tool-calling"
+  ]
+}

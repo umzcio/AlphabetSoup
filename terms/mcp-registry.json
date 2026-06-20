@@ -1,0 +1,15 @@
+{
+  "slug": "mcp-registry",
+  "term": "MCP Registry",
+  "acronym": "Model Context Protocol Registry",
+  "category": "Frameworks & Tools",
+  "short": "A directory or marketplace for discovering MCP servers.",
+  "definition": "An MCP registry is a directory or marketplace where people can find MCP servers to add to their AI apps. A registry makes adoption easier, but it also raises trust and security questions, since a listed server could be low quality or malicious.",
+  "example": null,
+  "related": [
+    "mcp",
+    "mcp-server",
+    "malicious-mcp-server",
+    "tool-poisoning"
+  ]
+}

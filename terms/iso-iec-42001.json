@@ -1,0 +1,15 @@
+{
+  "slug": "iso-iec-42001",
+  "term": "ISO/IEC 42001",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An international standard for AI management systems.",
+  "definition": "ISO/IEC 42001 is an international standard for setting up, maintaining, and improving an AI management system. It gives organizations a certifiable structure for governing AI risks and responsibilities, similar to how older standards govern quality or information security.",
+  "example": null,
+  "related": [
+    "ai-management-system",
+    "ai-governance",
+    "conformity-assessment",
+    "nist-ai-rmf"
+  ]
+}

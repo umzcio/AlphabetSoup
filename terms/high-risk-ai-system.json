@@ -1,0 +1,15 @@
+{
+  "slug": "high-risk-ai-system",
+  "term": "High-Risk AI System",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An AI system used where mistakes could seriously affect people's rights or safety.",
+  "definition": "A high-risk AI system is one used in a consequential setting — affecting people's safety, rights, jobs, education, or access to services — where errors or misuse could cause real harm. Such systems typically require stronger oversight, documentation, testing, and risk management before and during use.",
+  "example": null,
+  "related": [
+    "eu-ai-act",
+    "ai-impact-assessment",
+    "conformity-assessment",
+    "ai-governance"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "swe-bench-verified",
+  "term": "SWE-bench Verified",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A human-checked subset of SWE-bench for more reliable evaluation of AI coding agents.",
+  "definition": "SWE-bench Verified is a human-validated subset of SWE-bench, the benchmark where AI systems must fix real software issues drawn from open-source projects. The Verified subset was filtered by people to remove unclear or unsolvable cases, giving a cleaner, more trustworthy measure of coding-agent skill.",
+  "example": null,
+  "related": [
+    "swe-bench",
+    "benchmark",
+    "agent",
+    "code-generation"
+  ]
+}

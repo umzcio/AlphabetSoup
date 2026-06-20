@@ -1,0 +1,15 @@
+{
+  "slug": "gaia-benchmark",
+  "term": "GAIA",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A benchmark for general AI assistants on realistic, multi-step tasks needing tools.",
+  "definition": "GAIA is a benchmark for general-purpose AI assistants built around practical, open-ended tasks that people can solve but that require web browsing, tool use, and several reasoning steps. It is designed to track progress toward genuinely useful everyday assistants.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "agent",
+    "evaluation",
+    "tool-calling"
+  ]
+}

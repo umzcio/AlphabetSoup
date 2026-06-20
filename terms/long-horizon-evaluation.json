@@ -1,0 +1,15 @@
+{
+  "slug": "long-horizon-evaluation",
+  "term": "Long-Horizon Evaluation",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Testing AI agents on long tasks that need many steps and sustained coherence.",
+  "definition": "Long-horizon evaluation measures how well an agent handles tasks that stretch across many steps — staying on goal, recovering from errors, managing memory, and making sensible decisions over dozens or hundreds of actions. It matters most for real deployments, where work rarely finishes in a single step.",
+  "example": null,
+  "related": [
+    "agent-benchmark",
+    "agent",
+    "evaluation",
+    "benchmark"
+  ]
+}

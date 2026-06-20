@@ -1,0 +1,15 @@
+{
+  "slug": "agents-sdk",
+  "term": "Agents SDK",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A software toolkit for building and coordinating AI agents.",
+  "definition": "An Agents SDK (software development kit) is a toolkit for building, coordinating, tracing, and testing AI agents. It usually provides ready-made building blocks for tools, handoffs between agents, guardrails, memory, and multi-agent workflows, so developers do not have to wire all of that up from scratch.",
+  "example": null,
+  "related": [
+    "agent",
+    "responses-api",
+    "tool-calling",
+    "multi-agent-system"
+  ]
+}

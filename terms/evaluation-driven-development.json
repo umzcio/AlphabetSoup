@@ -1,0 +1,15 @@
+{
+  "slug": "evaluation-driven-development",
+  "term": "Evaluation-Driven Development",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Building AI products by letting rigorous, automated tests guide every change.",
+  "definition": "Evaluation-driven development is an approach where carefully built evaluations — automated tests of quality, safety, and accuracy — are the main feedback loop for improving a model or agent. Teams write strong test suites early and run them continuously to measure progress and catch regressions before users do.",
+  "example": null,
+  "related": [
+    "evaluation",
+    "benchmark",
+    "model-monitoring",
+    "llmops"
+  ]
+}

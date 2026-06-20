@@ -1,0 +1,15 @@
+{
+  "slug": "jailbreak-taxonomy",
+  "term": "Jailbreak Taxonomy",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A classification of the techniques people use to get a model to bypass its safety rules.",
+  "definition": "A jailbreak taxonomy is an organized classification of the ways people try to make a model ignore its safety training — grouped by technique, goal, and how they succeed. Mapping the landscape this way helps researchers understand the threats and build sturdier defenses.",
+  "example": null,
+  "related": [
+    "jailbreak",
+    "red-teaming",
+    "prompt-injection",
+    "guardrails"
+  ]
+}

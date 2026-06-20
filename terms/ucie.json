@@ -1,0 +1,15 @@
+{
+  "slug": "ucie",
+  "term": "UCIe",
+  "acronym": "Universal Chiplet Interconnect Express",
+  "category": "Hardware & Systems",
+  "short": "An open standard for high-speed communication between chiplets inside one chip package.",
+  "definition": "UCIe (Universal Chiplet Interconnect Express) is an industry standard for connecting multiple small chips, called chiplets, inside a single package. It lets designers mix and match parts — even from different vendors — into one processor, which speeds up innovation in AI accelerators and other advanced chips.",
+  "example": null,
+  "related": [
+    "interconnect",
+    "gpu",
+    "blackwell",
+    "nvlink"
+  ]
+}

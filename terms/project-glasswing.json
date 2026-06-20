@@ -1,0 +1,15 @@
+{
+  "slug": "project-glasswing",
+  "term": "Project Glasswing",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An Anthropic-led coalition using frontier AI to find and fix critical software security flaws.",
+  "definition": "Project Glasswing is an Anthropic-led coalition, announced in 2026, that uses frontier AI for defensive cybersecurity — finding and patching vulnerabilities in critical software before attackers can exploit them. Its members include major technology, hardware, and security companies, and it runs on a restricted Claude Mythos model offered to organizations that protect critical infrastructure.",
+  "example": null,
+  "related": [
+    "anthropic",
+    "claude-mythos",
+    "ai-safety",
+    "red-teaming"
+  ]
+}

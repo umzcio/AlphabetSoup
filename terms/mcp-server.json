@@ -1,0 +1,15 @@
+{
+  "slug": "mcp-server",
+  "term": "MCP Server",
+  "acronym": "Model Context Protocol Server",
+  "category": "Frameworks & Tools",
+  "short": "A server that exposes tools, data, or prompts to AI apps through the Model Context Protocol.",
+  "definition": "An MCP server is a program that offers tools, data, prompts, or other resources to AI applications through the Model Context Protocol (MCP), a shared standard for connecting models to outside systems. It lets an AI app plug into a service through one common interface instead of a custom integration for each one.",
+  "example": null,
+  "related": [
+    "mcp",
+    "mcp-client",
+    "mcp-host",
+    "tool-calling"
+  ]
+}

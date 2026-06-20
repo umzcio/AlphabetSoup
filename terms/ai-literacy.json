@@ -1,0 +1,15 @@
+{
+  "slug": "ai-literacy",
+  "term": "AI Literacy",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The practical ability to understand AI systems and use them responsibly.",
+  "definition": "AI literacy is a working understanding of what AI systems can and cannot do, where they tend to fail, and how to use them responsibly. It includes practical awareness of bias, hallucination, privacy, security, and when a human should stay in the loop.",
+  "example": null,
+  "related": [
+    "ai-governance",
+    "hallucination",
+    "human-in-the-loop",
+    "ai-safety"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "browsergym",
+  "term": "BrowserGym",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A framework and benchmark for building and testing browser-based AI agents.",
+  "definition": "BrowserGym is a framework and benchmark for building and evaluating AI agents that operate a web browser. It offers a standardized environment so different agents can be compared fairly across web tasks and browser settings.",
+  "example": null,
+  "related": [
+    "webarena",
+    "agent",
+    "benchmark",
+    "tool-calling"
+  ]
+}

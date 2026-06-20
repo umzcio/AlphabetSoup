@@ -1,0 +1,15 @@
+{
+  "slug": "long-context-modeling",
+  "term": "Long-Context Modeling",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "Techniques that let a model actually use and reason over very long inputs.",
+  "definition": "Long-context modeling covers the architecture changes, training methods, and serving tricks that help a model stay coherent and find the right details across very long inputs — big documents, whole codebases, or long chat histories. It goes beyond simply enlarging the context window to fixing the attention, memory, and retrieval problems that appear at that scale.",
+  "example": null,
+  "related": [
+    "context-window",
+    "context-extension",
+    "attention",
+    "kv-cache"
+  ]
+}

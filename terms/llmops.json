@@ -1,0 +1,15 @@
+{
+  "slug": "llmops",
+  "term": "LLMOps",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "The tools and practices for deploying, monitoring, and maintaining language models in production.",
+  "definition": "LLMOps is the set of tools and practices for running large language models in production — managing prompts, evaluation pipelines, cost, safety monitoring, and versioning, and coping with the fact that outputs vary run to run. It extends traditional MLOps (the equivalent discipline for machine-learning systems) to the quirks of language models.",
+  "example": null,
+  "related": [
+    "model-monitoring",
+    "evaluation",
+    "prompt-engineering",
+    "guardrails"
+  ]
+}

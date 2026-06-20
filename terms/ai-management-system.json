@@ -1,0 +1,15 @@
+{
+  "slug": "ai-management-system",
+  "term": "AI Management System",
+  "acronym": "AIMS",
+  "category": "Safety & Alignment",
+  "short": "An organization-wide system for governing AI policies, risks, roles, and controls.",
+  "definition": "An AI management system (AIMS) is an organization-wide setup for governing AI — its policies, roles, risks, controls, monitoring, and ongoing improvement. It gives leaders a repeatable structure for developing, buying, and using AI responsibly rather than handling each project ad hoc.",
+  "example": null,
+  "related": [
+    "iso-iec-42001",
+    "ai-governance",
+    "ai-impact-assessment",
+    "nist-ai-rmf"
+  ]
+}

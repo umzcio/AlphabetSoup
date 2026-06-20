@@ -1,0 +1,15 @@
+{
+  "slug": "claude-sonnet",
+  "term": "Claude Sonnet",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Anthropic's balanced, widely used mid-tier Claude model.",
+  "definition": "Claude Sonnet is the balanced, middle tier of Anthropic's Claude family, sitting between the lightweight Haiku and the more capable Opus. It aims for a strong mix of capability, speed, and cost, which has made it a common default for everyday assistant use and coding.",
+  "example": null,
+  "related": [
+    "claude",
+    "claude-haiku",
+    "claude-opus",
+    "claude-code"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "tool-poisoning",
+  "term": "Tool Poisoning",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Tampering with a tool or its description so an AI agent behaves unsafely.",
+  "definition": "Tool poisoning is an attack where a tool, plugin, or its description is tampered with so an AI agent behaves unsafely or leaks information. The risk is that the model may treat malicious tool descriptions or outputs as trusted instructions and act on them.",
+  "example": null,
+  "related": [
+    "prompt-injection",
+    "indirect-prompt-injection",
+    "mcp-server",
+    "agent"
+  ]
+}

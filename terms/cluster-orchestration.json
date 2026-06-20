@@ -1,0 +1,15 @@
+{
+  "slug": "cluster-orchestration",
+  "term": "AI Cluster Orchestration",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "The software that schedules and manages AI workloads across large GPU clusters.",
+  "definition": "AI cluster orchestration is the software that schedules jobs, allocates resources, recovers from failures, and keeps thousands of GPUs busy in a large cluster. It blends traditional high-performance-computing schedulers with cloud-style tools and AI-specific tuning to use expensive hardware efficiently.",
+  "example": null,
+  "related": [
+    "cluster",
+    "datacenter",
+    "distributed-training",
+    "gpu"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "computer-use",
+  "term": "Computer Use",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An AI system operating a computer by seeing the screen and clicking, typing, and scrolling like a person.",
+  "definition": "Computer use is the ability of an AI system to operate a computer the way a person does — seeing the screen, then clicking, typing, scrolling, and opening apps. It lets a model act through normal on-screen interfaces instead of relying only on a programmer's API connection, so it can use tools that were built for humans.",
+  "example": null,
+  "related": [
+    "agent",
+    "tool-calling",
+    "vision-language-model",
+    "osworld"
+  ]
+}

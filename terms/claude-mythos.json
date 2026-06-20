@@ -1,0 +1,15 @@
+{
+  "slug": "claude-mythos",
+  "term": "Claude Mythos",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Anthropic's most capable, restricted frontier Claude tier, limited to approved organizations.",
+  "definition": "Claude Mythos is Anthropic's most capable tier of Claude models, sitting above Opus. Access is restricted to pre-approved organizations working on critical infrastructure, while the public Claude Fable shares the same underlying model. Mythos was first offered through Project Glasswing to help find and fix software vulnerabilities.",
+  "example": null,
+  "related": [
+    "claude",
+    "claude-fable",
+    "claude-opus",
+    "project-glasswing"
+  ]
+}

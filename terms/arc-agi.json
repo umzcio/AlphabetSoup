@@ -1,0 +1,15 @@
+{
+  "slug": "arc-agi",
+  "term": "ARC-AGI",
+  "acronym": "Abstraction and Reasoning Corpus",
+  "category": "Evaluation",
+  "short": "A visual puzzle benchmark testing whether AI can infer a rule from a few examples.",
+  "definition": "ARC-AGI is a reasoning benchmark built from small visual puzzles. A model sees a few before-and-after examples, must work out the abstract rule behind them, and apply it to a new case. It targets flexible reasoning rather than memorized facts, and it has been notably hard for AI. (Distinct from the unrelated ARC science-question benchmark.)",
+  "example": null,
+  "related": [
+    "benchmark",
+    "reasoning-model",
+    "generalization",
+    "evaluation"
+  ]
+}

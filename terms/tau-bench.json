@@ -1,0 +1,15 @@
+{
+  "slug": "tau-bench",
+  "term": "Tau-bench",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A benchmark for tool-using agents in realistic customer-service-style scenarios.",
+  "definition": "Tau-bench is a benchmark for evaluating tool-using agents in realistic, interactive scenarios. It checks whether an agent can follow domain rules, use the right tools, hold a conversation with a simulated user, and end in the correct final state — closer to real work than a single-shot question.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "agent",
+    "tool-calling",
+    "agent-benchmark"
+  ]
+}

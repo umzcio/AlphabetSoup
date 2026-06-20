@@ -1,0 +1,15 @@
+{
+  "slug": "data-attribution",
+  "term": "Data Attribution",
+  "acronym": null,
+  "category": "Data",
+  "short": "Tracing a model's output or behavior back to the training examples that most shaped it.",
+  "definition": "Data attribution is a set of techniques for figuring out which training examples most influenced a model's particular output or skill. It helps explain why a model behaves as it does, supports copyright and privacy questions, and points to which data is worth improving.",
+  "example": null,
+  "related": [
+    "pretraining-corpus",
+    "data-curation",
+    "interpretability",
+    "dataset-datasheet"
+  ]
+}

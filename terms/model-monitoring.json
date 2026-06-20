@@ -1,0 +1,15 @@
+{
+  "slug": "model-monitoring",
+  "term": "Model Monitoring",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Ongoing tracking of a deployed model's quality, cost, safety, and behavior.",
+  "definition": "Model monitoring is the ongoing tracking of a deployed model's accuracy, latency, cost, safety violations, and drift in the data it sees. It is essential for keeping an AI system reliable and responsible over time, since performance can quietly degrade after launch.",
+  "example": null,
+  "related": [
+    "concept-drift",
+    "evaluation",
+    "llmops",
+    "hallucination"
+  ]
+}

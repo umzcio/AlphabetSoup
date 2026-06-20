@@ -1,0 +1,15 @@
+{
+  "slug": "code-generation",
+  "term": "Code Generation",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Using an AI model to write, complete, or translate software code from a description or context.",
+  "definition": "Code generation is the use of an AI model to write, complete, translate, or refactor software code from a natural-language description or surrounding context. It powers coding assistants and agents, speeding up routine work, though the output still needs human review for correctness and security.",
+  "example": null,
+  "related": [
+    "vibe-coding",
+    "agent",
+    "swe-bench",
+    "llm"
+  ]
+}

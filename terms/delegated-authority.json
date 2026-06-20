@@ -1,0 +1,15 @@
+{
+  "slug": "delegated-authority",
+  "term": "Delegated Authority",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "The permission a person gives an AI agent to act on their behalf — ideally limited and revocable.",
+  "definition": "Delegated authority is the permission a person or organization grants an AI agent to act for them. To stay safe it should be explicit, limited in scope, easy to revoke, and traceable, so the agent cannot quietly exceed what it was actually allowed to do.",
+  "example": null,
+  "related": [
+    "agent",
+    "agent-permissioning",
+    "agentic-commerce",
+    "action-confirmation"
+  ]
+}

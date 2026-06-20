@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-commerce",
+  "term": "Agentic Commerce",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Online shopping where AI agents help search, compare, buy, track, or return products.",
+  "definition": "Agentic commerce is online commerce in which AI agents help people search, compare, negotiate, buy, track, or return goods and services. The shift is from a person clicking through every step themselves to an agent completing parts of the shopping for them, under rules the person sets.",
+  "example": null,
+  "related": [
+    "agent",
+    "agent-payments-protocol",
+    "delegated-authority",
+    "tool-calling"
+  ]
+}

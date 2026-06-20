@@ -1,0 +1,15 @@
+{
+  "slug": "gpqa-diamond",
+  "term": "GPQA Diamond",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "The hardest subset of the GPQA graduate-level science benchmark.",
+  "definition": "GPQA Diamond is the hardest subset of GPQA, a science question-answering benchmark written by experts to be tough even with web access. The Diamond questions test advanced reasoning in fields like biology, physics, and chemistry, and are used to separate the strongest models.",
+  "example": null,
+  "related": [
+    "gpqa",
+    "benchmark",
+    "reasoning-model",
+    "evaluation"
+  ]
+}

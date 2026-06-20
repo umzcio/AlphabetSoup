@@ -1,0 +1,15 @@
+{
+  "slug": "action-confirmation",
+  "term": "Action Confirmation",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A human approval step before an AI agent does something consequential.",
+  "definition": "Action confirmation is a human approval step required before an AI agent takes a consequential action — sending an email, deleting files, spending money, or changing records. It is a simple, practical guardrail that catches accidental or unauthorized actions before they happen.",
+  "example": null,
+  "related": [
+    "human-in-the-loop",
+    "agent-permissioning",
+    "delegated-authority",
+    "guardrails"
+  ]
+}

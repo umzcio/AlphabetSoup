@@ -1,0 +1,15 @@
+{
+  "slug": "conformity-assessment",
+  "term": "Conformity Assessment",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A formal check that an AI system meets the required rules or standards.",
+  "definition": "A conformity assessment is a formal process for checking whether an AI system meets the rules, standards, or technical obligations it is held to before or during use. It can include reviewing documentation, testing the system, analyzing risks, and showing that the right controls are actually in place.",
+  "example": null,
+  "related": [
+    "eu-ai-act",
+    "high-risk-ai-system",
+    "ai-impact-assessment",
+    "ai-governance"
+  ]
+}

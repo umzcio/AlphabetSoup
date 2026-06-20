@@ -1,0 +1,15 @@
+{
+  "slug": "simpleqa",
+  "term": "SimpleQA",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A factual question benchmark for measuring accuracy and hallucination.",
+  "definition": "SimpleQA is a benchmark of short, fact-based questions that measures whether a model answers accurately and resists guessing when it does not know. It is useful for gauging hallucination — confident wrong answers — and overall factual reliability.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "hallucination",
+    "grounding",
+    "evaluation"
+  ]
+}

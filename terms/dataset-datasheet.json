@@ -1,0 +1,15 @@
+{
+  "slug": "dataset-datasheet",
+  "term": "Dataset Datasheet",
+  "acronym": null,
+  "category": "Data",
+  "short": "Standardized documentation describing a dataset's contents, origins, limits, and intended uses.",
+  "definition": "A dataset datasheet is standardized documentation that describes how a dataset was built, what it contains, its known biases and limits, and what it should and should not be used for. Datasheets are a core habit of responsible data stewardship, making datasets easier to reuse safely.",
+  "example": null,
+  "related": [
+    "data-curation",
+    "dataset",
+    "data-governance",
+    "data-attribution"
+  ]
+}

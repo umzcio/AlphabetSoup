@@ -1,0 +1,15 @@
+{
+  "slug": "agent-card",
+  "term": "Agent Card",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A structured profile describing what an AI agent can do and how to connect to it.",
+  "definition": "An agent card is a structured profile of an AI agent's identity, abilities, connection details, and login requirements. In systems where agents talk to each other, an agent card lets one agent discover what another can do and how to reach it — much like a business card for software.",
+  "example": null,
+  "related": [
+    "a2a",
+    "agent",
+    "multi-agent-system",
+    "tool-calling"
+  ]
+}

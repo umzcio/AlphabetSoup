@@ -1,0 +1,15 @@
+{
+  "slug": "ai-slop",
+  "term": "AI Slop",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Low-quality, mass-produced AI-generated content that clutters feeds, search results, and inboxes.",
+  "definition": "AI slop is low-quality, mass-produced AI-generated content that clutters search results, social feeds, websites, and inboxes. It is cheap to churn out and weakly checked, optimized for volume rather than accuracy or usefulness, and it makes finding trustworthy information harder.",
+  "example": null,
+  "related": [
+    "hallucination",
+    "content-credentials",
+    "provenance",
+    "generative-ai"
+  ]
+}

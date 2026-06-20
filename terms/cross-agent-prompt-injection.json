@@ -1,0 +1,15 @@
+{
+  "slug": "cross-agent-prompt-injection",
+  "term": "Cross-Agent Prompt Injection",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A prompt-injection attack that spreads from one AI agent to another.",
+  "definition": "Cross-agent prompt injection is a prompt-injection attack that travels from one agent to another through shared messages, files, tool outputs, or handed-off tasks. It matters more as multi-agent systems pass context around automatically, letting a single hidden instruction reach agents that never saw the original input.",
+  "example": null,
+  "related": [
+    "prompt-injection",
+    "indirect-prompt-injection",
+    "multi-agent-system",
+    "agent"
+  ]
+}

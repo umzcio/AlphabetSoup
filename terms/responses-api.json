@@ -1,0 +1,15 @@
+{
+  "slug": "responses-api",
+  "term": "Responses API",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An API design where a model can use tools and take actions before producing its answer.",
+  "definition": "A Responses API is a style of programming interface for building AI apps in which the model can use tools — web search, file search, function calls, or computer actions — while forming its response. It is aimed at agent-like applications where the model may need to do some work before it answers.",
+  "example": null,
+  "related": [
+    "agents-sdk",
+    "tool-calling",
+    "function-calling",
+    "agent"
+  ]
+}

@@ -3,13 +3,13 @@
   "term": "Claude Opus",
   "acronym": null,
   "category": "Models & Products",
-  "short": "The highest-capability tier in Anthropic's Claude model family.",
-  "definition": "Claude Opus is the highest-capability tier within Anthropic's Claude family, positioned for the most demanding tasks that need deep reasoning, careful instruction following, and complex analysis. Within each generation, Opus models are typically slower and more expensive per token than the Sonnet and Haiku tiers, in exchange for stronger results on the hardest problems.",
+  "short": "Anthropic's most capable core Claude tier, for the hardest reasoning and coding.",
+  "definition": "Claude Opus is the most capable tier in Anthropic's main Claude lineup of Haiku, Sonnet, and Opus, aimed at demanding reasoning, analysis, and coding where quality matters more than speed or cost. Anthropic's frontier Fable and Mythos models sit above it.",
   "example": null,
   "related": [
     "claude",
-    "anthropic",
-    "claude-3-5",
-    "reasoning-model"
+    "claude-sonnet",
+    "claude-fable",
+    "anthropic"
   ]
 }

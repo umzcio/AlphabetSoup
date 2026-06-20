@@ -1,0 +1,15 @@
+{
+  "slug": "project-stargate",
+  "term": "Project Stargate",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A massive U.S. AI data-center buildout led by OpenAI with SoftBank, Oracle, and MGX.",
+  "definition": "Project Stargate is a large-scale initiative, announced in 2025, to build AI data-center capacity across the United States, led by OpenAI with partners including SoftBank, Oracle, and MGX. It targets hundreds of billions of dollars of investment and many gigawatts of computing power to meet surging demand for training and running AI. Figures and sites keep changing, so verify before publishing.",
+  "example": null,
+  "related": [
+    "openai",
+    "datacenter",
+    "cluster",
+    "nvidia"
+  ]
+}

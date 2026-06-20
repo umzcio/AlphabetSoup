@@ -1,0 +1,15 @@
+{
+  "slug": "malicious-mcp-server",
+  "term": "Malicious MCP Server",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An MCP server built or hijacked to steal data, mislead an agent, or inject harmful instructions.",
+  "definition": "A malicious MCP server is one that has been built or compromised to steal data, mislead an agent, change how its tools behave, or slip in harmful instructions. Because agents tend to trust the tools they connect to, it is a supply-chain risk — a danger that enters through a component you depend on.",
+  "example": null,
+  "related": [
+    "mcp-server",
+    "tool-poisoning",
+    "prompt-injection",
+    "agent-sandbox"
+  ]
+}

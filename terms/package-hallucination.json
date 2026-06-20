@@ -1,0 +1,15 @@
+{
+  "slug": "package-hallucination",
+  "term": "Package Hallucination",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When an AI coding assistant invents a software library or dependency that does not exist.",
+  "definition": "Package hallucination is when an AI coding assistant confidently suggests a software package, library, or import that does not actually exist. Beyond wasting a developer's time, it creates a security hole: attackers can publish real malicious packages under those invented names.",
+  "example": null,
+  "related": [
+    "hallucination",
+    "slopsquatting",
+    "agent",
+    "code-generation"
+  ]
+}

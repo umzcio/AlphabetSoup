@@ -1,0 +1,15 @@
+{
+  "slug": "mcp-host",
+  "term": "MCP Host",
+  "acronym": "Model Context Protocol Host",
+  "category": "Frameworks & Tools",
+  "short": "The app environment that runs the model and coordinates its MCP clients and servers.",
+  "definition": "An MCP host is the application environment that runs or manages an AI model and coordinates its use of MCP clients and servers. Examples include desktop assistants, coding tools, chat apps, or agent platforms — the program the user actually opens.",
+  "example": null,
+  "related": [
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "agent"
+  ]
+}

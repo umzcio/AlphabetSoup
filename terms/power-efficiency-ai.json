@@ -1,0 +1,15 @@
+{
+  "slug": "power-efficiency-ai",
+  "term": "Power Efficiency in AI",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Getting the most useful computation, such as tokens, out of each watt of energy.",
+  "definition": "Power efficiency in AI is about getting the most useful work — for example, tokens generated — out of each watt of energy consumed. It spans chip design, model optimization, serving strategy, and data-center practices, and it matters for both the cost and the environmental impact of training and running models.",
+  "example": null,
+  "related": [
+    "datacenter",
+    "liquid-cooling",
+    "utilization",
+    "gpu"
+  ]
+}

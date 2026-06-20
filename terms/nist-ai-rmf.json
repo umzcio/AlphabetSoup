@@ -1,0 +1,15 @@
+{
+  "slug": "nist-ai-rmf",
+  "term": "NIST AI RMF",
+  "acronym": "AI Risk Management Framework",
+  "category": "Safety & Alignment",
+  "short": "A voluntary U.S. framework for identifying, measuring, and managing AI risk.",
+  "definition": "The NIST AI Risk Management Framework is a voluntary guide from the U.S. National Institute of Standards and Technology for spotting, measuring, managing, and governing AI risks across a system's life. It gives organizations a practical, repeatable way to put trustworthy-AI principles into action.",
+  "example": null,
+  "related": [
+    "ai-governance",
+    "ai-impact-assessment",
+    "ai-safety",
+    "ai-management-system"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "frontiermath",
+  "term": "FrontierMath",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A benchmark of extremely hard math problems for testing advanced AI reasoning.",
+  "definition": "FrontierMath is a benchmark of extremely difficult mathematics problems designed to test advanced reasoning in AI. The problems are hard even for expert mathematicians and are built to resist simple memorization, so strong scores suggest genuine problem-solving.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "evaluation",
+    "reasoning-model",
+    "gpqa"
+  ]
+}

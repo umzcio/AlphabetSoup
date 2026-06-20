@@ -1,0 +1,15 @@
+{
+  "slug": "ai-impact-assessment",
+  "term": "AI Impact Assessment",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A structured review of how an AI system may affect people, rights, and operations.",
+  "definition": "An AI impact assessment is a structured review of how an AI system might affect people, operations, rights, safety, privacy, or fairness. Done before deployment, it surfaces risks early and helps define safeguards, monitoring, and who is accountable if something goes wrong.",
+  "example": null,
+  "related": [
+    "ai-governance",
+    "high-risk-ai-system",
+    "conformity-assessment",
+    "eu-ai-act"
+  ]
+}

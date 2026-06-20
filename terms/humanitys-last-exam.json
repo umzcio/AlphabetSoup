@@ -1,0 +1,15 @@
+{
+  "slug": "humanitys-last-exam",
+  "term": "Humanity's Last Exam",
+  "acronym": "HLE",
+  "category": "Evaluation",
+  "short": "A very hard benchmark of expert-level questions for testing frontier AI.",
+  "definition": "Humanity's Last Exam is a deliberately difficult benchmark of expert-level questions spanning many fields, built to test the most capable AI systems. It aims to measure broad reasoning and knowledge in a range where older benchmarks no longer separate the top models well.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "evaluation",
+    "frontier-model",
+    "reasoning-model"
+  ]
+}

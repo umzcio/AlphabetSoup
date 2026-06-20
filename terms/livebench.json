@@ -1,0 +1,15 @@
+{
+  "slug": "livebench",
+  "term": "LiveBench",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A frequently updated benchmark designed to resist contamination.",
+  "definition": "LiveBench is a benchmark that refreshes its questions often, using recent sources to reduce contamination — the problem of test questions leaking into a model's training data. It scores language models across tasks such as math, coding, reasoning, language, instruction following, and data analysis.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "evaluation",
+    "benchmark-contamination",
+    "reasoning-model"
+  ]
+}

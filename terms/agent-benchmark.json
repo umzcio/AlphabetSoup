@@ -1,0 +1,15 @@
+{
+  "slug": "agent-benchmark",
+  "term": "Agent Benchmarks",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Evaluations built to measure what AI agents can actually accomplish, not just model knowledge.",
+  "definition": "Agent benchmarks are evaluations aimed at agents rather than standalone models. Instead of testing knowledge in one shot, they measure tool use, planning, memory, multi-step execution, and how well an agent holds up in changing environments — closer to real tasks done over time.",
+  "example": null,
+  "related": [
+    "agent",
+    "benchmark",
+    "evaluation",
+    "long-horizon-evaluation"
+  ]
+}

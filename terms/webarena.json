@@ -1,0 +1,15 @@
+{
+  "slug": "webarena",
+  "term": "WebArena",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A benchmark of realistic websites for testing web-browsing AI agents.",
+  "definition": "WebArena is a benchmark made of realistic, self-contained websites — shopping, forums, maps — where an AI agent must navigate pages, fill forms, and finish multi-step tasks. It is widely used to measure how well agents can actually get things done on the web.",
+  "example": null,
+  "related": [
+    "agent",
+    "benchmark",
+    "tool-calling",
+    "browsergym"
+  ]
+}

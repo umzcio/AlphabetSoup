@@ -1,0 +1,15 @@
+{
+  "slug": "mmlu-pro",
+  "term": "MMLU-Pro",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A harder, more reasoning-focused version of the MMLU knowledge benchmark.",
+  "definition": "MMLU-Pro is a tougher version of MMLU, the broad multiple-choice knowledge test. It adds more reasoning-heavy questions and more answer choices, and it was built to tell strong models apart after the original MMLU became too easy to be discriminating.",
+  "example": null,
+  "related": [
+    "mmlu",
+    "benchmark",
+    "evaluation",
+    "reasoning-model"
+  ]
+}

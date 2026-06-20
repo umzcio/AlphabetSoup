@@ -1,0 +1,15 @@
+{
+  "slug": "gpai",
+  "term": "General-Purpose AI",
+  "acronym": "GPAI",
+  "category": "Safety & Alignment",
+  "short": "AI that can be adapted to many tasks rather than built for one narrow job.",
+  "definition": "General-purpose AI (GPAI) is a model or system that can be adapted to many different tasks rather than serving one narrow purpose. In governance frameworks it gets special attention because broad capability can create knock-on risks across the many applications built on top of it.",
+  "example": null,
+  "related": [
+    "foundation-model",
+    "frontier-model",
+    "eu-ai-act",
+    "systemic-risk-model"
+  ]
+}

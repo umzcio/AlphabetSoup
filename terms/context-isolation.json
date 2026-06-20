@@ -1,0 +1,15 @@
+{
+  "slug": "context-isolation",
+  "term": "Context Isolation",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Keeping trusted instructions, user data, tool outputs, and secrets separated from each other.",
+  "definition": "Context isolation is a design practice that keeps different kinds of text — trusted instructions, user data, retrieved content, tool outputs, and secrets — separated so they cannot quietly contaminate one another. It is a key defense against prompt injection, where hidden instructions in untrusted text try to hijack the model.",
+  "example": null,
+  "related": [
+    "prompt-injection",
+    "indirect-prompt-injection",
+    "system-prompt",
+    "tool-poisoning"
+  ]
+}

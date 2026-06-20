@@ -1,0 +1,15 @@
+{
+  "slug": "eu-ai-act",
+  "term": "EU AI Act",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The European Union's risk-based law for regulating AI systems.",
+  "definition": "The EU AI Act is the European Union's law for regulating AI using a risk-based approach: the more risk a use poses, the stricter the rules. It bans a few uses outright, places heavy obligations on high-risk systems, and adds transparency duties for general-purpose AI models.",
+  "example": null,
+  "related": [
+    "ai-governance",
+    "high-risk-ai-system",
+    "gpai",
+    "conformity-assessment"
+  ]
+}

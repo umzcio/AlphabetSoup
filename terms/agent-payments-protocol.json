@@ -1,0 +1,15 @@
+{
+  "slug": "agent-payments-protocol",
+  "term": "Agent Payments Protocol",
+  "acronym": "AP2",
+  "category": "Patterns",
+  "short": "A protocol for letting an AI agent make payments on a user's behalf, with limits and an audit trail.",
+  "definition": "The Agent Payments Protocol is a shared set of rules for authorizing an AI agent to make purchases or payments for a user. It focuses on proving the user actually intended the purchase, capping what the agent may spend, and keeping a checkable record of every transaction.",
+  "example": null,
+  "related": [
+    "agentic-commerce",
+    "agent",
+    "delegated-authority",
+    "action-confirmation"
+  ]
+}

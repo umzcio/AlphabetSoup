@@ -1,0 +1,15 @@
+{
+  "slug": "osworld",
+  "term": "OSWorld",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A benchmark testing AI agents on real desktop computer tasks.",
+  "definition": "OSWorld is a benchmark that tests AI agents on real computer tasks across operating systems and applications. It checks whether a system can use a normal graphical interface — windows, menus, files — to complete open-ended desktop work, which is much harder than answering questions.",
+  "example": null,
+  "related": [
+    "computer-use",
+    "agent",
+    "benchmark",
+    "vision-language-model"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "test-time-scaling",
+  "term": "Test-Time Scaling",
+  "acronym": null,
+  "category": "Training",
+  "short": "Improving results by spending more compute while answering, instead of only by training bigger models.",
+  "definition": "Test-time scaling is the idea of getting better answers by spending extra computation at the moment of use — through longer reasoning chains, multiple tries, or search — rather than only by training a larger model. It marks a shift from 'scale the model' toward 'scale the thinking' at the point of the question.",
+  "example": null,
+  "related": [
+    "test-time-compute",
+    "reasoning-model",
+    "chain-of-thought",
+    "scaling-laws"
+  ]
+}

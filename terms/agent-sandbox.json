@@ -1,0 +1,15 @@
+{
+  "slug": "agent-sandbox",
+  "term": "Agent Sandbox",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A walled-off environment that limits what an AI agent can reach or change.",
+  "definition": "An agent sandbox is a restricted, walled-off environment that limits what an AI agent can touch. By isolating files, passwords, network access, and system-level actions, a sandbox keeps mistakes or attacks from spreading beyond a small, controlled space.",
+  "example": null,
+  "related": [
+    "agent",
+    "agent-permissioning",
+    "capability-boundary",
+    "guardrails"
+  ]
+}
