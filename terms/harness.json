@@ -1,0 +1,15 @@
+{
+  "slug": "harness",
+  "term": "Harness",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "The program wrapped around an AI model — prompts, tools, loop, and checks — that turns it into a working app or agent.",
+  "definition": "A harness is the surrounding program that turns a raw AI model into a usable system. It supplies the prompts, tools, memory, control loop, output parsing, and safety checks the model needs to actually get work done. The same model can behave very differently depending on its harness, which is why much of the progress in AI agents comes from better harnesses, not just new models.",
+  "example": null,
+  "related": [
+    "scaffolding",
+    "loop-engineering",
+    "agent",
+    "tool-calling"
+  ]
+}
