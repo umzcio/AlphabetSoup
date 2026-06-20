@@ -1,6 +1,6 @@
 # AI Alphabet Soup — the dictionary
 
-The open data behind **[AI Alphabet Soup](https://www.perplexity.ai/computer/a/ai-alphabet-soup-h5UZCW6MQN6VcAlWWr4VmA)**: a clear, searchable dictionary of AI terms, written in plain language.
+The open data behind **[AI Alphabet Soup](https://alphabetsoup.ai/)**: a clear, searchable dictionary of AI terms, written in plain language.
 
 Every term swimming in AI's acronym broth — from `skills` and `loop engineering` to `vLLM`, `SGLang`, `TensorRT-LLM`, `CUDA`, and `NIM` — lives here as a small JSON file you can read, search, and contribute to.
 
