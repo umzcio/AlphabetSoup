@@ -1,0 +1,15 @@
+{
+  "slug": "parent-document-retrieval",
+  "term": "Parent-Document Retrieval",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Searching over small chunks but returning the larger parent document for context.",
+  "definition": "Parent-document retrieval indexes small chunks for precise matching but, once a chunk is found, returns its larger parent section or document to the model. This gets the accuracy of small-chunk search with the fuller context of bigger passages.",
+  "example": null,
+  "related": [
+    "rag",
+    "chunking",
+    "contextual-retrieval",
+    "retrieval-model"
+  ]
+}

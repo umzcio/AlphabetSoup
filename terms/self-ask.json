@@ -1,0 +1,15 @@
+{
+  "slug": "self-ask",
+  "term": "Self-Ask",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A prompting method where the model asks and answers its own follow-up questions before responding.",
+  "definition": "Self-ask is a prompting technique where the model explicitly breaks a question into smaller follow-up questions, answers each one, then combines them into a final answer. Making the sub-questions visible improves multi-step reasoning, and it can be paired with a search tool to look up each piece.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "prompt-engineering",
+    "reasoning-model",
+    "react"
+  ]
+}

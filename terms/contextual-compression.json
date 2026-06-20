@@ -1,0 +1,15 @@
+{
+  "slug": "contextual-compression",
+  "term": "Contextual Compression",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Trimming retrieved text down to just the parts relevant to the query before the model reads it.",
+  "definition": "Contextual compression filters or shortens retrieved documents down to only the passages relevant to the query before passing them to the model. Removing irrelevant text saves context space and cost and helps the model focus, improving answers in retrieval-augmented generation.",
+  "example": null,
+  "related": [
+    "rag",
+    "reranking",
+    "prompt-compression",
+    "retrieval-model"
+  ]
+}

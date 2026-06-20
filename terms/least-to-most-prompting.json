@@ -1,0 +1,15 @@
+{
+  "slug": "least-to-most-prompting",
+  "term": "Least-to-Most Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Solving a hard problem by breaking it into easier sub-problems and building up from the simplest.",
+  "definition": "Least-to-most prompting tackles a hard problem by first breaking it into a series of easier sub-problems, then solving them in order from simplest to hardest, using earlier answers to help with later ones. It helps models handle tasks that are too complex to solve in a single step.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "plan-and-solve",
+    "prompt-engineering",
+    "reasoning-model"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "prompt-optimization",
+  "term": "Prompt Optimization",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Systematically improving prompts to get better results, by hand or automatically.",
+  "definition": "Prompt optimization is the systematic process of improving prompts to get better, more reliable results — testing variations, measuring outcomes, and refining wording, examples, and structure. It can be done by hand or automated with tools, and it is central to building dependable AI features.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "automatic-prompt-engineering",
+    "evaluation",
+    "meta-prompting"
+  ]
+}

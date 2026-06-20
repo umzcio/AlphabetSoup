@@ -1,0 +1,15 @@
+{
+  "slug": "chain-of-agents",
+  "term": "Chain-of-Agents",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A pattern where multiple agents each handle part of a long task and pass results down a chain.",
+  "definition": "Chain-of-agents splits a long task — like reading a huge document — across multiple agents that each process a portion and pass a summary to the next, with a final agent producing the answer. It is a way to handle inputs too large for one model's context window.",
+  "example": null,
+  "related": [
+    "multi-agent-system",
+    "long-context-modeling",
+    "agent",
+    "orchestrator-worker"
+  ]
+}

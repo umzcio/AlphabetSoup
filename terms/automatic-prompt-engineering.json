@@ -1,0 +1,15 @@
+{
+  "slug": "automatic-prompt-engineering",
+  "term": "Automatic Prompt Engineering",
+  "acronym": "APE",
+  "category": "Prompting",
+  "short": "Using AI to automatically generate and test prompts to find ones that work best.",
+  "definition": "Automatic prompt engineering (APE) uses a model to generate many candidate prompts, test them against examples, and keep the best performers — automating the trial-and-error a human would otherwise do by hand. It is one approach to prompt optimization.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "prompt-optimization",
+    "meta-prompting",
+    "evaluation"
+  ]
+}

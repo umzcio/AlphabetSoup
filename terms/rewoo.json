@@ -1,0 +1,15 @@
+{
+  "slug": "rewoo",
+  "term": "ReWOO",
+  "acronym": "Reasoning Without Observation",
+  "category": "Patterns",
+  "short": "An agent design that plans all tool calls up front to cut repeated model calls and cost.",
+  "definition": "ReWOO (Reasoning Without Observation) is an agent pattern that separates planning from acting: the model writes a full plan of tool calls in one shot, the tools run, and the results are combined at the end. By avoiding a model call after every step, it lowers cost and latency compared with step-by-step loops like ReAct.",
+  "example": null,
+  "related": [
+    "react",
+    "plan-and-execute",
+    "agent",
+    "tool-calling"
+  ]
+}

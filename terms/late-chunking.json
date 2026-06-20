@@ -1,0 +1,15 @@
+{
+  "slug": "late-chunking",
+  "term": "Late Chunking",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Embedding a whole document first, then splitting it, so each chunk keeps full-document context.",
+  "definition": "Late chunking embeds an entire document before splitting it into chunks, so each chunk's vector reflects the meaning of the whole text rather than the chunk in isolation. This preserves context — like what a pronoun refers to — that ordinary chunk-then-embed pipelines lose.",
+  "example": null,
+  "related": [
+    "chunking",
+    "embedding",
+    "contextual-retrieval",
+    "rag"
+  ]
+}

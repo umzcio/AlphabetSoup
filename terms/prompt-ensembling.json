@@ -1,0 +1,15 @@
+{
+  "slug": "prompt-ensembling",
+  "term": "Prompt Ensembling",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Combining the results of several different prompts to get a more reliable answer.",
+  "definition": "Prompt ensembling runs a task through several different prompts, or several runs of one prompt, and combines the results — by voting or merging — into a single, more reliable answer. Like model ensembles, it smooths out the variability of any one prompt.",
+  "example": null,
+  "related": [
+    "self-consistency",
+    "prompt-engineering",
+    "ensemble-learning",
+    "prompt-optimization"
+  ]
+}

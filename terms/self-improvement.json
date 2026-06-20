@@ -1,0 +1,15 @@
+{
+  "slug": "self-improvement",
+  "term": "Self-Improvement",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Approaches where AI systems get better using their own outputs or feedback, with less human input.",
+  "definition": "Self-improvement refers to approaches where AI systems get better using their own generated data, critiques, or feedback rather than relying solely on new human-labeled data. Examples include training on a model's own best solutions or having models critique and refine each other. It raises both promise and safety questions.",
+  "example": null,
+  "related": [
+    "self-play",
+    "rlaif",
+    "synthetic-data",
+    "self-correction"
+  ]
+}

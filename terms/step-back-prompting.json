@@ -1,0 +1,15 @@
+{
+  "slug": "step-back-prompting",
+  "term": "Step-Back Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Asking the model to first state a general principle before tackling the specific question.",
+  "definition": "Step-back prompting asks the model to 'step back' and identify the general concept or principle behind a question before answering the specifics. Reasoning from the high-level idea first often produces more accurate answers on science and math problems than diving straight in.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "prompt-engineering",
+    "reasoning-model",
+    "generated-knowledge-prompting"
+  ]
+}

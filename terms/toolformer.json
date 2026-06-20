@@ -1,0 +1,15 @@
+{
+  "slug": "toolformer",
+  "term": "Toolformer",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A method that teaches a model when and how to call tools by training on its own examples.",
+  "definition": "Toolformer is a technique for teaching a language model to use external tools — like a calculator, search, or calendar — by having it generate and learn from its own examples of helpful tool calls. It showed that models can learn tool use largely on their own, with little human labeling.",
+  "example": null,
+  "related": [
+    "tool-calling",
+    "function-calling",
+    "agent",
+    "fine-tuning"
+  ]
+}

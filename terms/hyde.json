@@ -1,0 +1,15 @@
+{
+  "slug": "hyde",
+  "term": "HyDE",
+  "acronym": "Hypothetical Document Embeddings",
+  "category": "Patterns",
+  "short": "A retrieval trick: let the model write a fake ideal answer, then search using that.",
+  "definition": "HyDE (Hypothetical Document Embeddings) improves retrieval by first having the model draft a hypothetical answer to the query, then searching for real documents similar to that draft rather than to the bare question. The richer fake answer often matches relevant documents better than the original query.",
+  "example": null,
+  "related": [
+    "rag",
+    "embedding",
+    "retrieval-model",
+    "vector-database"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "semantic-chunking",
+  "term": "Semantic Chunking",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Splitting documents at meaning boundaries instead of fixed sizes.",
+  "definition": "Semantic chunking splits a document into pieces at natural meaning boundaries — where the topic shifts — rather than at fixed character or token counts. Keeping each chunk about a single idea tends to improve retrieval quality in RAG compared with arbitrary splits.",
+  "example": null,
+  "related": [
+    "chunking",
+    "rag",
+    "embedding",
+    "retrieval-model"
+  ]
+}

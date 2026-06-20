@@ -1,0 +1,15 @@
+{
+  "slug": "skeleton-of-thought",
+  "term": "Skeleton-of-Thought",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Generating a brief outline first, then expanding each point, sometimes in parallel for speed.",
+  "definition": "Skeleton-of-thought first has the model produce a short outline, or skeleton, of the answer's main points, then expands each point into full text. Because the points can often be filled in at the same time, it can also speed up generation for suitable questions.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "prompt-engineering",
+    "plan-and-solve",
+    "reasoning-model"
+  ]
+}

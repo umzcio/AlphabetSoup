@@ -1,0 +1,15 @@
+{
+  "slug": "sentence-window-retrieval",
+  "term": "Sentence-Window Retrieval",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Matching on single sentences but returning a window of surrounding sentences for context.",
+  "definition": "Sentence-window retrieval indexes individual sentences for precise matching, then returns a window of the sentences around the matched one so the model has enough surrounding context. It balances pinpoint retrieval with readable, coherent passages.",
+  "example": null,
+  "related": [
+    "rag",
+    "chunking",
+    "parent-document-retrieval",
+    "retrieval-model"
+  ]
+}

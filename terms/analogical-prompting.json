@@ -1,0 +1,15 @@
+{
+  "slug": "analogical-prompting",
+  "term": "Analogical Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Asking the model to recall similar solved examples on its own before solving the new problem.",
+  "definition": "Analogical prompting has the model generate its own relevant examples — similar problems and their solutions — before tackling the target problem, instead of being handed examples. Drawing on self-generated analogies guides its reasoning without a human writing few-shot examples.",
+  "example": null,
+  "related": [
+    "few-shot",
+    "chain-of-thought",
+    "prompt-engineering",
+    "reasoning-model"
+  ]
+}

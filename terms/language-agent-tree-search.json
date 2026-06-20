@@ -1,0 +1,15 @@
+{
+  "slug": "language-agent-tree-search",
+  "term": "Language Agent Tree Search",
+  "acronym": "LATS",
+  "category": "Patterns",
+  "short": "An agent method that explores multiple action paths as a search tree, with reflection and backtracking.",
+  "definition": "Language Agent Tree Search (LATS) treats an agent's decisions as a search tree, exploring several possible action paths, scoring them, and backtracking from dead ends, while combining reasoning, acting, and reflection. It trades extra compute for more reliable solutions on hard, multi-step tasks.",
+  "example": null,
+  "related": [
+    "tree-of-thoughts",
+    "react",
+    "reflexion",
+    "agent"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "plan-and-solve",
+  "term": "Plan-and-Solve",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A prompting method that tells the model to first make a plan, then carry it out step by step.",
+  "definition": "Plan-and-solve prompting instructs a model to first devise a plan that breaks a task into steps, then follow the plan to solve it. It improves zero-shot reasoning by encouraging structure, and it is a lighter, prompt-only cousin of the plan-and-execute agent pattern.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "plan-and-execute",
+    "least-to-most-prompting",
+    "reasoning-model"
+  ]
+}

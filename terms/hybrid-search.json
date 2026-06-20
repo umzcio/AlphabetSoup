@@ -1,0 +1,15 @@
+{
+  "slug": "hybrid-search",
+  "term": "Hybrid Search",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Combining keyword search and embedding-based search to get the strengths of both.",
+  "definition": "Hybrid search blends traditional keyword search with embedding-based (semantic) search, then merges the results. Keyword search nails exact terms and names while semantic search captures meaning, so combining them retrieves more relevant documents than either alone. It is common in production RAG.",
+  "example": null,
+  "related": [
+    "bm25",
+    "embedding",
+    "vector-database",
+    "rag"
+  ]
+}

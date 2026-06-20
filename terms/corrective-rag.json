@@ -1,0 +1,15 @@
+{
+  "slug": "corrective-rag",
+  "term": "Corrective RAG",
+  "acronym": "CRAG",
+  "category": "Patterns",
+  "short": "A RAG variant that checks retrieved documents and fixes or re-searches when they're poor.",
+  "definition": "Corrective RAG (CRAG) adds a quality check to retrieval-augmented generation: it grades whether retrieved documents are actually relevant, and if they are weak it triggers a correction — such as a web search or query rewrite — before the model answers. This guards against answering from bad context.",
+  "example": null,
+  "related": [
+    "rag",
+    "self-rag",
+    "query-rewriting",
+    "grounding"
+  ]
+}

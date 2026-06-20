@@ -1,0 +1,15 @@
+{
+  "slug": "emotion-prompting",
+  "term": "Emotion Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Adding emotional or high-stakes phrasing to a prompt to nudge the model toward better effort.",
+  "definition": "Emotion prompting adds emotionally weighted phrasing to a prompt — for example, 'this is very important to my career' — which has been observed to sometimes improve a model's responses. It is a quirky, debated technique that reflects how sensitive models are to wording.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "system-prompt",
+    "role-prompting",
+    "prompt-template"
+  ]
+}

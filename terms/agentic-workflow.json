@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-workflow",
+  "term": "Agentic Workflow",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A multi-step process where one or more AI agents plan, use tools, and act to complete a goal.",
+  "definition": "An agentic workflow is a process where AI agents — not just a single prompt — drive the work: planning steps, calling tools, checking results, and looping until a goal is met. It is the umbrella idea behind patterns like plan-and-execute, ReAct, and multi-agent systems.",
+  "example": null,
+  "related": [
+    "agent",
+    "plan-and-execute",
+    "multi-agent-system",
+    "tool-calling"
+  ]
+}

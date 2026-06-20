@@ -1,0 +1,15 @@
+{
+  "slug": "self-correction",
+  "term": "Self-Correction",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Having a model review and fix its own output, often after spotting problems with it.",
+  "definition": "Self-correction is having a model review its own output, identify problems, and produce an improved version — sometimes guided by tools, tests, or feedback. It underlies techniques like reflexion and chain-of-verification, and works best when the model gets concrete signals about what was wrong.",
+  "example": null,
+  "related": [
+    "reflexion",
+    "chain-of-verification",
+    "self-refine",
+    "hallucination"
+  ]
+}

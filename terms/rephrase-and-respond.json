@@ -1,0 +1,15 @@
+{
+  "slug": "rephrase-and-respond",
+  "term": "Rephrase and Respond",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Letting the model restate the question in its own words before answering it.",
+  "definition": "Rephrase-and-respond prompts the model to first reword and expand the question in its own terms, then answer the clarified version. The restatement removes ambiguity and surfaces hidden details, often improving the response with a single extra step.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "chain-of-thought",
+    "self-ask",
+    "step-back-prompting"
+  ]
+}

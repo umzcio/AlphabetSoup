@@ -1,0 +1,15 @@
+{
+  "slug": "self-discover",
+  "term": "Self-Discover",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Letting the model assemble its own reasoning structure from building blocks before solving a task.",
+  "definition": "Self-discover is a method where a model selects and composes reusable reasoning steps — like breaking down, comparing, or checking — into a custom structure suited to a task, then follows it. It lets the model design its own problem-solving approach rather than using a fixed template.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "reasoning-model",
+    "plan-and-solve",
+    "tree-of-thoughts"
+  ]
+}

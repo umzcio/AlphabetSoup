@@ -1,0 +1,15 @@
+{
+  "slug": "query-rewriting",
+  "term": "Query Rewriting",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Rewording a user's query into a clearer or better form before searching or answering.",
+  "definition": "Query rewriting reformulates a user's question into a clearer, more complete, or search-friendly form before it is used to retrieve documents or answer. It fixes vague or conversational wording — for example, turning 'what about its price?' into a full standalone question.",
+  "example": null,
+  "related": [
+    "rag",
+    "query-expansion",
+    "retrieval-model",
+    "hyde"
+  ]
+}

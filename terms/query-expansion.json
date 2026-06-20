@@ -1,0 +1,15 @@
+{
+  "slug": "query-expansion",
+  "term": "Query Expansion",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Broadening a search query with related terms or variations to find more relevant results.",
+  "definition": "Query expansion broadens a search by adding related terms, synonyms, or rephrasings to the original query, so retrieval catches relevant documents that use different wording. It raises recall in search and retrieval-augmented generation, and is often paired with reranking to keep quality high.",
+  "example": null,
+  "related": [
+    "rag",
+    "query-rewriting",
+    "retrieval-model",
+    "reranking"
+  ]
+}

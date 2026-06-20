@@ -1,0 +1,15 @@
+{
+  "slug": "multi-query-retrieval",
+  "term": "Multi-Query Retrieval",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Generating several versions of a query and pooling their search results.",
+  "definition": "Multi-query retrieval has the model generate several reworded versions of a question, runs a search for each, and pools the results. Approaching the query from multiple angles catches relevant documents that a single phrasing would miss. It is closely related to RAG fusion.",
+  "example": null,
+  "related": [
+    "rag",
+    "rag-fusion",
+    "query-expansion",
+    "retrieval-model"
+  ]
+}

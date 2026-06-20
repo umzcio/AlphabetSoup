@@ -1,0 +1,15 @@
+{
+  "slug": "contextual-retrieval",
+  "term": "Contextual Retrieval",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Adding a short context blurb to each chunk before indexing so retrieval is more accurate.",
+  "definition": "Contextual retrieval improves RAG by prepending a short, model-written description of where each chunk came from before indexing it. Giving isolated chunks back their context — which document and section they belong to — makes them much easier to retrieve correctly. The approach was popularized by Anthropic.",
+  "example": null,
+  "related": [
+    "rag",
+    "chunking",
+    "embedding",
+    "retrieval-model"
+  ]
+}

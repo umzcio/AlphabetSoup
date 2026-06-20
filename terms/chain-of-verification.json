@@ -1,0 +1,15 @@
+{
+  "slug": "chain-of-verification",
+  "term": "Chain-of-Verification",
+  "acronym": "CoVe",
+  "category": "Prompting",
+  "short": "A method where the model drafts an answer, then checks it with its own verification questions.",
+  "definition": "Chain-of-verification (CoVe) reduces errors by having the model draft an answer, generate questions that would check that answer, answer those questions independently, and then revise. The self-checking step catches mistakes and hallucinations the first draft missed.",
+  "example": null,
+  "related": [
+    "self-correction",
+    "hallucination",
+    "chain-of-thought",
+    "self-consistency"
+  ]
+}

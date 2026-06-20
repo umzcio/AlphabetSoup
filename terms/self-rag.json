@@ -1,0 +1,15 @@
+{
+  "slug": "self-rag",
+  "term": "Self-RAG",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A RAG variant where the model decides when to retrieve and critiques whether the results help.",
+  "definition": "Self-RAG is a retrieval-augmented generation variant where the model decides on its own when to fetch documents, then critiques whether what it retrieved is relevant and whether its answer is supported. The added self-checking reduces needless retrieval and unsupported claims.",
+  "example": null,
+  "related": [
+    "rag",
+    "corrective-rag",
+    "self-correction",
+    "grounding"
+  ]
+}

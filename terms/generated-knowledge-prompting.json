@@ -1,0 +1,15 @@
+{
+  "slug": "generated-knowledge-prompting",
+  "term": "Generated Knowledge Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Having the model first write down relevant facts, then use them to answer the question.",
+  "definition": "Generated-knowledge prompting first asks the model to write out facts or background relevant to a question, then feeds that back in to answer it. Surfacing what it knows before answering can improve accuracy on questions that need commonsense or specialized knowledge.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "prompt-engineering",
+    "grounding",
+    "step-back-prompting"
+  ]
+}

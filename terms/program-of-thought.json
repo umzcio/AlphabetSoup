@@ -1,0 +1,15 @@
+{
+  "slug": "program-of-thought",
+  "term": "Program-of-Thought",
+  "acronym": "PoT",
+  "category": "Prompting",
+  "short": "Having the model reason by writing and running code instead of doing math in plain words.",
+  "definition": "Program-of-thought (PoT) prompts a model to express its reasoning as code — for example Python — which is then run to get the answer, rather than computing in plain words. Offloading arithmetic and logic to a reliable interpreter sharply improves accuracy on math and data tasks. The related PAL method works similarly.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "code-generation",
+    "reasoning-model",
+    "tool-calling"
+  ]
+}
