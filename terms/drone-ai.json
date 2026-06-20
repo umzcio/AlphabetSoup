@@ -1,0 +1,15 @@
+{
+  "slug": "drone-ai",
+  "term": "Drone AI",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "AI that lets drones fly, navigate, and make decisions with little human control.",
+  "definition": "Drone AI is the use of AI to help uncrewed aircraft perceive their surroundings, navigate, avoid obstacles, and make decisions with limited human control. It powers uses from delivery and mapping to agriculture and inspection, and it raises safety and surveillance concerns.",
+  "example": null,
+  "related": [
+    "computer-vision",
+    "autonomous-vehicle",
+    "robotics",
+    "object-detection"
+  ]
+}

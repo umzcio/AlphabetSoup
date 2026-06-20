@@ -1,0 +1,15 @@
+{
+  "slug": "ai-coding-assistant",
+  "term": "AI Coding Assistant",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "An AI tool that helps developers write, explain, fix, and review code.",
+  "definition": "An AI coding assistant is a tool that helps developers write, complete, explain, debug, and review code, usually built on a large language model. It works inside editors and chat, suggesting code as you type or handling whole tasks on request. Examples include GitHub Copilot, Cursor, and Claude Code.",
+  "example": null,
+  "related": [
+    "code-generation",
+    "github-copilot",
+    "claude-code",
+    "vibe-coding"
+  ]
+}

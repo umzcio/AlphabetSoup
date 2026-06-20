@@ -1,0 +1,15 @@
+{
+  "slug": "code-review-ai",
+  "term": "Code Review AI",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Using AI to automatically review code for bugs, style, and security issues.",
+  "definition": "Code-review AI uses a model to automatically read proposed code changes and flag bugs, security flaws, style problems, and possible improvements, often as comments on a pull request. It speeds up review and catches issues early, but human judgment is still needed for design and intent.",
+  "example": null,
+  "related": [
+    "ai-coding-assistant",
+    "code-generation",
+    "swe-agent",
+    "red-teaming"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "intelligent-document-processing",
+  "term": "Intelligent Document Processing",
+  "acronym": "IDP",
+  "category": "Patterns",
+  "short": "Using AI to read, extract, and organize information from documents like invoices and forms.",
+  "definition": "Intelligent document processing (IDP) uses AI — including computer vision and language models — to read documents like invoices, contracts, and forms, then extract and organize the information into structured data. It automates paperwork-heavy workflows that older rule-based tools struggled with.",
+  "example": null,
+  "related": [
+    "ocr",
+    "robotic-process-automation",
+    "document-ai",
+    "automation"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "world-model",
+  "term": "World Model",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A model that learns how an environment works so it can predict and plan what happens next.",
+  "definition": "A world model is a model that learns an internal picture of how an environment works, so it can predict what will happen next and let an agent plan or imagine outcomes before acting. World models are important for robotics, game-playing, and video generation, and some see them as a path toward more general AI.",
+  "example": null,
+  "related": [
+    "reinforcement-learning",
+    "embodied-ai",
+    "model",
+    "reasoning-model"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "sim-to-real",
+  "term": "Sim-to-Real",
+  "acronym": null,
+  "category": "Training",
+  "short": "Training an AI in simulation, then transferring what it learned to the real world.",
+  "definition": "Sim-to-real is the practice of training a robot or agent in a fast, safe, cheap simulation, then transferring what it learned to the real world. The main challenge is the 'reality gap' — differences between simulation and reality — which techniques like randomizing the simulation help bridge.",
+  "example": null,
+  "related": [
+    "reinforcement-learning",
+    "embodied-ai",
+    "robotics",
+    "transfer-learning"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "code-completion",
+  "term": "Code Completion",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "AI that suggests the next line or block of code as a developer types.",
+  "definition": "Code completion is a feature where an AI tool predicts and suggests the next characters, line, or block of code as a developer types, which they can accept with a keystroke. Modern AI completion goes beyond simple autocomplete to fill in whole functions from context and comments.",
+  "example": null,
+  "related": [
+    "ai-coding-assistant",
+    "code-generation",
+    "github-copilot",
+    "llm"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "swe-agent",
+  "term": "SWE Agent",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An AI agent that autonomously works on software engineering tasks across a codebase.",
+  "definition": "A software engineering agent, or SWE agent, is an AI agent that works on real coding tasks across a whole codebase — reading files, editing code, running tests, and fixing issues with limited human input. Such agents are measured on benchmarks like SWE-bench. ('SWE-agent' is also the name of one specific research system.)",
+  "example": null,
+  "related": [
+    "agent",
+    "swe-bench",
+    "code-generation",
+    "ai-coding-assistant"
+  ]
+}

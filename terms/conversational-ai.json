@@ -1,0 +1,15 @@
+{
+  "slug": "conversational-ai",
+  "term": "Conversational AI",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "AI that communicates with people through natural-language conversation, by text or voice.",
+  "definition": "Conversational AI is the broad field of systems that interact with people through natural-language conversation, by text or voice. It spans simple scripted chatbots up through large-language-model assistants, and powers customer service, virtual assistants, and voice interfaces.",
+  "example": null,
+  "related": [
+    "chatbot",
+    "virtual-assistant",
+    "llm",
+    "nlp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "enterprise-search",
+  "term": "Enterprise Search",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "AI-powered search that helps employees find information across a company's internal systems.",
+  "definition": "Enterprise search helps employees find information spread across a company's internal documents, apps, and databases. AI-powered enterprise search adds semantic understanding and retrieval-augmented generation, so it can answer questions in plain language and cite internal sources, not just return links.",
+  "example": null,
+  "related": [
+    "rag",
+    "semantic-search",
+    "vector-database",
+    "knowledge-base"
+  ]
+}

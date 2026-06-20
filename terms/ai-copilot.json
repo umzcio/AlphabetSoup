@@ -1,0 +1,15 @@
+{
+  "slug": "ai-copilot",
+  "term": "AI Copilot",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "An AI assistant embedded in a product to help users get work done within it.",
+  "definition": "An AI copilot is an AI assistant built into a product — a document editor, spreadsheet, code editor, or business app — to help users work faster by drafting, summarizing, answering questions, and taking actions in context. The name reflects that it assists while the human stays in control.",
+  "example": null,
+  "related": [
+    "virtual-assistant",
+    "ai-coding-assistant",
+    "agent",
+    "llm"
+  ]
+}

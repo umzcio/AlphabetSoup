@@ -1,0 +1,15 @@
+{
+  "slug": "embodied-ai",
+  "term": "Embodied AI",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "AI that controls a physical or simulated body to perceive and act in an environment.",
+  "definition": "Embodied AI is AI that operates through a body — a robot or a simulated agent — perceiving its surroundings and taking physical actions, rather than only processing text or images. Learning from interaction with a real or virtual world is central to it, and it is a key step toward robots that handle the messy physical world.",
+  "example": null,
+  "related": [
+    "robotics",
+    "reinforcement-learning",
+    "world-model",
+    "sim-to-real"
+  ]
+}

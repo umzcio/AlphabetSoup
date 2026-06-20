@@ -1,0 +1,15 @@
+{
+  "slug": "deepfake-detection",
+  "term": "Deepfake Detection",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Techniques and tools for identifying AI-generated or manipulated media.",
+  "definition": "Deepfake detection is the set of techniques and tools for identifying AI-generated or manipulated images, video, and audio. It looks for subtle artifacts and inconsistencies, and is increasingly paired with provenance approaches like content credentials. It is a constant cat-and-mouse race as generators improve.",
+  "example": null,
+  "related": [
+    "deepfake",
+    "content-credentials",
+    "provenance",
+    "watermarking"
+  ]
+}

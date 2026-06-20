@@ -1,0 +1,15 @@
+{
+  "slug": "customer-service-ai",
+  "term": "Customer Service AI",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "AI that handles customer support questions and tasks by chat, email, or voice.",
+  "definition": "Customer-service AI uses chatbots, voice agents, and assistants to answer customer questions, resolve common issues, and route hard cases to humans, across chat, email, and phone. Modern systems built on language models handle freer, more natural conversations than older scripted bots.",
+  "example": null,
+  "related": [
+    "conversational-ai",
+    "chatbot",
+    "rag",
+    "agent"
+  ]
+}

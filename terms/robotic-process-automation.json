@@ -1,0 +1,15 @@
+{
+  "slug": "robotic-process-automation",
+  "term": "Robotic Process Automation",
+  "acronym": "RPA",
+  "category": "Patterns",
+  "short": "Software 'bots' that automate repetitive, rule-based computer tasks across applications.",
+  "definition": "Robotic process automation (RPA) uses software 'bots' to automate repetitive, rule-based computer tasks — copying data between systems, filling forms, processing invoices — by mimicking the clicks and keystrokes a person would make. Adding AI lets these bots handle messier inputs like documents and exceptions.",
+  "example": null,
+  "related": [
+    "automation",
+    "intelligent-document-processing",
+    "agent",
+    "workflow-automation"
+  ]
+}

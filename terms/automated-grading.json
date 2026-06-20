@@ -1,0 +1,15 @@
+{
+  "slug": "automated-grading",
+  "term": "Automated Grading",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Using AI to score student work like essays, code, or answers automatically.",
+  "definition": "Automated grading uses AI to score student work — multiple-choice, short answers, essays, or code — without a human marking each one. It can give instant feedback at scale, but grading open-ended work fairly is hard, and bias and gaming are ongoing concerns.",
+  "example": null,
+  "related": [
+    "intelligent-tutoring-system",
+    "ai-tutor",
+    "classification",
+    "evaluation"
+  ]
+}

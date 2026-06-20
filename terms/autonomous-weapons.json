@@ -1,0 +1,15 @@
+{
+  "slug": "autonomous-weapons",
+  "term": "Autonomous Weapons",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Weapons systems that can select and engage targets with little or no human control.",
+  "definition": "Autonomous weapons, sometimes called lethal autonomous weapons systems, can identify, select, and attack targets with little or no human control. They raise serious legal and ethical concerns about accountability and the role of human judgment in the use of force, and are the subject of international debate.",
+  "example": null,
+  "related": [
+    "ai-governance",
+    "ai-safety",
+    "ai-ethics",
+    "human-in-the-loop"
+  ]
+}

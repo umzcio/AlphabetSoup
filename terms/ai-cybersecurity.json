@@ -1,0 +1,15 @@
+{
+  "slug": "ai-cybersecurity",
+  "term": "AI Cybersecurity",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Using AI to defend computer systems — and the new risks AI brings to security.",
+  "definition": "AI cybersecurity covers both using AI to defend computer systems — spotting threats, analyzing malware, and finding vulnerabilities faster — and the new risks AI introduces, such as smarter attacks and AI-specific weaknesses. It is a fast-moving arms race between defenders and attackers.",
+  "example": null,
+  "related": [
+    "threat-detection",
+    "red-teaming",
+    "project-glasswing",
+    "prompt-injection"
+  ]
+}

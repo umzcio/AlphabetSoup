@@ -1,0 +1,15 @@
+{
+  "slug": "ai-tutor",
+  "term": "AI Tutor",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "An AI system that teaches and helps a learner one-on-one, adapting to their needs.",
+  "definition": "An AI tutor is a system that helps a learner one-on-one — explaining concepts, answering questions, giving practice, and adapting to the learner's pace and gaps. Built on language models, modern AI tutors can hold a back-and-forth conversation, though accuracy and over-reliance remain concerns.",
+  "example": null,
+  "related": [
+    "intelligent-tutoring-system",
+    "personalized-learning",
+    "conversational-ai",
+    "llm"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "physical-ai",
+  "term": "Physical AI",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "AI built to understand and act in the physical world, especially in robots and machines.",
+  "definition": "Physical AI refers to AI designed to perceive, understand, and act in the physical world — powering robots, vehicles, and machines that sense and move. Often contrasted with purely digital AI, it combines perception, world models, and control, and has become a major focus for chipmakers and robotics labs.",
+  "example": null,
+  "related": [
+    "embodied-ai",
+    "robotics",
+    "world-model",
+    "humanoid-robot"
+  ]
+}

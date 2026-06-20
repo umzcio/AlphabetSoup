@@ -1,0 +1,15 @@
+{
+  "slug": "humanoid-robot",
+  "term": "Humanoid Robot",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A robot shaped roughly like a human, increasingly controlled by AI.",
+  "definition": "A humanoid robot is a robot built in roughly human form — torso, arms, legs, and often a head — so it can work in spaces and with tools designed for people. Advances in AI for perception and control have driven a wave of interest in humanoids for factories, warehouses, and eventually homes.",
+  "example": null,
+  "related": [
+    "robotics",
+    "embodied-ai",
+    "physical-ai",
+    "reinforcement-learning"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "intelligent-tutoring-system",
+  "term": "Intelligent Tutoring System",
+  "acronym": "ITS",
+  "category": "Patterns",
+  "short": "Educational software that adapts its instruction to each student based on their performance.",
+  "definition": "An intelligent tutoring system (ITS) is educational software that adapts what it teaches to each student, tracking their answers to spot gaps and adjusting difficulty, hints, and pacing. The idea predates modern AI but has been transformed by language models that can explain and converse.",
+  "example": null,
+  "related": [
+    "ai-tutor",
+    "personalized-learning",
+    "automated-grading",
+    "machine-learning"
+  ]
+}

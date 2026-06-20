@@ -1,0 +1,15 @@
+{
+  "slug": "surveillance-ai",
+  "term": "Surveillance AI",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Using AI to monitor people through cameras, data, and other sensors at scale.",
+  "definition": "Surveillance AI is the use of AI — facial recognition, tracking, and pattern analysis — to monitor people through cameras, data, and sensors at large scale. It can aid security and safety, but it raises significant concerns about privacy, civil liberties, bias, and potential abuse.",
+  "example": null,
+  "related": [
+    "facial-recognition",
+    "data-privacy",
+    "ai-ethics",
+    "computer-vision"
+  ]
+}

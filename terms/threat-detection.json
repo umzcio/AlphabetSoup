@@ -1,0 +1,15 @@
+{
+  "slug": "threat-detection",
+  "term": "Threat Detection",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Using AI to spot signs of cyberattacks or malicious activity in systems and networks.",
+  "definition": "Threat detection uses AI to spot signs of cyberattacks or malicious activity — unusual logins, network traffic, or file changes — across systems and networks, often in real time. By learning what normal looks like, it can flag novel attacks that fixed rules would miss, though false alarms are a challenge.",
+  "example": null,
+  "related": [
+    "anomaly-detection",
+    "ai-cybersecurity",
+    "surveillance-ai",
+    "data-poisoning"
+  ]
+}

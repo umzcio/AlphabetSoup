@@ -1,0 +1,15 @@
+{
+  "slug": "robotic-manipulation",
+  "term": "Robotic Manipulation",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A robot using arms and hands or grippers to grasp and move physical objects.",
+  "definition": "Robotic manipulation is a robot's ability to grasp, move, and handle physical objects using arms and hands or grippers. It is one of the hardest problems in robotics because the real world is so varied, and AI — especially learning from demonstration and trial and error — has driven recent progress.",
+  "example": null,
+  "related": [
+    "robotics",
+    "embodied-ai",
+    "reinforcement-learning",
+    "sim-to-real"
+  ]
+}

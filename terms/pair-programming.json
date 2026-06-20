@@ -1,0 +1,15 @@
+{
+  "slug": "pair-programming",
+  "term": "Pair Programming",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Two coders working together at one task — increasingly, a human paired with an AI assistant.",
+  "definition": "Pair programming is a practice where two people work together on the same coding task, one writing and one reviewing in real time. AI pair programming applies the same idea with an AI assistant as the partner, suggesting code and catching mistakes as the human steers.",
+  "example": null,
+  "related": [
+    "ai-coding-assistant",
+    "vibe-coding",
+    "code-generation",
+    "github-copilot"
+  ]
+}

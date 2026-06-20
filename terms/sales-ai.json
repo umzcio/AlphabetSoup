@@ -1,0 +1,15 @@
+{
+  "slug": "sales-ai",
+  "term": "Sales AI",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "AI tools that help sales teams find leads, personalize outreach, and forecast deals.",
+  "definition": "Sales AI is a set of tools that help sales teams work more effectively — scoring and prioritizing leads, drafting personalized outreach, summarizing calls, and forecasting which deals will close. It applies prediction and language models to the everyday work of selling.",
+  "example": null,
+  "related": [
+    "predictive-analytics",
+    "conversational-ai",
+    "automation",
+    "recommendation-system"
+  ]
+}

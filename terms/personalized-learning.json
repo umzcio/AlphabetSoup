@@ -1,0 +1,15 @@
+{
+  "slug": "personalized-learning",
+  "term": "Personalized Learning",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Tailoring educational content and pace to each individual learner, often using AI.",
+  "definition": "Personalized learning tailors what, how, and how fast a student learns to their individual needs, strengths, and goals, rather than teaching everyone the same way. AI supports it by tracking progress and recommending the next best lesson, exercise, or explanation for each learner.",
+  "example": null,
+  "related": [
+    "ai-tutor",
+    "intelligent-tutoring-system",
+    "recommendation-system",
+    "predictive-analytics"
+  ]
+}
