@@ -1,0 +1,14 @@
+{
+  "slug": "chatgpt",
+  "term": "ChatGPT",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's consumer chat product that put conversational AI in front of hundreds of millions.",
+  "definition": "ChatGPT is OpenAI's consumer chat product, launched in late 2022, that put conversational AI in front of hundreds of millions of people and became one of the fastest-growing apps in history. It runs on the GPT family of AI models and has grown into a hub that handles more than text, with web browsing, image and voice input, running code, and use of outside tools across free and paid tiers.",
+  "example": null,
+  "related": [
+    "openai",
+    "llm",
+    "generative-ai"
+  ]
+}

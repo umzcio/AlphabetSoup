@@ -1,0 +1,15 @@
+{
+  "slug": "a2a",
+  "term": "Agent2Agent Protocol",
+  "acronym": "A2A",
+  "category": "Patterns",
+  "short": "An open standard that lets separate AI agents advertise capabilities and work together.",
+  "definition": "The Agent2Agent Protocol is an open standard for communication between independent AI agents, letting them discover each other's capabilities and collaborate across different systems and vendors. It complements the Model Context Protocol, which connects an agent to tools and data, by instead governing how whole agents coordinate. The goal is interoperability so agents built by different teams can delegate and share work.",
+  "example": null,
+  "related": [
+    "mcp",
+    "multi-agent-system",
+    "agent",
+    "tool-calling"
+  ]
+}

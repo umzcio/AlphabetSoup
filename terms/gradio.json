@@ -1,0 +1,15 @@
+{
+  "slug": "gradio",
+  "term": "Gradio",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Python library for wrapping a model in a shareable web interface in a few lines.",
+  "definition": "Gradio is an open-source Python library, maintained by Hugging Face, for wrapping a model or function in a simple web interface with just a few lines of code. It generates input and output components — text boxes, image uploads, audio players — so a model can be tried in a browser or shared with a link. It is widely used for demos and lightweight applications.",
+  "example": null,
+  "related": [
+    "hugging-face",
+    "streamlit",
+    "huggingface-hub",
+    "machine-learning"
+  ]
+}

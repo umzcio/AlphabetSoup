@@ -1,0 +1,15 @@
+{
+  "slug": "speech-to-text",
+  "term": "Speech-to-Text",
+  "acronym": "STT",
+  "category": "Multimodal",
+  "short": "Converting spoken audio into a written transcript; another name for ASR.",
+  "definition": "Speech-to-text converts spoken audio into written transcripts, and is another common name for automatic speech recognition. Systems break the sound into small features and map them to the speech sounds and word-pieces that make up the transcript, often cleaned up by a language model. Newer all-in-one neural systems, like those behind Whisper, have largely replaced older multi-stage ones by training directly on large sets of audio paired with transcripts.",
+  "example": null,
+  "related": [
+    "asr",
+    "whisper",
+    "tts",
+    "speech-to-speech"
+  ]
+}

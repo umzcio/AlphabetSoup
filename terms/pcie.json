@@ -1,0 +1,16 @@
+{
+  "slug": "pcie",
+  "term": "PCIe",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "The standard bus connecting GPUs, accelerators, and storage to a host CPU.",
+  "definition": "PCIe (Peripheral Component Interconnect Express) is the standard high-speed bus that connects accelerators, storage, and other devices to a host system's CPU. In AI servers it carries data between the CPU and GPUs, and its bandwidth can become a bottleneck when large amounts of data must move on and off the accelerators. Newer generations roughly double bandwidth, and faster GPU-to-GPU links like NVLink exist alongside it.",
+  "example": null,
+  "related": [
+    "pcie-gen5",
+    "nvlink",
+    "host-device-transfer",
+    "interconnect",
+    "gpu"
+  ]
+}

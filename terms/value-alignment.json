@@ -1,0 +1,15 @@
+{
+  "slug": "value-alignment",
+  "term": "Value Alignment",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Encoding human values into a model's objectives so its behavior reflects them.",
+  "definition": "Value alignment is the challenge of encoding human values into an AI system's objectives or behavior so that what it optimizes for matches what people actually want. It is hard because human values are complex, context-dependent, often implicit, and sometimes in conflict. Approaches include learning from human feedback, inferring goals by watching how people act, and following a written set of guiding principles. At high capability levels, misaligned values are viewed as a major source of risk.",
+  "example": null,
+  "related": [
+    "alignment",
+    "rlhf",
+    "constitutional-ai",
+    "ai-safety"
+  ]
+}

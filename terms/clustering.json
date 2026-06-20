@@ -1,0 +1,15 @@
+{
+  "slug": "clustering",
+  "term": "Clustering",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Grouping similar data points together without labels to reveal natural structure.",
+  "definition": "Clustering is an unsupervised learning task that groups similar data points together without using labels, revealing natural structure in the data. The algorithm decides which points belong together based on how close they are in some feature space. It is used for customer segmentation, organizing documents, and exploring embeddings.",
+  "example": null,
+  "related": [
+    "unsupervised-learning",
+    "embedding",
+    "feature",
+    "classification"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "ring-allreduce",
+  "term": "Ring AllReduce",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "An all-reduce algorithm that passes data around devices in a ring to sum and share it.",
+  "definition": "Ring AllReduce is an algorithm for combining values, such as gradients, across many devices by arranging them in a logical ring and passing data around it in stages. Each device sends and receives chunks from its neighbors, so the total traffic stays balanced and independent of the number of devices. It is widely used in data-parallel training to average gradients across GPUs efficiently without overloading any single link.",
+  "example": null,
+  "related": [
+    "all-reduce",
+    "data-parallelism",
+    "distributed-training",
+    "interconnect",
+    "nvlink"
+  ]
+}

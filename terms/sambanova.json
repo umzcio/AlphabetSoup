@@ -1,0 +1,15 @@
+{
+  "slug": "sambanova",
+  "term": "SambaNova",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "An AI hardware company building custom chips and systems for training and inference.",
+  "definition": "SambaNova is an AI hardware and systems company that designs custom processors aimed at running and training large models efficiently. Its flexible chip design aims to handle a high volume of work for both training and inference (running a trained model), and it offers full systems and a cloud service rather than only chips. It is one of several companies building alternatives to the GPU chips (graphics chips repurposed for AI math) that most AI systems run on.",
+  "example": null,
+  "related": [
+    "cerebras",
+    "groq",
+    "accelerator",
+    "inference"
+  ]
+}

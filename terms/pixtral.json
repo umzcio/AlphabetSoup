@@ -1,0 +1,16 @@
+{
+  "slug": "pixtral",
+  "term": "Pixtral",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Mistral AI's multimodal model family that handles both images and text.",
+  "definition": "Pixtral is Mistral AI's family of multimodal models, which process both images and text within a single model. They extend Mistral's language models with a vision component, allowing the model to answer questions about images, read charts and documents, and combine visual and textual reasoning. Pixtral fits into Mistral's broader lineup as its vision-language offering.",
+  "example": null,
+  "related": [
+    "mistral-ai",
+    "multimodal-model",
+    "vision-language-model",
+    "image-encoder",
+    "mistral-models"
+  ]
+}

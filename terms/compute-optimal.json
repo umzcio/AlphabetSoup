@@ -1,0 +1,15 @@
+{
+  "slug": "compute-optimal",
+  "term": "Compute-Optimal",
+  "acronym": null,
+  "category": "Training",
+  "short": "Balancing model size against training tokens to get the most from a fixed compute budget.",
+  "definition": "Compute-optimal training allocates a fixed compute budget by balancing the number of model parameters against the number of training tokens, following empirically derived scaling laws. The Chinchilla work suggested roughly twenty training tokens per parameter, so models at that ratio reach lower loss than larger undertrained ones using the same compute. In practice, teams often overtrain smaller models to cut inference cost, even if training is less efficient.",
+  "example": null,
+  "related": [
+    "scaling-laws",
+    "token",
+    "parameter",
+    "pretraining"
+  ]
+}

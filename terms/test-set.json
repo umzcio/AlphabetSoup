@@ -1,0 +1,16 @@
+{
+  "slug": "test-set",
+  "term": "Test Set",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Held-out data used for final evaluation after a model is trained and tuned.",
+  "definition": "A test set is a portion of data held out from training and tuning, used only for a final, unbiased estimate of how a model performs on unseen examples. Keeping it separate from the validation set prevents the reported score from being inflated by choices made during development. Reusing or leaking it into training causes contamination and overstated results.",
+  "example": null,
+  "related": [
+    "validation-set",
+    "holdout-set",
+    "benchmark-contamination",
+    "evaluation",
+    "generalization"
+  ]
+}

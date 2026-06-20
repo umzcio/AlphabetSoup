@@ -1,0 +1,15 @@
+{
+  "slug": "databricks",
+  "term": "Databricks",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A data and AI platform company offering enterprise tooling for building and serving models.",
+  "definition": "Databricks is a data and AI platform company that helps organizations store, process, and analyze large datasets and build AI on top of them. Its platform combines data engineering, analytics, and machine learning tooling, including features for training, fine-tuning, and serving models on enterprise data. It is widely used for production data and AI workflows.",
+  "example": null,
+  "related": [
+    "big-data",
+    "fine-tuning",
+    "model-server",
+    "mlflow"
+  ]
+}

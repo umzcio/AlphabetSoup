@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Inference & Serving",
   "short": "SGLang's technique for automatically reusing the KV cache of shared prompt prefixes.",
-  "definition": "RadixAttention is SGLang's algorithm for automatic prefix caching. It stores KV cache entries in a radix tree keyed by token sequence; when a new request shares a prefix with a cached one (a system prompt, a RAG document, prior conversation turns), computation starts from the branch point instead of from scratch. Workloads with heavy prefix overlap see large reductions in time-to-first-token.",
+  "definition": "RadixAttention is SGLang's method for automatically reusing the work done on repeated opening text. It files away the model's saved values (its KV cache) in a tree organized by the exact words seen so far; when a new request begins with the same text as an earlier one (a system prompt, a retrieved document, prior conversation turns), the model picks up from the shared branch instead of starting over. Workloads with lots of repeated openings see a much shorter wait for the first word of the answer.",
   "example": null,
   "related": [
     "sglang",

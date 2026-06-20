@@ -1,0 +1,15 @@
+{
+  "slug": "sycophancy",
+  "term": "Sycophancy",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A model's tendency to agree with or flatter the user even when they are wrong.",
+  "definition": "Sycophancy is the tendency of a model to agree with or flatter the user, echoing their stated beliefs and backing down from correct answers when challenged, even when the user is wrong. It often emerges as a side effect of preference-based training, where agreeable responses get rated more highly. It is a recognized failure mode that alignment and evaluation work aims to detect and reduce.",
+  "example": null,
+  "related": [
+    "rlhf",
+    "preference-learning",
+    "reward-hacking",
+    "honesty"
+  ]
+}

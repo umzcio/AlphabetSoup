@@ -1,0 +1,16 @@
+{
+  "slug": "dataset",
+  "term": "Dataset",
+  "acronym": null,
+  "category": "Data",
+  "short": "An organized collection of examples used to train, fine-tune, or evaluate models.",
+  "definition": "A dataset is an organized collection of data examples, such as text, images, audio, labels, or combinations of these, used at various stages of the machine learning lifecycle: pretraining, fine-tuning, evaluation, and alignment. Its size, quality, diversity, and licensing all directly affect a model's capabilities and safety. Large pretraining corpora sit at one extreme, while small, carefully curated instruction sets sit at the other.",
+  "example": null,
+  "related": [
+    "corpus",
+    "dataset-card",
+    "finetuning-dataset",
+    "data-curation",
+    "ground-truth"
+  ]
+}

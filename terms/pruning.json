@@ -1,0 +1,16 @@
+{
+  "slug": "pruning",
+  "term": "Pruning",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Removing weights or whole structures that contribute little to a model.",
+  "definition": "Pruning removes parts of a network that contribute little to its output, such as near-zero weights, whole attention heads, channels, or layers. The smaller model needs less storage and can run faster, especially on hardware that accelerates sparse computation. Pruning is often combined with quantization and usually followed by some fine-tuning to recover lost accuracy. Its two main forms are unstructured pruning of individual weights and structured pruning of whole units.",
+  "example": null,
+  "related": [
+    "structured-pruning",
+    "unstructured-pruning",
+    "sparsity",
+    "quantization",
+    "model-compression"
+  ]
+}

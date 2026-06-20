@@ -1,0 +1,15 @@
+{
+  "slug": "ab-test",
+  "term": "A/B Test",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Comparing two versions by routing traffic to each and measuring which yields better outcomes.",
+  "definition": "An A/B test compares two versions of a system — such as two prompts, models, or interfaces — by routing real users or tasks to each and measuring which produces better outcomes. Because both versions run under the same conditions, differences in metrics can be attributed to the change. It is a common way to validate improvements before a full rollout.",
+  "example": null,
+  "related": [
+    "evaluation",
+    "benchmark",
+    "win-rate",
+    "chatbot-arena"
+  ]
+}

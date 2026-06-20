@@ -1,0 +1,15 @@
+{
+  "slug": "bentoml",
+  "term": "BentoML",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source framework for packaging machine learning models and serving them as online services.",
+  "definition": "BentoML is an open-source framework for bundling a machine learning model, its code, and everything it depends on into a standard unit, then making it available as an online service other programs can call. It handles the path from a trained model to a running service, including packaging it to deploy and scaling it to handle more requests. It is used to put models into production without building the serving plumbing from scratch.",
+  "example": null,
+  "related": [
+    "model-server",
+    "inference",
+    "weights",
+    "vllm"
+  ]
+}

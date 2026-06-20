@@ -1,0 +1,15 @@
+{
+  "slug": "grok",
+  "term": "Grok",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "xAI's family of large language models and the chatbot of the same name.",
+  "definition": "Grok is the family of large language models and chatbot built by xAI, available on the X platform and through an API. A distinctive feature is access to real-time posts from X, letting it answer questions about current events. It is positioned as a general assistant with a distinct conversational style, used for coding, research, and real-time information tasks.",
+  "example": null,
+  "related": [
+    "xai",
+    "grok-4",
+    "chatbot",
+    "llm"
+  ]
+}

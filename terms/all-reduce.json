@@ -1,0 +1,15 @@
+{
+  "slug": "all-reduce",
+  "term": "All-Reduce",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A collective operation that combines values across many workers and shares the result with all.",
+  "definition": "All-reduce is a distributed operation that aggregates values held on separate workers — typically by summing them — and returns the combined result to every worker. It is the backbone of data-parallel training, where copies of the model run on separate devices: each device computes gradients (the adjustment signals that tell the model how to improve) on its own batch of data, and all-reduce averages them so every copy stays in sync. Its efficiency depends heavily on the interconnect, since every device must exchange data each step.",
+  "example": null,
+  "related": [
+    "data-parallelism",
+    "distributed-training",
+    "ring-allreduce",
+    "interconnect"
+  ]
+}

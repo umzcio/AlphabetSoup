@@ -1,0 +1,16 @@
+{
+  "slug": "veo",
+  "term": "Veo",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Google DeepMind's text-to-video model family.",
+  "definition": "Veo is Google DeepMind's family of video-generation models, which produce video clips from text prompts and other inputs. It aims for high visual quality and coherent motion across frames, and is part of Google's broader push into generative media alongside its image and language systems. Veo represents the company's entry into the competitive area of AI video generation.",
+  "example": null,
+  "related": [
+    "google-deepmind",
+    "video-generation",
+    "text-to-video",
+    "generative-ai",
+    "sora"
+  ]
+}

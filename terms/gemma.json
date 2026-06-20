@@ -1,0 +1,16 @@
+{
+  "slug": "gemma",
+  "term": "Gemma",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Google DeepMind's family of smaller open-weight models built from Gemini research.",
+  "definition": "Gemma is Google DeepMind's family of smaller open-weight models, built from the same research as Gemini and intended for developers to download, run, and fine-tune themselves. It is offered in multiple sizes and in both base and instruction-tuned variants, light enough to run on consumer hardware. Gemma gives Google an entry in the open-model ecosystem alongside its flagship Gemini.",
+  "example": null,
+  "related": [
+    "gemini",
+    "google-deepmind",
+    "open-weights",
+    "fine-tuning",
+    "instruction-tuning"
+  ]
+}

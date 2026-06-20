@@ -1,0 +1,16 @@
+{
+  "slug": "rubric",
+  "term": "Rubric",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A scoring guide with defined criteria for judging the quality of an output.",
+  "definition": "A rubric is a scoring guide that lays out explicit criteria and levels for judging an output, such as accuracy, completeness, and tone. It makes evaluation more consistent by giving human or model judges the same standard to apply across responses. Rubrics are central to LLM-as-a-judge setups and to grading open-ended tasks that have no single correct answer.",
+  "example": null,
+  "related": [
+    "llm-as-judge",
+    "evaluation",
+    "ground-truth",
+    "safety-eval",
+    "human-feedback"
+  ]
+}

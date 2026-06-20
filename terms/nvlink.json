@@ -1,0 +1,16 @@
+{
+  "slug": "nvlink",
+  "term": "NVLink",
+  "acronym": "NVLink",
+  "category": "Hardware & Systems",
+  "short": "NVIDIA's high-speed interconnect that links GPUs directly, bypassing the slower PCIe bus.",
+  "definition": "NVLink is NVIDIA's proprietary high-bandwidth, low-latency interconnect that lets GPUs exchange data directly with each other instead of going over the slower PCIe bus. Paired with NVSwitch fabric chips, it enables fast all-to-all communication across many GPUs in a rack. This makes it essential for tensor and pipeline parallelism, where many GPUs cooperate on one large model; each generation has raised bandwidth substantially.",
+  "example": null,
+  "related": [
+    "nvidia",
+    "interconnect",
+    "pcie",
+    "tensor-parallelism",
+    "infiniband"
+  ]
+}

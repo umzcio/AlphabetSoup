@@ -1,0 +1,14 @@
+{
+  "slug": "interpretability",
+  "term": "Interpretability",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The study of a model's internal workings to explain why it behaves the way it does.",
+  "definition": "Interpretability is the study of a model's internal workings, aiming to explain why it behaves as it does. It ranges from post-hoc methods like attention visualization to mechanistic interpretability, which dissects individual neurons and circuits to find human-readable features and algorithms inside the weights. Better understanding supports debugging, trust, and safety audits.",
+  "example": null,
+  "related": [
+    "neural-network",
+    "attention",
+    "red-teaming"
+  ]
+}

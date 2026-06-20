@@ -1,0 +1,16 @@
+{
+  "slug": "tpu",
+  "term": "Tensor Processing Unit",
+  "acronym": "Tensor Processing Unit",
+  "category": "Hardware & Systems",
+  "short": "Google's custom AI chip built specifically for the matrix math of neural networks.",
+  "definition": "A Tensor Processing Unit (TPU) is a custom chip designed by Google to accelerate the matrix and tensor math at the core of deep learning. Built around a systolic-array architecture and high-bandwidth memory, it executes large matrix multiplications efficiently and integrates tightly with JAX and TensorFlow. Unlike general-purpose GPUs, TPUs are purpose-built for neural network arithmetic, and they are available through Google Cloud for both training and serving.",
+  "example": null,
+  "related": [
+    "google",
+    "google-cloud",
+    "gpu",
+    "jax",
+    "accelerator"
+  ]
+}

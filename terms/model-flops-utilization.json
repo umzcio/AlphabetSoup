@@ -1,0 +1,16 @@
+{
+  "slug": "model-flops-utilization",
+  "term": "Model FLOPs Utilization",
+  "acronym": "MFU",
+  "category": "Hardware & Systems",
+  "short": "How much of a chip's peak compute a workload actually uses, expressed as a fraction.",
+  "definition": "Model FLOPs Utilization (MFU) measures how efficiently a training or inference workload uses an accelerator's available floating-point compute. It is the ratio of the math operations per second (FLOPs) a model actually achieves to the hardware's theoretical peak at the relevant precision, where 1.0 would be perfect. In practice, large-model training in the range of forty to sixty percent is considered good; lower values point to bottlenecks in memory bandwidth, communication, or software.",
+  "example": null,
+  "related": [
+    "flops",
+    "utilization",
+    "memory-bandwidth",
+    "throughput",
+    "roofline-model"
+  ]
+}

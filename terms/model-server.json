@@ -1,0 +1,16 @@
+{
+  "slug": "model-server",
+  "term": "Model Server",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Software that wraps a trained model with request handling, batching, and memory management.",
+  "definition": "A model server wraps a trained neural network with the infrastructure needed to accept requests, manage GPU memory, schedule batches, and return results at scale. It handles concerns such as health checks, request queuing, memory allocation, and support for standard web connection methods. Examples include vLLM, SGLang, and Triton Inference Server, and most expose an OpenAI-compatible API (the de facto standard request format) so existing clients need no changes.",
+  "example": null,
+  "related": [
+    "vllm",
+    "sglang",
+    "triton-inference-server",
+    "continuous-batching",
+    "kv-cache"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "ia3",
+  "term": "IA3",
+  "acronym": "IA3",
+  "category": "Optimization",
+  "short": "A tiny fine-tuning method that rescales a few activations with learned vectors.",
+  "definition": "IA3 (Infused Adapter by Inhibiting and Amplifying Inner Activations) is a parameter-efficient fine-tuning method that adds three small lists of learned numbers per transformer layer that simply scale up or down the signals flowing through that layer. This minimal change uses even fewer trained values than LoRA yet adapts large models to new tasks. It works well from just a few examples and adds almost no extra delay when the model runs, since the numbers can be merged into existing weights.",
+  "example": null,
+  "related": [
+    "lora",
+    "adapter",
+    "peft",
+    "prefix-tuning",
+    "fine-tuning"
+  ]
+}

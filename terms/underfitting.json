@@ -1,0 +1,16 @@
+{
+  "slug": "underfitting",
+  "term": "Underfitting",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "When a model is too simple or undertrained to capture the structure in its data.",
+  "definition": "Underfitting happens when a model lacks the capacity, or has not trained long enough, to capture the real structure in its data, so it performs poorly on both training and test sets. Remedies include using a more expressive architecture, training for more epochs, reducing regularization, or adding informative features. Underfitting and overfitting sit at opposite ends of the bias-variance tradeoff.",
+  "example": null,
+  "related": [
+    "overfitting",
+    "generalization",
+    "regularization",
+    "bias",
+    "epoch"
+  ]
+}

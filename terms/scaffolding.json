@@ -1,0 +1,16 @@
+{
+  "slug": "scaffolding",
+  "term": "Scaffolding",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "The control logic, tools, and checks wrapped around a model to make a system reliable.",
+  "definition": "Scaffolding is the predictable, rule-based structure built around a model to make an overall system dependable: control logic, tool use, memory stores, output checking, retry mechanisms, and human-review checkpoints. Its purpose is to keep multi-step, long-running, or high-stakes tasks reliable even when the underlying model is imperfect. Most production agent platforms and complex retrieval-based (RAG) applications rely on heavy scaffolding rather than the model alone.",
+  "example": null,
+  "related": [
+    "agent",
+    "guardrails",
+    "human-in-the-loop",
+    "tool-use",
+    "orchestrator"
+  ]
+}

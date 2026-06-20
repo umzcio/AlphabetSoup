@@ -3,7 +3,7 @@
   "term": "RLHF",
   "acronym": "Reinforcement Learning from Human Feedback",
   "category": "Training",
-  "short": "Aligning a model to human preferences using a reward model and RL.",
+  "short": "Aligning a model to human preferences by learning from a reward signal through trial and error.",
   "definition": "RLHF aligns a model with human preferences by collecting human rankings of model outputs, training a reward model to predict those preferences, and then optimizing the language model against that reward with reinforcement learning (often PPO). It is a key step in turning a raw pretrained model into a helpful, harmless assistant. Newer variants like DPO skip the explicit reward model.",
   "example": null,
   "related": [

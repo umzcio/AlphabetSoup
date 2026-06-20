@@ -1,0 +1,16 @@
+{
+  "slug": "test-time-compute",
+  "term": "Test-Time Compute",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Spending extra computation at inference, not just training, to improve answers.",
+  "definition": "Test-time compute refers to using extra computation when answering a query rather than only during training. Examples include generating long chains of reasoning before responding, or sampling many candidate answers and selecting among them. Spending more compute at inference can raise accuracy on hard problems, which makes it a central lever behind reasoning models that deliberate before producing a final answer.",
+  "example": null,
+  "related": [
+    "reasoning-model",
+    "chain-of-thought",
+    "self-consistency",
+    "inference",
+    "self-refine"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "foundation-model",
+  "term": "Foundation Model",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A large general-purpose model trained on broad data and adapted to many tasks.",
+  "definition": "A foundation model is a large neural network trained on a broad, diverse dataset, usually with self-supervised objectives, so it can be reused across many tasks through prompting or light fine-tuning rather than being built for one. It learns general representations adaptable with little task-specific data. Large language models and large multimodal models are the main examples. The term was coined to highlight both the versatility and the risks of building so much on a shared base.",
+  "example": null,
+  "related": [
+    "llm",
+    "self-supervised-learning",
+    "fine-tuning",
+    "frontier-model"
+  ]
+}

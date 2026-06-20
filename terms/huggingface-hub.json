@@ -1,0 +1,16 @@
+{
+  "slug": "huggingface-hub",
+  "term": "Hugging Face Hub",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "The central platform for hosting and sharing open models, datasets, and demos.",
+  "definition": "The Hugging Face Hub is a collaborative website for hosting and discovering machine learning models, datasets, and demo apps called Spaces. It keeps a full history of every change so versions can be tracked, and it offers a Python toolkit so programs can download or upload its contents automatically. Hosting hundreds of thousands of community-contributed models, it has become the central home of the open-source AI world.",
+  "example": null,
+  "related": [
+    "hugging-face",
+    "hugging-face-transformers",
+    "hugging-face-datasets",
+    "model-card",
+    "open-source-ai"
+  ]
+}

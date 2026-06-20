@@ -1,0 +1,16 @@
+{
+  "slug": "red-team-eval",
+  "term": "Red Team Eval",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "An evaluation that adversarially stress-tests a model to surface harmful behavior.",
+  "definition": "A red team eval is a structured evaluation that deliberately probes a model with adversarial inputs to find where it fails or produces harmful output. Testers craft jailbreaks, misleading prompts, and edge cases that ordinary benchmarks miss, then record which attacks succeed. It is used before and after release to measure safety weaknesses and to guide guardrails and further training.",
+  "example": null,
+  "related": [
+    "red-teaming",
+    "safety-eval",
+    "jailbreak",
+    "adversarial-prompt",
+    "evaluation"
+  ]
+}

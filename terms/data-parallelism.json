@@ -1,0 +1,17 @@
+{
+  "slug": "data-parallelism",
+  "term": "Data Parallelism",
+  "acronym": "DP",
+  "category": "Training",
+  "short": "Speeding training by giving each device a model copy and a different slice of the batch.",
+  "definition": "Data parallelism puts a full copy of the model on each device, has every copy process a different slice of the batch, and then averages their suggested updates before applying them. It is the simplest way to spread training across many graphics cards (GPUs) and works well when the model fits on one device. For larger models it is combined with other splitting methods, and approaches like ZeRO further divide the bookkeeping data across devices to save memory.",
+  "example": null,
+  "related": [
+    "model-parallelism",
+    "tensor-parallelism",
+    "pipeline-parallelism",
+    "all-reduce",
+    "distributed-training",
+    "fsdp"
+  ]
+}

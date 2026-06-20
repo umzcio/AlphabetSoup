@@ -1,0 +1,16 @@
+{
+  "slug": "model-card",
+  "term": "Model Card",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A short standardized document describing a model's purpose, data, results, and limits.",
+  "definition": "A model card is a standardized document that summarizes a model's intended purpose, training data, evaluation results, known limitations, and safety considerations. It gives users and reviewers a consistent place to understand what a model is for and where it should not be trusted. Publishing one is common practice when releasing models and supports transparency and responsible use.",
+  "example": null,
+  "related": [
+    "dataset-card",
+    "evaluation",
+    "ai-governance",
+    "benchmark",
+    "weights"
+  ]
+}

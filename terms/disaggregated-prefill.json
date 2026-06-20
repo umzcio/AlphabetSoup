@@ -1,0 +1,16 @@
+{
+  "slug": "disaggregated-prefill",
+  "term": "Disaggregated Prefill",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Running the prefill phase on dedicated hardware separate from token generation.",
+  "definition": "Disaggregated prefill dedicates separate hardware to prefill — the stage where the prompt is read in and the KV cache (the model's running notes on the text) is built. Once those notes are computed, they are handed off to other machines tuned for generating the output word by word. Routing the heavy work of reading long prompts to specialized machines improves throughput (total work done per second) and cost while keeping generation fast on the rest of the fleet.",
+  "example": null,
+  "related": [
+    "disaggregated-serving",
+    "prefill",
+    "decode",
+    "kv-cache",
+    "chunked-prefill"
+  ]
+}

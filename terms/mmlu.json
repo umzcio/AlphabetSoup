@@ -1,0 +1,13 @@
+{
+  "slug": "mmlu",
+  "term": "MMLU",
+  "acronym": "Massive Multitask Language Understanding",
+  "category": "Evaluation",
+  "short": "A multiple-choice benchmark testing model knowledge across 57 academic and professional subjects.",
+  "definition": "MMLU tests a model's knowledge and reasoning with multiple-choice questions spanning 57 subjects, from elementary math and history to professional law and medicine. It became a standard benchmark for general-purpose LLMs and appears in most evaluation harnesses. Top models have largely saturated it, which has prompted harder successor benchmarks.",
+  "example": null,
+  "related": [
+    "perplexity",
+    "llm"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "copilot",
+  "term": "Copilot",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Microsoft's brand for AI assistants built into its products and developer tools.",
+  "definition": "Copilot is Microsoft's brand for AI assistants embedded across its products, including Windows, the Microsoft 365 apps, Azure, and developer tools. The lineup spans GitHub Copilot for coding assistance, Microsoft 365 Copilot for productivity, and a consumer assistant. The assistants draw on partner and in-house models to draft content, answer questions, summarize work, and automate tasks in context.",
+  "example": null,
+  "related": [
+    "microsoft",
+    "github-copilot",
+    "microsoft-365-copilot",
+    "openai"
+  ]
+}

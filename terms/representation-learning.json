@@ -1,0 +1,16 @@
+{
+  "slug": "representation-learning",
+  "term": "Representation Learning",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Learning useful internal forms of data automatically rather than hand-engineering them.",
+  "definition": "Representation learning is the practice of having a model learn useful internal forms of its data automatically, rather than relying on hand-engineered features. Deep networks build up such representations layer by layer, and self-supervised pretraining produces general-purpose ones from unlabeled data. These learned representations, often vectors in a latent space, transfer well to downstream tasks like classification and search.",
+  "example": null,
+  "related": [
+    "embedding",
+    "latent-space",
+    "self-supervised-learning",
+    "deep-learning",
+    "transfer-learning"
+  ]
+}

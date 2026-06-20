@@ -1,0 +1,16 @@
+{
+  "slug": "perplexity-metric",
+  "term": "Perplexity (metric)",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A measure of how surprised a language model is by held-out text — lower is better.",
+  "definition": "Perplexity is a built-in metric that quantifies how surprised a language model is by a held-out text — a passage set aside and not used in training. A perplexity of ten means the model was, on average, as unsure as if choosing among ten equally likely options for each word. Lower perplexity means the model expected the actual words better. It is handy for comparing models on a body of text, but it does not directly measure how well the model does real tasks.",
+  "example": null,
+  "related": [
+    "cross-entropy-loss",
+    "token",
+    "evaluation",
+    "loss-function",
+    "llm"
+  ]
+}

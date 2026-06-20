@@ -1,0 +1,16 @@
+{
+  "slug": "gpqa",
+  "term": "GPQA",
+  "acronym": "Graduate-Level Google-Proof Q&A",
+  "category": "Evaluation",
+  "short": "A benchmark of hard, expert-written science questions resistant to simple web search.",
+  "definition": "GPQA is a benchmark of difficult, expert-written multiple-choice science questions in physics, chemistry, and biology. The questions are designed to be hard for non-experts even with web access, so high scores indicate genuine reasoning rather than lookup. It is used to probe advanced scientific reasoning in strong models as easier benchmarks become saturated.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "reasoning-model",
+    "mmlu",
+    "benchmark-contamination",
+    "evaluation"
+  ]
+}

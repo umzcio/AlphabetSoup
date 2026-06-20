@@ -1,0 +1,16 @@
+{
+  "slug": "instruction-tuning",
+  "term": "Instruction Tuning",
+  "acronym": null,
+  "category": "Training",
+  "short": "Fine-tuning a model on instruction-response pairs so it follows natural-language requests.",
+  "definition": "Instruction tuning is a supervised fine-tuning stage that trains a pretrained model on a wide variety of tasks written as natural-language instructions paired with responses. It teaches the model to follow user requests it has not seen before, rather than just predict the next token, turning a raw language model into a usable assistant. It is typically followed by preference learning and is a key reason chat models feel general-purpose.",
+  "example": null,
+  "related": [
+    "fine-tuning",
+    "instruction-following",
+    "instruction-dataset",
+    "sft",
+    "preference-learning"
+  ]
+}

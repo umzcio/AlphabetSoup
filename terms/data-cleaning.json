@@ -1,0 +1,16 @@
+{
+  "slug": "data-cleaning",
+  "term": "Data Cleaning",
+  "acronym": null,
+  "category": "Data",
+  "short": "Fixing errors, noise, and formatting problems in data before it is used to train models.",
+  "definition": "Data cleaning is the process of correcting errors, noise, and formatting problems in a dataset so it is consistent and usable. Typical steps include removing corrupted or malformed records, normalizing encodings and whitespace, stripping boilerplate, and resolving inconsistent labels. For large pretraining corpora it is a standard early stage, since cleaner input data tends to produce more reliable and higher-quality models.",
+  "example": null,
+  "related": [
+    "data-filtering",
+    "deduplication",
+    "data-curation",
+    "pretraining-corpus",
+    "dataset"
+  ]
+}

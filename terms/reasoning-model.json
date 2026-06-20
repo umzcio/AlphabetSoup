@@ -1,0 +1,16 @@
+{
+  "slug": "reasoning-model",
+  "term": "Reasoning Model",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A language model trained to work through steps before giving its final answer.",
+  "definition": "A reasoning model is a language model trained to produce extended step-by-step working before its final answer, which improves results on math, coding, and logic. It typically spends more compute at inference time to generate this internal reasoning, a tradeoff known as test-time compute. The extra steps trade speed and cost for accuracy on hard problems.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "test-time-compute",
+    "reinforcement-learning",
+    "o3",
+    "deepseek-r1"
+  ]
+}

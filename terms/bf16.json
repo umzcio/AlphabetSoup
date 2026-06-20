@@ -1,0 +1,16 @@
+{
+  "slug": "bf16",
+  "term": "BF16",
+  "acronym": null,
+  "category": "Training",
+  "short": "A 16-bit brain floating point format widely used in modern model training.",
+  "definition": "BF16 is a 16-bit floating point format, short for brain floating point, that keeps the same exponent range as 32-bit float while using fewer bits for precision. The wide range avoids the overflow problems of older 16-bit formats, making training more stable. It is common in modern large-model training because it halves memory and bandwidth with little accuracy loss.",
+  "example": null,
+  "related": [
+    "bfloat16",
+    "fp16",
+    "mixed-precision",
+    "fp8",
+    "low-precision-inference"
+  ]
+}

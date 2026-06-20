@@ -1,0 +1,15 @@
+{
+  "slug": "diffusion-model",
+  "term": "Diffusion Model",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A generator that starts from random noise and denoises step by step into an image or video.",
+  "definition": "A diffusion model generates content by learning to reverse a process that gradually adds noise to data. At training time it learns to predict and remove noise at each step; at generation time it starts from random noise and denoises step by step into a coherent image, audio clip, or video — usually guided by a text prompt. Diffusion is the dominant approach behind modern text-to-image and text-to-video systems.",
+  "example": null,
+  "related": [
+    "generative-ai",
+    "neural-network",
+    "stability-ai",
+    "clip"
+  ]
+}

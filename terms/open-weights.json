@@ -1,0 +1,16 @@
+{
+  "slug": "open-weights",
+  "term": "Open Weights",
+  "acronym": null,
+  "category": "Data",
+  "short": "Models whose trained weights are publicly released for download and use.",
+  "definition": "Open weights describes models whose trained parameters are publicly released, letting others download, run, fine-tune, and deploy them on their own hardware. This differs from fully open source, since the training code and data may stay private even when the weights are shared. Open-weight releases enable running the model on your own machines, customization, and offline use without calling a hosted API (a service accessed over the internet).",
+  "example": null,
+  "related": [
+    "weights",
+    "open-source-ai",
+    "closed-weight-model",
+    "hugging-face",
+    "safetensors"
+  ]
+}

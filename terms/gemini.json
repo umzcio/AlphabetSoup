@@ -1,0 +1,16 @@
+{
+  "slug": "gemini",
+  "term": "Gemini",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Google DeepMind's natively multimodal model family and the assistant of the same name.",
+  "definition": "Gemini is Google DeepMind's family of natively multimodal large language models, designed to handle text, images, audio, and video within a single architecture, along with the consumer assistant of the same name. The family spans capability and efficiency tiers and is integrated across Google products and search. It runs on Google's TPUs (the company's own AI chips) and emphasizes reasoning across these formats and handling long inputs.",
+  "example": null,
+  "related": [
+    "google-deepmind",
+    "gemini-flash",
+    "gemini-ultra",
+    "multimodal-model",
+    "tpu"
+  ]
+}

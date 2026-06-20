@@ -1,0 +1,16 @@
+{
+  "slug": "npu",
+  "term": "Neural Processing Unit",
+  "acronym": "Neural Processing Unit",
+  "category": "Hardware & Systems",
+  "short": "A specialized chip that runs neural network inference efficiently at low power on consumer devices.",
+  "definition": "A Neural Processing Unit (NPU) is a specialized processor designed to accelerate the tensor math of neural networks, particularly inference tasks like image recognition, speech processing, and on-device language models. NPUs are usually integrated into the system-on-chip of phones, tablets, and laptops alongside the CPU and GPU. By offering high throughput at low power, they enable real-time AI features locally without relying on cloud compute.",
+  "example": null,
+  "related": [
+    "inference",
+    "accelerator",
+    "tpu",
+    "phi-silica",
+    "gpu"
+  ]
+}

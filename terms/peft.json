@@ -1,0 +1,16 @@
+{
+  "slug": "peft",
+  "term": "Parameter-Efficient Fine-Tuning",
+  "acronym": "Parameter-Efficient Fine-Tuning",
+  "category": "Training",
+  "short": "Specializing a model by updating only a small fraction of its parameters.",
+  "definition": "Parameter-efficient fine-tuning covers techniques that adapt a model while updating only a tiny fraction of its parameters, leaving the base weights frozen. By inserting or training small add-on parameters, methods like LoRA, prefix tuning, and IA3 cut memory and storage dramatically and make fine-tuning large models practical on modest hardware. PEFT is also the name of a Hugging Face library implementing these methods.",
+  "example": null,
+  "related": [
+    "lora",
+    "qlora",
+    "fine-tuning",
+    "adapter",
+    "prefix-tuning"
+  ]
+}

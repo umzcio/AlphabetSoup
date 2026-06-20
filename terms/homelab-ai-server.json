@@ -1,0 +1,15 @@
+{
+  "slug": "homelab-ai-server",
+  "term": "Homelab AI Server",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A personal or small-team machine built to run AI workloads locally.",
+  "definition": "A homelab AI server is a self-built computing system, typically using one or more consumer or prosumer GPUs along with fast storage, capable networking, and strong cooling, run by an individual or small team. It is used for local model inference, light fine-tuning, retrieval (RAG) experiments that let a model look things up, and learning how AI systems work hands-on. Enthusiasts often pair platforms like Proxmox or TrueNAS with serving tools such as Ollama or vLLM.",
+  "example": null,
+  "related": [
+    "ollama",
+    "vllm",
+    "gpu",
+    "inference"
+  ]
+}

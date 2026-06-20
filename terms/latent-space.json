@@ -1,0 +1,16 @@
+{
+  "slug": "latent-space",
+  "term": "Latent Space",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A compressed internal vector space where a model represents the patterns in its data.",
+  "definition": "Latent space is a kind of internal map (a space with many dimensions, each input stored as a long list of numbers) in which a model encodes its inputs as compact representations. Similar inputs land near each other and dissimilar ones far apart, so distances and directions can carry meaning. Autoencoders, diffusion models, and language-model embeddings all operate in such spaces, which makes latent representations useful for semantic search and other comparisons.",
+  "example": null,
+  "related": [
+    "embedding",
+    "representation-learning",
+    "autoencoder",
+    "diffusion-model",
+    "semantic-search"
+  ]
+}

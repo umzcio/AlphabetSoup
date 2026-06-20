@@ -1,0 +1,15 @@
+{
+  "slug": "ai-governance",
+  "term": "AI Governance",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The rules, institutions, and processes that shape how AI is built and deployed.",
+  "definition": "AI governance covers the rules, institutions, and processes — from company policies to laws and international standards — that shape how AI systems are built and deployed. It addresses transparency, accountability, risk management, and compliance. The aim is to set expectations and oversight so that development and use stay within agreed bounds as capabilities and applications expand.",
+  "example": null,
+  "related": [
+    "ai-safety",
+    "alignment",
+    "data-governance",
+    "guardrails"
+  ]
+}

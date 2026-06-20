@@ -1,0 +1,16 @@
+{
+  "slug": "torch-compile",
+  "term": "torch.compile",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "A PyTorch function that compiles a model into faster fused kernels.",
+  "definition": "torch.compile is a PyTorch function that traces a model and compiles it into optimized, fused kernels for faster execution, without rewriting the model code. It captures the computation graph and hands it to a backend compiler that reduces overhead and memory traffic. It is a standard way to speed up PyTorch training and inference with minimal effort.",
+  "example": null,
+  "related": [
+    "pytorch",
+    "cuda-kernel",
+    "triton",
+    "tensorrt",
+    "inference-engine"
+  ]
+}

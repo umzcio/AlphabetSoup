@@ -1,0 +1,15 @@
+{
+  "slug": "depth-estimation",
+  "term": "Depth Estimation",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Predicting how far each point in a scene is from the camera.",
+  "definition": "Depth estimation predicts the distance from the camera to each point in a scene. Single-camera methods guess depth from one image using patterns learned from past scenes, while two-camera or multi-view methods work it out from how the scene shifts between viewpoints. It is a key part of 3D understanding and feeds robot navigation, augmented reality, and self-driving car systems.",
+  "example": null,
+  "related": [
+    "computer-vision",
+    "image-segmentation",
+    "object-detection",
+    "3d-generation"
+  ]
+}

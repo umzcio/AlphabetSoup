@@ -1,0 +1,16 @@
+{
+  "slug": "phi",
+  "term": "Phi",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Microsoft's family of small language models built on carefully curated training data.",
+  "definition": "Phi is Microsoft Research's family of small language models that emphasizes high-quality training data, including curated synthetic data and textbook-style material, to achieve strong reasoning and coding performance for their size. Models range from a few billion to around fourteen billion parameters (the internal numbers a model learns) and are released as open weights, meaning anyone can download and run them. They are aimed at efficient use on phones, laptops, and other hardware with limited memory or budget.",
+  "example": null,
+  "related": [
+    "microsoft",
+    "synthetic-data",
+    "data-curation",
+    "open-weights",
+    "phi-silica"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "accelerate",
+  "term": "Accelerate",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Hugging Face library that runs the same PyTorch training script across CPUs, GPUs, and Google's AI chips.",
+  "definition": "Accelerate is a Hugging Face library that hides the repetitive setup of training a model across many processors at once in PyTorch. With a few lines of code, one training script can run on a single CPU, a multi-GPU server, or a pod of Google's specialized AI chips (TPUs) without rewriting the core loop. It works with helper systems like DeepSpeed and FSDP that spread the work across machines.",
+  "example": null,
+  "related": [
+    "pytorch",
+    "deepspeed",
+    "mixed-precision",
+    "distributed-training",
+    "hugging-face-transformers"
+  ]
+}

@@ -4,7 +4,7 @@
   "acronym": "Mixture of Experts",
   "category": "Architectures",
   "short": "A model with many expert sub-networks, only a few of which run per token.",
-  "definition": "A Mixture of Experts model contains many specialized sub-networks ('experts') and a router that activates only a small subset for each token. This sparse activation gives the capacity of a very large model while keeping the compute per token low, which is why many frontier models use MoE designs.",
+  "definition": "A Mixture of Experts model contains many specialized sub-networks ('experts') and a router that switches on only a small subset for each token. Using just a few experts at a time gives the capacity of a very large model while keeping the work done per token low, which is why many frontier models use MoE designs.",
   "example": null,
   "related": [
     "transformer",

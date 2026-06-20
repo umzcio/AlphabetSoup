@@ -1,0 +1,16 @@
+{
+  "slug": "rouge",
+  "term": "ROUGE",
+  "acronym": "Recall-Oriented Understudy for Gisting Evaluation",
+  "category": "Evaluation",
+  "short": "A text-overlap metric family used mainly to score summarization against references.",
+  "definition": "ROUGE is a family of automatic metrics for evaluating summarization and text generation by measuring overlap with one or more human-written reference texts. Common variants count shared n-grams (runs of consecutive words, as in ROUGE-N) or the longest run of words appearing in the same order in both (ROUGE-L). Like BLEU, it rewards matching the exact words rather than the meaning, so it can be gamed by outputs that echo reference wording and misses valid paraphrases.",
+  "example": null,
+  "related": [
+    "bleu",
+    "summarization",
+    "ngram-matching",
+    "bertscore",
+    "evaluation"
+  ]
+}

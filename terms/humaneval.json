@@ -1,0 +1,16 @@
+{
+  "slug": "humaneval",
+  "term": "HumanEval",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A code-generation benchmark that checks generated Python against hidden unit tests.",
+  "definition": "HumanEval is a code-generation benchmark of hand-written Python problems, each given as the opening line of a function plus a written description of what it should do. A model's solution is run against hidden test cases, so it is graded on whether the code actually works rather than on text similarity. It popularized the pass-at-k metric (the chance at least one of k attempts passes) and, like other early benchmarks, has grown easy for strong models, pushing the field toward harder coding tests.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "pass-at-k",
+    "swe-bench",
+    "evaluation",
+    "codex"
+  ]
+}

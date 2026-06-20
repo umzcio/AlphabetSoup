@@ -1,0 +1,16 @@
+{
+  "slug": "lm-eval-harness",
+  "term": "LM Evaluation Harness",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "EleutherAI's open framework for running language models across many standard benchmarks.",
+  "definition": "The LM Evaluation Harness is an open-source framework from EleutherAI that gives a single, reproducible interface for running language models through hundreds of benchmarks, including MMLU, ARC, HellaSwag, GSM8K, and TruthfulQA. It supports models from Hugging Face, API providers, and local backends, and serves as the evaluation backbone behind the Open LLM Leaderboard. Its consistency has made it a community standard for comparing open models.",
+  "example": null,
+  "related": [
+    "evaluation",
+    "benchmark",
+    "mmlu",
+    "hellaswag",
+    "eleutherai"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "golden-dataset",
+  "term": "Golden Dataset",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A trusted, fixed evaluation set with carefully verified expected outcomes.",
+  "definition": "A golden dataset is a trusted evaluation set whose expected outputs have been carefully verified and held fixed. Teams run models against it to track quality over time and catch regressions (cases where a change makes results worse), since the answers are stable and reliable. It serves as a reference standard, so the care taken in building it sets a ceiling on how meaningful the results can be.",
+  "example": null,
+  "related": [
+    "ground-truth",
+    "holdout-set",
+    "evaluation",
+    "regression-test",
+    "benchmark"
+  ]
+}

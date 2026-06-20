@@ -1,0 +1,15 @@
+{
+  "slug": "cohere-for-ai",
+  "term": "Cohere For AI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "Cohere's nonprofit research arm focused on open, multilingual machine learning research.",
+  "definition": "Cohere For AI is the nonprofit research arm of Cohere, founded in 2022. It focuses on open academic research in machine learning, with an emphasis on problems underserved by commercial work such as multilingual NLP (getting computers to handle many human languages) and model efficiency. It publishes datasets including the Aya multilingual instruction collection and supports researchers through grant programs, operating separately from Cohere's commercial products.",
+  "example": null,
+  "related": [
+    "cohere",
+    "multilingual-data",
+    "instruction-dataset",
+    "open-source-ai"
+  ]
+}

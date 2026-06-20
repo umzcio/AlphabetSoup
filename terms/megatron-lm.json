@@ -1,0 +1,16 @@
+{
+  "slug": "megatron-lm",
+  "term": "Megatron-LM",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "NVIDIA's framework for training very large language models with combined parallelism strategies.",
+  "definition": "Megatron-LM is an open-source framework from NVIDIA Research for training large language models efficiently. It implements tensor parallelism, pipeline parallelism, and data parallelism together — sometimes called 3D parallelism — within an optimized PyTorch codebase, splitting both the model and the workload across many GPUs. Many of the largest publicly released models have been trained using Megatron-LM or frameworks derived from it.",
+  "example": null,
+  "related": [
+    "tensor-parallelism",
+    "pipeline-parallelism",
+    "data-parallelism",
+    "distributed-training",
+    "deepspeed"
+  ]
+}

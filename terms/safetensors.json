@@ -1,0 +1,16 @@
+{
+  "slug": "safetensors",
+  "term": "Safetensors",
+  "acronym": null,
+  "category": "Data",
+  "short": "A safe, fast file format for storing model weights.",
+  "definition": "Safetensors is a file format for storing model weights (the trained numbers that make up a model), designed to replace older save formats that can run hidden, arbitrary code when a file is opened. It stores only the number data and basic labels, which removes that danger, and lets a program read the numbers straight from the file into memory without copying them first. That makes serving engines load large weights quickly, reducing startup time.",
+  "example": null,
+  "related": [
+    "weights",
+    "open-weights",
+    "gguf",
+    "hugging-face",
+    "checkpoint"
+  ]
+}

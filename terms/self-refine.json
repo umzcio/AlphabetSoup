@@ -1,0 +1,14 @@
+{
+  "slug": "self-refine",
+  "term": "Self-Refine Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Having a model critique its own answer and revise it for the better.",
+  "definition": "Self-refine prompting asks a model to produce an initial answer, then generate a critique of it, and finally write a revised version that incorporates that feedback. The loop can run for several rounds. It is a simple way to lift quality on complex or creative tasks without external tools or extra models, at the cost of extra processing and a slower response.",
+  "example": null,
+  "related": [
+    "reflection",
+    "constitutional-prompting",
+    "chain-of-thought"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "gsm8k",
+  "term": "GSM8K",
+  "acronym": "Grade School Math 8K",
+  "category": "Evaluation",
+  "short": "A dataset of grade-school math word problems testing multi-step arithmetic reasoning.",
+  "definition": "GSM8K is a dataset of several thousand grade-school math word problems, each requiring a handful of basic arithmetic steps to solve. It became a key benchmark for multi-step numerical reasoning in language models and helped demonstrate the value of chain-of-thought prompting (having the model show its work step by step). Strong reasoning models now score very high on it, so it serves more as a baseline than a frontier test.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "chain-of-thought",
+    "reasoning-model",
+    "aime",
+    "evaluation"
+  ]
+}

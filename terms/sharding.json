@@ -1,0 +1,16 @@
+{
+  "slug": "sharding",
+  "term": "Sharding",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Splitting data or model state into pieces spread across multiple devices.",
+  "definition": "Sharding is the practice of splitting data or model state into pieces, called shards, and distributing them across multiple devices or machines. In large-model training it lets weights, gradients, and optimizer state that would not fit on one GPU be spread over many, with each device holding only its portion. This reduces per-device memory pressure and underpins techniques for training and serving models too large for a single accelerator.",
+  "example": null,
+  "related": [
+    "model-parallelism",
+    "tensor-parallelism",
+    "distributed-training",
+    "deepspeed",
+    "data-parallelism"
+  ]
+}

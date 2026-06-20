@@ -1,0 +1,16 @@
+{
+  "slug": "onnx",
+  "term": "ONNX",
+  "acronym": "Open Neural Network Exchange",
+  "category": "Frameworks & Tools",
+  "short": "An open standard for representing trained models so they run across tools and hardware.",
+  "definition": "ONNX is an open standard for representing trained machine learning models in a framework-neutral format. A model built in one tool — such as PyTorch — can be exported to ONNX and then run in another framework or on an optimized runtime. It is widely used to deploy models across diverse hardware without rewriting them.",
+  "example": null,
+  "related": [
+    "onnx-runtime",
+    "pytorch",
+    "tensorflow",
+    "model-compression",
+    "inference"
+  ]
+}

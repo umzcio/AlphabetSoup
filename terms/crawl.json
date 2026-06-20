@@ -1,0 +1,16 @@
+{
+  "slug": "crawl",
+  "term": "Web Crawl",
+  "acronym": null,
+  "category": "Data",
+  "short": "Automated large-scale retrieval of web pages by a bot that follows links across the internet.",
+  "definition": "A web crawl is the automated, large-scale retrieval of web pages by a bot that follows hyperlinks across the internet. The raw HTML it collects is parsed, filtered, and cleaned to produce text or multimodal datasets for pretraining. Common Crawl is the dominant public archive of crawl data, and the quality of crawling, deduplication, and filtering strongly affects downstream model quality.",
+  "example": null,
+  "related": [
+    "common-crawl",
+    "web-scraping",
+    "pretraining-corpus",
+    "data-filtering",
+    "dataset"
+  ]
+}

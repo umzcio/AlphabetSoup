@@ -1,0 +1,16 @@
+{
+  "slug": "gpt-oss",
+  "term": "gpt-oss",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's open-weight model line, released for developers to download and run.",
+  "definition": "gpt-oss is OpenAI's open-weight model line, released so developers can download and run the models on their own hardware, in contrast to the company's hosted GPT models served only through an API. It marked OpenAI's return to releasing open weights after years of API-only models. Specifics of the lineup are worth verifying as they evolve.",
+  "example": null,
+  "related": [
+    "openai",
+    "gpt",
+    "open-weights",
+    "open-source-ai",
+    "weights"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "machine-learning",
+  "term": "Machine Learning",
+  "acronym": "ML",
+  "category": "Foundations",
+  "short": "The part of AI where systems learn patterns from data instead of following hand-written rules.",
+  "definition": "Machine learning is the part of AI where a system improves at a task by finding patterns in example data rather than following rules a programmer wrote by hand. It covers supervised, unsupervised, and reinforcement learning. Training adjusts a model's internal numbers (parameters) to minimize error on examples, after which the model generalizes to new inputs.",
+  "example": null,
+  "related": [
+    "artificial-intelligence",
+    "deep-learning",
+    "supervised-learning",
+    "unsupervised-learning",
+    "reinforcement-learning"
+  ]
+}

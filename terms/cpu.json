@@ -1,0 +1,15 @@
+{
+  "slug": "cpu",
+  "term": "CPU",
+  "acronym": "Central Processing Unit",
+  "category": "Hardware & Systems",
+  "short": "A general-purpose processor that handles a broad range of computing tasks.",
+  "definition": "A CPU is a general-purpose processor with a handful of fast, flexible cores that runs the wide variety of tasks a computer performs, from operating systems to application logic. In AI systems it orchestrates work, prepares data, and feeds the heavy math to accelerators like GPUs. Because it has far fewer parallel cores than a GPU, it is slower at the dense matrix operations that dominate deep learning.",
+  "example": null,
+  "related": [
+    "gpu",
+    "accelerator",
+    "host-device-transfer",
+    "compute-node"
+  ]
+}

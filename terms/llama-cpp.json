@@ -1,0 +1,16 @@
+{
+  "slug": "llama-cpp",
+  "term": "llama.cpp",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source C/C++ project for running language models on everyday hardware.",
+  "definition": "llama.cpp is an open-source C and C++ project for running large language models efficiently on everyday hardware, including CPUs and consumer GPUs. It relies heavily on quantization to shrink models so they fit in limited memory, and it introduced the GGUF model format now used widely for local inference. It powers many local-AI tools and desktop applications.",
+  "example": null,
+  "related": [
+    "gguf",
+    "quantization",
+    "ollama",
+    "lm-studio",
+    "inference"
+  ]
+}

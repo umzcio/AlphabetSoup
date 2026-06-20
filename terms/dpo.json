@@ -1,0 +1,16 @@
+{
+  "slug": "dpo",
+  "term": "Direct Preference Optimization",
+  "acronym": "Direct Preference Optimization",
+  "category": "Training",
+  "short": "Aligning a model directly from preferred-versus-rejected response pairs, without a reward model.",
+  "definition": "Direct Preference Optimization improves a model using pairs of responses where one is preferred over the other, adjusting the model directly toward the preferred answers. It is set up so the model itself implicitly judges quality, giving a simple training target. This avoids the separate scoring model and the trial-and-error reinforcement learning of classic RLHF (training a model from human ratings of its answers), making the process simpler and more stable.",
+  "example": null,
+  "related": [
+    "rlhf",
+    "preference-learning",
+    "preference-data",
+    "reward-model",
+    "ppo"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "safety-filter",
+  "term": "Safety Filter / Classifier",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A lightweight model or rule set that screens inputs and outputs for unsafe content.",
+  "definition": "A safety filter is a lightweight model or set of rules deployed in production pipelines to detect and handle toxic, hateful, sexual, violent, or otherwise policy-violating content in user inputs or model outputs. It can block, rewrite, or route content for human review. Safety filters form a layer of defense alongside model-level alignment, since neither approach catches every case on its own.",
+  "example": null,
+  "related": [
+    "safety-classifier",
+    "moderation-model",
+    "guardrails",
+    "toxicity"
+  ]
+}

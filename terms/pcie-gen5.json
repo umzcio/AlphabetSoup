@@ -1,0 +1,16 @@
+{
+  "slug": "pcie-gen5",
+  "term": "PCIe Gen5",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "The current mainstream PCIe generation, offering higher bandwidth for AI servers.",
+  "definition": "PCIe Gen5 is the fifth-generation version of the PCIe bus, providing roughly double the bandwidth of the previous generation for connecting GPUs, accelerators, and storage to a CPU. It is the common interconnect in current AI servers, helping reduce the cost of moving data on and off the accelerators. Faster GPU-to-GPU links such as NVLink still sit alongside it for tightly coupled multi-GPU work.",
+  "example": null,
+  "related": [
+    "pcie",
+    "nvlink",
+    "interconnect",
+    "host-device-transfer",
+    "gpu"
+  ]
+}

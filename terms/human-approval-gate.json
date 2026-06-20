@@ -1,0 +1,15 @@
+{
+  "slug": "human-approval-gate",
+  "term": "Human Approval Gate",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A required human checkpoint before a risky action is allowed to proceed.",
+  "definition": "A human approval gate is a checkpoint where an agent must pause and get explicit human sign-off before taking a risky or irreversible action, such as sending money, deleting data, or publishing content. It places a person in control at the moments that matter most while letting routine steps run automatically. Gates are a common way to add oversight without supervising every step.",
+  "example": null,
+  "related": [
+    "human-in-the-loop",
+    "human-on-the-loop",
+    "guardrails",
+    "agent"
+  ]
+}

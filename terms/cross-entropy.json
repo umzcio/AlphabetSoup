@@ -1,0 +1,15 @@
+{
+  "slug": "cross-entropy",
+  "term": "Cross-Entropy",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A loss that measures how far a predicted probability distribution is from the true one.",
+  "definition": "Cross-entropy is a loss function that measures how well a predicted probability distribution matches the true distribution, penalizing confident wrong predictions heavily. For language models it scores how much probability the model assigns to the correct next token, with lower values meaning better predictions. It is the standard training objective for classification and language modeling, and perplexity is its exponentiated average.",
+  "example": null,
+  "related": [
+    "loss-function",
+    "perplexity-metric",
+    "softmax",
+    "classification"
+  ]
+}

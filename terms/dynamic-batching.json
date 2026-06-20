@@ -1,0 +1,16 @@
+{
+  "slug": "dynamic-batching",
+  "term": "Dynamic Batching",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Forming batches from requests as they arrive instead of waiting for a fixed count.",
+  "definition": "Dynamic batching collects incoming requests over a short window and groups them into a batch without waiting for a fixed count. This makes better use of the GPU (the chip that runs the model) than static batching when request rates vary, reducing idle time. It differs from continuous batching in that each batch is still run as one whole unit rather than swapping requests in and out word by word. Model servers such as Triton support it natively.",
+  "example": null,
+  "related": [
+    "static-batching",
+    "continuous-batching",
+    "batching",
+    "triton-inference-server",
+    "throughput"
+  ]
+}

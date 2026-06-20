@@ -1,0 +1,16 @@
+{
+  "slug": "streaming-response",
+  "term": "Streaming Response",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "A reply delivered incrementally, one token at a time, as the model generates it.",
+  "definition": "A streaming response is a reply sent to the client incrementally, with each newly generated token delivered immediately rather than after the whole output is complete. This sharply improves perceived latency on long outputs in chat, coding, and agentic applications. Modern serving systems and frontends implement it over Server-Sent Events or similar protocols, and most user-facing applications expect it by default.",
+  "example": null,
+  "related": [
+    "streaming",
+    "ttft",
+    "tpot",
+    "latency",
+    "openai-api"
+  ]
+}

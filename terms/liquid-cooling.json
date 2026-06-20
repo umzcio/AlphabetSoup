@@ -1,0 +1,16 @@
+{
+  "slug": "liquid-cooling",
+  "term": "Liquid Cooling",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Using circulating liquid to remove heat from dense AI hardware far more efficiently than air.",
+  "definition": "Liquid cooling moves heat away from chips using a circulating fluid instead of forced air, either piped directly to a cold plate on each chip (direct-to-chip) or by submerging hardware entirely (immersion). As GPU power densities have climbed, air cooling struggles to keep pace, so liquid cooling has become common in large-scale training clusters and high-performance inference servers.",
+  "example": null,
+  "related": [
+    "gpu",
+    "datacenter",
+    "accelerator",
+    "cluster",
+    "blackwell"
+  ]
+}

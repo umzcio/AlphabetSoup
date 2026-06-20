@@ -1,0 +1,15 @@
+{
+  "slug": "moderation-model",
+  "term": "Moderation Model",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A model that classifies text or images for content policy violations.",
+  "definition": "A moderation model is a classifier that scores prompts or responses against content policy categories such as hate, harassment, violence, or sexual content. It runs alongside a main model to flag, block, or route risky inputs and outputs for handling. Moderation models are a common building block of guardrail systems, though they can both miss violations and over-flag benign content.",
+  "example": null,
+  "related": [
+    "safety-classifier",
+    "safety-filter",
+    "guardrails",
+    "toxicity"
+  ]
+}

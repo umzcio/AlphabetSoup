@@ -1,0 +1,15 @@
+{
+  "slug": "groq",
+  "term": "Groq",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "An AI hardware company whose LPU chip runs AI models very fast, with little delay.",
+  "definition": "Groq is an AI hardware company, founded in 2016 by former Google engineers, that designs the Language Processing Unit (LPU), a custom chip built only to run trained AI models (not train them). Its predictable, step-by-step design avoids the unpredictable timing of general-purpose graphics chips (GPUs), so it generates words quickly and with little delay. Groq runs GroqCloud, a service that lets developers use open models on LPU hardware.",
+  "example": null,
+  "related": [
+    "cerebras",
+    "sambanova",
+    "inference",
+    "latency"
+  ]
+}

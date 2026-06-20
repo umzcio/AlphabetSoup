@@ -1,0 +1,15 @@
+{
+  "slug": "zero-shot-prompting",
+  "term": "Zero-Shot Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Giving a model just an instruction and input, with no worked examples.",
+  "definition": "Zero-shot prompting gives a model only an instruction and the input, with no worked examples of the task. It relies entirely on what the model learned during pretraining and instruction tuning to generalize to the request. It is the simplest and most common way people interact with these systems, and it works well for straightforward tasks; when it falls short, few-shot or chain-of-thought prompting can be added.",
+  "example": null,
+  "related": [
+    "few-shot",
+    "one-shot-learning",
+    "in-context-learning",
+    "instruction-following"
+  ]
+}

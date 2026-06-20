@@ -1,0 +1,16 @@
+{
+  "slug": "accuracy",
+  "term": "Accuracy",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "The share of a model's predictions that are correct against known answers.",
+  "definition": "Accuracy is the fraction of predictions a model gets right, measured against ground-truth answers. It is simple and intuitive, which makes it a default metric for classification and multiple-choice tasks. On imbalanced data it can mislead, since a model can score high by always predicting the majority class, so it is often reported alongside precision, recall, and F1.",
+  "example": null,
+  "related": [
+    "precision",
+    "recall",
+    "f1-score",
+    "ground-truth",
+    "evaluation"
+  ]
+}

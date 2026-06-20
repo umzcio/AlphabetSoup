@@ -1,0 +1,16 @@
+{
+  "slug": "decoder-only",
+  "term": "Decoder-Only",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A Transformer design using only the generating half, predicting each token from those before it.",
+  "definition": "A decoder-only model keeps just the generating half of the Transformer and uses causal attention, so each token attends only to itself and the tokens before it. This makes it naturally suited to autoregressive text generation. The GPT family popularized the design, and it now dominates large language models. Despite the name, decoder-only models also handle understanding tasks well when given appropriate prompts.",
+  "example": null,
+  "related": [
+    "encoder-only",
+    "encoder-decoder",
+    "autoregressive-model",
+    "masked-attention",
+    "transformer"
+  ]
+}

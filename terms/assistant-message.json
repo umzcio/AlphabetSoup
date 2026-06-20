@@ -1,0 +1,15 @@
+{
+  "slug": "assistant-message",
+  "term": "Assistant Message",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A message with the assistant role, holding the model's reply in the conversation.",
+  "definition": "An assistant message is a turn in the chat format carrying the model's own output, tagged with the 'assistant' role. Alongside system and user messages, it forms the structured history the model reads back each turn, so earlier replies stay visible as context for later turns. Applications also insert assistant messages by hand to seed a desired format or steer the next response.",
+  "example": null,
+  "related": [
+    "user-prompt",
+    "system-prompt",
+    "prompt-template",
+    "llm"
+  ]
+}

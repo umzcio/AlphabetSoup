@@ -1,0 +1,16 @@
+{
+  "slug": "disaggregated-serving",
+  "term": "Disaggregated Serving",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Splitting prefill and decode onto separate hardware pools so each scales on its own.",
+  "definition": "Disaggregated serving splits the two phases of LLM inference onto separate hardware pools: prefill, the calculation-heavy work of reading in the prompt, and decode, the generation of output one word at a time, which is limited mainly by memory speed. Separating them lets each phase be scaled and tuned on its own, making better use of the GPUs (the chips that run the model) and supporting longer contexts or more simultaneous users than serving both phases together. It is used in large-scale production deployments with mixed workloads.",
+  "example": null,
+  "related": [
+    "disaggregated-prefill",
+    "prefill",
+    "decode",
+    "kv-cache",
+    "throughput"
+  ]
+}

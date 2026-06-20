@@ -1,0 +1,15 @@
+{
+  "slug": "negative-prompting",
+  "term": "Negative Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Telling a model what to avoid so it steers away from unwanted output.",
+  "definition": "Negative prompting specifies undesired content, styles, or formats so a model steers away from them. In text this looks like 'Do not use bullet points' or 'Avoid jargon'; in image models such as Stable Diffusion, a negative prompt is a first-class parameter that pushes the diffusion process away from terms like 'blurry' or 'low quality'. It works best paired with positive instructions, and can sharpen results when a model's defaults miss the goal.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "stable-diffusion",
+    "diffusion-model",
+    "guidance"
+  ]
+}

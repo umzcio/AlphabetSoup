@@ -1,0 +1,16 @@
+{
+  "slug": "temperature",
+  "term": "Temperature",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "A sampling setting that controls how random or focused a model's output is.",
+  "definition": "Temperature adjusts the model's raw scores for each possible next word before it picks one, controlling how random that choice is. Values below one sharpen the odds toward the likeliest words, making the model more predictable and conservative, while values above one even them out, increasing variety and creativity. A temperature near zero makes the model almost always take its single top choice. It is a key knob for balancing factual reliability against diversity, and is often paired with top-p sampling.",
+  "example": null,
+  "related": [
+    "sampling",
+    "top-p-sampling",
+    "top-k-sampling",
+    "greedy-decoding",
+    "logits"
+  ]
+}

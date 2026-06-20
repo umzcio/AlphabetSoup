@@ -1,0 +1,15 @@
+{
+  "slug": "hierarchical-agent",
+  "term": "Hierarchical Agent",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A manager agent that splits goals into subtasks for specialized worker agents.",
+  "definition": "A hierarchical agent uses a top-level manager or planner that breaks a complex goal into subtasks and assigns each to a specialized worker agent with its own tools and instructions. The manager coordinates the workers, tracks progress, and integrates their results. This structure tends to scale better than a single flat loop for long-horizon projects and multi-step enterprise workflows.",
+  "example": null,
+  "related": [
+    "orchestrator-worker",
+    "multi-agent-system",
+    "orchestrator",
+    "planner-executor"
+  ]
+}

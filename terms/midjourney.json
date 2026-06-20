@@ -1,0 +1,16 @@
+{
+  "slug": "midjourney",
+  "term": "Midjourney",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A proprietary text-to-image service known for its distinctive, aesthetic output.",
+  "definition": "Midjourney is a proprietary text-to-image service from the independent lab Midjourney, Inc. that generates stylistically distinctive, often photorealistic images from natural language prompts. It is known for iterative prompting and upscaling and has historically been accessed through Discord and its own web interface rather than a public API. It runs on a subscription model and does not release its model weights, and is widely used by artists and designers.",
+  "example": null,
+  "related": [
+    "text-to-image",
+    "image-generation",
+    "diffusion-model",
+    "stable-diffusion",
+    "dall-e"
+  ]
+}

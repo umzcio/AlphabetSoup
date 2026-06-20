@@ -1,0 +1,16 @@
+{
+  "slug": "o3",
+  "term": "o3",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's high-capability reasoning model that thinks through problems before answering.",
+  "definition": "o3 is a reasoning model from OpenAI that spends extra computation while answering, working through an extended chain of thought (writing out its reasoning step by step) before giving a final answer. Unlike standard models that reply in one quick pass, it trades speed and cost for stronger performance on hard problems in mathematics, science, and coding. It is positioned as one of OpenAI's highest-capability models, costing more than faster general models.",
+  "example": null,
+  "related": [
+    "openai",
+    "reasoning-model",
+    "chain-of-thought",
+    "test-time-compute",
+    "o4-mini"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "leaderboard",
+  "term": "Leaderboard",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A ranked display of models by their scores on shared benchmarks or human preference.",
+  "definition": "A leaderboard ranks models by their performance on shared benchmarks or by aggregated human preference, making comparison easy and visible. Some compile standardized academic benchmarks, while others, like preference arenas, rank models from blind head-to-head votes. Popular leaderboards draw attention and influence adoption, but they can encourage over-optimizing for the specific tests they use.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "chatbot-arena",
+    "elo-rating",
+    "evaluation",
+    "lmarena"
+  ]
+}

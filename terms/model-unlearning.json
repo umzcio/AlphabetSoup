@@ -1,0 +1,15 @@
+{
+  "slug": "model-unlearning",
+  "term": "Model Unlearning",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Removing or reducing the influence of selected training data on a trained model.",
+  "definition": "Model unlearning is the process of removing or reducing the effect of selected training data on a model after it has already been trained, without retraining from scratch. It is used to honor data deletion requests, strip out copyrighted or private content, or erase harmful capabilities. Verifying that the information is truly gone, rather than merely suppressed, remains a hard open problem.",
+  "example": null,
+  "related": [
+    "fine-tuning",
+    "privacy-risk",
+    "differential-privacy",
+    "training-data"
+  ]
+}

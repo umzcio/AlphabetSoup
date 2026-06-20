@@ -1,0 +1,16 @@
+{
+  "slug": "gptq",
+  "term": "GPTQ",
+  "acronym": "GPTQ",
+  "category": "Optimization",
+  "short": "A method that shrinks a trained model by storing its weights with fewer digits, with little accuracy loss.",
+  "definition": "GPTQ is a quantization technique — it shrinks a model by storing each of its weights with fewer digits, such as 4 bits each — applied in one pass after training while keeping accuracy high. It works layer by layer, using a math method that estimates and corrects the error each rounding step introduces. This lets even very large models be shrunk in a few hours on a single GPU, and it is widely supported for cheaper deployment.",
+  "example": null,
+  "related": [
+    "quantization",
+    "awq",
+    "post-training-quantization",
+    "low-precision-inference",
+    "int8"
+  ]
+}

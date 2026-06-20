@@ -1,0 +1,15 @@
+{
+  "slug": "inpainting",
+  "term": "Inpainting",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Filling in masked or missing parts of an image so the result looks seamless.",
+  "definition": "Inpainting rebuilds missing, damaged, or marked-off parts of an image so the result looks seamless. Older methods copied nearby patterns to patch the gap, while modern ones let an image-making AI study the surrounding picture and the marked area, then generate a fill that matches its context. It is used for photo repair, removing unwanted content, and as a training exercise for text-to-image models.",
+  "example": null,
+  "related": [
+    "image-editing",
+    "image-to-image",
+    "diffusion-model",
+    "stable-diffusion"
+  ]
+}

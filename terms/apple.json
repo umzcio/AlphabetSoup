@@ -1,0 +1,15 @@
+{
+  "slug": "apple",
+  "term": "Apple",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A consumer tech company emphasizing private, on-device AI through its custom silicon.",
+  "definition": "Apple is a consumer technology company that emphasizes on-device AI, running models on user hardware so data does not leave the device. Its custom M and A series chips include a Neural Engine that speeds up the running of AI models. Apple Intelligence is its system-level feature set covering writing, image generation, and Siri, using local models and a Private Cloud Compute service for larger tasks.",
+  "example": null,
+  "related": [
+    "npu",
+    "inference",
+    "open-weights",
+    "mlx"
+  ]
+}

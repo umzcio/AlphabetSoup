@@ -1,0 +1,16 @@
+{
+  "slug": "knowledge-graph",
+  "term": "Knowledge Graph",
+  "acronym": "KG",
+  "category": "Optimization",
+  "short": "A network of entities and labeled relationships that machines can reason over.",
+  "definition": "A knowledge graph represents real-world things (such as people, places, or companies) as points and the relationships between them as labeled links, forming a network of facts a computer can read. Wikidata, Google's Knowledge Graph, and company-internal graphs are common examples. In AI applications, knowledge graphs anchor language model responses in real facts and reduce hallucination (confident made-up answers) by supplying structured context. They complement vector databases when reasoning over connected facts is needed.",
+  "example": null,
+  "related": [
+    "rag",
+    "grounding",
+    "vector-database",
+    "hallucination",
+    "retrieval-augmented-generation"
+  ]
+}

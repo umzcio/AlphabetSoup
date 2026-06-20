@@ -1,0 +1,16 @@
+{
+  "slug": "red-list",
+  "term": "Red-List",
+  "acronym": null,
+  "category": "Data",
+  "short": "A blocklist of terms, domains, or content used to filter training data.",
+  "definition": "A red-list, also called a blocklist, is a collection of words, phrases, domains, or content hashes flagged as harmful, toxic, or policy-violating, used to filter training data. Documents that contain red-listed items above a threshold are removed from the corpus. It is a standard step in cleaning web-crawled data and helps reduce toxic, illegal, or low-quality content in pretraining corpora.",
+  "example": null,
+  "related": [
+    "data-filtering",
+    "data-cleaning",
+    "toxicity",
+    "common-crawl",
+    "data-curation"
+  ]
+}

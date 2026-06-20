@@ -1,0 +1,16 @@
+{
+  "slug": "dynamic-split-fuse",
+  "term": "Dynamic Split-Fuse",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Splitting long prefills into chunks and fusing them with decode steps in one batch.",
+  "definition": "Dynamic split-fuse is a scheduling technique that breaks the long work of reading in a prompt (the prefill phase) into fixed-size chunks and blends those chunks into the same batch as the token-by-token generation (decode) of other requests. Mixing heavy prompt reading with light word generation in one pass removes idle gaps and keeps the GPU (the chip that runs the model) busy. The result is steadier response times and more total work done than handling the two phases separately.",
+  "example": null,
+  "related": [
+    "chunked-prefill",
+    "prefill",
+    "decode",
+    "continuous-batching",
+    "throughput"
+  ]
+}

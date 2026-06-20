@@ -1,0 +1,16 @@
+{
+  "slug": "benchmark-contamination",
+  "term": "Benchmark Contamination",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "When test questions leak into training data, inflating scores through memorization.",
+  "definition": "Benchmark contamination occurs when benchmark questions or answers appear in a model's training data, so high scores reflect memorization rather than genuine ability. It undermines fair comparison, since a contaminated model can look stronger than it is. The problem motivates fresh, private, or frequently rotated test sets and careful checks of the text a model was trained on.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "evaluation",
+    "evaluation-contamination",
+    "training-data",
+    "leaderboard"
+  ]
+}

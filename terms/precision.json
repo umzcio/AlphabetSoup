@@ -1,0 +1,16 @@
+{
+  "slug": "precision",
+  "term": "Precision",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Of the items a system predicted positive, the fraction that were truly positive.",
+  "definition": "Precision is the fraction of a system's positive predictions that are actually correct — true positives divided by all predicted positives. It measures how trustworthy a positive result is and falls when the system flags many false positives. It is usually reported alongside recall, since raising one tends to lower the other, and the two are combined in the F1 score.",
+  "example": null,
+  "related": [
+    "recall",
+    "f1-score",
+    "classification",
+    "evaluation",
+    "accuracy"
+  ]
+}

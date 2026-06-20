@@ -1,0 +1,16 @@
+{
+  "slug": "semantic-router",
+  "term": "Semantic Router",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A router that matches a query's embedding against example phrases to pick a route.",
+  "definition": "A semantic router directs requests by comparing meaning rather than calling a large model. It keeps a set of predefined routes, each tied to example phrases, and turns an incoming query into a list of numbers that captures its meaning (an embedding) to find the closest route. Because comparing these number lists is fast, it dispatches requests in milliseconds and avoids the delay and cost of asking a model to make the routing decision.",
+  "example": null,
+  "related": [
+    "routing",
+    "router-pattern",
+    "routing-agent",
+    "embedding",
+    "semantic-search"
+  ]
+}

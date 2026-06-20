@@ -1,0 +1,14 @@
+{
+  "slug": "perplexity",
+  "term": "Perplexity",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A metric for how surprised a language model is by text; lower means better prediction.",
+  "definition": "Perplexity measures how surprised a language model is by a piece of text, based on the probabilities it assigns — mathematically, the exponentiated cross-entropy loss on a test set. A perplexity of ten means the model was, on average, as uncertain as choosing among ten equally likely options per token. Lower is better, though it does not directly capture usefulness. (The answer-engine company is a separate entry.)",
+  "example": null,
+  "related": [
+    "llm",
+    "mmlu",
+    "token"
+  ]
+}

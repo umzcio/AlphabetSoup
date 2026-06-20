@@ -1,0 +1,16 @@
+{
+  "slug": "litellm",
+  "term": "LiteLLM",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A library and gateway that calls many LLM providers through one OpenAI-style interface.",
+  "definition": "LiteLLM is an open-source Python library that normalizes the calling conventions of many LLM APIs — across providers like OpenAI, Anthropic, Cohere, and local runtimes — behind a single OpenAI-compatible interface. It also ships LiteLLM Proxy, a self-hosted gateway that adds logging, rate limiting, budget management, and load balancing on top of any supported provider. It lets applications switch models without rewriting code.",
+  "example": null,
+  "related": [
+    "openai-compatible-api",
+    "openrouter",
+    "llm",
+    "openai-api",
+    "ollama"
+  ]
+}

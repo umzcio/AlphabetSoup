@@ -1,0 +1,16 @@
+{
+  "slug": "dall-e",
+  "term": "DALL-E",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's family of text-to-image models that generate pictures from descriptions.",
+  "definition": "DALL-E is OpenAI's family of text-to-image models that generate pictures from plain-language descriptions and support editing, variations, and inpainting (redrawing just a selected part of an image). Later versions moved to a diffusion approach (building an image by gradually clearing away random noise) and improved how closely results follow the prompt, partly by training on richer image captions. DALL-E is integrated into ChatGPT and offered through OpenAI's image API, and remains a widely used proprietary image system.",
+  "example": null,
+  "related": [
+    "openai",
+    "text-to-image",
+    "image-generation",
+    "diffusion-model",
+    "inpainting"
+  ]
+}

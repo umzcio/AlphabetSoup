@@ -1,0 +1,16 @@
+{
+  "slug": "grouped-query-attention",
+  "term": "Grouped Query Attention",
+  "acronym": "GQA",
+  "category": "Architectures",
+  "short": "Attention where groups of query heads share a single key-value head to shrink the KV cache.",
+  "definition": "Grouped query attention partitions the query heads into groups, with each group sharing one key-value head pair. It sits between multi-head attention, where every query head has its own keys and values, and multi-query attention, where all heads share one set. By cutting the number of key-value heads, GQA shrinks the KV cache (the model's stored memory of the conversation so far) and speeds inference while preserving most of the quality of full multi-head attention. It is common in recent efficient language models.",
+  "example": null,
+  "related": [
+    "multi-head-attention",
+    "multi-query-attention",
+    "kv-cache",
+    "attention",
+    "inference"
+  ]
+}

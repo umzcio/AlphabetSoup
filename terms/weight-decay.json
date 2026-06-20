@@ -1,0 +1,16 @@
+{
+  "slug": "weight-decay",
+  "term": "Weight Decay",
+  "acronym": null,
+  "category": "Training",
+  "short": "A penalty that shrinks weights slightly each step to reduce overfitting.",
+  "definition": "Weight decay adds a penalty that shrinks all weights slightly at each update, discouraging the model from relying too heavily on any single parameter and reducing overfitting (memorizing the training data instead of learning general patterns). How it interacts with the training method varies; the popular AdamW optimizer applies the shrinkage directly to the weights, which is the recommended approach for modern language model training.",
+  "example": null,
+  "related": [
+    "regularization",
+    "overfitting",
+    "adamw",
+    "adam",
+    "optimizer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "alibi",
+  "term": "ALiBi",
+  "acronym": "ALiBi",
+  "category": "Architectures",
+  "short": "A way to encode token position by penalizing attention to distant tokens instead of adding embeddings.",
+  "definition": "ALiBi (Attention with Linear Biases) handles word position without adding explicit position signals to each token. Instead, it adds a fixed penalty to the attention scores (how strongly one token focuses on another) that grows with the distance between two tokens, so the model attends less to far-apart tokens. The penalty's steepness varies across the model's separate attention channels. Because the scheme is distance-based rather than length-based, models trained with ALiBi handle sequences longer than those seen during training.",
+  "example": null,
+  "related": [
+    "attention",
+    "positional-encoding",
+    "rope",
+    "transformer",
+    "context-extension"
+  ]
+}

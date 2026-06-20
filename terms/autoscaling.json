@@ -1,0 +1,16 @@
+{
+  "slug": "autoscaling",
+  "term": "Autoscaling",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Automatically adding or removing serving capacity as demand rises and falls.",
+  "definition": "Autoscaling adjusts the number of running copies of a model automatically in response to load, adding capacity when traffic spikes and removing it when demand drops. It keeps response times stable under bursty usage while avoiding the cost of running idle hardware. Because loading large models is slow, autoscaling for live serving must contend with cold-start delays — the wait while fresh capacity loads the model.",
+  "example": null,
+  "related": [
+    "cold-start",
+    "latency",
+    "throughput",
+    "concurrency",
+    "model-server"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "privacy-attack",
+  "term": "Privacy Attack",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An attempt to extract private or sensitive information from or through a model.",
+  "definition": "A privacy attack is an attempt to reveal private or sensitive information through a model, such as recovering memorized training examples, inferring whether a record was in the training set, or reconstructing input features. Common forms include training data extraction, membership inference, and model inversion. Defenses include differential privacy, deduplication, and filtering sensitive content out of training data.",
+  "example": null,
+  "related": [
+    "membership-inference",
+    "model-inversion",
+    "privacy-risk",
+    "differential-privacy"
+  ]
+}

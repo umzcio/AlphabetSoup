@@ -1,0 +1,16 @@
+{
+  "slug": "second-order-optimization",
+  "term": "Second-Order Optimization",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Optimization that uses curvature of the loss, not just gradients.",
+  "definition": "Second-order optimization methods use information about the curvature (how steeply the slope itself bends) of the loss surface — through the Hessian matrix or approximations such as L-BFGS or K-FAC — rather than relying on the slope alone. They can converge in fewer steps in principle, but the extra computation and memory make them rarely practical for training large neural networks. They remain useful for smaller models, some fine-tuning, and scientific computing.",
+  "example": null,
+  "related": [
+    "optimizer",
+    "gradient-descent",
+    "sgd",
+    "adam",
+    "loss-function"
+  ]
+}

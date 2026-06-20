@@ -1,0 +1,16 @@
+{
+  "slug": "open-webui",
+  "term": "Open WebUI",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A self-hosted web interface for chatting with local and remote language models.",
+  "definition": "Open WebUI is a self-hosted, browser-based chat interface for language models. It connects to local model runners and to OpenAI-compatible endpoints, giving a single front end for talking to different models with features like conversation history and document upload. It is commonly paired with local serving tools to run a private, ChatGPT-style interface on one's own hardware.",
+  "example": null,
+  "related": [
+    "ollama",
+    "lm-studio",
+    "openai-compatible-api",
+    "homelab-ai-server",
+    "chatbot"
+  ]
+}

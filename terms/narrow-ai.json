@@ -1,0 +1,13 @@
+{
+  "slug": "narrow-ai",
+  "term": "Narrow AI",
+  "acronym": "Weak AI",
+  "category": "Foundations",
+  "short": "AI built for a single task or a tight set of tasks, rather than general intelligence.",
+  "definition": "Narrow AI, sometimes called weak AI, refers to systems built for a single task or a tight set of tasks — translating text, filtering spam, recognizing faces, or playing chess. These systems can beat humans within their niche but lack flexible, cross-domain reasoning. Essentially all AI in production today is narrow, even when it appears broadly capable.",
+  "example": null,
+  "related": [
+    "artificial-intelligence",
+    "machine-learning"
+  ]
+}

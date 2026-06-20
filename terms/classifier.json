@@ -1,0 +1,15 @@
+{
+  "slug": "classifier",
+  "term": "Classifier",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A model that assigns an input to one of a fixed set of categories.",
+  "definition": "A classifier is a model that assigns an input to one of a fixed set of categories. It is trained on labeled examples to learn the boundary between classes, then predicts a label, often with a confidence score, for new inputs. Classifiers underpin tasks from spam detection to image recognition and content moderation.",
+  "example": null,
+  "related": [
+    "classification",
+    "supervised-learning",
+    "discriminative-model",
+    "softmax"
+  ]
+}

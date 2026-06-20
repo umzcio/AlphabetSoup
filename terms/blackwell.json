@@ -1,0 +1,15 @@
+{
+  "slug": "blackwell",
+  "term": "NVIDIA Blackwell",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "NVIDIA's data-center GPU architecture that succeeded Hopper for training and serving large models.",
+  "definition": "NVIDIA Blackwell is the GPU architecture that follows Hopper, including chips such as the B200 and the Grace Blackwell GB200 superchip that pairs GPUs with an NVIDIA CPU. It adds support for very low-precision number formats and larger high-bandwidth memory to train and serve large models more efficiently. It is a mainstream data-center architecture for AI, though newer generations continue to arrive and the landscape shifts quickly.",
+  "example": null,
+  "related": [
+    "nvidia",
+    "h100",
+    "gpu",
+    "hbm"
+  ]
+}

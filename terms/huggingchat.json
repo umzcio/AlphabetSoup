@@ -1,0 +1,15 @@
+{
+  "slug": "huggingchat",
+  "term": "HuggingChat",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Hugging Face's chat product for talking with open large language models.",
+  "definition": "HuggingChat is Hugging Face's chat product, a web interface for conversing with open large language models hosted on its platform. It lets people try and compare community and open-weight models in a chat setting without running them locally, and reflects Hugging Face's focus on open models and tools. Available models change as the open ecosystem evolves.",
+  "example": null,
+  "related": [
+    "hugging-face",
+    "chatbot",
+    "open-weights",
+    "open-source-ai"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "summarization",
+  "term": "Summarization",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Producing a condensed version of a document or conversation that keeps the main points.",
+  "definition": "Summarization is a common task where a model takes a document or conversation and produces a shorter version that captures its main points. Approaches include extractive summarization, which selects key sentences, abstractive summarization, which generates new prose, and hierarchical summarization, which summarizes chunks then combines them. It is a building block of map-reduce pipelines, memory systems, and long-context compression.",
+  "example": null,
+  "related": [
+    "map-reduce",
+    "chunking",
+    "long-context-compression",
+    "memory",
+    "context-window"
+  ]
+}

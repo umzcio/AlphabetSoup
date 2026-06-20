@@ -1,0 +1,16 @@
+{
+  "slug": "batching",
+  "term": "Batching",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Grouping multiple inference requests so the GPU processes them together.",
+  "definition": "Batching groups several inference requests so the GPU (the chip that runs the model) handles them in one pass, spreading fixed setup costs across more work. Static batching waits for a full batch before starting, which wastes time when requests arrive unevenly; dynamic and continuous batching add and remove requests on the fly to address this. Larger batches raise throughput (total work done per second) but use more memory for the KV cache, the model's running notes on the text so far.",
+  "example": null,
+  "related": [
+    "static-batching",
+    "dynamic-batching",
+    "continuous-batching",
+    "throughput",
+    "kv-cache"
+  ]
+}

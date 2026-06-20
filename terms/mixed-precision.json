@@ -1,0 +1,15 @@
+{
+  "slug": "mixed-precision",
+  "term": "Mixed Precision Training",
+  "acronym": null,
+  "category": "Training",
+  "short": "Training in lower-precision formats while keeping sensitive parts in higher precision.",
+  "definition": "Mixed precision training runs most calculations in lower-precision formats like 16-bit floating point (FP16 or BF16) while keeping a master copy of the weights and certain sensitive operations in 32-bit for numerical stability. This roughly halves memory use and speeds up training on hardware with tensor cores, with little loss of accuracy. Automatic mixed precision tools enable it with minimal code changes.",
+  "example": null,
+  "related": [
+    "fp16",
+    "bf16",
+    "tensor-core",
+    "quantization"
+  ]
+}

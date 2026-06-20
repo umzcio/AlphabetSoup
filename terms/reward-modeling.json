@@ -1,0 +1,16 @@
+{
+  "slug": "reward-modeling",
+  "term": "Reward Modeling",
+  "acronym": null,
+  "category": "Training",
+  "short": "Training a model to score or rank outputs by human preference.",
+  "definition": "Reward modeling is the process of training a model to score or rank outputs according to human preferences. Annotators compare pairs of model responses, and the resulting preference data trains a reward model that supplies a reward signal for reinforcement learning. It is a core step in the classic RLHF pipeline, though it can be unstable and is increasingly replaced by direct preference methods.",
+  "example": null,
+  "related": [
+    "reward-model",
+    "rlhf",
+    "preference-data",
+    "ppo",
+    "preference-optimization"
+  ]
+}

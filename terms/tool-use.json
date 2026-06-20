@@ -1,0 +1,15 @@
+{
+  "slug": "tool-use",
+  "term": "Tool Use",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Letting a model delegate subtasks to external systems like search, code, or APIs.",
+  "definition": "Tool use lets a model reach beyond the fixed knowledge baked in during training by handing off subtasks to external systems such as web search, running code, database lookups, file operations, or other software services. The model decides when to call a tool, formats the request, receives the result, and folds it back into its reasoning. It is foundational to agent systems and expands what a model can reliably accomplish.",
+  "example": null,
+  "related": [
+    "tool-calling",
+    "agent",
+    "function-calling",
+    "mcp"
+  ]
+}

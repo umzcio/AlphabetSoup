@@ -1,0 +1,15 @@
+{
+  "slug": "emergent-behavior",
+  "term": "Emergent Behavior",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Abilities that appear with scale and were not explicitly trained for or predicted.",
+  "definition": "Emergent behavior refers to abilities that appear in AI systems, especially large language models, once they reach sufficient scale in parameters, data, or compute, without being explicitly trained for them. Examples include in-context learning, chain-of-thought reasoning, and coding skills that strengthen as models grow. The behavior is observed rather than designed, which makes it hard to predict in advance.",
+  "example": null,
+  "related": [
+    "emergent-abilities",
+    "scaling-laws",
+    "in-context-learning",
+    "foundation-model"
+  ]
+}

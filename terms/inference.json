@@ -1,0 +1,16 @@
+{
+  "slug": "inference",
+  "term": "Inference",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Running a trained model on new inputs to produce outputs.",
+  "definition": "Inference is the act of running a trained model on new inputs to produce results, such as generating a reply to a prompt. It is distinct from training, and because a deployed model serves requests continuously, inference usually dominates the total compute cost at scale. Key measures include latency, throughput, and cost per token.",
+  "example": null,
+  "related": [
+    "latency",
+    "throughput",
+    "kv-cache",
+    "quantization",
+    "speculative-decoding"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "min-p",
+  "term": "Min-P Sampling",
+  "acronym": "Min-P",
+  "category": "Inference & Serving",
+  "short": "Sampling that sets a probability floor relative to the most likely token's probability.",
+  "definition": "Min-P sampling sets a dynamic cutoff by multiplying the top token's probability by a small constant and discarding every token below that threshold. The floor scales with model confidence: when the top token is highly probable, few alternatives survive; when it is uncertain, many remain eligible. This often yields text that is both more coherent and more varied than fixed top-k or top-p alone.",
+  "example": null,
+  "related": [
+    "top-k-sampling",
+    "top-p-sampling",
+    "temperature",
+    "decoding-strategy",
+    "logits"
+  ]
+}

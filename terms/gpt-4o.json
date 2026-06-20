@@ -1,0 +1,16 @@
+{
+  "slug": "gpt-4o",
+  "term": "GPT-4o",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's omni model that handles text, audio, and image in one network.",
+  "definition": "GPT-4o, where the 'o' stands for 'omni', is a model from OpenAI that processes text, audio, and image inputs through a single network rather than chaining separate systems. This design speeds up audio responses and lets it reason across the different input types together. Available in ChatGPT and the API, it became a primary general-purpose model, balancing capability with speed and lower cost than earlier GPT-4 variants.",
+  "example": null,
+  "related": [
+    "openai",
+    "gpt-4",
+    "chatgpt",
+    "multimodal-model",
+    "omni-model"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "elo-rating",
+  "term": "Elo Rating",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A rating system, borrowed from chess, that ranks models from pairwise win-loss results.",
+  "definition": "Elo rating is a system, originally developed for chess, that produces relative rankings from head-to-head comparisons. In model evaluation, each model starts at a base score and gains or loses points after each matchup, with the adjustment scaled by how expected the result was. This yields a stable ranking without needing every model to be compared directly against every other.",
+  "example": null,
+  "related": [
+    "chatbot-arena",
+    "leaderboard",
+    "pairwise-comparison",
+    "win-rate",
+    "evaluation"
+  ]
+}

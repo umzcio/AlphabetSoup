@@ -1,0 +1,16 @@
+{
+  "slug": "regression",
+  "term": "Regression",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A supervised task where a model predicts a continuous numeric value.",
+  "definition": "Regression is a supervised learning task where a model predicts a continuous value, such as a price or a temperature, rather than a category. It contrasts with classification, which predicts discrete labels. Models are usually trained by minimizing an error such as mean squared error between predicted and true values across the dataset.",
+  "example": null,
+  "related": [
+    "classification",
+    "supervised-learning",
+    "loss-function",
+    "machine-learning",
+    "regression-test"
+  ]
+}

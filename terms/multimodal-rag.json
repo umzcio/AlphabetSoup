@@ -1,0 +1,15 @@
+{
+  "slug": "multimodal-rag",
+  "term": "Multimodal RAG",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Retrieval-augmented generation that draws on text, images, and other media.",
+  "definition": "Multimodal RAG extends retrieval-augmented generation across more than one modality, retrieving relevant text, images, or other media and feeding them to a model as context. It often relies on multimodal embeddings so a query in one form can match content in another. This grounds answers in source material that includes diagrams, photos, or charts, not just text.",
+  "example": null,
+  "related": [
+    "rag",
+    "multimodal-embedding",
+    "multimodal-model",
+    "embedding"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "sparse-autoencoder",
+  "term": "Sparse Autoencoder",
+  "acronym": "SAE",
+  "category": "Safety & Alignment",
+  "short": "A tool that breaks a model's internal signals into a large set of features, only a few active at a time.",
+  "definition": "A sparse autoencoder (SAE) is a small network that takes a model's internal signals (its activations) and rebuilds them from a large list of learnable features, with a rule that keeps only a few features switched on at once. Researchers use it to pull out features that each stand for one clear, human-readable concept. This gives a tidier picture than studying raw neurons, which tend to blur many concepts together.",
+  "example": null,
+  "related": [
+    "mechanistic-interpretability",
+    "superposition",
+    "interpretability",
+    "autoencoder"
+  ]
+}

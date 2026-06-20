@@ -1,0 +1,16 @@
+{
+  "slug": "data-augmentation",
+  "term": "Data Augmentation",
+  "acronym": null,
+  "category": "Data",
+  "short": "Expanding a dataset by transforming existing examples to add diversity and reduce overfitting.",
+  "definition": "Data augmentation increases the effective size and diversity of a training set by creating modified versions of existing examples. In vision this includes random crops, flips, and color shifts; in text it includes synonym replacement, back-translation, and paraphrasing. For language models it often means generating synthetic variations with the model itself or a teacher model. Augmentation helps models generalize and reduces overfitting when labeled data is scarce.",
+  "example": null,
+  "related": [
+    "synthetic-data",
+    "overfitting",
+    "generalization",
+    "dataset",
+    "data-mixing"
+  ]
+}

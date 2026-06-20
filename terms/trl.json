@@ -1,0 +1,16 @@
+{
+  "slug": "trl",
+  "term": "TRL",
+  "acronym": "Transformer Reinforcement Learning",
+  "category": "Frameworks & Tools",
+  "short": "A Hugging Face library of trainers for fine-tuning and aligning language models.",
+  "definition": "TRL is a Hugging Face library that provides trainers and utilities for the post-training and alignment of language models. It implements supervised fine-tuning, reward modeling, and methods that teach a model from human preferences (such as PPO, DPO, and GRPO) on top of Hugging Face Transformers and PEFT (tools for cheap fine-tuning). It is a standard toolkit for assembling RLHF-style pipelines, where models learn from human feedback.",
+  "example": null,
+  "related": [
+    "rlhf",
+    "dpo",
+    "ppo",
+    "sft",
+    "reward-model"
+  ]
+}

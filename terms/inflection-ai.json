@@ -1,0 +1,15 @@
+{
+  "slug": "inflection-ai",
+  "term": "Inflection AI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "The AI company that built the Pi personal assistant, focused on empathetic conversation.",
+  "definition": "Inflection AI is an AI company founded in 2022 by Mustafa Suleyman, Reid Hoffman, and Karen Simonyan. It built Pi, a personal AI assistant designed for empathetic conversation. In 2024 much of its team, including Suleyman, moved to Microsoft, and the company shifted toward an enterprise AI platform under new leadership. Its current product and organizational status are worth verifying before publishing.",
+  "example": null,
+  "related": [
+    "pi",
+    "microsoft",
+    "chatbot",
+    "assistant-message"
+  ]
+}

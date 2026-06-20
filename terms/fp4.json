@@ -1,0 +1,15 @@
+{
+  "slug": "fp4",
+  "term": "FP4",
+  "acronym": "4-bit floating point",
+  "category": "Hardware & Systems",
+  "short": "A 4-bit number format that squeezes models into very little memory for fast inference.",
+  "definition": "FP4 is a 4-bit floating-point format — a way of storing each number using only four bits. It packs models into very little memory and speeds up the math on supported chips, in exchange for some precision. It sits at the aggressive end of low-precision formats, alongside FP8 and INT4.",
+  "example": null,
+  "related": [
+    "fp8",
+    "quantization",
+    "low-precision-inference",
+    "gpu"
+  ]
+}

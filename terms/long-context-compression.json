@@ -1,0 +1,15 @@
+{
+  "slug": "long-context-compression",
+  "term": "Long-Context Compression",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Shrinking large inputs to fit a context window while keeping what matters.",
+  "definition": "Long-context compression covers techniques for fitting large amounts of information into a finite context window. Approaches include summarizing sections into condensed text, retrieving only the relevant chunks, reusing the key-value cache (the model's saved short-term memory of the text so far), and learned models that distill documents into compact tokens (the small word-pieces a model reads). Compression trades completeness for feasibility, so it must be designed to preserve the details the downstream task actually needs.",
+  "example": null,
+  "related": [
+    "context-window",
+    "context-engineering",
+    "prompt-compression",
+    "kv-cache"
+  ]
+}

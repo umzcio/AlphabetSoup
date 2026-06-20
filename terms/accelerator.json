@@ -1,0 +1,15 @@
+{
+  "slug": "accelerator",
+  "term": "Accelerator",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Specialized hardware built to run AI math far faster than a general-purpose CPU.",
+  "definition": "An accelerator is a processor designed to speed up specific computations rather than handle general work, and in AI it means chips optimized for the dense matrix math of neural networks. GPUs are the most common example, alongside TPUs (Google's Tensor Processing Units, chips built for AI) and other custom silicon. Accelerators deliver far higher throughput on training and inference than CPUs, which is why they sit at the center of modern AI systems.",
+  "example": null,
+  "related": [
+    "gpu",
+    "tpu",
+    "npu",
+    "cpu"
+  ]
+}

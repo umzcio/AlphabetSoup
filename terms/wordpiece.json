@@ -1,0 +1,16 @@
+{
+  "slug": "wordpiece",
+  "term": "WordPiece",
+  "acronym": null,
+  "category": "Data",
+  "short": "A subword tokenization method that splits words into common learned pieces.",
+  "definition": "WordPiece is a subword tokenization method that breaks words into smaller learned pieces, allowing a model to represent rare or unseen words from common fragments. It builds its vocabulary by greedily merging frequent character sequences, similar in spirit to byte-pair encoding but using a likelihood-based merge criterion. It is widely used in language-processing models, notably the BERT family of text encoders.",
+  "example": null,
+  "related": [
+    "tokenizer",
+    "tokenizer-training",
+    "byte-pair-encoding",
+    "sentencepiece",
+    "vocabulary"
+  ]
+}

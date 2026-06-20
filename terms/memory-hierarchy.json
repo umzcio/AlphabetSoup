@@ -1,0 +1,16 @@
+{
+  "slug": "memory-hierarchy",
+  "term": "Memory Hierarchy",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "The layered arrangement of memory, trading small and fast against large and slow.",
+  "definition": "The memory hierarchy is the layered arrangement of storage in a system, ranging from small, very fast registers and on-chip caches up through larger but slower main memory and disk. Each level trades capacity against speed, and data is moved between levels as it is needed. In AI, keeping frequently used weights and activations (the intermediate numbers a model produces while running) close to the compute units is central to performance, since reaching slower memory stalls the processor.",
+  "example": null,
+  "related": [
+    "memory-bandwidth",
+    "hbm",
+    "kv-cache",
+    "roofline-model",
+    "gpu"
+  ]
+}

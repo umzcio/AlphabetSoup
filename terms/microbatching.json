@@ -1,0 +1,16 @@
+{
+  "slug": "microbatching",
+  "term": "Microbatching",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Splitting a batch into smaller sub-batches for scheduling or memory reasons.",
+  "definition": "Microbatching splits a batch of work into smaller sub-batches that are processed in sequence. It is used to fit work within available memory, to overlap computation with communication across devices, and to give schedulers finer control. In pipeline-parallel training and serving it keeps multiple stages busy at once, reducing idle time on the hardware.",
+  "example": null,
+  "related": [
+    "batching",
+    "pipeline-parallelism",
+    "gradient-accumulation",
+    "scheduler",
+    "throughput"
+  ]
+}

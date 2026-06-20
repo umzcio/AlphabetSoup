@@ -1,0 +1,15 @@
+{
+  "slug": "mistral-large",
+  "term": "Mistral Large",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Mistral AI's flagship proprietary model aimed at high-capability enterprise use.",
+  "definition": "Mistral Large is Mistral AI's flagship proprietary large language model, offered through its own API rather than as open weights. It is positioned for enterprise use cases that need strong reasoning, coding, and multilingual performance, and is also available through major cloud platforms such as Microsoft Azure and Amazon Bedrock. It serves as Mistral's primary commercial offering and is updated across successive releases.",
+  "example": null,
+  "related": [
+    "mistral-ai",
+    "mistral-models",
+    "closed-weight-model",
+    "reasoning-model"
+  ]
+}

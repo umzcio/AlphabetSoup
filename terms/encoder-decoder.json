@@ -1,0 +1,16 @@
+{
+  "slug": "encoder-decoder",
+  "term": "Encoder-Decoder",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "An architecture that reads input with one stack and generates output with another.",
+  "definition": "An encoder-decoder model uses one stack to read the input and build a contextual representation, and a second stack to generate the output while attending to that representation through cross-attention. Also called seq2seq, this design was used in the original 2017 Transformer and suits tasks where input and output differ in form, such as translation and summarization. T5 and BART are prominent examples; many modern language models keep only the decoder.",
+  "example": null,
+  "related": [
+    "encoder-only",
+    "decoder-only",
+    "cross-attention",
+    "seq2seq",
+    "transformer"
+  ]
+}

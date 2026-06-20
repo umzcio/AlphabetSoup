@@ -1,0 +1,16 @@
+{
+  "slug": "sentencepiece",
+  "term": "SentencePiece",
+  "acronym": null,
+  "category": "Data",
+  "short": "A tokenizer toolkit that learns subword units directly from raw text.",
+  "definition": "SentencePiece is a tokenizer toolkit that learns subword units directly from raw text without requiring pre-tokenized words or language-specific rules. It treats text as a stream of characters, including whitespace, which makes it well suited to languages that do not separate words with spaces. It supports algorithms such as byte-pair encoding and unigram, and is widely used to build tokenizers for language models.",
+  "example": null,
+  "related": [
+    "tokenizer",
+    "tokenizer-training",
+    "byte-pair-encoding",
+    "unigram-tokenizer",
+    "wordpiece"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "openrouter",
+  "term": "OpenRouter",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A service offering one API endpoint that routes to many models from different providers.",
+  "definition": "OpenRouter is a service that exposes a single OpenAI-compatible API backed by a large catalog of models from providers like OpenAI, Anthropic, Google, Meta, and open-source hosts. It handles routing, fallback between providers, rate-limit management, and cost tracking, so developers can switch models without changing their integration code. It also supports price comparison and automatic failover.",
+  "example": null,
+  "related": [
+    "openai-compatible-api",
+    "litellm",
+    "together-ai",
+    "inference",
+    "llm"
+  ]
+}

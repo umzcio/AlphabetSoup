@@ -1,0 +1,16 @@
+{
+  "slug": "router-pattern",
+  "term": "Router Pattern",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Inspecting a request and sending it down the path or tool best suited to handle it.",
+  "definition": "The router pattern inspects an incoming request and directs it to the path, tool, or model best suited to handle it. A coding question might go to a code-execution tool while a general query goes to a chat model. The routing decision can follow fixed rules, compare the request by meaning, or be made by a model itself. Sending each request to the right specialist improves accuracy and controls cost.",
+  "example": null,
+  "related": [
+    "routing",
+    "routing-agent",
+    "semantic-router",
+    "orchestrator",
+    "classification"
+  ]
+}

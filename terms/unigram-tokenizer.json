@@ -1,0 +1,16 @@
+{
+  "slug": "unigram-tokenizer",
+  "term": "Unigram Tokenizer",
+  "acronym": null,
+  "category": "Data",
+  "short": "A tokenization method that selects subword pieces from a learned inventory.",
+  "definition": "A unigram tokenizer is a subword tokenization method that starts from a large candidate inventory of pieces and prunes it to a target vocabulary using a probabilistic model. At encoding time it chooses the segmentation of a word that is most likely under that model, rather than applying fixed merge rules. It is commonly used through SentencePiece and offers an alternative to byte-pair encoding and WordPiece.",
+  "example": null,
+  "related": [
+    "tokenizer",
+    "tokenizer-training",
+    "sentencepiece",
+    "byte-pair-encoding",
+    "wordpiece"
+  ]
+}

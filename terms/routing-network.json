@@ -1,0 +1,16 @@
+{
+  "slug": "routing-network",
+  "term": "Routing Network",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A learned component that decides which expert or path each input should take.",
+  "definition": "A routing network is a learned component that decides, for each input, which expert sub-network or computational path to send it through. In a mixture-of-experts model it scores the available experts and picks a small subset per token, so only part of the network runs at a time. Training usually includes a balancing term so work spreads across experts instead of collapsing onto a few.",
+  "example": null,
+  "related": [
+    "moe",
+    "sparse-moe",
+    "router-pattern",
+    "expert-parallelism",
+    "routing"
+  ]
+}

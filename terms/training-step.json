@@ -1,0 +1,16 @@
+{
+  "slug": "training-step",
+  "term": "Training Step",
+  "acronym": null,
+  "category": "Training",
+  "short": "One parameter update during training, processing a single batch of data.",
+  "definition": "A training step is a single parameter update during training. In each step the model processes one batch of data, computes the loss, derives gradients through backpropagation, and the optimizer adjusts the weights. Training runs are measured in thousands or millions of these steps, and an epoch is one full pass over the dataset.",
+  "example": null,
+  "related": [
+    "batch-size",
+    "gradient-descent",
+    "optimizer",
+    "epoch",
+    "backpropagation"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "ground-truth",
+  "term": "Ground Truth",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "The verified correct answer or label that model outputs are compared against.",
+  "definition": "Ground truth is the verified correct answer or label that model outputs are measured against during evaluation or training. It defines what counts as right, so every accuracy figure depends on it. Because the quality of ground truth sets a ceiling on how trustworthy a measurement can be, errors or ambiguity in the labels limit how much any score can be believed.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "accuracy",
+    "evaluation",
+    "golden-dataset",
+    "annotation"
+  ]
+}

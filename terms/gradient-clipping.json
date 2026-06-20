@@ -1,0 +1,16 @@
+{
+  "slug": "gradient-clipping",
+  "term": "Gradient Clipping",
+  "acronym": null,
+  "category": "Training",
+  "short": "Capping the size of each training adjustment before it is applied, to keep training stable.",
+  "definition": "Gradient clipping limits the size of the adjustment the model wants to make before applying it, usually by scaling the whole adjustment down when it grows past a set limit. This prevents the adjustments from blowing up, a common instability in deep networks that can derail training. It is a lightweight, nearly universal technique in large-model training, and differs from weight clipping, which limits the model's internal values directly.",
+  "example": null,
+  "related": [
+    "gradient-descent",
+    "backpropagation",
+    "rnn",
+    "training-step",
+    "optimizer"
+  ]
+}

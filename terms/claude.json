@@ -1,0 +1,16 @@
+{
+  "slug": "claude",
+  "term": "Claude",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Anthropic's family of large language models and the assistant of the same name.",
+  "definition": "Claude is Anthropic's family of large language models and the assistant built on them, available through a chat interface, an API, and coding tools. The lineup spans tiers from lighter, faster models to more capable ones, and is known for strong writing, coding, long-context handling, and tool use. Anthropic trains Claude with Constitutional AI to keep it helpful, honest, and harmless.",
+  "example": null,
+  "related": [
+    "anthropic",
+    "claude-opus",
+    "constitutional-ai",
+    "llm",
+    "claude-code"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "role-prompting",
+  "term": "Role Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Asking a model to answer from a chosen persona or perspective.",
+  "definition": "Role prompting instructs a model to adopt a specific identity or perspective, such as 'You are an expert Python developer' or 'You are a Socratic tutor.' This framing shapes tone, vocabulary, level of detail, and reasoning style, and can lift quality on specialized or creative tasks. A role does not grant knowledge the model lacks, though, and overly dramatic personas can sometimes reduce factual accuracy.",
+  "example": null,
+  "related": [
+    "system-prompt",
+    "prompt-engineering",
+    "instruction-following",
+    "structured-prompting"
+  ]
+}

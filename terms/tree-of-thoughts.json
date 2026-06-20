@@ -1,0 +1,15 @@
+{
+  "slug": "tree-of-thoughts",
+  "term": "Tree of Thoughts",
+  "acronym": "ToT",
+  "category": "Patterns",
+  "short": "Exploring multiple reasoning paths in a tree, guided by search and self-evaluation.",
+  "definition": "Tree of Thoughts extends step-by-step (chain-of-thought) reasoning by exploring several lines of thought at once, arranged like the branches of a tree. At each step the model proposes a few candidate next steps, judges how promising each one looks, and keeps following the best branches while abandoning weak ones. It improves performance on complex planning, puzzle, and multi-step reasoning tasks compared with following a single straight line of reasoning.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "self-consistency",
+    "reasoning-model",
+    "beam-search"
+  ]
+}

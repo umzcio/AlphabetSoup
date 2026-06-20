@@ -1,0 +1,15 @@
+{
+  "slug": "citation",
+  "term": "Citation",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Linking parts of a generated answer to the specific sources that support them.",
+  "definition": "Citation in LLM (large language model) systems means tying parts of a generated answer to the specific retrieved passages or source web links that support them, so a reader can verify each claim. It reduces the impact of hallucination by making the model's evidence transparent. Citations usually require a retrieval step followed by a grounding prompt that instructs the model to attribute each factual statement to a source.",
+  "example": null,
+  "related": [
+    "grounding",
+    "rag",
+    "hallucination",
+    "retrieval-augmented-generation"
+  ]
+}

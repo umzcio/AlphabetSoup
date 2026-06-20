@@ -1,0 +1,16 @@
+{
+  "slug": "sliding-window-attention",
+  "term": "Sliding Window Attention",
+  "acronym": "SWA",
+  "category": "Architectures",
+  "short": "Attention restricted to a fixed window of nearby tokens rather than the whole sequence.",
+  "definition": "Sliding Window Attention restricts each token to attend only to a fixed-size window of recent tokens instead of the full sequence, cutting attention's cost from quadratic to linear in sequence length. Information from distant tokens still spreads through stacked layers, since each layer widens the effective range. Models like Mistral use it, sometimes mixing windowed and full-attention layers to keep some global context.",
+  "example": null,
+  "related": [
+    "attention",
+    "sparse-attention",
+    "context-window",
+    "flash-attention",
+    "transformer"
+  ]
+}

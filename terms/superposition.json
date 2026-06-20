@@ -1,0 +1,15 @@
+{
+  "slug": "superposition",
+  "term": "Superposition",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When a network packs more features than it has neurons by overlapping their directions.",
+  "definition": "Superposition is an idea from interpretability research that a neural network can store more features than it has neurons by letting them share and overlap the same internal space. This works because most features rarely show up at the same time, so the network tolerates the slight mix-up. Superposition makes individual neurons hard to read and motivates tools like sparse autoencoders to recover cleaner features.",
+  "example": null,
+  "related": [
+    "sparse-autoencoder",
+    "mechanistic-interpretability",
+    "interpretability",
+    "latent-space"
+  ]
+}

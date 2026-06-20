@@ -1,0 +1,16 @@
+{
+  "slug": "weights-and-biases",
+  "term": "Weights and Biases",
+  "acronym": "W&B",
+  "category": "Frameworks & Tools",
+  "short": "A cloud platform for tracking experiments, metrics, and artifacts across training runs.",
+  "definition": "Weights and Biases is a cloud platform for tracking and managing machine learning experiments. It logs hyperparameters, metrics, and artifacts across training runs and visualizes learning curves so experiments can be compared side by side. It also offers Sweeps for hyperparameter search, Artifacts for dataset and model versioning, and Weave for evaluating LLM applications.",
+  "example": null,
+  "related": [
+    "mlflow",
+    "weave",
+    "hyperparameter-tuning",
+    "evaluation",
+    "training-step"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "mistral-models",
+  "term": "Mistral Models",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "The broad lineup of general and specialized models built by Mistral AI.",
+  "definition": "Mistral Models refers collectively to Mistral AI's lineup of general and specialized language models, which spans open-weight releases (free to download) and proprietary, paid offerings. The family includes small conventional models, larger ones that route work to specialist sub-networks, versions that also handle images, and models tuned for tasks such as coding. Together they cover both efficiency-focused open releases for the community and higher-capability commercial models for business use.",
+  "example": null,
+  "related": [
+    "mistral-ai",
+    "mixtral",
+    "pixtral",
+    "open-weights"
+  ]
+}

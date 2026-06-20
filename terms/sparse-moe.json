@@ -1,0 +1,15 @@
+{
+  "slug": "sparse-moe",
+  "term": "Sparse MoE",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "Replacing a Transformer's standard processing layer with many experts and a router picking a few.",
+  "definition": "Sparse MoE replaces the usual processing layer in a Transformer with a large set of expert sub-networks plus a learned router that directs each token to the right ones. For each token the router selects a small number of experts, often two out of many, so the model's total size grows while the work done per token stays constant. Models like Mixtral and DeepSeek-V3 use this design, with a load-balancing loss to keep tokens from piling onto a few popular experts.",
+  "example": null,
+  "related": [
+    "moe",
+    "routing-network",
+    "feedforward-network",
+    "transformer"
+  ]
+}

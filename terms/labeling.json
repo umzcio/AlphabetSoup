@@ -1,0 +1,16 @@
+{
+  "slug": "labeling",
+  "term": "Labeling",
+  "acronym": null,
+  "category": "Data",
+  "short": "Assigning target tags or values to examples so a model can learn from them.",
+  "definition": "Labeling is the process of attaching a target tag or value to each example in a dataset, such as marking an image as a cat or rating a response as preferred. These labels supply the ground truth that supervised and preference-based training methods learn to predict. Labeling can be done by people, by models, or by a mix of both, and its accuracy directly affects model quality.",
+  "example": null,
+  "related": [
+    "annotation",
+    "ground-truth",
+    "supervised-learning",
+    "data-labeling",
+    "dataset"
+  ]
+}

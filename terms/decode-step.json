@@ -1,0 +1,16 @@
+{
+  "slug": "decode-step",
+  "term": "Decode Step",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "A single generation step that produces the next output token.",
+  "definition": "A decode step is one turn of the generation loop, in which the model does one pass of work to produce the next output word and update the KV cache (its running notes on the text so far). Because each word is generated from the words before it, these steps must run in sequence, one after another. The time per decode step sets the generation speed, often reported as tokens (word-pieces) per second.",
+  "example": null,
+  "related": [
+    "decode",
+    "prefill",
+    "kv-cache",
+    "tokens-per-second",
+    "tpot"
+  ]
+}

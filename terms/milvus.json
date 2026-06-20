@@ -1,0 +1,16 @@
+{
+  "slug": "milvus",
+  "term": "Milvus",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source vector database built for large-scale embedding search.",
+  "definition": "Milvus is an open-source vector database designed for storing and searching large collections of embeddings. It indexes high-dimensional vectors so that similarity queries — finding the items closest to a given vector — stay fast as data grows into the billions. It is commonly used as the retrieval layer in semantic search and retrieval-augmented generation systems.",
+  "example": null,
+  "related": [
+    "vector-database",
+    "embedding",
+    "semantic-search",
+    "rag",
+    "faiss"
+  ]
+}

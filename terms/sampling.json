@@ -1,0 +1,16 @@
+{
+  "slug": "sampling",
+  "term": "Sampling",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Drawing the next token randomly from a model's predicted probability distribution.",
+  "definition": "Sampling is how a model picks the next word: it treats the list of probabilities it assigns to possible next words as a weighted lottery and draws one at random. Settings such as temperature, top-p, top-k, and min-p reshape those odds before the draw, balancing variety against reliability. It produces more diverse and creative text than always taking the single most likely word, at the cost of giving different answers each time, and underlies most everyday use.",
+  "example": null,
+  "related": [
+    "temperature",
+    "top-p-sampling",
+    "top-k-sampling",
+    "greedy-decoding",
+    "decoding-strategy"
+  ]
+}

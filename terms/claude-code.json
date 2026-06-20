@@ -1,0 +1,16 @@
+{
+  "slug": "claude-code",
+  "term": "Claude Code",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Anthropic's agentic coding tool that reads, writes, and runs code across a project.",
+  "definition": "Claude Code is Anthropic's agentic coding tool, built around its Claude models, that works across a whole project from the command line and integrated editors. It can read files, write and edit code, and run commands, letting developers delegate larger coding tasks rather than copy-pasting suggestions. It is part of the broader category of AI coding agents.",
+  "example": null,
+  "related": [
+    "anthropic",
+    "claude",
+    "agent",
+    "github-copilot",
+    "cursor"
+  ]
+}

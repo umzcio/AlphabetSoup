@@ -1,0 +1,15 @@
+{
+  "slug": "guardrails",
+  "term": "Guardrails",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Safety controls that filter inputs and outputs to keep model behavior within policy.",
+  "definition": "Guardrails are the checks placed around a model at inference time to keep its behavior within policy. They can act on inputs (blocking harmful prompts), outputs (filtering or rewriting unsafe responses), or both, and range from keyword rules to classifier models and dedicated libraries. Operating across the prompt, model, and application layers, they complement training-time alignment with runtime enforcement.",
+  "example": null,
+  "related": [
+    "safety-filter",
+    "moderation-model",
+    "prompt-injection",
+    "toxicity"
+  ]
+}

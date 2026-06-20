@@ -1,0 +1,16 @@
+{
+  "slug": "word-error-rate",
+  "term": "Word Error Rate",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A standard metric for speech transcription accuracy — lower is better.",
+  "definition": "Word Error Rate is the standard metric for speech transcription, measuring how far a system's output differs from a reference transcript. It counts the substitutions, deletions, and insertions needed to match the reference, divided by the number of reference words. Lower values mean more accurate transcription, and it is the common way to compare speech-to-text models.",
+  "example": null,
+  "related": [
+    "speech-to-text",
+    "asr",
+    "whisper",
+    "evaluation",
+    "ground-truth"
+  ]
+}

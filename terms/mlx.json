@@ -1,0 +1,16 @@
+{
+  "slug": "mlx",
+  "term": "MLX",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Apple's array and machine learning framework built for Apple silicon.",
+  "definition": "MLX is Apple's open-source array and machine learning framework, designed to run efficiently on Apple silicon. It exposes a familiar NumPy-like array interface and takes advantage of the unified memory shared between the chip's CPU and GPU. It is used to train and run models, including local language models, on Mac hardware.",
+  "example": null,
+  "related": [
+    "apple",
+    "pytorch",
+    "jax",
+    "homelab-ai-server",
+    "low-precision-inference"
+  ]
+}

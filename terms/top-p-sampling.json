@@ -1,0 +1,16 @@
+{
+  "slug": "top-p-sampling",
+  "term": "Top-p Sampling",
+  "acronym": "Nucleus Sampling",
+  "category": "Inference & Serving",
+  "short": "Sampling from the smallest set of tokens whose probabilities add up to a threshold p.",
+  "definition": "Top-p sampling, also called nucleus sampling, sorts tokens by probability and keeps only the smallest group whose cumulative probability reaches a threshold p, such as 0.9, then samples from that nucleus. Unlike top-k, which uses a fixed count, it adapts the candidate pool to the model's confidence — drawing on many tokens when uncertain and few when sure. It is commonly paired with temperature.",
+  "example": null,
+  "related": [
+    "top-k-sampling",
+    "sampling",
+    "temperature",
+    "min-p",
+    "greedy-decoding"
+  ]
+}

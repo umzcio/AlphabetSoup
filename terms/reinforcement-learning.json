@@ -1,0 +1,15 @@
+{
+  "slug": "reinforcement-learning",
+  "term": "Reinforcement Learning",
+  "acronym": "RL",
+  "category": "Foundations",
+  "short": "Learning to make sequences of decisions by maximizing rewards from trial and error.",
+  "definition": "Reinforcement learning trains a system to make a sequence of decisions by giving it rewards or penalties based on the results of its actions. Over many trials the agent learns a policy that maximizes long-term reward. It powers robotics and game-playing systems like AlphaGo, and in modern AI it is heavily used to align language models after pretraining.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "rlhf",
+    "constitutional-ai",
+    "agent"
+  ]
+}

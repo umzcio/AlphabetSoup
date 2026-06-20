@@ -1,0 +1,16 @@
+{
+  "slug": "prompt-tuning",
+  "term": "Prompt Tuning",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Learning a few soft prompt embeddings to adapt a frozen model to a task.",
+  "definition": "Prompt tuning trains a small set of learned number vectors — soft prompts — that are added in front of the input of a frozen (unchanged) language model. Unlike hand-written prompts, these soft prompts are tuned automatically by training rather than written in words. It updates only the input, making it more parameter-efficient (cheaper to tune) than prefix tuning, and it approaches full fine-tuning quality as models grow larger, with no change to their design.",
+  "example": null,
+  "related": [
+    "prefix-tuning",
+    "peft",
+    "prompt-engineering",
+    "fine-tuning",
+    "adapter"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "distributed-training",
+  "term": "Distributed Training",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Training a model across many devices or machines working in parallel.",
+  "definition": "Distributed training spreads the work of training a model across multiple GPUs, nodes, or whole clusters so that large models and datasets become tractable. It uses strategies such as data parallelism (each device trains on a different batch), tensor parallelism, and pipeline parallelism to divide the model or the data. Devices keep their copies in sync by sharing gradients (the adjustment signals that guide learning) through group operations like all-reduce, so the speed of the network linking them is a key factor in overall speed.",
+  "example": null,
+  "related": [
+    "data-parallelism",
+    "tensor-parallelism",
+    "all-reduce",
+    "cluster"
+  ]
+}

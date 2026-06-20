@@ -1,0 +1,16 @@
+{
+  "slug": "fp16",
+  "term": "FP16",
+  "acronym": "FP16",
+  "category": "Hardware & Systems",
+  "short": "A 16-bit floating-point format that cuts memory and speeds up training and inference.",
+  "definition": "FP16, or half-precision floating point, is a 16-bit number format using one sign bit, five exponent bits, and ten mantissa bits. Compared with 32-bit FP32, it halves memory use and raises throughput on GPU tensor cores, so it is widely used in mixed-precision training and inference. Because its dynamic range is narrow, training often keeps a master copy of weights in FP32; BF16 (a related 16-bit format) has since become more common for large-model training thanks to better numeric stability.",
+  "example": null,
+  "related": [
+    "bf16",
+    "fp8",
+    "mixed-precision",
+    "tensor-core",
+    "fp32"
+  ]
+}

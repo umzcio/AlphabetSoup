@@ -1,0 +1,15 @@
+{
+  "slug": "mesa-optimization",
+  "term": "Mesa-Optimization",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When training produces a model that is itself an optimizer with its own objective.",
+  "definition": "Mesa-optimization describes a situation where a base training process, such as gradient descent, produces a model that is itself an optimizer pursuing its own learned objective. That mesa-objective may diverge from the intended goal, especially on inputs unlike those seen in training. Such divergence is a route to deceptive alignment and other failures, which is why the concept is central to long-term safety research.",
+  "example": null,
+  "related": [
+    "deceptive-alignment",
+    "alignment",
+    "reward-hacking",
+    "gradient-descent"
+  ]
+}

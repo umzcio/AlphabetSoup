@@ -1,0 +1,16 @@
+{
+  "slug": "cnn",
+  "term": "Convolutional Neural Network",
+  "acronym": "Convolutional Neural Network",
+  "category": "Architectures",
+  "short": "A network that slides learnable filters across input to detect local patterns, common in vision.",
+  "definition": "A convolutional neural network applies small learnable filters that slide across an input to detect local patterns such as edges and textures, regardless of where they appear. Stacking these layers with pooling builds a hierarchy from simple features up to complex objects. Reusing the same filters everywhere makes CNNs efficient and able to spot a pattern no matter where it sits in the image. They dominated computer vision for years and remain common, though vision transformers now compete with them.",
+  "example": null,
+  "related": [
+    "computer-vision",
+    "neural-network",
+    "vision-transformer",
+    "image-segmentation",
+    "deep-learning"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "preference-data",
+  "term": "Preference Data",
+  "acronym": null,
+  "category": "Data",
+  "short": "Pairs or rankings of model outputs labeled with which one is better.",
+  "definition": "Preference data consists of pairs or rankings of model outputs, each labeled with which response is better, gathered from people or from stronger models. It is the raw material for training reward models (scoring models that predict which answers people prefer) and for preference methods like DPO (a technique that tunes a model directly toward preferred answers) that align a model toward judged-better behavior. Its quality and consistency strongly affect how helpful and well-aligned the resulting model is.",
+  "example": null,
+  "related": [
+    "preference-dataset",
+    "reward-model",
+    "dpo",
+    "rlhf",
+    "human-feedback"
+  ]
+}

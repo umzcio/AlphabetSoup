@@ -1,0 +1,15 @@
+{
+  "slug": "google-deepmind",
+  "term": "Google DeepMind",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "Alphabet's AI division behind the Gemini models, formed by merging DeepMind and Google Brain.",
+  "definition": "Google DeepMind is the AI research and development division of Alphabet, formed in 2023 by merging DeepMind with Google Brain. It develops the Gemini family of multimodal models (which handle text plus images, audio, or video) and the open Gemma models, and is known for breakthroughs like AlphaGo and AlphaFold. It co-designs its models with Google's TPU hardware (chips Google built specially for AI) and ranks among the primary top-tier AI labs.",
+  "example": null,
+  "related": [
+    "openai",
+    "anthropic",
+    "jax",
+    "tensorflow"
+  ]
+}

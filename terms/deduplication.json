@@ -1,0 +1,16 @@
+{
+  "slug": "deduplication",
+  "term": "Deduplication",
+  "acronym": null,
+  "category": "Data",
+  "short": "Removing identical or near-identical examples from a dataset before training.",
+  "definition": "Deduplication removes identical or near-identical documents from a training corpus. Exact matches are found by giving each document a short digital fingerprint and comparing fingerprints, while near-duplicates are caught with specialized fingerprinting methods built for huge collections. Removing duplicates reduces the chance that a model memorizes repeated text verbatim, improves generalization, and makes better use of the compute budget by exposing the model to more diverse content. It is a standard step in preparing large pretraining corpora.",
+  "example": null,
+  "related": [
+    "data-filtering",
+    "data-cleaning",
+    "pretraining-corpus",
+    "data-curation",
+    "common-crawl"
+  ]
+}

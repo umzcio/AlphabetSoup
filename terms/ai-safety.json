@@ -1,0 +1,15 @@
+{
+  "slug": "ai-safety",
+  "term": "AI Safety",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The broad practice of reducing risks and harms from AI systems.",
+  "definition": "AI safety is the broad practice of reducing risks from AI systems, ranging from everyday failures and misuse to longer-term concerns about highly capable models. It draws on alignment research, evaluation, robustness, interpretability, guardrails, and governance. Dedicated teams at major labs and independent institutes pursue it, with the shared goal of keeping systems beneficial and limiting unintended harm.",
+  "example": null,
+  "related": [
+    "alignment",
+    "ai-governance",
+    "red-teaming",
+    "interpretability"
+  ]
+}

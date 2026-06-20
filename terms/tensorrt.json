@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Inference & Serving",
   "short": "NVIDIA's deep-learning inference optimizer and runtime for GPUs.",
-  "definition": "TensorRT is NVIDIA's SDK for high-performance deep-learning inference. It takes a trained model and compiles it into an optimized runtime engine by fusing layers, selecting the fastest kernels for the target GPU, and applying precision calibration (FP16, INT8, FP8). TensorRT-LLM extends it specifically for transformer/LLM workloads.",
+  "definition": "TensorRT is NVIDIA's software toolkit for running trained models fast. It takes a trained model and rebuilds it into a streamlined version tuned for a specific GPU: it merges steps, picks the fastest way to run each operation, and uses lower-precision numbers (which trade a little accuracy for more speed). TensorRT-LLM extends it specifically for large language models.",
   "example": null,
   "related": [
     "trt-llm",

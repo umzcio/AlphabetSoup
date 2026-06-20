@@ -1,0 +1,15 @@
+{
+  "slug": "control-problem",
+  "term": "Control Problem",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The challenge of keeping advanced AI systems under reliable human control.",
+  "definition": "The control problem is the challenge of keeping advanced AI systems under reliable human control, especially as they become more capable and autonomous. It concerns whether developers can correct, constrain, or shut down a system that pursues goals in unintended ways. It motivates research into corrigibility, scalable oversight, and alignment so that capable systems remain steerable and accountable.",
+  "example": null,
+  "related": [
+    "corrigibility",
+    "alignment",
+    "scalable-oversight",
+    "superalignment"
+  ]
+}

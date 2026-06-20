@@ -1,0 +1,16 @@
+{
+  "slug": "multilingual-data",
+  "term": "Multilingual Data",
+  "acronym": null,
+  "category": "Data",
+  "short": "Training data that spans more than one language.",
+  "definition": "Multilingual data is training data that spans more than one language, used so that a model can understand and generate text beyond English. Its balance across languages shapes how well a model serves speakers of each one, and underrepresented languages often see weaker quality. The mix also interacts with tokenizer design, since some languages need more tokens (the small chunks of text a model reads) to express the same content.",
+  "example": null,
+  "related": [
+    "training-data",
+    "data-mixing",
+    "tokenizer",
+    "corpus",
+    "pretraining-corpus"
+  ]
+}

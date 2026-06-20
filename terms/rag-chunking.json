@@ -1,0 +1,16 @@
+{
+  "slug": "rag-chunking",
+  "term": "RAG Chunking & Indexing",
+  "acronym": null,
+  "category": "Data",
+  "short": "Splitting documents into passages, embedding them, and storing them for retrieval.",
+  "definition": "RAG chunking and indexing is the data-preparation pipeline behind retrieval-augmented generation (fetching relevant documents and feeding them to the model as context). Long documents are split into meaningful chunks, each chunk is converted into an embedding (a list of numbers capturing its meaning), and the embeddings are stored in a vector database (a store that finds items by similar meaning) so relevant passages can be retrieved when a question comes in. Chunk size and boundaries significantly affect retrieval quality, since poor splits can fragment or bury the information a query needs.",
+  "example": null,
+  "related": [
+    "rag",
+    "chunking",
+    "document-chunking",
+    "embedding",
+    "vector-database"
+  ]
+}

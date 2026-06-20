@@ -1,0 +1,15 @@
+{
+  "slug": "provenance",
+  "term": "Provenance",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A record of where content came from and how it was created or changed.",
+  "definition": "Provenance is verifiable information about where a piece of content came from and how it has been edited over time, including whether it was generated or modified by an AI system. It is attached through signed metadata or embedded markers and is used to trace origin, support attribution, and counter misinformation. Industry standards such as C2PA (a shared format for content origin labels) aim to make provenance portable across tools and platforms.",
+  "example": null,
+  "related": [
+    "watermarking",
+    "c2pa",
+    "data-lineage",
+    "synthetic-data"
+  ]
+}

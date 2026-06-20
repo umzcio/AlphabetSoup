@@ -1,0 +1,16 @@
+{
+  "slug": "scratchpad",
+  "term": "Scratchpad",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A working space in the prompt where a model writes intermediate notes before answering.",
+  "definition": "A scratchpad is an explicit working space within the prompt or generation where a model writes out intermediate calculations, notes, or reasoning before giving a final answer. It externalizes computation that would otherwise stay implicit, making multi-step reasoning more reliable. Chain-of-thought prompting encourages a visible scratchpad in the output, while some models perform similar work in an internal thinking area.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "reasoning-model",
+    "test-time-compute",
+    "self-consistency",
+    "context-window"
+  ]
+}

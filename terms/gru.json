@@ -1,0 +1,16 @@
+{
+  "slug": "gru",
+  "term": "Gated Recurrent Unit",
+  "acronym": "GRU",
+  "category": "Architectures",
+  "short": "A streamlined recurrent cell that uses gates to control memory with fewer parameters than an LSTM.",
+  "definition": "A gated recurrent unit is a recurrent network cell that uses gates to decide what information to keep or discard as it reads a sequence. It is a streamlined alternative to the LSTM (an earlier, more complex memory cell), combining the forget and input gates into a single update gate and merging the cell and hidden states. With fewer internal values to learn, GRUs often train faster while delivering comparable performance, and they remain useful in low-resource settings and hybrid models.",
+  "example": null,
+  "related": [
+    "lstm",
+    "rnn",
+    "neural-network",
+    "state-space-model",
+    "transformer"
+  ]
+}

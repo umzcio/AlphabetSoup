@@ -1,0 +1,15 @@
+{
+  "slug": "amazon-web-services",
+  "term": "Amazon Web Services",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "Amazon's cloud platform offering GPU compute, custom AI chips, and managed model services.",
+  "definition": "Amazon Web Services is Amazon's cloud computing division and a major platform for AI infrastructure. It provides rentable GPU machines (chips well suited to AI work), custom chips for training and running models, and managed services such as Bedrock, which lets software connect to models from several providers. It serves as core infrastructure for many companies building and deploying AI systems.",
+  "example": null,
+  "related": [
+    "amazon",
+    "gpu",
+    "inference",
+    "anthropic"
+  ]
+}

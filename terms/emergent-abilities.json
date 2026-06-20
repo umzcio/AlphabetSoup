@@ -1,0 +1,15 @@
+{
+  "slug": "emergent-abilities",
+  "term": "Emergent Abilities",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Capabilities that appear only once a model reaches sufficient scale.",
+  "definition": "Emergent abilities are capabilities that show up only once a model is large enough, seemingly absent in smaller versions. Examples discussed in research include multi-step reasoning and in-context learning. How sharp these jumps really are is debated, since some apparent leaps may be artifacts of how performance is measured.",
+  "example": null,
+  "related": [
+    "emergent-behavior",
+    "scaling-laws",
+    "in-context-learning",
+    "chain-of-thought"
+  ]
+}

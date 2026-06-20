@@ -1,0 +1,16 @@
+{
+  "slug": "vae",
+  "term": "Variational Autoencoder",
+  "acronym": "Variational Autoencoder",
+  "category": "Architectures",
+  "short": "An autoencoder that learns a smooth, probabilistic latent space for generation.",
+  "definition": "A Variational Autoencoder pairs an encoder that maps inputs to a distribution over a latent space with a decoder that reconstructs inputs from samples of that distribution. Its training combines reconstruction accuracy with a term that keeps the latent space smooth and continuous, so sampling and interpolating produce coherent outputs. VAEs are used for controlled generation and serve as the compression stage in latent diffusion models such as Stable Diffusion.",
+  "example": null,
+  "related": [
+    "autoencoder",
+    "latent-space",
+    "latent-diffusion",
+    "stable-diffusion",
+    "diffusion-model"
+  ]
+}

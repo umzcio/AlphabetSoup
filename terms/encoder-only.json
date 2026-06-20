@@ -1,0 +1,16 @@
+{
+  "slug": "encoder-only",
+  "term": "Encoder-Only",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "An architecture that reads a whole input with bidirectional attention to build rich representations.",
+  "definition": "An encoder-only model, such as BERT, processes an entire input at once with bidirectional attention, so every token can attend to every other token. This produces rich contextual representations well suited to classification, named entity recognition, retrieval, and embeddings. These models are not built to generate long text the way decoder-only models are, but they are often smaller and faster for understanding tasks.",
+  "example": null,
+  "related": [
+    "decoder-only",
+    "encoder-decoder",
+    "embedding",
+    "classification",
+    "semantic-search"
+  ]
+}

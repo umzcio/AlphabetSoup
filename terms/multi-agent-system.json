@@ -1,0 +1,15 @@
+{
+  "slug": "multi-agent-system",
+  "term": "Multi-Agent System",
+  "acronym": "MAS",
+  "category": "Patterns",
+  "short": "Multiple specialized agents that communicate and divide work on a larger task.",
+  "definition": "A multi-agent system uses several specialized agents — such as a planner, a coder, and a reviewer — that communicate and divide work on a larger task. An orchestrator often decomposes the goal and delegates subtasks, then collects and synthesizes the results, though peers may instead debate a solution. Limiting each agent's scope can improve reliability on complex tasks, at the cost of coordination overhead and possible cascading errors.",
+  "example": null,
+  "related": [
+    "multi-agent-collaboration",
+    "orchestrator",
+    "hierarchical-agent",
+    "agent"
+  ]
+}

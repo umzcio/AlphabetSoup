@@ -1,0 +1,14 @@
+{
+  "slug": "memory",
+  "term": "Memory",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Stored information a system can retrieve and reuse later in a workflow.",
+  "definition": "Memory, in AI systems, is information a model or agent stores so it can be retrieved and reused later rather than re-derived each time. It may live in the prompt itself, in an external store queried by retrieval, or in structured records of past events and facts. Memory lets a system carry state across turns and sessions, which is essential for any task longer than one exchange.",
+  "example": null,
+  "related": [
+    "agent-memory",
+    "episodic-memory",
+    "context-window"
+  ]
+}

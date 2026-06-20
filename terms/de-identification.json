@@ -1,0 +1,16 @@
+{
+  "slug": "de-identification",
+  "term": "De-Identification",
+  "acronym": null,
+  "category": "Data",
+  "short": "Removing or obscuring identifying information so individuals cannot be recognized in data.",
+  "definition": "De-identification is the process of removing or obscuring information that could identify individuals in a dataset, such as names, addresses, and other personal details. Techniques include redaction, masking, generalization, and pseudonymization, which replaces identifiers with stand-in values. It is used to reduce privacy risk before data is shared or used for training, though residual re-identification risk can remain if not done carefully.",
+  "example": null,
+  "related": [
+    "pseudonymization",
+    "personally-identifiable-information",
+    "differential-privacy",
+    "privacy-risk",
+    "data-governance"
+  ]
+}

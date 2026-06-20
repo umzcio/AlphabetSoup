@@ -1,0 +1,15 @@
+{
+  "slug": "post-training",
+  "term": "Post-Training",
+  "acronym": null,
+  "category": "Training",
+  "short": "The training stages that shape a base model's behavior after pretraining.",
+  "definition": "Post-training covers everything done to shape a base model's behavior after pretraining, including supervised fine-tuning on instructions and preference optimization. It is where much of a model's helpfulness, style, and safety come from. These stages turn a raw pretrained model that only predicts text into a usable assistant.",
+  "example": null,
+  "related": [
+    "pretraining",
+    "sft",
+    "rlhf",
+    "preference-optimization"
+  ]
+}

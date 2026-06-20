@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Patterns",
   "short": "A database optimized for storing embeddings and finding nearest neighbors fast.",
-  "definition": "A vector database stores high-dimensional embedding vectors and supports fast approximate nearest-neighbor (ANN) search to find items most similar to a query vector. It is the retrieval backbone of most RAG systems. Examples include Pinecone, Weaviate, Milvus, Qdrant, and pgvector.",
+  "definition": "A vector database stores embeddings — long lists of numbers that capture the meaning of text, images, or other data — and quickly finds the items whose numbers are closest to a query, meaning closest in meaning. It is the search backbone of most retrieval-based (RAG) systems. Examples include Pinecone, Weaviate, Milvus, Qdrant, and pgvector.",
   "example": null,
   "related": [
     "embedding",

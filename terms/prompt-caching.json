@@ -1,0 +1,16 @@
+{
+  "slug": "prompt-caching",
+  "term": "Prompt Caching",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Storing a processed prompt prefix so repeated requests skip recomputing it.",
+  "definition": "Prompt caching stores the processed state of a prompt prefix — such as a long system prompt or reference document — so repeated requests can skip recomputing it. It builds on prefix caching, reusing the cached KV state when later requests share the same opening tokens. Many providers expose it as a billing and latency optimization, since the cached portion costs less to serve.",
+  "example": null,
+  "related": [
+    "prefix-caching",
+    "kv-cache",
+    "prefill",
+    "context-window",
+    "ttft"
+  ]
+}

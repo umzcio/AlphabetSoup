@@ -1,0 +1,17 @@
+{
+  "slug": "layer-normalization",
+  "term": "Layer Normalization",
+  "acronym": "LayerNorm",
+  "category": "Architectures",
+  "short": "A technique that rescales the activations within each example to keep their scale consistent.",
+  "definition": "Layer normalization computes the mean and variance across the features of each individual example, then uses them to rescale that example's activations. Because it works per sample rather than across a batch, it suits sequence models where batch normalization is impractical. Applied before or after the attention and feedforward sublayers, it stabilizes and speeds up training of very deep networks. Transformers rely on it, often a variant called RMSNorm.",
+  "example": null,
+  "related": [
+    "batch-normalization",
+    "transformer",
+    "activation",
+    "feedforward-network",
+    "residual-connection",
+    "rmsnorm"
+  ]
+}

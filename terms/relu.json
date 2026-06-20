@@ -1,0 +1,16 @@
+{
+  "slug": "relu",
+  "term": "ReLU",
+  "acronym": "ReLU",
+  "category": "Foundations",
+  "short": "An activation function that passes positive values unchanged and zeroes negatives.",
+  "definition": "ReLU, the rectified linear unit, applies the function max(0, x): it passes positive values through unchanged and sets negative ones to zero. It is cheap to compute and largely solved the vanishing-gradient problem (where learning signals shrink toward zero and stall) that slowed deep networks using older curve-shaped functions like sigmoid or tanh. Variants such as Leaky ReLU and GELU (smoother versions of the same idea) extend it, and ReLU remains a default in many layers.",
+  "example": null,
+  "related": [
+    "activation-function",
+    "sigmoid",
+    "neural-network",
+    "feedforward-network",
+    "backpropagation"
+  ]
+}

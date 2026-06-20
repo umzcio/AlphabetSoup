@@ -1,0 +1,15 @@
+{
+  "slug": "retrieval-prompt",
+  "term": "Retrieval Prompt",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A prompt that includes context retrieved from outside sources.",
+  "definition": "A retrieval prompt is one that inserts passages fetched from external sources — documents, a knowledge base, or search results — into the prompt so the model can ground its answer in that material. It is the prompt-side half of retrieval-augmented generation: a retriever finds relevant text and the prompt presents it as context. This keeps answers current and source-grounded without retraining the model.",
+  "example": null,
+  "related": [
+    "retrieval-augmented-generation",
+    "rag",
+    "context-stuffing",
+    "grounding"
+  ]
+}

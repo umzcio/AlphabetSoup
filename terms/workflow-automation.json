@@ -1,0 +1,16 @@
+{
+  "slug": "workflow-automation",
+  "term": "Workflow Automation",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Using software logic and AI to carry out the steps of a process automatically.",
+  "definition": "Workflow automation uses software logic, and increasingly AI, to complete the steps of a process without manual intervention. Fixed rules handle deterministic steps such as moving data or triggering actions, while a model can take on steps that require interpretation, like classifying input or drafting text. Combining the two lets routine multi-step processes run end to end with people involved only at key checkpoints.",
+  "example": null,
+  "related": [
+    "agentic-ai",
+    "orchestrator",
+    "tool-use",
+    "scaffolding",
+    "human-in-the-loop"
+  ]
+}

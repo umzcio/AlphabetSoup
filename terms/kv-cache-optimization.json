@@ -1,0 +1,16 @@
+{
+  "slug": "kv-cache-optimization",
+  "term": "KV Cache Optimization",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Techniques that shrink or reuse the KV cache to fit longer contexts and bigger batches.",
+  "definition": "KV cache optimization covers techniques that reduce or better manage the memory the KV cache (the model's saved record of the conversation so far) consumes while it runs. Beyond basic paging, these include shrinking the saved numbers so they take less room, sharing repeated opening text across requests, smarter rules for what to drop, and handing out memory on demand. Such methods let serving systems support longer inputs, more requests at once, or smaller memory use without sacrificing much quality or speed.",
+  "example": null,
+  "related": [
+    "kv-cache",
+    "paged-attention",
+    "prefix-caching",
+    "quantization",
+    "long-context-compression"
+  ]
+}

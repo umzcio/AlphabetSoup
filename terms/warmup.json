@@ -1,0 +1,16 @@
+{
+  "slug": "warmup",
+  "term": "Warmup",
+  "acronym": null,
+  "category": "Training",
+  "short": "Ramping the learning rate up gradually at the start of training.",
+  "definition": "Warmup gradually raises the learning rate from a very small value to its target over the first stretch of training. This prevents large, destabilizing updates early on, when gradients are noisy and the model is far from a good solution. It is especially important for adaptive optimizers like Adam and is usually followed by a decay schedule such as cosine annealing.",
+  "example": null,
+  "related": [
+    "learning-rate",
+    "learning-rate-schedule",
+    "cosine-schedule",
+    "adam",
+    "optimizer"
+  ]
+}

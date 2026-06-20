@@ -1,0 +1,15 @@
+{
+  "slug": "model-parallelism",
+  "term": "Model Parallelism",
+  "acronym": null,
+  "category": "Training",
+  "short": "Splitting one model across multiple devices so it fits in memory.",
+  "definition": "Model parallelism divides a single model across several devices so a network too large for one GPU can still train and run. It includes tensor parallelism, which splits matrices within a layer, and pipeline parallelism, which assigns groups of layers to different devices. It is often combined with data parallelism to scale very large models.",
+  "example": null,
+  "related": [
+    "tensor-parallelism",
+    "pipeline-parallelism",
+    "data-parallelism",
+    "gpu"
+  ]
+}

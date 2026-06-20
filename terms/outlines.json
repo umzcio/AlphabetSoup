@@ -1,0 +1,16 @@
+{
+  "slug": "outlines",
+  "term": "Outlines",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A library that forces model output to match a required structure, such as a fixed data format.",
+  "definition": "Outlines is an open-source library that makes language model output conform to a specified structure. As the model writes, it blocks any next word that would break the target format, using pattern-matching rules to enforce data formats like JSON, a fixed list of allowed choices, or other defined templates. This yields output a program can read directly, without retries or cleanup, and it works with serving backends like vLLM and llama.cpp.",
+  "example": null,
+  "related": [
+    "constrained-decoding",
+    "structured-output",
+    "guided-decoding",
+    "json-mode",
+    "lmql"
+  ]
+}

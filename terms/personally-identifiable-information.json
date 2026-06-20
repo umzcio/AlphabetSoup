@@ -1,0 +1,16 @@
+{
+  "slug": "personally-identifiable-information",
+  "term": "Personally Identifiable Information",
+  "acronym": "PII",
+  "category": "Data",
+  "short": "Data that can identify a specific person, such as a name, address, or ID number.",
+  "definition": "Personally identifiable information is any data that can identify a specific person, such as a name, email address, phone number, or government ID. In AI pipelines it is a privacy concern because it can leak into training data and resurface in model outputs. Curation steps often detect and remove or mask it, using methods like pseudonymization and de-identification to reduce risk.",
+  "example": null,
+  "related": [
+    "pseudonymization",
+    "de-identification",
+    "data-governance",
+    "privacy-risk",
+    "differential-privacy"
+  ]
+}

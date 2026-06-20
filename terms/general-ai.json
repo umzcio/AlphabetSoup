@@ -1,0 +1,15 @@
+{
+  "slug": "general-ai",
+  "term": "General AI",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "AI with broad, flexible intelligence able to handle many kinds of tasks across domains.",
+  "definition": "General AI refers to a system with broad, flexible intelligence able to transfer knowledge between arbitrary domains, learn new tasks from little data, and reason abstractly the way people do. It is contrasted with narrow AI, which excels only within its training domain. As of 2026 no system has achieved it, though large foundation models show cross-domain abilities that fuel ongoing debate. The term is often used interchangeably with AGI.",
+  "example": null,
+  "related": [
+    "agi",
+    "narrow-ai",
+    "artificial-intelligence",
+    "foundation-model"
+  ]
+}

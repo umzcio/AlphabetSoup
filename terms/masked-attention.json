@@ -1,0 +1,16 @@
+{
+  "slug": "masked-attention",
+  "term": "Masked Attention",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "Attention that hides future tokens so each position can only attend to earlier ones.",
+  "definition": "Masked attention prevents each token from attending to positions that come after it by setting those attention scores to a value that contributes nothing. This causal masking enforces the left-to-right order needed for autoregressive generation, where the model must predict the next token without seeing it. It is the form of self-attention used in decoder-only language models such as the GPT and Llama families.",
+  "example": null,
+  "related": [
+    "attention",
+    "decoder-only",
+    "autoregressive-model",
+    "multi-head-attention",
+    "transformer"
+  ]
+}

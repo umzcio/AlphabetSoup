@@ -1,0 +1,15 @@
+{
+  "slug": "clip",
+  "term": "CLIP",
+  "acronym": "Contrastive Language-Image Pretraining",
+  "category": "Multimodal",
+  "short": "A model that maps images and text into a shared space so matches land close together.",
+  "definition": "CLIP trains an image reader and a text reader together so that a picture and its matching description map to nearby points in a shared space of numbers, learning from hundreds of millions of image-caption pairs by pulling true pairs together and pushing mismatches apart. The result lets it sort images into categories it was never directly taught and power text-based image search, and it helps steer many image-generation systems.",
+  "example": null,
+  "related": [
+    "embedding",
+    "vision-language-model",
+    "diffusion-model",
+    "neural-network"
+  ]
+}

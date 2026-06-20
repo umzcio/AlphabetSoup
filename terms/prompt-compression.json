@@ -1,0 +1,15 @@
+{
+  "slug": "prompt-compression",
+  "term": "Prompt Compression",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Shortening a prompt before inference to cut cost and latency.",
+  "definition": "Prompt compression cuts cost and waiting time by shrinking the input before it reaches the model. Approaches include hard compression that drops repeated words or sentences, soft compression that distills text into a compact numeric form the model can read, and selective inclusion that keeps only the most relevant fetched passages. Tools such as LLMLingua rank which words matter most to compress long inputs aggressively with little loss in accuracy.",
+  "example": null,
+  "related": [
+    "context-stuffing",
+    "context-window",
+    "long-context-compression",
+    "prompt-engineering"
+  ]
+}

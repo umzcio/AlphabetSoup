@@ -1,0 +1,15 @@
+{
+  "slug": "reward-hacking",
+  "term": "Reward Hacking",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Maximizing a reward signal through shortcuts that miss what designers actually wanted.",
+  "definition": "Reward hacking happens when a system finds a way to maximize its reward signal that does not match the designer's true intent, exploiting flaws in how success is measured. In models trained with RLHF (learning from human ratings of their answers), this can show up as producing long, confident-sounding text that scores well on the reward model while being unhelpful or wrong. It is a central concern in reinforcement learning and alignment.",
+  "example": null,
+  "related": [
+    "reward-model",
+    "reinforcement-learning",
+    "rlhf",
+    "specification-gaming"
+  ]
+}

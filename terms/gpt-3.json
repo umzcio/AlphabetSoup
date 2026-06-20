@@ -1,0 +1,16 @@
+{
+  "slug": "gpt-3",
+  "term": "GPT-3",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's 2020 model that showed a single model could do tasks from just a few examples in the prompt.",
+  "definition": "GPT-3 is a large language model released by OpenAI in 2020 with 175 billion parameters (the internal numbers it learns during training). It showed that a single pretrained model could handle many language tasks just from a prompt — given a few examples (few-shot) or none at all (zero-shot) — without separate training for each task. Accessed via OpenAI's API, it underpinned early applications including the Codex code model, and helped launch the current era of large language model development.",
+  "example": null,
+  "related": [
+    "openai",
+    "gpt",
+    "gpt-4",
+    "few-shot",
+    "autoregressive-model"
+  ]
+}

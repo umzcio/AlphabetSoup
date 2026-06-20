@@ -1,0 +1,15 @@
+{
+  "slug": "asi",
+  "term": "Artificial Superintelligence",
+  "acronym": "Artificial Superintelligence",
+  "category": "Foundations",
+  "short": "A hypothetical system whose abilities would far exceed the best humans in nearly every field.",
+  "definition": "Artificial superintelligence describes a hypothetical system whose cognitive abilities would greatly surpass the best human experts in nearly every field, including scientific creativity, strategy, and social intelligence. It is a speculative concept, discussed mainly in the context of long-term AI safety and alignment rather than as a near-term product. No such system exists, and its possibility and timeline remain debated.",
+  "example": null,
+  "related": [
+    "agi",
+    "ai-safety",
+    "alignment",
+    "superalignment"
+  ]
+}

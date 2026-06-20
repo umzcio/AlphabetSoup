@@ -1,0 +1,16 @@
+{
+  "slug": "mistral-small-4",
+  "term": "Mistral Small 4",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Mistral AI's compact open-weight model unifying reasoning, vision, and coding.",
+  "definition": "Mistral Small 4 is a compact open-weight model from Mistral AI, released under the permissive Apache 2.0 license. It consolidates reasoning, multimodal vision, and coding capabilities into a single architecture with configurable reasoning effort, so users can trade compute for depth. Designed to run efficiently on modern GPUs, it serves as a lightweight alternative to larger frontier-class models.",
+  "example": null,
+  "related": [
+    "mistral-ai",
+    "mistral-models",
+    "open-weights",
+    "reasoning-model",
+    "multimodal-model"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "multi-agent-collaboration",
+  "term": "Multi-Agent Collaboration",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Several agents with distinct roles working together on a shared task.",
+  "definition": "Multi-agent collaboration coordinates several agents that hold distinct roles, tools, knowledge, or personas. The agents communicate through natural language or structured messages, delegate subtasks, critique each other's work, or vote on outcomes. The pattern suits complex workflows that benefit from division of labor, diverse perspectives, or parallel exploration, though it adds coordination overhead and the risk of errors compounding between agents.",
+  "example": null,
+  "related": [
+    "multi-agent-system",
+    "debate",
+    "orchestrator",
+    "hierarchical-agent"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "moonshot-ai",
+  "term": "Moonshot AI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A Chinese AI company known for its long-context Kimi models and assistant.",
+  "definition": "Moonshot AI is a Chinese AI company known for its Kimi models and assistant, including long-context and open-weight releases that drew attention for strong coding performance and agentic ability (acting in multiple steps and using tools to reach a goal). It competes among Chinese labs developing frontier language models. Specific model details change over time and are worth verifying before publishing.",
+  "example": null,
+  "related": [
+    "kimi",
+    "context-window",
+    "open-weights",
+    "deepseek"
+  ]
+}

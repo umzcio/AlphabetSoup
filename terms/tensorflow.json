@@ -1,0 +1,14 @@
+{
+  "slug": "tensorflow",
+  "term": "TensorFlow",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Google's open-source ML framework, known for strong production and deployment tooling.",
+  "definition": "TensorFlow is an open-source machine learning framework from Google, known for robust deployment across servers, mobile, and edge devices via TensorFlow Serving and TensorFlow Lite. It pioneered static computation graphs for efficient production pipelines and later added eager execution. Much research has shifted to PyTorch, but TensorFlow remains widely used, and its Keras API is popular for beginners.",
+  "example": null,
+  "related": [
+    "pytorch",
+    "jax",
+    "google-deepmind"
+  ]
+}

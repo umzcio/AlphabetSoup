@@ -1,0 +1,16 @@
+{
+  "slug": "seq2seq",
+  "term": "Seq2Seq",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "Mapping one sequence to another, as in translation or summarization.",
+  "definition": "Seq2Seq, short for sequence-to-sequence, is a modeling approach that maps an input sequence to an output sequence of possibly different length. An encoder reads the input into an internal representation and a decoder generates the output from it, token by token. It is the standard framing for tasks like machine translation and summarization, and early seq2seq systems used RNNs before encoder-decoder Transformers took over.",
+  "example": null,
+  "related": [
+    "encoder-decoder",
+    "rnn",
+    "transformer",
+    "summarization",
+    "attention"
+  ]
+}

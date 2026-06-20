@@ -1,0 +1,15 @@
+{
+  "slug": "pipeline-parallelism",
+  "term": "Pipeline Parallelism",
+  "acronym": "PP",
+  "category": "Training",
+  "short": "Placing consecutive groups of layers on different devices like an assembly line.",
+  "definition": "Pipeline parallelism divides a model's layers into sequential stages, each placed on a different device, and streams small chunks of data through them so multiple stages run at once, like an assembly line. Because only each stage's intermediate results pass to the next, it needs less communication between devices than tensor parallelism. It reduces the memory needed per device and is often combined with tensor and data parallelism to train very large models.",
+  "example": null,
+  "related": [
+    "tensor-parallelism",
+    "data-parallelism",
+    "model-parallelism",
+    "microbatching"
+  ]
+}

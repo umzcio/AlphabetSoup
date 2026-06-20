@@ -1,0 +1,16 @@
+{
+  "slug": "semi-supervised-learning",
+  "term": "Semi-Supervised Learning",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Training with a small amount of labeled data alongside plentiful unlabeled data.",
+  "definition": "Semi-supervised learning combines a limited set of labeled examples with a much larger pool of unlabeled data. Techniques include pseudo-labeling, where the model's own predictions on unlabeled data become training targets, and consistency regularization, which trains the model to give stable predictions under data augmentation. It is practical when labeling is expensive but raw data is plentiful.",
+  "example": null,
+  "related": [
+    "supervised-learning",
+    "unsupervised-learning",
+    "self-supervised-learning",
+    "data-labeling",
+    "synthetic-data"
+  ]
+}

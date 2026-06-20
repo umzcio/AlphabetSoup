@@ -1,0 +1,15 @@
+{
+  "slug": "episodic-memory",
+  "term": "Episodic Memory",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Stored records of specific past interactions or events an agent can recall.",
+  "definition": "Episodic memory is an agent's store of specific past interactions or events — what happened, when, and in what order — rather than general facts. It lets an agent recall earlier conversations or actions and reason about its own history. It is often contrasted with semantic memory, which holds structured, timeless knowledge, and together they let an agent maintain long-running state.",
+  "example": null,
+  "related": [
+    "semantic-memory",
+    "agent-memory",
+    "memory",
+    "memory-persistence"
+  ]
+}

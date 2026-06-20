@@ -1,0 +1,15 @@
+{
+  "slug": "google",
+  "term": "Google",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "An Alphabet company central to AI research, behind the transformer, Gemini, and TPUs.",
+  "definition": "Google, a subsidiary of Alphabet, is a technology company central to AI research, with foundational contributions including the 2017 transformer architecture paper (the design behind most modern AI models), the BERT language model, and the TPU (a chip Google built specially for AI). Its AI work runs largely through Google DeepMind, and its products include the Gemini assistant, AI Overviews in Search, and NotebookLM. Google Cloud provides AI infrastructure, and the company maintains the open-weight (freely downloadable) Gemma model family.",
+  "example": null,
+  "related": [
+    "google-deepmind",
+    "gemini",
+    "tpu",
+    "gemma"
+  ]
+}

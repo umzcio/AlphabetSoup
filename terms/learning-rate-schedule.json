@@ -1,0 +1,15 @@
+{
+  "slug": "learning-rate-schedule",
+  "term": "Learning Rate Schedule",
+  "acronym": null,
+  "category": "Training",
+  "short": "A rule that changes the learning rate over the course of training.",
+  "definition": "A learning rate schedule is a rule for adjusting the learning rate as training progresses, rather than holding it fixed. Common patterns warm the rate up at the start and then decay it toward the end, often following a cosine curve. Tuning the schedule helps a model converge faster and reach a better final result.",
+  "example": null,
+  "related": [
+    "learning-rate",
+    "warmup",
+    "cosine-schedule",
+    "optimizer"
+  ]
+}

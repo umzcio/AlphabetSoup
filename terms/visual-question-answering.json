@@ -1,0 +1,15 @@
+{
+  "slug": "visual-question-answering",
+  "term": "Visual Question Answering",
+  "acronym": "VQA",
+  "category": "Multimodal",
+  "short": "Answering natural-language questions about the contents of an image.",
+  "definition": "Visual question answering is a multimodal task where a model interprets both an image and a natural-language question, then produces an answer. It draws on visual recognition, spatial reasoning, common-sense knowledge, and language understanding at once. VQA benchmarks have driven progress in vision-language model design and remain a standard way to measure multimodal capability.",
+  "example": null,
+  "related": [
+    "vision-language-model",
+    "multimodal-reasoning",
+    "image-to-text",
+    "multimodal-model"
+  ]
+}

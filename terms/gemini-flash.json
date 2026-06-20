@@ -1,0 +1,16 @@
+{
+  "slug": "gemini-flash",
+  "term": "Gemini Flash",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "The speed- and cost-optimized tier of Google DeepMind's Gemini model family.",
+  "definition": "Gemini Flash is the speed- and cost-optimized tier of Google DeepMind's Gemini family, aimed at high-throughput, low-latency uses where response speed and per-token cost matter. Despite a smaller footprint than the Pro and Ultra tiers, Flash models keep very long context windows and multimodal input. The tier is widely used for production applications that need a balance of capability, speed, and low cost.",
+  "example": null,
+  "related": [
+    "gemini",
+    "google-deepmind",
+    "gemini-ultra",
+    "latency",
+    "context-window"
+  ]
+}

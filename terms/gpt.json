@@ -1,0 +1,16 @@
+{
+  "slug": "gpt",
+  "term": "GPT",
+  "acronym": "Generative Pre-trained Transformer",
+  "category": "Models & Products",
+  "short": "OpenAI's line of large language models behind ChatGPT and the OpenAI API.",
+  "definition": "GPT, short for Generative Pre-trained Transformer, is OpenAI's line of large language models behind ChatGPT and the OpenAI API (the service developers use to plug it into their own apps). Each model is first trained on huge amounts of text to predict the next word, then tuned to follow instructions. Successive generations added reasoning, multimodal input (handling images or audio as well as text), and tool use, and the GPT name became shorthand for this style of model.",
+  "example": null,
+  "related": [
+    "openai",
+    "chatgpt",
+    "transformer",
+    "gpt-3",
+    "llm"
+  ]
+}

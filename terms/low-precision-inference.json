@@ -1,0 +1,17 @@
+{
+  "slug": "low-precision-inference",
+  "term": "Low-Precision Inference",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Running a model in formats like FP8 or INT4 to cut memory and speed up generation.",
+  "definition": "Low-precision inference runs a model's calculations in formats such as FP8, FP4, or INT4 instead of standard 16-bit or 32-bit floats. Using fewer bits per parameter reduces how much data moves from memory to the processing cores, which speeds up token generation, lowers memory requirements, and cuts power use. It is a core technique for serving large models cheaply, usually with only a small accuracy cost.",
+  "example": null,
+  "related": [
+    "quantization",
+    "fp8",
+    "int4-quantization",
+    "int8",
+    "model-compression",
+    "fp4"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "codex",
+  "term": "Codex",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's code generation lineage, now a coding agent and workflow surface.",
+  "definition": "Codex is OpenAI's code-focused lineage, beginning as a model created by fine-tuning GPT-3 on public source code to translate natural language into working code in many languages. The original Codex model powered early GitHub Copilot before being superseded by later GPT models. OpenAI has since revived the Codex name for a coding agent product that plans and carries out programming tasks.",
+  "example": null,
+  "related": [
+    "openai",
+    "gpt-3",
+    "github-copilot",
+    "openai-codex"
+  ]
+}

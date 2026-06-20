@@ -1,0 +1,15 @@
+{
+  "slug": "swiglu",
+  "term": "SwiGLU",
+  "acronym": "Swish-Gated Linear Unit",
+  "category": "Architectures",
+  "short": "A gated activation block used in the feedforward layers of many recent language models.",
+  "definition": "SwiGLU is an activation building block used inside the feedforward layers of many recent language models. It combines a smooth 'Swish' activation with a gate that lets the network control how much of each signal passes through, which tends to improve quality over simpler choices like ReLU.",
+  "example": null,
+  "related": [
+    "activation-function",
+    "gelu",
+    "feedforward-network",
+    "transformer"
+  ]
+}

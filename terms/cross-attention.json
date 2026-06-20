@@ -1,0 +1,16 @@
+{
+  "slug": "cross-attention",
+  "term": "Cross-Attention",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "Attention where one sequence draws its queries from itself but keys and values from another sequence.",
+  "definition": "Cross-attention is the attention operation in which the query vectors come from one sequence while the key and value vectors come from a different one. This lets a decoder selectively focus on relevant parts of an encoder's output when producing each token. It is the defining mechanism of encoder-decoder architectures and is also used in multimodal models so a language decoder can attend to image or audio features.",
+  "example": null,
+  "related": [
+    "attention",
+    "encoder-decoder",
+    "multi-head-attention",
+    "multimodal-model",
+    "transformer"
+  ]
+}

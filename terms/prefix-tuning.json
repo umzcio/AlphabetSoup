@@ -1,0 +1,16 @@
+{
+  "slug": "prefix-tuning",
+  "term": "Prefix Tuning",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Training small added vectors at every layer to steer a frozen model.",
+  "definition": "Prefix tuning adds a short sequence of trainable number vectors — the prefix — inside every layer of a frozen (unchanged) model, where the model decides what to focus on. Because it touches every layer rather than just the input, it has more expressive power than prompt tuning. Only the prefix is trained, making it parameter-efficient (cheap to tune), and it can match full fine-tuning on some tasks while updating a tiny fraction of the model.",
+  "example": null,
+  "related": [
+    "prompt-tuning",
+    "adapter",
+    "peft",
+    "lora",
+    "fine-tuning"
+  ]
+}

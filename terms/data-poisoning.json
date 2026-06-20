@@ -1,0 +1,15 @@
+{
+  "slug": "data-poisoning",
+  "term": "Data Poisoning",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Corrupting training or retrieval data to influence a model's later behavior.",
+  "definition": "Data poisoning is an attack that corrupts the data a model learns from or retrieves, inserting crafted examples to influence its behavior. It can plant hidden triggers, degrade accuracy, or steer outputs toward an attacker's goal. Because models absorb patterns from large, loosely curated corpora, careful data curation and filtering are common defenses.",
+  "example": null,
+  "related": [
+    "training-data",
+    "data-curation",
+    "data-filtering",
+    "indirect-prompt-injection"
+  ]
+}

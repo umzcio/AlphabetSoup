@@ -1,0 +1,16 @@
+{
+  "slug": "semantic-search",
+  "term": "Semantic Search",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Finding results by comparing the meaning of a query and documents via embeddings.",
+  "definition": "Semantic search finds results by comparing the meaning of a query and documents rather than matching exact keywords. Both the query and the content are turned into lists of numbers that capture meaning (called embeddings), and the closest matches are returned, so relevant text surfaces even when the wording differs. It is the search engine behind most retrieval-based (RAG) systems and modern search features, where understanding intent matters more than literal term overlap.",
+  "example": null,
+  "related": [
+    "embedding",
+    "vector-database",
+    "rag",
+    "reranking",
+    "retrieval-model"
+  ]
+}

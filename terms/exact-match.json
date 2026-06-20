@@ -1,0 +1,16 @@
+{
+  "slug": "exact-match",
+  "term": "Exact Match",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A strict metric that counts an answer correct only if it matches the reference exactly.",
+  "definition": "Exact match is a scoring metric that marks a prediction correct only when its text matches the reference answer exactly, usually after light normalization for case and whitespace. It is strict and unambiguous, which suits short-answer and question-answering tasks with a single right answer. Because it ignores valid paraphrases, it is often paired with softer metrics that give partial credit for overlapping words.",
+  "example": null,
+  "related": [
+    "f1-score",
+    "accuracy",
+    "ground-truth",
+    "evaluation",
+    "benchmark"
+  ]
+}

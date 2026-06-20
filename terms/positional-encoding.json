@@ -1,0 +1,15 @@
+{
+  "slug": "positional-encoding",
+  "term": "Positional Encoding",
+  "acronym": "PE",
+  "category": "Architectures",
+  "short": "Signals added to token representations so a model knows their order in a sequence.",
+  "definition": "Positional Encoding adds information about each token's position to its representation, because attention otherwise treats the input as an unordered set. The original Transformer used fixed sinusoidal patterns; modern models favor learned or relative schemes such as rotary embeddings (RoPE) and ALiBi (a method that gently down-weights far-apart tokens). These newer methods cope better with sequences longer than those seen in training and integrate more naturally with attention.",
+  "example": null,
+  "related": [
+    "attention",
+    "transformer",
+    "rope",
+    "alibi"
+  ]
+}

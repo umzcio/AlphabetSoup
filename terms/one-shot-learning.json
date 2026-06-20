@@ -1,0 +1,15 @@
+{
+  "slug": "one-shot-learning",
+  "term": "One-Shot Learning",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Learning to perform a task from a single example.",
+  "definition": "One-shot learning is the ability to perform a task from a single example. In the context of large language models, it usually means giving one demonstration in the prompt before the real input, which is a form of in-context learning. It sits between zero-shot, where no example is given, and few-shot, which provides several.",
+  "example": null,
+  "related": [
+    "few-shot",
+    "zero-shot-learning",
+    "in-context-learning",
+    "prompt-engineering"
+  ]
+}

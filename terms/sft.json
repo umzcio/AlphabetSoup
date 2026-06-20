@@ -1,0 +1,16 @@
+{
+  "slug": "sft",
+  "term": "Supervised Fine-Tuning",
+  "acronym": "Supervised Fine-Tuning",
+  "category": "Training",
+  "short": "Training a pretrained model on curated input-output examples of good responses.",
+  "definition": "Supervised fine-tuning adapts a pretrained model by continuing training on a curated dataset of input-output examples, often instruction and answer pairs written or carefully filtered by people. Unlike pretraining on raw web text, it uses demonstrations of the desired behavior. It is usually the first post-training step, teaching the model the format and style of a helpful assistant before any preference learning.",
+  "example": null,
+  "related": [
+    "fine-tuning",
+    "post-training",
+    "instruction-tuning",
+    "instruction-dataset",
+    "rlhf"
+  ]
+}

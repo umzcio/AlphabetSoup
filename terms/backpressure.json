@@ -1,0 +1,16 @@
+{
+  "slug": "backpressure",
+  "term": "Backpressure",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Slowing or rejecting incoming requests when a system is overloaded.",
+  "definition": "Backpressure is a flow-control method that signals the systems sending requests to slow down when a system cannot keep up with incoming work. In a serving setup it surfaces as queuing, rejected requests, or throttling once the queue or the GPU's memory fills (the GPU being the chip that runs the model). Applying backpressure protects steady output and prevents a server from collapsing under load, at the cost of longer waits or dropped requests.",
+  "example": null,
+  "related": [
+    "concurrency",
+    "throughput",
+    "latency",
+    "autoscaling",
+    "scheduler"
+  ]
+}

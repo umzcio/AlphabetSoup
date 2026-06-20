@@ -1,0 +1,16 @@
+{
+  "slug": "f1-score",
+  "term": "F1 Score",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A single score that balances precision and recall, staying low unless both are high.",
+  "definition": "The F1 score combines precision (the share of retrieved items that are relevant) and recall (the share of relevant items that were retrieved) into a single number that stays low unless both are high. By balancing the two, it penalizes models that achieve one at the expense of the other. It is widely used for tasks like named entity recognition, extractive question answering, and information extraction.",
+  "example": null,
+  "related": [
+    "precision",
+    "recall",
+    "accuracy",
+    "exact-match",
+    "evaluation"
+  ]
+}

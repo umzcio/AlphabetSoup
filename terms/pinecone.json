@@ -1,0 +1,16 @@
+{
+  "slug": "pinecone",
+  "term": "Pinecone",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A managed, cloud-hosted vector database for embedding search.",
+  "definition": "Pinecone is a managed vector database delivered as a cloud service. It stores embeddings and runs fast similarity search over them, handling the indexing, scaling, and infrastructure so developers do not run their own database. It is commonly used as the retrieval layer for semantic search and retrieval-augmented generation applications.",
+  "example": null,
+  "related": [
+    "vector-database",
+    "embedding",
+    "semantic-search",
+    "rag",
+    "weaviate"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "repetition-penalty",
+  "term": "Repetition Penalty",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "A sampling control that discourages a model from repeating tokens it has already used.",
+  "definition": "Repetition penalty discourages a model from reusing words it has already produced by dividing the logits of previously generated tokens by a factor greater than one before sampling. This lowers their relative probability, reducing loops and redundant phrasing. Set too high, it can push the model away from useful words; set too low, the text may still repeat. It is commonly combined with temperature and top-p.",
+  "example": null,
+  "related": [
+    "sampling",
+    "temperature",
+    "top-p-sampling",
+    "logits",
+    "decoding-strategy"
+  ]
+}

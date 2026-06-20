@@ -1,0 +1,15 @@
+{
+  "slug": "vision-language-model",
+  "term": "Vision-Language Model",
+  "acronym": "VLM",
+  "category": "Multimodal",
+  "short": "A model that understands images and language together to describe, answer, or read them.",
+  "definition": "A vision-language model combines image understanding with language, so it can describe pictures, answer questions about them, or read documents and charts. It typically pairs an image-reading part with a language model, connecting the two so they work together. VLMs are a core building block of multimodal assistants.",
+  "example": null,
+  "related": [
+    "clip",
+    "llm",
+    "transformer",
+    "embedding"
+  ]
+}

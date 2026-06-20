@@ -1,0 +1,16 @@
+{
+  "slug": "state-space-model",
+  "term": "State Space Model",
+  "acronym": "SSM",
+  "category": "Architectures",
+  "short": "A sequence architecture that compresses context into a recurrently updated state.",
+  "definition": "A State Space Model processes a sequence by passing inputs through a latent state that is updated recurrently, rather than comparing every token pair as attention does. This gives it linear scaling with sequence length and a constant-size state, which suits very long inputs. Structured variants like S4 and Mamba can be trained efficiently as convolutions and then run as recurrences, making SSMs the main architectural alternative to the Transformer.",
+  "example": null,
+  "related": [
+    "mamba",
+    "transformer",
+    "rnn",
+    "attention",
+    "context-window"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "vision-transformer",
+  "term": "Vision Transformer",
+  "acronym": "ViT",
+  "category": "Architectures",
+  "short": "A Transformer that treats image patches as tokens to apply attention to vision.",
+  "definition": "A Vision Transformer splits an image into a grid of fixed-size patches, embeds each patch, adds positional information, and feeds the sequence through a standard Transformer encoder. Treating patches as tokens drops the built-in assumptions about images that earlier vision models relied on and, given enough data and scale, matches or beats them on image tasks. ViTs are a common backbone for multimodal and text-to-image systems, often paired with a text encoder as in CLIP.",
+  "example": null,
+  "related": [
+    "transformer",
+    "attention",
+    "computer-vision",
+    "clip",
+    "multimodal-model"
+  ]
+}

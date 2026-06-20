@@ -1,0 +1,16 @@
+{
+  "slug": "awq",
+  "term": "Activation-Aware Weight Quantization",
+  "acronym": "AWQ",
+  "category": "Optimization",
+  "short": "Quantization that protects the few weights most important to a model's outputs.",
+  "definition": "Activation-Aware Weight Quantization (AWQ) is a form of quantization (storing a model's numbers with fewer digits to shrink it) that compresses the weights while protecting the small fraction that most affects the model's internal signals. It finds those important weights by watching which signals are largest and rescales them before shrinking, so they keep more accuracy within the same size budget. AWQ tends to preserve quality well and runs fast on GPUs, making it a popular alternative to GPTQ (another method for shrinking models).",
+  "example": null,
+  "related": [
+    "quantization",
+    "gptq",
+    "post-training-quantization",
+    "low-precision-inference",
+    "int8"
+  ]
+}

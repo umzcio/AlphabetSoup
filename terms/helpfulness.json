@@ -1,0 +1,15 @@
+{
+  "slug": "helpfulness",
+  "term": "Helpfulness",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An alignment goal of producing accurate, complete, genuinely useful responses.",
+  "definition": "Helpfulness is an alignment objective requiring a model to give accurate, complete, and genuinely useful responses that address the user's actual intent rather than the literal request. It is one of the three goals in the helpful, harmless, honest framework. Overly restrictive safety training can reduce it through over-refusal, creating a tension that training on human feedback (RLHF) and constitutional methods try to balance.",
+  "example": null,
+  "related": [
+    "harmlessness",
+    "honesty",
+    "refusal",
+    "rlhf"
+  ]
+}

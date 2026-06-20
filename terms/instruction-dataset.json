@@ -1,0 +1,16 @@
+{
+  "slug": "instruction-dataset",
+  "term": "Instruction Dataset",
+  "acronym": null,
+  "category": "Data",
+  "short": "A collection of natural-language instructions paired with desired responses.",
+  "definition": "An instruction dataset contains examples that pair a natural-language instruction or prompt with a desired response. It is used during instruction tuning to teach a base model to follow user requests, produce useful formats, and behave as an assistant. Many modern instruction datasets are generated synthetically with stronger models, then filtered for quality before training.",
+  "example": null,
+  "related": [
+    "instruction-tuning",
+    "fine-tuning",
+    "sft",
+    "synthetic-data",
+    "dataset"
+  ]
+}

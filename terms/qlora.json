@@ -1,0 +1,16 @@
+{
+  "slug": "qlora",
+  "term": "QLoRA",
+  "acronym": "QLoRA",
+  "category": "Optimization",
+  "short": "Fine-tuning a 4-bit quantized base model with LoRA adapters on a single GPU.",
+  "definition": "QLoRA combines LoRA with 4-bit quantization of the frozen base model so large models can be fine-tuned on a single modest GPU. The base weights are stored in a 4-bit format and kept frozen, while small LoRA adapter matrices are trained in full precision, with gradients flowing only into the adapters. This brings the cost of adapting big open-weight models far down, with minimal accuracy loss versus full fine-tuning.",
+  "example": null,
+  "related": [
+    "lora",
+    "quantization",
+    "peft",
+    "fine-tuning",
+    "adapter"
+  ]
+}

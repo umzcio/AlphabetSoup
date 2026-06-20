@@ -1,0 +1,15 @@
+{
+  "slug": "multimodal-model",
+  "term": "Multimodal Model",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "A model that works across more than one data type, such as text and images.",
+  "definition": "A multimodal model processes, and sometimes generates, more than one data type—such as text, images, audio, or video—often within a shared representation. It typically bridges specialized encoders to a common backbone so the modalities can be reasoned about together. Modern flagship assistants are usually multimodal, letting people mix text and images in a single request.",
+  "example": null,
+  "related": [
+    "vision-language-model",
+    "omni-model",
+    "multimodal-embedding",
+    "multimodal-reasoning"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "iteration-level-scheduling",
+  "term": "Iteration-Level Scheduling",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Reassessing batch membership every forward pass so finished requests free their slots.",
+  "definition": "Iteration-level scheduling is the mechanism behind continuous batching: at every processing step it rechecks which requests are in the active group, dropping finished ones right away and letting new requests take their place. This fine-grained control keeps the GPU (the chip that runs the model) busy and stops short requests from getting stuck behind long ones, a problem that plainer batching can cause when requests differ in length. vLLM and SGLang both implement it.",
+  "example": null,
+  "related": [
+    "continuous-batching",
+    "dynamic-batching",
+    "scheduler",
+    "vllm",
+    "throughput"
+  ]
+}

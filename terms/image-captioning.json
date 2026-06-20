@@ -1,0 +1,15 @@
+{
+  "slug": "image-captioning",
+  "term": "Image Captioning",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Generating a written description of what appears in an image.",
+  "definition": "Image captioning is the task of producing a written description of a given image. A model typically pairs an image reader that picks out what is in the picture with a text generator that writes the caption, trained on large collections of images paired with text. It serves as a foundation for richer image-and-text tasks, and caption quality is often scored by automatic measures that compare the result against human-written captions.",
+  "example": null,
+  "related": [
+    "image-to-text",
+    "vision-language-model",
+    "image-encoder",
+    "multimodal-model"
+  ]
+}

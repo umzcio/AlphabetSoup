@@ -1,0 +1,16 @@
+{
+  "slug": "slug",
+  "term": "Slug",
+  "acronym": null,
+  "category": "Data",
+  "short": "A short, lowercase, hyphenated identifier used to name a record or page.",
+  "definition": "A slug is a short, lowercase, hyphen-separated identifier used to name a record, file, or page in a stable, URL-safe way. It is derived from a title or term by lowercasing the text and replacing spaces and punctuation with hyphens. In a glossary or dataset, each entry's slug serves as its unique key and often matches the filename that stores it.",
+  "example": "The term \"Vector Database\" becomes the slug vector-database.",
+  "related": [
+    "dataset",
+    "annotation",
+    "labeling",
+    "data-lineage",
+    "dataset-card"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "langchain",
+  "term": "LangChain",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source framework of building blocks for LLM applications, RAG, and agents.",
+  "definition": "LangChain is an open-source framework that provides modular building blocks for LLM applications — prompt templates, chains, tool integrations, memory, and retrieval. It abstracts common patterns like retrieval-augmented generation and multi-step agent loops, letting developers wire together components from different providers with little boilerplate. It helped popularize the patterns behind RAG and agents.",
+  "example": null,
+  "related": [
+    "rag",
+    "agent",
+    "tool-calling",
+    "llm"
+  ]
+}

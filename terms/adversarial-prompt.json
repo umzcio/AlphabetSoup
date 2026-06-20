@@ -1,0 +1,15 @@
+{
+  "slug": "adversarial-prompt",
+  "term": "Adversarial Prompt",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Input crafted to exploit a model's weaknesses and trigger unintended behavior.",
+  "definition": "An adversarial prompt is an input deliberately crafted to exploit weaknesses in a model's training or deployment. The category spans jailbreaks that bypass refusals, prompt injections that hijack agent actions, and inputs designed to make the model state confident falsehoods, leak its training data, or burn costly computing resources. Studying these prompts is central to red-teaming, where researchers hunt for failure modes before a system ships.",
+  "example": null,
+  "related": [
+    "jailbreak",
+    "prompt-injection",
+    "red-teaming",
+    "adversarial-example"
+  ]
+}

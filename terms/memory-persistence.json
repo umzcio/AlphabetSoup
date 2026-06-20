@@ -1,0 +1,15 @@
+{
+  "slug": "memory-persistence",
+  "term": "Memory Persistence",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Durable storage that retains an agent's facts and history beyond one conversation.",
+  "definition": "Memory persistence gives an agent durable storage — vector stores, databases, knowledge graphs, or structured memory objects — that retains facts, summaries, preferences, and past interactions beyond a single conversation window. Effective designs pair it with retrieval, summarization, and forgetting so the agent can surface relevant history without drowning in stale detail. It is what lets an agent remember across sessions.",
+  "example": null,
+  "related": [
+    "memory",
+    "agent-memory",
+    "episodic-memory",
+    "vector-database"
+  ]
+}

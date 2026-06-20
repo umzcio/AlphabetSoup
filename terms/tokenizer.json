@@ -1,0 +1,16 @@
+{
+  "slug": "tokenizer",
+  "term": "Tokenizer",
+  "acronym": null,
+  "category": "Data",
+  "short": "A system that splits raw text into tokens a model can read, and back again.",
+  "definition": "A tokenizer turns raw text into the sequence of tokens a model reads, mapping each piece to an integer ID, and converts model output back into text. Most modern models use subword methods such as byte-pair encoding or WordPiece, which balance vocabulary size against coverage of rare words. Its design affects efficiency across languages and how cost and length are measured.",
+  "example": null,
+  "related": [
+    "token",
+    "tokenization",
+    "vocabulary",
+    "byte-pair-encoding",
+    "tokenizer-training"
+  ]
+}

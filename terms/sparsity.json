@@ -1,0 +1,16 @@
+{
+  "slug": "sparsity",
+  "term": "Sparsity",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Having many zero-valued weights or activations that hardware can skip.",
+  "definition": "Sparsity describes a model with many zero-valued weights or activations, which specialized hardware and software can skip to save compute and memory. It can arise naturally or be induced through pruning. Some GPUs support structured sparsity patterns for faster inference, though irregular sparsity needs special kernels to deliver real speedups.",
+  "example": null,
+  "related": [
+    "pruning",
+    "structured-pruning",
+    "unstructured-pruning",
+    "model-compression",
+    "sparse-attention"
+  ]
+}

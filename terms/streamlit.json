@@ -1,0 +1,16 @@
+{
+  "slug": "streamlit",
+  "term": "Streamlit",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Python framework for quickly building web apps and demos for data and AI tools.",
+  "definition": "Streamlit is an open-source Python framework for building interactive web applications from simple scripts. It turns ordinary Python into a browser interface with widgets, charts, and inputs, without requiring front-end code. It is widely used to prototype data dashboards and to wrap AI models in shareable demos and internal tools.",
+  "example": null,
+  "related": [
+    "gradio",
+    "chatbot",
+    "data-science",
+    "hugging-face",
+    "evaluation"
+  ]
+}

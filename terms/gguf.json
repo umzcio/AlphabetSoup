@@ -1,0 +1,16 @@
+{
+  "slug": "gguf",
+  "term": "GGUF",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "A file format for packaging quantized models to run locally on CPUs and consumer GPUs.",
+  "definition": "GGUF is a model file format associated with the llama.cpp project that packages quantized weights and metadata for efficient local inference, including on CPUs and consumer GPUs. It bundles everything needed to load and run a model in one file, and is the common distribution format for running open models on personal hardware. Tools like Ollama and LM Studio read it directly.",
+  "example": null,
+  "related": [
+    "llama-cpp",
+    "quantization",
+    "ollama",
+    "lm-studio",
+    "safetensors"
+  ]
+}

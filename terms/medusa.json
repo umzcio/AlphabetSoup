@@ -1,0 +1,16 @@
+{
+  "slug": "medusa",
+  "term": "Medusa",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Speculative decoding that adds parallel heads to predict several future tokens at once.",
+  "definition": "Medusa speeds up generation by adding several small prediction heads (extra output channels) alongside an unchanged base model, each guessing a different future word position. This lets the model propose multiple candidate words in one pass, which a checking step then accepts or rejects. It delivers meaningful speedups while adding only a little extra and leaving the original model unchanged.",
+  "example": null,
+  "related": [
+    "speculative-decoding",
+    "eagle",
+    "decode",
+    "multi-token-prediction",
+    "inference-engine"
+  ]
+}

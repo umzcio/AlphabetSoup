@@ -1,0 +1,16 @@
+{
+  "slug": "multi-query-attention",
+  "term": "Multi-Query Attention",
+  "acronym": "MQA",
+  "category": "Architectures",
+  "short": "Attention with many query heads but a single shared key and value set.",
+  "definition": "Multi-Query Attention keeps a separate projection for each query head but shares one key and one value projection across all heads. This shrinks the KV cache (the model's stored memory of the conversation so far) and speeds up generation when memory is the bottleneck, at the cost of a small drop in quality compared with full multi-head attention. Grouped-query attention is a middle-ground version that recovers much of that quality.",
+  "example": null,
+  "related": [
+    "multi-head-attention",
+    "grouped-query-attention",
+    "kv-cache",
+    "attention",
+    "inference"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "stability-ai",
+  "term": "Stability AI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "The company behind Stable Diffusion, an open family of text-to-image models.",
+  "definition": "Stability AI is an AI company best known for releasing Stable Diffusion, the open-weight latent diffusion model that made high-quality text-to-image generation widely accessible and spawned a huge ecosystem of fine-tunes and tools. It also develops open models for audio, video, and 3D. The company has seen significant restructuring but continues to ship open generative models.",
+  "example": null,
+  "related": [
+    "diffusion-model",
+    "generative-ai"
+  ]
+}

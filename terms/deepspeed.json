@@ -1,0 +1,16 @@
+{
+  "slug": "deepspeed",
+  "term": "DeepSpeed",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Microsoft's library for training and serving very large models efficiently.",
+  "definition": "DeepSpeed is an open-source library from Microsoft for training and running models with billions of internal settings (parameters). Its ZeRO (Zero Redundancy Optimizer) family splits the training data a model needs across many GPUs (graphics chips) so no single one has to hold it all, and it also offers other ways to divide the work and speed up answering. These techniques make training huge models feasible on clusters of ordinary GPUs.",
+  "example": null,
+  "related": [
+    "model-parallelism",
+    "pipeline-parallelism",
+    "tensor-parallelism",
+    "distributed-training",
+    "microsoft"
+  ]
+}

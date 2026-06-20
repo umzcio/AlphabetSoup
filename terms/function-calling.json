@@ -1,0 +1,15 @@
+{
+  "slug": "function-calling",
+  "term": "Function Calling",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A model emitting a structured request to invoke a named function with arguments.",
+  "definition": "Function calling lets a model output a structured request — a function name and its arguments — instead of plain text, which the host application then runs before feeding the result back. It is the primary mechanism that connects models to external APIs, databases, and code, and is often used interchangeably with tool calling. The model signals intent; the application controls execution.",
+  "example": null,
+  "related": [
+    "tool-calling",
+    "agent",
+    "structured-output",
+    "json-mode"
+  ]
+}

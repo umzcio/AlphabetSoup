@@ -1,0 +1,16 @@
+{
+  "slug": "zero-shot-learning",
+  "term": "Zero-Shot Learning",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Performing a task with no task-specific examples, working from instructions alone.",
+  "definition": "Zero-shot learning is performing a task without any task-specific examples, relying instead on instructions and knowledge gained during training. With large language models it usually means describing the task in the prompt and asking for the answer directly. It contrasts with one-shot and few-shot prompting, which supply one or several demonstrations to guide the model.",
+  "example": null,
+  "related": [
+    "zero-shot-prompting",
+    "one-shot-learning",
+    "few-shot",
+    "in-context-learning",
+    "prompt-engineering"
+  ]
+}

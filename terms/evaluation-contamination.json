@@ -1,0 +1,16 @@
+{
+  "slug": "evaluation-contamination",
+  "term": "Evaluation Contamination",
+  "acronym": null,
+  "category": "Data",
+  "short": "When test material leaks into training data, making evaluation scores misleadingly high.",
+  "definition": "Evaluation contamination occurs when material from a test set leaks into a model's training data, so the model has effectively seen the answers and its scores no longer reflect true ability. It often happens when benchmark questions appear in large web-scraped corpora. Detecting and removing this overlap, through deduplication and contamination checks, is needed to keep evaluations trustworthy and comparisons fair.",
+  "example": null,
+  "related": [
+    "benchmark-contamination",
+    "benchmark",
+    "evaluation",
+    "test-set",
+    "deduplication"
+  ]
+}

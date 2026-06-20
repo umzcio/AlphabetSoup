@@ -1,0 +1,15 @@
+{
+  "slug": "meta-ai",
+  "term": "Meta AI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "Meta's AI division, best known for releasing the open-weight Llama models.",
+  "definition": "Meta AI is the artificial intelligence organization at Meta, the parent of Facebook and Instagram, spanning fundamental research (FAIR) and applied products. It is best known for releasing the open-weight Llama models, which seeded a large open-source ecosystem of fine-tunes and tools. Meta AI also builds multimodal models (which handle images and audio, not just text) and code models, and ships AI features across Meta's apps.",
+  "example": null,
+  "related": [
+    "pytorch",
+    "ollama",
+    "hugging-face",
+    "openai"
+  ]
+}

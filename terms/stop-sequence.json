@@ -1,0 +1,16 @@
+{
+  "slug": "stop-sequence",
+  "term": "Stop Sequence",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "A string or token pattern that tells the model to end generation when it appears.",
+  "definition": "A stop sequence is a string or token pattern that ends generation as soon as the model produces it. It gives applications precise control over where a response stops — for example, halting at a delimiter, a role marker in a chat template, or a closing tag. The matched sequence is usually excluded from the returned text. Stop sequences are a standard parameter in serving APIs.",
+  "example": null,
+  "related": [
+    "decoding-strategy",
+    "sampling",
+    "prompt-template",
+    "delimiters",
+    "structured-output"
+  ]
+}

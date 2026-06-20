@@ -1,0 +1,15 @@
+{
+  "slug": "infiniband",
+  "term": "InfiniBand",
+  "acronym": "InfiniBand",
+  "category": "Hardware & Systems",
+  "short": "A high-bandwidth, low-latency network standard widely used in AI training clusters.",
+  "definition": "InfiniBand is a networking standard that provides high bandwidth and low latency between compute nodes, widely used in high-performance computing and AI training clusters to connect GPU servers across racks. It supports remote direct memory access, letting one server read or write another's memory without involving the host CPU, which lowers latency and frees up compute. Its speed makes it well suited to synchronizing gradients during distributed training.",
+  "example": null,
+  "related": [
+    "rdma",
+    "interconnect",
+    "distributed-training",
+    "compute-node"
+  ]
+}

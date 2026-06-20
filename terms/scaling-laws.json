@@ -1,0 +1,15 @@
+{
+  "slug": "scaling-laws",
+  "term": "Scaling Laws",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Observed relationships predicting how performance improves with more scale.",
+  "definition": "Scaling laws are observed relationships showing that a model's loss falls predictably, often as a power law, when parameters, training tokens, and compute are increased together. Pioneered by Kaplan and colleagues and refined by DeepMind's Chinchilla work, they guide how labs split a fixed compute budget between model size and data. The Chinchilla findings suggested many large models had been undertrained for their size.",
+  "example": null,
+  "related": [
+    "compute-optimal",
+    "pretraining",
+    "parameter",
+    "loss-function"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "continued-pretraining",
+  "term": "Continued Pretraining",
+  "acronym": null,
+  "category": "Training",
+  "short": "Further pretraining an existing base model on new or domain-specific data.",
+  "definition": "Continued pretraining keeps training an already pretrained base model on additional data, often from a specific domain or language, to broaden or deepen its knowledge before fine-tuning. It uses the same large-scale next-token objective as the original pretraining, which sets it apart from instruction or preference fine-tuning. It is a cost-effective way to inject specialized vocabulary and knowledge without training from scratch.",
+  "example": null,
+  "related": [
+    "pretraining",
+    "domain-adaptation",
+    "fine-tuning",
+    "continual-learning",
+    "domain-data"
+  ]
+}

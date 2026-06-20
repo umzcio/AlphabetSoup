@@ -1,0 +1,15 @@
+{
+  "slug": "chatbot",
+  "term": "Chatbot",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Software that converses with people in natural language, usually backed by a language model.",
+  "definition": "A chatbot is software that converses with people in natural language. Modern chatbots are usually front ends to large language models, such as ChatGPT or Claude, and can answer questions, draft text, and increasingly call tools on a user's behalf. Earlier chatbots relied on scripted rules, while current ones generate replies from the underlying model.",
+  "example": null,
+  "related": [
+    "llm",
+    "chatgpt",
+    "assistant-message",
+    "tool-use"
+  ]
+}

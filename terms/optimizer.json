@@ -1,0 +1,16 @@
+{
+  "slug": "optimizer",
+  "term": "Optimizer",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "The algorithm that updates a model's parameters during training.",
+  "definition": "An optimizer is the algorithm that updates a model's parameters during training, using the gradients of the loss to decide how much to change each weight. It governs the step size and direction of each update, and choices here strongly affect how fast and how stably a model learns. Common optimizers include stochastic gradient descent, Adam, and AdamW.",
+  "example": null,
+  "related": [
+    "adam",
+    "adamw",
+    "sgd",
+    "gradient-descent",
+    "loss-function"
+  ]
+}

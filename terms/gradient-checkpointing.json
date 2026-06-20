@@ -1,0 +1,16 @@
+{
+  "slug": "gradient-checkpointing",
+  "term": "Gradient Checkpointing",
+  "acronym": null,
+  "category": "Training",
+  "short": "Trading extra computation for memory by recomputing the model's intermediate working values instead of storing them.",
+  "definition": "Gradient checkpointing, also called activation checkpointing, trades computation for memory during training. Instead of storing every intermediate working value the model produces, it saves only a subset and recomputes the omitted ones on the fly when they are needed. This can cut that memory by a large factor at the cost of roughly thirty to forty percent extra computation, enabling larger models or batches on limited hardware.",
+  "example": null,
+  "related": [
+    "activation-checkpointing",
+    "backpropagation",
+    "activation",
+    "batch-size",
+    "out-of-memory"
+  ]
+}

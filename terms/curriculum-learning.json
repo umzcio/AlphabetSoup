@@ -1,0 +1,15 @@
+{
+  "slug": "curriculum-learning",
+  "term": "Curriculum Learning",
+  "acronym": null,
+  "category": "Training",
+  "short": "Ordering training data from easier examples to harder ones as training proceeds.",
+  "definition": "Curriculum learning orders training data so the model sees simpler or more fundamental examples early and progressively harder ones later, loosely echoing how people learn. In language model pretraining this might mean starting with shorter sequences or higher-quality text before introducing noisier or more complex data. Done well, it can improve sample efficiency and final model quality.",
+  "example": null,
+  "related": [
+    "data-mixing",
+    "pretraining",
+    "training-data",
+    "data-curation"
+  ]
+}

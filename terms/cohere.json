@@ -1,0 +1,14 @@
+{
+  "slug": "cohere",
+  "term": "Cohere",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A Canadian enterprise-focused AI company with strong language, embedding, and reranking models.",
+  "definition": "Cohere is a Canadian AI company founded in 2019, with roots in the original transformer research, that focuses on enterprise customers. It offers the Command family of language models plus strong embedding models (which turn text into numbers that capture meaning) and reranking models (which reorder search results by relevance), and emphasizes data privacy and flexible deployment, including running on a customer's own servers and private cloud. Its research arm, Cohere For AI, publishes academic work.",
+  "example": null,
+  "related": [
+    "embedding",
+    "rag",
+    "transformer"
+  ]
+}

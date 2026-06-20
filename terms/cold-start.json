@@ -1,0 +1,16 @@
+{
+  "slug": "cold-start",
+  "term": "Cold Start",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "The startup delay before a model or instance is loaded and ready to serve.",
+  "definition": "A cold start is the delay that occurs when capacity is not already running and a model must be loaded into the memory of a GPU (the chip that runs the model) before it can serve a request. For large models this can take seconds to minutes, since the weights — the model's learned numbers — must be read from storage and set up. Cold starts complicate autoscaling and scale-to-zero deployments, where idle capacity is removed to save cost.",
+  "example": null,
+  "related": [
+    "autoscaling",
+    "latency",
+    "model-server",
+    "weights",
+    "inference-engine"
+  ]
+}

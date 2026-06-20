@@ -1,0 +1,15 @@
+{
+  "slug": "structured-prompting",
+  "term": "Structured Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Organizing a prompt into labeled sections so the model parses it clearly.",
+  "definition": "Structured prompting gives a prompt document-like organization, labeling sections such as 'Context', 'Instructions', 'Examples', and 'Query' so the model can parse intent without ambiguity. Labeled tags, headers, and other plain markers that fence off each section are common structuring devices. Compared with free-form prose, this reduces misinterpretation, improves reproducibility, and scales better to complex prompts with many components.",
+  "example": null,
+  "related": [
+    "xml-prompting",
+    "delimiters",
+    "prompt-engineering",
+    "prompt-template"
+  ]
+}

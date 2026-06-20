@@ -1,0 +1,16 @@
+{
+  "slug": "lmarena",
+  "term": "LMArena",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A platform that ranks models by blind human votes on side-by-side responses.",
+  "definition": "LMArena, formerly Chatbot Arena, ranks models through blind side-by-side comparisons in which people send a prompt, see two anonymous responses, and vote for the better one. Aggregated votes produce an Elo-style rating that reflects real-world preference. It is widely cited as a measure of how models perform in open-ended use, complementing fixed benchmarks that test narrower skills.",
+  "example": null,
+  "related": [
+    "chatbot-arena",
+    "elo-rating",
+    "win-rate",
+    "evaluation",
+    "leaderboard"
+  ]
+}

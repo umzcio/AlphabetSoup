@@ -1,0 +1,15 @@
+{
+  "slug": "open-source-ai",
+  "term": "Open Source AI",
+  "acronym": null,
+  "category": "Data",
+  "short": "AI systems released with open code and, often, open model weights.",
+  "definition": "Open source AI refers to AI systems released with open code and, in many cases, open model weights (the trained numbers that make up a model), so that others can inspect, run, and modify them. The exact meaning varies — some releases share training code and data, others share only the trained weights under a license. This openness supports independent research, local deployment, and adaptation without depending on a single provider.",
+  "example": null,
+  "related": [
+    "open-weights",
+    "weights",
+    "hugging-face",
+    "closed-weight-model"
+  ]
+}

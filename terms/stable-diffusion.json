@@ -1,0 +1,16 @@
+{
+  "slug": "stable-diffusion",
+  "term": "Stable Diffusion",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Stability AI's open family of latent diffusion models for text-to-image generation.",
+  "definition": "Stable Diffusion is a widely used open family of text-to-image models from Stability AI. It builds a picture by gradually removing noise, working on a compressed version of the image rather than pixel by pixel, which makes producing high-resolution images efficient. Because the weights are openly available, it spawned a large community of custom retrainings, lightweight add-on adaptations, tools that steer the layout of a generated image, and local apps. Later versions such as SDXL improved quality and added capabilities.",
+  "example": null,
+  "related": [
+    "stability-ai",
+    "latent-diffusion",
+    "diffusion-model",
+    "text-to-image",
+    "sdxl"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "honesty",
+  "term": "Honesty",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An alignment goal of avoiding false claims and not creating misleading impressions.",
+  "definition": "Honesty is an alignment objective covering several properties: asserting only what the model believes true, expressing appropriate uncertainty, not pursuing hidden agendas, and avoiding deception or manipulation. It is one of the three goals in the helpful, harmless, honest framework. Honesty matters because confident but false claims undermine trust, and it is closely tied to efforts to detect and prevent deceptive behavior.",
+  "example": null,
+  "related": [
+    "harmlessness",
+    "helpfulness",
+    "deception",
+    "hallucination"
+  ]
+}

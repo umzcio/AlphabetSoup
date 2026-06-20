@@ -1,0 +1,16 @@
+{
+  "slug": "tokenizer-training",
+  "term": "Tokenizer Training",
+  "acronym": null,
+  "category": "Data",
+  "short": "Learning a token vocabulary and splitting rules from a text corpus.",
+  "definition": "Tokenizer training learns the vocabulary and merge or splitting rules used to break text into tokens, derived from a representative corpus with an algorithm such as byte-pair encoding, WordPiece, or unigram. A good tokenizer balances vocabulary size, compression rate, and coverage across languages and domains. Choices about corpus composition, vocabulary size, and whitespace handling have lasting effects on model quality and multilingual capability.",
+  "example": null,
+  "related": [
+    "tokenizer",
+    "vocabulary",
+    "byte-pair-encoding",
+    "sentencepiece",
+    "wordpiece"
+  ]
+}

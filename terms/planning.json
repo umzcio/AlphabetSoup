@@ -1,0 +1,16 @@
+{
+  "slug": "planning",
+  "term": "Planning",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Breaking a task into an ordered set of steps before acting on it.",
+  "definition": "Planning is the step where a model breaks a complex task into an ordered sequence of smaller steps before execution begins. By laying out the route in advance, an agent can reason about dependencies, allocate tools, and catch flawed approaches early rather than committing to actions one at a time. It underpins patterns like plan-and-execute and is central to reliable long-horizon agent behavior.",
+  "example": null,
+  "related": [
+    "plan-and-execute",
+    "planner-executor",
+    "chain-of-thought",
+    "agent",
+    "reasoning-model"
+  ]
+}

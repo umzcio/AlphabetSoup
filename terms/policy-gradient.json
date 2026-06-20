@@ -1,0 +1,16 @@
+{
+  "slug": "policy-gradient",
+  "term": "Policy Gradient",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Reinforcement learning methods that adjust a policy directly using reward signals.",
+  "definition": "Policy gradient methods are a family of reinforcement learning algorithms that optimize a policy — the rule mapping situations to actions — by directly following the direction that increases expected reward. Rather than learning value estimates first, they nudge the policy to make high-reward actions more likely. They underpin training methods like PPO and GRPO (named recipes for this kind of reward-based tuning) that are widely used to align and fine-tune language models.",
+  "example": null,
+  "related": [
+    "reinforcement-learning",
+    "ppo",
+    "grpo",
+    "rlhf",
+    "reward-model"
+  ]
+}

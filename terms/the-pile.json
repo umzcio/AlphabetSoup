@@ -1,0 +1,16 @@
+{
+  "slug": "the-pile",
+  "term": "The Pile",
+  "acronym": null,
+  "category": "Data",
+  "short": "An open, diverse English pretraining dataset created by EleutherAI.",
+  "definition": "The Pile is an open English pretraining dataset created by EleutherAI that aggregates many smaller sources, including books, academic papers, code repositories, subtitles, and filtered web text. It was built to give broad, diverse coverage for training large language models. The Pile is notable for its transparency about data sourcing and composition, and it influenced the design of later open pretraining corpora.",
+  "example": null,
+  "related": [
+    "eleutherai",
+    "pretraining-corpus",
+    "common-crawl",
+    "corpus",
+    "training-data"
+  ]
+}

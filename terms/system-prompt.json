@@ -1,0 +1,15 @@
+{
+  "slug": "system-prompt",
+  "term": "System Prompt",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A high-level instruction, separate from the user's message, that sets the model's behavior.",
+  "definition": "A system prompt is a high-level instruction, separate from the user's message, that defines a model's persona, constraints, and overall behavior for a session. It is where developers encode tone, safety rules, output formatting, and available tools. The model treats it as privileged — users generally cannot see or override it — making it a primary way to customize behavior without fine-tuning.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "jailbreak",
+    "tool-calling",
+    "llm"
+  ]
+}

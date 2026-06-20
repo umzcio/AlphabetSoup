@@ -1,0 +1,16 @@
+{
+  "slug": "gpt-4",
+  "term": "GPT-4",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's 2023 model, the first GPT to accept image input alongside text.",
+  "definition": "GPT-4 is a large language model from OpenAI, released in 2023, and the first GPT model to accept image inputs alongside text. It showed substantially stronger reasoning, coding, and knowledge than the prior generation, and powered the paid tier of ChatGPT as well as the developer API. OpenAI did not publicly disclose its architecture or parameter count.",
+  "example": null,
+  "related": [
+    "openai",
+    "gpt",
+    "gpt-3",
+    "gpt-4o",
+    "rlhf"
+  ]
+}

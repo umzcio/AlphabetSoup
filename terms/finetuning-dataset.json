@@ -1,0 +1,16 @@
+{
+  "slug": "finetuning-dataset",
+  "term": "Fine-Tuning Dataset",
+  "acronym": null,
+  "category": "Data",
+  "short": "A curated set of examples used to specialize a pretrained model for a task or behavior.",
+  "definition": "A fine-tuning dataset is a curated collection of examples used to specialize a pretrained model for a target task or behavior after pretraining. For instruction tuning, entries are typically instruction-and-response pairs; for domain adaptation, they may be domain-specific text. At this stage, quality, consistent formatting, and good coverage of the desired behaviors matter far more than raw size.",
+  "example": null,
+  "related": [
+    "fine-tuning",
+    "instruction-dataset",
+    "instruction-tuning",
+    "dataset",
+    "domain-data"
+  ]
+}

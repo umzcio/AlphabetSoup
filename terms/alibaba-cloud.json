@@ -1,0 +1,15 @@
+{
+  "slug": "alibaba-cloud",
+  "term": "Alibaba Cloud",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "Alibaba's cloud division that develops and serves the Qwen language and multimodal models.",
+  "definition": "Alibaba Cloud is the cloud computing division of Alibaba and the home of the Qwen series of language and multimodal models. It releases open-weight (freely downloadable) variants for developers alongside paid hosted versions for enterprises, with an emphasis on handling long documents and many languages. The platform hosts and runs models for customers in China and internationally.",
+  "example": null,
+  "related": [
+    "qwen",
+    "alibaba",
+    "open-weights",
+    "inference"
+  ]
+}

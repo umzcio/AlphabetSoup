@@ -1,0 +1,14 @@
+{
+  "slug": "rmsnorm",
+  "term": "RMSNorm",
+  "acronym": "Root Mean Square Normalization",
+  "category": "Architectures",
+  "short": "A lightweight step that keeps the numbers flowing through a network at a steady scale.",
+  "definition": "RMSNorm, short for Root Mean Square Normalization, rescales the numbers passing through a layer so they stay a consistent size, which keeps training stable. It is a simpler, faster cousin of layer normalization and is used in many modern language models.",
+  "example": null,
+  "related": [
+    "layer-normalization",
+    "neural-network",
+    "transformer"
+  ]
+}

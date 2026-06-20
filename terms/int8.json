@@ -1,0 +1,16 @@
+{
+  "slug": "int8",
+  "term": "INT8",
+  "acronym": "INT8",
+  "category": "Optimization",
+  "short": "Representing weights and activations as 8-bit integers to shrink and speed up inference.",
+  "definition": "INT8 quantization converts a model's numbers — normally stored as fine-grained decimals — into whole numbers from a fixed range of 256 values, using a scaling factor to map between the two. It cuts model size by roughly four times versus 32-bit decimals and enables faster math on CPUs and GPUs. INT8 is used mainly when running a trained model rather than during training. Post-training quantization and quantization-aware training are common ways to limit accuracy loss.",
+  "example": null,
+  "related": [
+    "quantization",
+    "post-training-quantization",
+    "quantization-aware-training",
+    "low-precision-inference",
+    "int4-quantization"
+  ]
+}

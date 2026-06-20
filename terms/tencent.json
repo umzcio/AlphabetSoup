@@ -1,0 +1,15 @@
+{
+  "slug": "tencent",
+  "term": "Tencent",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A Chinese tech conglomerate whose Hunyuan models power AI features across its products.",
+  "definition": "Tencent is a Chinese technology conglomerate known for social media, gaming, and cloud services. Its AI research group develops the Hunyuan family of models that handle both text and other media like images (multimodal), which power features across Tencent's products and are available through Tencent Cloud. It competes in the Chinese AI market alongside Baidu, Alibaba, and DeepSeek, and has invested in AI companies internationally.",
+  "example": null,
+  "related": [
+    "baidu",
+    "alibaba",
+    "deepseek",
+    "multimodal-model"
+  ]
+}

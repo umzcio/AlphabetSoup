@@ -1,0 +1,15 @@
+{
+  "slug": "classification",
+  "term": "Classification",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A task where a model assigns each input to one of a set of discrete categories.",
+  "definition": "Classification is a machine learning task where a model assigns inputs to discrete categories, such as spam versus not spam, or identifying which animal appears in a photo. It is one of the most common supervised learning problems, with the model trained on labeled examples and judged on how accurately it labels new ones.",
+  "example": null,
+  "related": [
+    "classifier",
+    "supervised-learning",
+    "regression",
+    "accuracy"
+  ]
+}

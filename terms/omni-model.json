@@ -1,0 +1,15 @@
+{
+  "slug": "omni-model",
+  "term": "Omni Model",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "A single model that takes in and produces several modalities at once.",
+  "definition": "An omni model is a multimodal model built to take in and produce several modalities—such as text, images, and audio—within one system rather than chaining separate components together. By handling inputs and outputs end to end, it aims for low-latency, real-time interaction across modalities, for example holding a spoken conversation while also reading and describing images.",
+  "example": null,
+  "related": [
+    "multimodal-model",
+    "speech-to-speech",
+    "audio-language-model",
+    "vision-language-model"
+  ]
+}

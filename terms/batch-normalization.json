@@ -1,0 +1,15 @@
+{
+  "slug": "batch-normalization",
+  "term": "Batch Normalization",
+  "acronym": "BatchNorm",
+  "category": "Foundations",
+  "short": "Normalizing layer activations across a mini-batch to stabilize and speed up training.",
+  "definition": "Batch normalization rescales the activations of a layer (the intermediate numbers it computes) to a consistent, evenly centered range across each small group of training examples processed together, then lets the network learn how to scale and shift them. This stabilizes training, allows faster learning, and gently discourages overfitting. It became standard in image networks but is largely replaced by layer normalization in Transformers, where per-group statistics are less meaningful.",
+  "example": null,
+  "related": [
+    "layer-normalization",
+    "activation",
+    "regularization",
+    "cnn"
+  ]
+}

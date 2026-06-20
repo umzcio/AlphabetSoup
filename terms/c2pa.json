@@ -1,0 +1,15 @@
+{
+  "slug": "c2pa",
+  "term": "C2PA",
+  "acronym": "Coalition for Content Provenance and Authenticity",
+  "category": "Safety & Alignment",
+  "short": "An open standard for attaching tamper-evident provenance metadata to media.",
+  "definition": "C2PA is an open standard for content provenance and authenticity that attaches cryptographically signed metadata describing how a piece of media was created and edited. It lets viewers check where an image, video, or audio file came from and whether it was AI-generated or altered. The aim is to support trust and traceability as synthetic media becomes more common.",
+  "example": null,
+  "related": [
+    "provenance",
+    "watermarking",
+    "image-generation",
+    "video-generation"
+  ]
+}

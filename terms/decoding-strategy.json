@@ -1,0 +1,16 @@
+{
+  "slug": "decoding-strategy",
+  "term": "Decoding Strategy",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "The rule for choosing each next token from a model's predicted distribution.",
+  "definition": "A decoding strategy is the rule that selects each next token (word-piece) from the list of likelihoods a model predicts, shaping how creative, coherent, or predictable the output is. Greedy decoding always takes the most likely option, while sampling methods like top-k and top-p draw at random from a restricted pool of high-probability choices. Temperature and beam search offer further control over diversity and structure.",
+  "example": null,
+  "related": [
+    "greedy-decoding",
+    "top-k-sampling",
+    "top-p-sampling",
+    "temperature",
+    "beam-search"
+  ]
+}

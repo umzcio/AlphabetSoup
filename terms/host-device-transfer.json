@@ -1,0 +1,15 @@
+{
+  "slug": "host-device-transfer",
+  "term": "Host Device Transfer",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Moving data between CPU (host) memory and accelerator (device) memory.",
+  "definition": "Host device transfer is the movement of data between the host — the CPU and its system memory — and the device, meaning an accelerator such as a GPU and its onboard memory. These transfers usually cross a link like PCIe, which is far slower than the accelerator's internal memory bandwidth. Because of this, frequent or large transfers can become a bottleneck, so efficient pipelines minimize them by keeping data resident on the device.",
+  "example": null,
+  "related": [
+    "cpu",
+    "gpu",
+    "pcie",
+    "memory-bandwidth"
+  ]
+}

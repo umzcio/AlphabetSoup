@@ -1,0 +1,16 @@
+{
+  "slug": "autoregressive-model",
+  "term": "Autoregressive Model",
+  "acronym": "AR",
+  "category": "Architectures",
+  "short": "A model that generates a sequence one element at a time, conditioning each step on all prior ones.",
+  "definition": "An autoregressive model predicts each element of a sequence from the elements that came before it. For language models, this means generating one token at a time: the model reads the prompt plus everything generated so far and outputs a probability distribution over the next token. GPT-style decoder-only Transformers are the dominant example. The step-by-step nature of this generation is a key cause of inference latency.",
+  "example": null,
+  "related": [
+    "decoder-only",
+    "token",
+    "transformer",
+    "decoding-strategy",
+    "inference"
+  ]
+}

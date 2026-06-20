@@ -1,0 +1,15 @@
+{
+  "slug": "ibm",
+  "term": "IBM",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A long-standing technology company with enterprise AI products and its own model work.",
+  "definition": "IBM is a long-standing technology company that builds enterprise hardware, software, and services, with a substantial focus on AI for business use. It develops its own Granite family of models and the watsonx platform for training, tuning, and deploying AI on enterprise data, with an emphasis on governance and on-premises options. IBM also conducts AI research across many domains.",
+  "example": null,
+  "related": [
+    "databricks",
+    "ai-governance",
+    "fine-tuning",
+    "open-weights"
+  ]
+}

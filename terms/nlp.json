@@ -1,0 +1,16 @@
+{
+  "slug": "nlp",
+  "term": "Natural Language Processing",
+  "acronym": "Natural Language Processing",
+  "category": "Foundations",
+  "short": "The area of AI focused on processing, understanding, and generating human language.",
+  "definition": "Natural language processing is the area of AI focused on human language, covering tasks like translation, summarization, sentiment analysis, and question answering. It draws on linguistics, computer science, and machine learning. Since the rise of large language models, much of the field has consolidated around prompting and fine-tuning transformer-based models rather than building task-specific pipelines.",
+  "example": null,
+  "related": [
+    "llm",
+    "transformer",
+    "machine-learning",
+    "tokenization",
+    "summarization"
+  ]
+}

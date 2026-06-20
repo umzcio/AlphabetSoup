@@ -1,0 +1,15 @@
+{
+  "slug": "human-in-the-loop",
+  "term": "Human in the Loop",
+  "acronym": "HITL",
+  "category": "Patterns",
+  "short": "Keeping a person involved to review, approve, or correct an AI system's work.",
+  "definition": "Human in the loop describes designs that keep a person involved at key points — approving an agent's action, reviewing its output, or correcting mistakes — to add oversight and catch errors. It is common wherever mistakes are costly or trust in the system is still being established. The person is an active part of the workflow rather than a passive observer.",
+  "example": null,
+  "related": [
+    "human-on-the-loop",
+    "human-approval-gate",
+    "guardrails",
+    "human-feedback"
+  ]
+}

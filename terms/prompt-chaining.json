@@ -1,0 +1,15 @@
+{
+  "slug": "prompt-chaining",
+  "term": "Prompt Chaining",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Splitting a task into steps where each prompt's output feeds the next.",
+  "definition": "Prompt chaining breaks a complex task into a sequence of simpler prompts, where the output of one step is formatted and fed into the next. Isolating each stage improves reliability over a single giant prompt, allows different instructions per step, and makes debugging easier by pinning failures to a specific stage. It is a basic building block of most LLM pipelines, workflows, and agents.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "workflow-automation",
+    "agent",
+    "langchain"
+  ]
+}

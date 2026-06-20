@@ -1,0 +1,15 @@
+{
+  "slug": "xla",
+  "term": "XLA",
+  "acronym": "Accelerated Linear Algebra",
+  "category": "Frameworks & Tools",
+  "short": "A Google compiler that speeds up the math inside machine-learning programs.",
+  "definition": "XLA, short for Accelerated Linear Algebra, is a compiler from Google that takes the math in a machine-learning program and reorganizes it to run faster on GPUs and TPUs. It powers high-performance training in frameworks like JAX and TensorFlow by streamlining operations behind the scenes.",
+  "example": null,
+  "related": [
+    "jax",
+    "tensorflow",
+    "tpu",
+    "gpu"
+  ]
+}

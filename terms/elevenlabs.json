@@ -1,0 +1,14 @@
+{
+  "slug": "elevenlabs",
+  "term": "ElevenLabs",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A company offering AI voice synthesis, text-to-speech, and voice cloning tools.",
+  "definition": "ElevenLabs is a company focused on AI-generated speech, offering text-to-speech, voice cloning, dubbing, and related audio tools through an API and web apps. Its models produce natural-sounding synthetic voices across many languages and are used for narration, dubbing, accessibility, and voice features in other products.",
+  "example": null,
+  "related": [
+    "tts",
+    "speech-to-speech",
+    "audio-language-model"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "parallelization",
+  "term": "Parallelization",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Issuing independent model or tool calls concurrently instead of one after another.",
+  "definition": "Parallelization runs several independent model calls or tool invocations at the same time rather than sequentially. An orchestrator can dispatch multiple subagents whose tasks have no dependencies, then merge their results. Because the calls overlap, total latency tracks the slowest single call rather than the sum of all of them. Agent frameworks support this through parallel execution of independent nodes.",
+  "example": null,
+  "related": [
+    "orchestrator",
+    "subagent",
+    "latency",
+    "multi-agent-system",
+    "langgraph"
+  ]
+}

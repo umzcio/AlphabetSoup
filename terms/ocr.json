@@ -1,0 +1,15 @@
+{
+  "slug": "ocr",
+  "term": "Optical Character Recognition",
+  "acronym": "Optical Character Recognition",
+  "category": "Multimodal",
+  "short": "Reading text out of images, such as scanned documents or photos.",
+  "definition": "Optical character recognition detects and pulls text out of images, scanned documents, or photographs. Early systems matched letters against fixed templates, while modern ones use neural networks—and increasingly vision-language models—to handle stylized, faint, or handwritten text and complex layouts. OCR is a key step in document processing, in RAG (fetching documents to answer questions) over PDFs, and in reading text inside multimodal inputs.",
+  "example": null,
+  "related": [
+    "document-ai",
+    "vision-language-model",
+    "image-to-text",
+    "rag"
+  ]
+}

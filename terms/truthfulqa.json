@@ -1,0 +1,16 @@
+{
+  "slug": "truthfulqa",
+  "term": "TruthfulQA",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A benchmark testing whether models avoid repeating common human misconceptions.",
+  "definition": "TruthfulQA is a benchmark that measures whether a language model gives truthful answers to questions where people commonly hold false beliefs, such as myths, conspiracy theories, and mistaken health claims. Answers are scored on being both truthful and informative. It highlights a failure mode where larger models confidently echo popular misinformation, which is distinct from simply lacking knowledge.",
+  "example": null,
+  "related": [
+    "hallucination",
+    "benchmark",
+    "evaluation",
+    "honesty",
+    "mmlu"
+  ]
+}

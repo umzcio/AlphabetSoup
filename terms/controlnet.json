@@ -1,0 +1,15 @@
+{
+  "slug": "controlnet",
+  "term": "ControlNet",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "An add-on that steers a diffusion model with edge, pose, or depth conditioning.",
+  "definition": "ControlNet is a neural network that adds layout control to a pretrained image-making AI using guide signals such as outline drawings, stick-figure poses, distance maps, or region outlines. It copies part of the base model into a separate add-on that learns from the guide input while the original model is left untouched. This gives precise control over where things go in the picture without retraining the full model.",
+  "example": null,
+  "related": [
+    "diffusion-model",
+    "stable-diffusion",
+    "image-generation",
+    "image-segmentation"
+  ]
+}

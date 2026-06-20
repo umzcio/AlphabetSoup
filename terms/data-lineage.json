@@ -1,0 +1,16 @@
+{
+  "slug": "data-lineage",
+  "term": "Data Lineage",
+  "acronym": null,
+  "category": "Data",
+  "short": "The traceable record of where data came from and how it was transformed over time.",
+  "definition": "Data lineage is the traceable record of where a dataset originated and how it was transformed at each step, from collection through filtering, cleaning, and merging. It documents sources, processing operations, and dependencies so a final dataset can be audited and reproduced. For AI work, lineage supports debugging, licensing and privacy compliance, and trust in the data behind a model.",
+  "example": null,
+  "related": [
+    "data-governance",
+    "data-license",
+    "provenance",
+    "data-curation",
+    "dataset"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "document-chunking",
+  "term": "Document Chunking",
+  "acronym": null,
+  "category": "Data",
+  "short": "Splitting long documents into shorter segments that can be embedded and retrieved.",
+  "definition": "Document chunking divides long texts into shorter segments that fit within a model's context window and can be individually embedded and indexed for retrieval. Strategies range from fixed-size splitting to sentence- or paragraph-based splitting to semantic chunking, which groups topically coherent passages. Chunk size and overlap are key settings, since they shape retrieval precision and recall in retrieval-augmented generation systems.",
+  "example": null,
+  "related": [
+    "chunking",
+    "rag-chunking",
+    "embedding",
+    "rag",
+    "context-window"
+  ]
+}

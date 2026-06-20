@@ -1,0 +1,15 @@
+{
+  "slug": "fsdp",
+  "term": "FSDP",
+  "acronym": "Fully Sharded Data Parallel",
+  "category": "Training",
+  "short": "A method that splits a model across many GPUs so very large models can be trained.",
+  "definition": "FSDP, short for Fully Sharded Data Parallel, trains very large models by splitting their weights and related data across many graphics cards instead of copying everything onto each one. This lets a model that would never fit on a single card be trained across a whole cluster.",
+  "example": null,
+  "related": [
+    "data-parallelism",
+    "distributed-training",
+    "sharding",
+    "deepspeed"
+  ]
+}

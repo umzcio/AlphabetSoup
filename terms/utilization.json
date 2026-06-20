@@ -1,0 +1,16 @@
+{
+  "slug": "utilization",
+  "term": "Utilization",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "The share of a system's capacity that is actually being used at a given time.",
+  "definition": "Utilization is the fraction of a system's available capacity that is actually in use, whether for compute, memory, or network. High utilization means hardware is being kept busy and not sitting idle, which matters because accelerators are expensive and underuse wastes money. In AI workloads, low utilization often signals bottlenecks elsewhere, such as data loading, communication, or memory bandwidth limits stalling the compute units.",
+  "example": null,
+  "related": [
+    "model-flops-utilization",
+    "throughput",
+    "memory-bandwidth",
+    "roofline-model",
+    "gpu"
+  ]
+}

@@ -4,7 +4,7 @@
   "acronym": "Structured Generation Language",
   "category": "Inference & Serving",
   "short": "A fast LLM serving framework whose RadixAttention reuses shared prompt prefixes.",
-  "definition": "SGLang is a high-performance serving framework for LLMs and vision-language models, developed at UC Berkeley and hosted by LMSYS. Its signature feature is RadixAttention: a radix-tree data structure that automatically discovers and reuses the KV cache for shared prefixes across requests, with no manual configuration. This is decisive for agent, multi-turn, and RAG workloads where the same system prompt or context repeats. It also includes a zero-overhead scheduler, continuous batching, and speculative decoding, and is widely used as an RL rollout backbone.",
+  "definition": "SGLang is a high-performance serving framework for LLMs and vision-language models, developed at UC Berkeley and hosted by LMSYS. Its signature feature is RadixAttention, which automatically spots and reuses the KV cache (the model's saved short-term memory of the text so far) for openings shared across many requests, with no manual setup. This is decisive for agent, multi-turn, and RAG (fetching documents to answer from) workloads where the same instructions or context repeat. It also batches and overlaps work efficiently and is widely used to run models during reinforcement learning training.",
   "example": "python -m sglang.launch_server --model-path Qwen/Qwen2.5-7B-Instruct",
   "related": [
     "radix-attention",

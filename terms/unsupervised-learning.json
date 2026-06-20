@@ -1,0 +1,14 @@
+{
+  "slug": "unsupervised-learning",
+  "term": "Unsupervised Learning",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Finding structure in data that has no labels, such as clusters or compact representations.",
+  "definition": "Unsupervised learning works on data without labels, letting the model discover structure on its own. Typical goals are clustering (grouping similar items), dimensionality reduction (finding compact representations), and density estimation (modeling the data distribution). It is used to learn embeddings and find outliers, and is closely related to self-supervised learning, which creates its own training signal from the data.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "supervised-learning",
+    "embedding"
+  ]
+}

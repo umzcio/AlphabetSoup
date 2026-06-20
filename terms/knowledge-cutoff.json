@@ -1,0 +1,16 @@
+{
+  "slug": "knowledge-cutoff",
+  "term": "Knowledge Cutoff",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The date where a model's training data ends, beyond which it has no built-in knowledge.",
+  "definition": "A knowledge cutoff is the point in time where a model's training data stops, so it has no built-in knowledge of events after that date. To answer questions about newer information, the model must be given external tools such as web search or retrieval. The cutoff is a property of the training run, not a hard limit on what the system can ever know.",
+  "example": null,
+  "related": [
+    "pretraining",
+    "rag",
+    "grounding",
+    "retrieval-augmented-generation",
+    "tool-use"
+  ]
+}

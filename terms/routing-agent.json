@@ -1,0 +1,16 @@
+{
+  "slug": "routing-agent",
+  "term": "Routing Agent",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An agent that reads a query's intent and dispatches it to the right downstream system.",
+  "definition": "A routing agent analyzes the intent behind an incoming query and selects the most appropriate downstream pathway. It might send a math question to a code-execution tool, a creative request to a large stylistic model, and a support query to a database lookup. By matching each request to a specialized system, the agent reduces cost and improves accuracy compared with sending everything to one general model.",
+  "example": null,
+  "related": [
+    "routing",
+    "router-pattern",
+    "semantic-router",
+    "agent",
+    "orchestrator"
+  ]
+}

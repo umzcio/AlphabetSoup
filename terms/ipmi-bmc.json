@@ -1,0 +1,16 @@
+{
+  "slug": "ipmi-bmc",
+  "term": "IPMI / BMC",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Out-of-band server management that controls power and monitors hardware even when the OS is down.",
+  "definition": "IPMI (Intelligent Platform Management Interface) and the Baseboard Management Controller (BMC) provide out-of-band remote access to servers, working independently of the main operating system. The BMC is a dedicated chip that handles power control, sensor monitoring, logging, and remote console access. Together they let operators manage large AI clusters at scale, especially when a machine is unresponsive or needs a remote reboot.",
+  "example": null,
+  "related": [
+    "datacenter",
+    "cluster",
+    "compute-node",
+    "secure-boot",
+    "utilization"
+  ]
+}

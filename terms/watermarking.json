@@ -1,0 +1,15 @@
+{
+  "slug": "watermarking",
+  "term": "Watermarking",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Embedding a hidden, detectable signal in generated content to verify its AI origin.",
+  "definition": "Watermarking embeds a statistically detectable but imperceptible signal into generated text, images, audio, or video so its AI origin can be confirmed later. For text, the model is nudged to favor a secret, scrambled subset of words, and a checker that knows the secret runs a statistical test to spot the pattern. It is proposed as a tool against misinformation and academic dishonesty, though robustness against removal and spoofing remains an open challenge.",
+  "example": null,
+  "related": [
+    "provenance",
+    "c2pa",
+    "synthetic-data",
+    "model-stealing"
+  ]
+}

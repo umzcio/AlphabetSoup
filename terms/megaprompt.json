@@ -1,0 +1,15 @@
+{
+  "slug": "megaprompt",
+  "term": "Megaprompt",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A long, all-in-one prompt that tries to specify model behavior exhaustively.",
+  "definition": "A megaprompt is a large system prompt that attempts to pin down model behavior in a single block of text. It may bundle a persona, formatting rules, reasoning instructions, worked examples, edge-case handling, and constraints, often running to thousands of words. Megaprompts can deliver consistent behavior in production, but they raise cost and can turn brittle when instructions conflict or grow too prescriptive.",
+  "example": null,
+  "related": [
+    "system-prompt",
+    "prompt-engineering",
+    "structured-prompting",
+    "prompt-template"
+  ]
+}

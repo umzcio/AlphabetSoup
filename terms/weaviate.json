@@ -1,0 +1,16 @@
+{
+  "slug": "weaviate",
+  "term": "Weaviate",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source vector database and search engine for embedding-based retrieval.",
+  "definition": "Weaviate is an open-source vector database and search platform. It stores embeddings alongside their source objects and runs similarity search over them, often combined with keyword filtering for hybrid retrieval. It is used as the search and retrieval layer in semantic search and retrieval-augmented generation systems.",
+  "example": null,
+  "related": [
+    "vector-database",
+    "embedding",
+    "semantic-search",
+    "rag",
+    "pinecone"
+  ]
+}

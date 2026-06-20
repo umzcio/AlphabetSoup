@@ -1,0 +1,15 @@
+{
+  "slug": "output-format",
+  "term": "Output Format",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Instructions telling a model how to structure its answer.",
+  "definition": "Output format refers to instructions that tell a model how to present its answer — as bullet points, a numbered list, JSON, Markdown, or a set length. Clear format instructions cut post-processing work and make responses more consistent across requests. They rely on the model following directions, which differs from guided decoding, where structure is enforced at the token level regardless of whether the model complies.",
+  "example": null,
+  "related": [
+    "output-formatting",
+    "structured-output",
+    "guided-decoding",
+    "json-mode"
+  ]
+}

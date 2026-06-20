@@ -1,0 +1,16 @@
+{
+  "slug": "data-flywheel",
+  "term": "Data Flywheel",
+  "acronym": null,
+  "category": "Data",
+  "short": "A self-reinforcing loop where user interactions become data that keeps improving a model.",
+  "definition": "A data flywheel is a self-reinforcing cycle in AI products: as more people use a model, their queries, corrections, and feedback are collected and used to retrain or fine-tune it, improving quality, which attracts more users and generates still more data. Companies with large user bases can compound this advantage over time, making the flywheel a strategic moat for AI products.",
+  "example": null,
+  "related": [
+    "human-feedback",
+    "fine-tuning",
+    "preference-data",
+    "data-curation",
+    "dataset"
+  ]
+}

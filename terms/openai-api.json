@@ -1,0 +1,16 @@
+{
+  "slug": "openai-api",
+  "term": "OpenAI API",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "OpenAI's REST interface for chat, completions, and embeddings, widely copied by others.",
+  "definition": "The OpenAI API is a set of web addresses an application can send requests to — most notably for chat replies and for embeddings (numeric representations of text) — with an agreed format for the messages, settings, and replies that stream back word by word. Because of its wide adoption, many open-source serving systems copy this same format so applications can switch providers without code changes. This has made its request and reply format the informal industry standard for reaching language models.",
+  "example": null,
+  "related": [
+    "openai",
+    "openai-compatible-api",
+    "vllm",
+    "litellm",
+    "streaming"
+  ]
+}

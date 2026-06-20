@@ -1,0 +1,15 @@
+{
+  "slug": "cursor",
+  "term": "Cursor",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "An AI-first code editor with inline edits, codebase chat, and an agent mode.",
+  "definition": "Cursor is an AI-first code editor from Anysphere, built as a fork of Visual Studio Code. It integrates large language models from several providers directly into the editing workflow, offering inline completions, a chat interface with codebase context, multi-file refactoring from natural-language instructions, and an agent mode that plans and executes multi-step coding tasks. It is one of the prominent AI-native developer tools.",
+  "example": null,
+  "related": [
+    "copilot",
+    "github-copilot",
+    "claude-code",
+    "agent"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "amazon",
+  "term": "Amazon",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A tech and e-commerce company whose AWS division is a major cloud platform for AI workloads.",
+  "definition": "Amazon is a technology and e-commerce company whose Amazon Web Services division is a leading cloud provider for AI. AWS offers rentable GPU machines (chips well suited to AI work), custom AI chips for training and running models, and managed services such as Bedrock, which lets software connect to models from several labs. Amazon has invested heavily in Anthropic and builds AI features across its consumer products.",
+  "example": null,
+  "related": [
+    "amazon-web-services",
+    "anthropic",
+    "gpu",
+    "inference"
+  ]
+}

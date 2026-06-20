@@ -1,0 +1,15 @@
+{
+  "slug": "interconnect",
+  "term": "Interconnect",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "The high-speed links that let processors, memory, and machines exchange data.",
+  "definition": "An interconnect is the hardware fabric that links processors, memory, or whole machines so they can exchange data quickly. In AI it works at two scales: within a server, links such as NVLink and PCIe connect GPUs on the same node; across servers, fabrics like InfiniBand or fast Ethernet connect nodes in a cluster. Its bandwidth and latency largely determine how efficiently distributed training synchronizes and how serving shares work across devices.",
+  "example": null,
+  "related": [
+    "nvlink",
+    "infiniband",
+    "pcie",
+    "distributed-training"
+  ]
+}

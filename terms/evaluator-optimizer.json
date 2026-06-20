@@ -1,0 +1,15 @@
+{
+  "slug": "evaluator-optimizer",
+  "term": "Evaluator Optimizer",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A loop where one component judges an output and another revises it.",
+  "definition": "Evaluator optimizer is an agent pattern that splits work between two roles: an optimizer produces a draft, and an evaluator judges it against criteria and returns feedback. The optimizer then revises, and the cycle repeats until the output passes or a limit is reached. Separating generation from judgment tends to catch errors a single pass would miss, much like an author working with an editor.",
+  "example": null,
+  "related": [
+    "reflection",
+    "self-refine",
+    "llm-as-judge",
+    "reflexion"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "privacy-risk",
+  "term": "Privacy Risk",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The chance that a model exposes, infers, or fabricates sensitive information about people.",
+  "definition": "Privacy risk is the possibility that a model memorizes and reproduces personal information from its training data, infers sensitive attributes about individuals, or generates false but damaging claims about real people. It includes training data extraction, membership inference, and attribute inference. Mitigations include differential privacy, deduplicating training data, de-identification, and filtering outputs before they reach users.",
+  "example": null,
+  "related": [
+    "privacy-attack",
+    "personally-identifiable-information",
+    "differential-privacy",
+    "de-identification"
+  ]
+}

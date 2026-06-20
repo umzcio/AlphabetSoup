@@ -1,0 +1,15 @@
+{
+  "slug": "supervised-learning",
+  "term": "Supervised Learning",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Training a model on examples that each come with the correct answer (a label).",
+  "definition": "Supervised learning trains a model on data where each example comes with the correct answer, or label. The model learns a mapping from inputs to outputs by minimizing a loss that measures prediction error, then generalizes to new, unlabeled inputs. Common tasks are classification (predicting a category) and regression (predicting a number). Most production ML systems are trained this way.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "unsupervised-learning",
+    "reinforcement-learning",
+    "fine-tuning"
+  ]
+}

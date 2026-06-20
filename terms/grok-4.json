@@ -1,0 +1,16 @@
+{
+  "slug": "grok-4",
+  "term": "Grok 4",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A top-tier model in xAI's Grok line with real-time data access and room for long inputs.",
+  "definition": "Grok 4 is a top-tier model in xAI's Grok line, built to give responsive, up-to-date answers by drawing on real-time data from the X platform and web search. It can take in a large amount of text at once and reason through multi-step problems, and is offered through xAI's platforms and API as well as business integrations on major cloud providers.",
+  "example": null,
+  "related": [
+    "grok",
+    "xai",
+    "frontier-model",
+    "context-window",
+    "reasoning-model"
+  ]
+}

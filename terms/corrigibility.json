@@ -1,0 +1,14 @@
+{
+  "slug": "corrigibility",
+  "term": "Corrigibility",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A system's willingness to accept correction, modification, or shutdown by authorized humans.",
+  "definition": "Corrigibility is a desired property whereby an AI system supports rather than resists modification, correction, or shutdown by authorized humans. A corrigible agent does not place excessive value on its own continued operation or current goals, making it easier to fix mistakes and update objectives as understanding improves. Achieving it in highly capable systems is considered an open problem in safety research.",
+  "example": null,
+  "related": [
+    "control-problem",
+    "alignment",
+    "deceptive-alignment"
+  ]
+}

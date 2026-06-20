@@ -1,0 +1,15 @@
+{
+  "slug": "rope",
+  "term": "Rotary Positional Encoding",
+  "acronym": "RoPE",
+  "category": "Architectures",
+  "short": "A position method that rotates query and key vectors by an angle set by token position.",
+  "definition": "Rotary Positional Encoding (RoPE) encodes position by rotating the query and key vectors in attention by an angle proportional to a token's position. Because of how the rotation works, the attention score between two tokens depends only on their relative distance, giving the model a natural sense of order without separate bias terms. It is used in LLaMA, Mistral, Gemma, and most modern open-weight models, often with extensions for longer context.",
+  "example": null,
+  "related": [
+    "positional-encoding",
+    "attention",
+    "context-extension",
+    "alibi"
+  ]
+}

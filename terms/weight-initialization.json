@@ -1,0 +1,16 @@
+{
+  "slug": "weight-initialization",
+  "term": "Weight Initialization",
+  "acronym": null,
+  "category": "Training",
+  "short": "Choosing the starting values of a network's parameters before training.",
+  "definition": "Weight initialization sets the starting values of a neural network's parameters before any gradient updates. Poor choices can cause vanishing or exploding gradients, making training slow or impossible. Common strategies include Xavier initialization for sigmoid-based networks and Kaiming initialization for ReLU networks, while large transformers often use schemes tuned for their depth.",
+  "example": null,
+  "related": [
+    "weights",
+    "neural-network",
+    "gradient-descent",
+    "relu",
+    "transformer"
+  ]
+}

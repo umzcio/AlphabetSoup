@@ -1,0 +1,16 @@
+{
+  "slug": "comfyui",
+  "term": "ComfyUI",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A node-based visual interface for building generative image and video workflows.",
+  "definition": "ComfyUI is an open-source, node-based interface for building generative media workflows, most often around diffusion models like Stable Diffusion. Each step — loading a model, encoding a prompt, sampling, post-processing — is a node, and users connect nodes into a graph to control the full pipeline. Its visual, modular design gives fine-grained control and makes complex image and video generation reproducible.",
+  "example": null,
+  "related": [
+    "stable-diffusion",
+    "diffusion-model",
+    "image-generation",
+    "controlnet",
+    "diffusers"
+  ]
+}

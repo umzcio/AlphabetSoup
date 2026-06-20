@@ -1,0 +1,15 @@
+{
+  "slug": "alignment",
+  "term": "Alignment",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Making model behavior track intended human goals, values, and constraints.",
+  "definition": "Alignment is the effort to make AI systems behave in ways that are safe, useful, and consistent with human goals and constraints. The alignment problem arises because optimizing a proxy objective can lead to unintended behavior, especially as models grow more capable. Common techniques include training on human feedback (RLHF), learning directly from preferred answers (DPO), and constitutional methods, while open subproblems include value specification, reward hacking, and scalable oversight.",
+  "example": null,
+  "related": [
+    "rlhf",
+    "dpo",
+    "reward-hacking",
+    "scalable-oversight"
+  ]
+}

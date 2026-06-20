@@ -1,0 +1,16 @@
+{
+  "slug": "frechet-inception-distance",
+  "term": "Fréchet Inception Distance",
+  "acronym": "FID",
+  "category": "Evaluation",
+  "short": "An image-generation quality metric comparing the statistics of real and generated images.",
+  "definition": "Fréchet Inception Distance is a metric for image-generation quality that compares the distribution of generated images to a distribution of real ones. It passes both sets through a pretrained image network, summarizes each as a distribution of features, and measures the distance between them. Lower scores indicate generated images that are closer in quality and variety to real images.",
+  "example": null,
+  "related": [
+    "image-generation",
+    "diffusion-model",
+    "gan",
+    "evaluation",
+    "benchmark"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "pass-at-k",
+  "term": "Pass@k",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "The probability that at least one of k sampled solutions to a problem is correct.",
+  "definition": "Pass@k measures the probability that at least one of k separate attempts at a problem is correct, estimated fairly by drawing from a larger pool of attempts. It suits tasks like code generation, where a model can try several times and any working solution counts. Pass@1 reflects how often a single attempt succeeds, while larger k reveals how much extra tries improve the chance of success.",
+  "example": null,
+  "related": [
+    "humaneval",
+    "swe-bench",
+    "evaluation",
+    "sampling",
+    "benchmark"
+  ]
+}

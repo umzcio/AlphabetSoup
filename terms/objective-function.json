@@ -1,0 +1,16 @@
+{
+  "slug": "objective-function",
+  "term": "Objective Function",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The quantity a training process tries to optimize, usually by minimizing it.",
+  "definition": "An objective function is the quantity a training process tries to optimize, defining what counts as a good model. In most supervised learning it is a loss to be minimized, such as cross-entropy, but it can also be a reward to be maximized in reinforcement learning. The choice of objective determines what behavior training will produce.",
+  "example": null,
+  "related": [
+    "loss-function",
+    "cross-entropy",
+    "gradient-descent",
+    "reward-model",
+    "reinforcement-learning"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "chunking",
+  "term": "Chunking",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Splitting long documents into smaller passages before embedding them for retrieval.",
+  "definition": "Chunking breaks long documents into smaller passages before they are embedded, so retrieval can return focused, relevant pieces that fit in the context window. Chunk size and the overlap between chunks strongly affect quality: passages that are too large dilute relevance, while ones that are too small lose context. It is a foundational step in building a retrieval system.",
+  "example": null,
+  "related": [
+    "rag",
+    "embedding",
+    "document-chunking",
+    "vector-database"
+  ]
+}

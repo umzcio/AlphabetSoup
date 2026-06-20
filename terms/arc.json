@@ -1,0 +1,16 @@
+{
+  "slug": "arc",
+  "term": "ARC",
+  "acronym": "AI2 Reasoning Challenge",
+  "category": "Evaluation",
+  "short": "A multiple-choice science question benchmark split into Easy and Challenge sets.",
+  "definition": "ARC is a multiple-choice question-answering benchmark built from grade-school science exams. It is divided into an Easy set and a harder Challenge set, the latter holding questions that simple keyword matching and word-frequency tricks fail to answer. The Challenge set became a standard part of language model evaluation suites and appears in most open evaluation toolkits.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "ai2",
+    "evaluation",
+    "lm-eval-harness",
+    "mmlu"
+  ]
+}

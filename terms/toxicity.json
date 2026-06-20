@@ -1,0 +1,15 @@
+{
+  "slug": "toxicity",
+  "term": "Toxicity",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Harmful model output such as hate speech, harassment, slurs, threats, or graphic violence.",
+  "definition": "Toxicity refers to a class of harmful model outputs including hate speech, harassment, slurs, threats, and graphic violence that can harm or offend users. Measuring and reducing it is a core safety task, typically using classifiers trained on annotated harmful-content datasets. Common mitigations include training on human preferences, guardrail classifiers, and constitutional methods, though defining what counts as toxic varies across contexts and cultures.",
+  "example": null,
+  "related": [
+    "safety-classifier",
+    "moderation-model",
+    "harmlessness",
+    "rlhf"
+  ]
+}

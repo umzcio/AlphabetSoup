@@ -1,0 +1,16 @@
+{
+  "slug": "smolagents",
+  "term": "smolagents",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A lightweight Hugging Face library for building agents that act through code.",
+  "definition": "smolagents is a lightweight agent framework from Hugging Face. It keeps the core abstraction small, letting a language model plan and act by writing and running code rather than emitting rigid tool-call formats. The minimal design makes it straightforward to give a model access to tools and loop it toward a goal with little boilerplate.",
+  "example": null,
+  "related": [
+    "agent",
+    "hugging-face",
+    "tool-calling",
+    "agentic-loop",
+    "langchain"
+  ]
+}

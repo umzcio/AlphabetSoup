@@ -1,0 +1,16 @@
+{
+  "slug": "u-net",
+  "term": "U-Net",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "An encoder-decoder image network with skip connections shaped like the letter U.",
+  "definition": "U-Net is an encoder-decoder architecture with a contracting path that captures context and a symmetric expanding path that restores resolution for precise, per-pixel output. Skip connections carry high-resolution features straight across the U so detail is not lost in compression. Originally built for biomedical image segmentation, it became a core component of diffusion image generators, where it estimates and removes noise.",
+  "example": null,
+  "related": [
+    "encoder-decoder",
+    "diffusion-model",
+    "stable-diffusion",
+    "image-segmentation",
+    "latent-diffusion"
+  ]
+}

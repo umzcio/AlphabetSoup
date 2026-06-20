@@ -1,0 +1,15 @@
+{
+  "slug": "in-context-learning",
+  "term": "In-Context Learning",
+  "acronym": "ICL",
+  "category": "Prompting",
+  "short": "Picking up a task from examples in the prompt, with no training or weight updates.",
+  "definition": "In-context learning is the ability of large models to learn a task from examples or instructions placed in the prompt as they run, without any change to the model's trained settings. The model infers the implicit task from the demonstrations it is shown, which is what makes few-shot prompting work. It emerged as a surprising property of scale and is one of the behaviors that sets large foundation models apart from smaller task-specific ones.",
+  "example": null,
+  "related": [
+    "few-shot",
+    "zero-shot-prompting",
+    "emergent-abilities",
+    "foundation-model"
+  ]
+}

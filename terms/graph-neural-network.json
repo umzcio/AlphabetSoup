@@ -1,0 +1,16 @@
+{
+  "slug": "graph-neural-network",
+  "term": "Graph Neural Network",
+  "acronym": "GNN",
+  "category": "Architectures",
+  "short": "A network built for graph-structured data that updates each node from its neighbors.",
+  "definition": "A graph neural network operates on data represented as graphs of nodes and edges. Each node updates its representation by aggregating messages from neighboring nodes, optionally weighted by edge features, repeating this over several rounds. After enough passes, each node's representation captures both its local and broader graph context. GNNs are applied to molecular property prediction, social network analysis, recommendation, and knowledge graph reasoning.",
+  "example": null,
+  "related": [
+    "neural-network",
+    "knowledge-graph",
+    "representation-learning",
+    "embedding",
+    "deep-learning"
+  ]
+}

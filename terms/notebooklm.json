@@ -1,0 +1,16 @@
+{
+  "slug": "notebooklm",
+  "term": "NotebookLM",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Google's source-grounded research assistant that answers questions about uploaded documents.",
+  "definition": "NotebookLM is a research and note-taking tool from Google Labs, powered by its Gemini models. Users upload their own sources, such as PDFs, documents, and URLs, and ask questions through an interface that grounds answers in those sources and cites specific passages. It is designed to stay within user-provided content rather than general world knowledge, reducing made-up answers, and it can generate podcast-style audio overviews summarizing the material.",
+  "example": null,
+  "related": [
+    "google",
+    "gemini",
+    "grounding",
+    "rag",
+    "citation"
+  ]
+}

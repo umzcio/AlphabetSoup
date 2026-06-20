@@ -1,0 +1,15 @@
+{
+  "slug": "baidu",
+  "term": "Baidu",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A Chinese tech company building the ERNIE models and the PaddlePaddle deep learning framework.",
+  "definition": "Baidu is a Chinese technology company best known for its search engine and autonomous driving work. Its AI efforts center on the ERNIE family of large language models and the ERNIE Bot assistant, which competes in the Chinese market. Baidu also operates Baidu AI Cloud for training and deployment and maintains the PaddlePaddle deep learning framework.",
+  "example": null,
+  "related": [
+    "tencent",
+    "alibaba",
+    "deepseek",
+    "chatbot"
+  ]
+}

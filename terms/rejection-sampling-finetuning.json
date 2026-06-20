@@ -1,0 +1,16 @@
+{
+  "slug": "rejection-sampling-finetuning",
+  "term": "Rejection Sampling Fine-Tuning",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Fine-tuning on a model's own outputs after filtering for the best ones.",
+  "definition": "Rejection sampling fine-tuning generates many candidate outputs from a model, keeps only those that pass a scorer or reward model, and fine-tunes the model on that filtered set. By training on its own high-quality samples, the model reinforces behaviors a judge considers good. It is a simple way to improve reasoning or instruction-following without the complexity of full reinforcement learning, and is often used to build distillation or preference datasets.",
+  "example": null,
+  "related": [
+    "reward-model",
+    "sft",
+    "synthetic-data",
+    "rlhf",
+    "preference-data"
+  ]
+}

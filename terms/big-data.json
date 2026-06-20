@@ -1,0 +1,15 @@
+{
+  "slug": "big-data",
+  "term": "Big Data",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Datasets too large or fast-moving for traditional tools, often described by volume, velocity, and variety.",
+  "definition": "Big data refers to datasets whose volume, velocity, and variety exceed the capabilities of traditional data processing systems. Handling it relies on distributed systems, data lakes, and specialized pipelines. Modern AI training depends on massive corpora of web text, images, code, and other sources, which are collected and cleaned through such pipelines before training begins.",
+  "example": null,
+  "related": [
+    "dataset",
+    "corpus",
+    "data-science",
+    "pretraining-corpus"
+  ]
+}

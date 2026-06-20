@@ -1,0 +1,15 @@
+{
+  "slug": "image-encoder",
+  "term": "Image Encoder",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "A component that turns images into numeric representations a model can use.",
+  "definition": "An image encoder is the part of a system that turns an image into a list of numbers a model can work with, capturing what the picture contains. Two common designs are convolutional networks and vision transformers, both standard ways of processing images. It supplies the visual information that later stages rely on, forming the vision half of models that combine images with text.",
+  "example": null,
+  "related": [
+    "vision-transformer",
+    "vision-language-model",
+    "multimodal-embedding",
+    "clip"
+  ]
+}

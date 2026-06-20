@@ -1,0 +1,16 @@
+{
+  "slug": "embedding-model",
+  "term": "Embedding Model",
+  "acronym": null,
+  "category": "Data",
+  "short": "A model that turns text or other inputs into vectors so similar items sit close together.",
+  "definition": "An embedding model encodes inputs such as text passages, queries, or images into fixed-length dense vectors, arranged so that semantically similar items have nearby representations. Text embedding models are typically trained by showing them many matching and non-matching pairs so they learn to place related items close together. They are the backbone of semantic search, the document-fetching stage of RAG (a method that looks up relevant documents and feeds them to a model), and clustering and classification pipelines.",
+  "example": null,
+  "related": [
+    "embedding",
+    "semantic-search",
+    "vector-database",
+    "rag",
+    "retrieval-model"
+  ]
+}

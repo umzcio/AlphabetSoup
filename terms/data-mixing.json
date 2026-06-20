@@ -1,0 +1,15 @@
+{
+  "slug": "data-mixing",
+  "term": "Data Mixing",
+  "acronym": null,
+  "category": "Data",
+  "short": "Blending data from different sources in chosen proportions to shape a model's abilities.",
+  "definition": "Data mixing is the deliberate blending of data from different sources, such as web text, books, code, math, multilingual text, and synthetic data, in carefully chosen proportions during pretraining. The mixture shapes how balanced a model's capabilities are across domains, so adjusting proportions can strengthen or weaken specific skills. The exact recipes used by frontier labs are often treated as proprietary.",
+  "example": null,
+  "related": [
+    "pretraining",
+    "data-curation",
+    "synthetic-data",
+    "domain-data"
+  ]
+}

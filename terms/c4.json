@@ -1,0 +1,16 @@
+{
+  "slug": "c4",
+  "term": "C4",
+  "acronym": null,
+  "category": "Data",
+  "short": "A large cleaned English web-text dataset built from a Common Crawl snapshot by Google.",
+  "definition": "C4, short for Colossal Clean Crawled Corpus, is a large English text dataset created by applying heuristic quality filters and deduplication to a Common Crawl snapshot. It was introduced by Google alongside the T5 model and became a widely used pretraining corpus. Its straightforward filtering pipeline made it an influential reference point for later work on cleaning and curating web data.",
+  "example": null,
+  "related": [
+    "common-crawl",
+    "dataset",
+    "pretraining-corpus",
+    "data-filtering",
+    "google"
+  ]
+}

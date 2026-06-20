@@ -1,0 +1,16 @@
+{
+  "slug": "sigmoid",
+  "term": "Sigmoid",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "An activation function that squashes any input into the range between 0 and 1.",
+  "definition": "The sigmoid function maps any real number into the range between 0 and 1 using 1 / (1 + exp(-x)). It is still used for binary classification outputs, where the result reads as a probability. Its drawback in deep networks is the vanishing-gradient problem: for very large or small inputs the gradient is near zero, slowing learning, so ReLU and its variants have largely replaced it in hidden layers.",
+  "example": null,
+  "related": [
+    "activation-function",
+    "relu",
+    "softmax",
+    "probability",
+    "neural-network"
+  ]
+}

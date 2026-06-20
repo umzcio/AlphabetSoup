@@ -1,0 +1,16 @@
+{
+  "slug": "dspy",
+  "term": "DSPy",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A framework that treats AI text pipelines as programs and improves their prompts automatically.",
+  "definition": "DSPy is an open-source framework, originating at Stanford, that lets developers build a chain of steps around a language model by describing each step's inputs and outputs rather than writing fixed instructions (prompts) by hand. It then automatically tries variations — including which example answers to show the model — to improve results against a chosen measure of success. This shifts effort from fiddling with fragile prompts to stating the desired behavior and goal.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "prompt-template",
+    "few-shot",
+    "llm",
+    "fine-tuning"
+  ]
+}

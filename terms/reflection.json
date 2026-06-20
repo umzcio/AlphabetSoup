@@ -1,0 +1,16 @@
+{
+  "slug": "reflection",
+  "term": "Reflection",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Having a model critique its own draft and produce a revised, improved answer.",
+  "definition": "Reflection is a pattern where a model examines its own draft output, identifies errors, gaps, or inconsistencies, and produces a revised version. It can be a single critique pass or an iterative loop. Reflection tends to raise quality on tasks requiring precision or multi-step reasoning, and it is a common building block in self-improvement pipelines, though it adds compute and does not guarantee correctness.",
+  "example": null,
+  "related": [
+    "self-refine",
+    "reflexion",
+    "self-consistency",
+    "chain-of-thought",
+    "evaluator-optimizer"
+  ]
+}

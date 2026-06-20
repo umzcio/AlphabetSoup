@@ -1,0 +1,16 @@
+{
+  "slug": "subagent",
+  "term": "Subagent",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A focused agent spawned by an orchestrator to handle one bounded part of a larger task.",
+  "definition": "A subagent is a focused agent instantiated by an orchestrator to handle a specific, bounded portion of a larger task. It typically has a narrower system prompt, a specialized set of tools, and its own conversation context, and it returns results to the orchestrator for integration. Subagents improve modularity and allow independent subtasks to run in parallel, but their output depends on clear, unambiguous delegation.",
+  "example": null,
+  "related": [
+    "orchestrator",
+    "multi-agent-system",
+    "orchestrator-worker",
+    "parallelization",
+    "agent"
+  ]
+}

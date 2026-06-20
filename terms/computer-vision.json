@@ -1,0 +1,15 @@
+{
+  "slug": "computer-vision",
+  "term": "Computer Vision",
+  "acronym": "CV",
+  "category": "Foundations",
+  "short": "The area of AI that lets machines derive meaning from images and video.",
+  "definition": "Computer vision is the area of AI concerned with images and video, including tasks like object detection, image classification, segmentation, and optical character recognition. Modern systems use deep learning, and vision is increasingly fused with language in multimodal models. It powers applications from medical imaging to autonomous vehicles and visual question answering.",
+  "example": null,
+  "related": [
+    "object-detection",
+    "image-segmentation",
+    "vision-transformer",
+    "multimodal-model"
+  ]
+}

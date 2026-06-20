@@ -1,0 +1,15 @@
+{
+  "slug": "audio-language-model",
+  "term": "Audio Language Model",
+  "acronym": "ALM",
+  "category": "Multimodal",
+  "short": "A language model that processes and generates audio alongside text in one system.",
+  "definition": "An audio language model handles audio—speech, music, or environmental sound—within a language-model framework by breaking the sound into small pieces it can predict or generate, much as a text model handles words. This lets one model perform spoken dialogue, describe sounds, answer questions about audio, and translate speech directly, without bolting together separate speech-to-text and text-to-speech components.",
+  "example": null,
+  "related": [
+    "speech-language-model",
+    "asr",
+    "tts",
+    "multimodal-model"
+  ]
+}

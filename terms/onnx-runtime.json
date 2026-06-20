@@ -1,0 +1,16 @@
+{
+  "slug": "onnx-runtime",
+  "term": "ONNX Runtime",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A cross-platform engine for running and accelerating models in ONNX format.",
+  "definition": "ONNX Runtime is an engine for running models stored in the ONNX format. It executes them across operating systems and hardware, using backend-specific optimizations and accelerators to speed up inference. By separating the model format from the runtime, it lets a single exported model be deployed efficiently on CPUs, GPUs, and specialized chips.",
+  "example": null,
+  "related": [
+    "onnx",
+    "inference",
+    "inference-engine",
+    "tensorrt",
+    "model-compression"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "claude-fable",
+  "term": "Claude Fable",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A high-capability tier in Anthropic's Claude family aimed at reasoning-heavy work.",
+  "definition": "Claude Fable is a high-capability tier within Anthropic's Claude family, aimed at reasoning-heavy work such as complex analysis, long-document summarization, and software engineering. Like other Claude models, it is trained with Constitutional AI to keep outputs helpful, honest, and harmless. It targets demanding tasks that benefit from sustained, multi-step reasoning.",
+  "example": null,
+  "related": [
+    "claude",
+    "anthropic",
+    "claude-opus",
+    "constitutional-ai",
+    "reasoning-model"
+  ]
+}

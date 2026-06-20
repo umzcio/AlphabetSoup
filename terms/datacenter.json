@@ -1,0 +1,15 @@
+{
+  "slug": "datacenter",
+  "term": "Datacenter",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A facility that houses servers, storage, and networking equipment at scale.",
+  "definition": "A datacenter is a building or facility that holds large numbers of servers, storage systems, and networking gear, along with the power, cooling, and connectivity to run them continuously. AI training and large-scale serving take place in datacenters because they concentrate thousands of accelerators and the high-speed interconnects that link them. Their power and cooling capacity often set the practical limits on how much AI compute can be deployed.",
+  "example": null,
+  "related": [
+    "cluster",
+    "compute-node",
+    "liquid-cooling",
+    "gpu"
+  ]
+}

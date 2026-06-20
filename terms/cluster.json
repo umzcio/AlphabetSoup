@@ -1,0 +1,15 @@
+{
+  "slug": "cluster",
+  "term": "Cluster",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A group of networked machines that work together as a single computing system.",
+  "definition": "A cluster is a collection of connected servers that coordinate to act as one larger system, pooling their processors, memory, and accelerators. In AI, clusters of GPU-equipped compute nodes are linked by high-speed networks so that training and inference can be spread across many machines at once. The size of a cluster and the quality of its interconnect set the ceiling on how large a model it can train or serve.",
+  "example": null,
+  "related": [
+    "compute-node",
+    "distributed-training",
+    "datacenter",
+    "interconnect"
+  ]
+}

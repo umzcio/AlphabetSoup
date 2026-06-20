@@ -1,0 +1,15 @@
+{
+  "slug": "object-detection",
+  "term": "Object Detection",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Finding and labeling objects in an image with bounding boxes.",
+  "definition": "Object detection finds and locates objects in an image, drawing a box (a bounding box) around each one and labeling what it is—combining naming the object with pinpointing where it sits. Well-known method families include R-CNN, YOLO, and DETR. It is foundational to robotics, self-driving cars, surveillance, and tying words to the right spot in an image within multimodal models.",
+  "example": null,
+  "related": [
+    "image-segmentation",
+    "computer-vision",
+    "vision-transformer",
+    "grounding"
+  ]
+}

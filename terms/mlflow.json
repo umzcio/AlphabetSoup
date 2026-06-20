@@ -1,0 +1,16 @@
+{
+  "slug": "mlflow",
+  "term": "MLflow",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source platform for tracking experiments and managing the machine learning lifecycle.",
+  "definition": "MLflow is an open-source platform, created by Databricks, that supports the full machine learning lifecycle. Its core pieces are experiment tracking — logging metrics, parameters, and artifacts — a model registry for versioning and staging deployments, and tools for packaging and serving models. It works with any ML library and is widely used for reproducibility and model governance in enterprise settings.",
+  "example": null,
+  "related": [
+    "weights-and-biases",
+    "databricks",
+    "model-card",
+    "evaluation",
+    "hyperparameter-tuning"
+  ]
+}

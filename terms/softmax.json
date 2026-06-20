@@ -1,0 +1,16 @@
+{
+  "slug": "softmax",
+  "term": "Softmax",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A function that turns a vector of scores into a probability distribution.",
+  "definition": "Softmax exponentiates each element of a vector and divides by the sum of all the exponentials, producing non-negative values that add up to 1. It is the standard output for classification networks and is used inside attention to turn raw scores into weights. A temperature parameter can sharpen or flatten the distribution, and stable implementations subtract the maximum value before exponentiating.",
+  "example": null,
+  "related": [
+    "logits",
+    "probability",
+    "temperature",
+    "attention",
+    "cross-entropy"
+  ]
+}

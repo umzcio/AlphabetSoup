@@ -1,0 +1,16 @@
+{
+  "slug": "triton-inference-server",
+  "term": "Triton Inference Server",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "NVIDIA's production serving system that hosts models from many frameworks at once.",
+  "definition": "Triton Inference Server, from NVIDIA, is a production serving system that can host models from TensorRT, PyTorch, ONNX, TensorFlow, and custom Python backends at the same time. It supports dynamic batching, model ensembles, concurrent execution, and GPU or CPU scheduling. It is distinct from the Triton GPU programming language, and for language model workloads it is often paired with TensorRT-LLM for optimized transformer execution.",
+  "example": null,
+  "related": [
+    "triton",
+    "trt-llm",
+    "model-server",
+    "nvidia",
+    "dynamic-batching"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "deepseek-models",
+  "term": "DeepSeek Models",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "DeepSeek's family of language and reasoning models, released for anyone to download.",
+  "definition": "DeepSeek Models are the family of language and reasoning systems built by the Chinese AI company DeepSeek, generally released as open weights, meaning the trained model files are public for developers to download and run. The lineup includes large mixture-of-experts models (which route each request through only a few of many specialized sub-networks to save computation) and reasoning-focused variants trained by trial-and-error reward. The models drew wide attention for strong performance alongside reportedly efficient training.",
+  "example": null,
+  "related": [
+    "deepseek",
+    "deepseek-v3",
+    "deepseek-r1",
+    "open-weights",
+    "moe"
+  ]
+}

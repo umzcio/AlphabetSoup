@@ -1,0 +1,15 @@
+{
+  "slug": "model-stealing",
+  "term": "Model Stealing",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Copying a model's behavior, weights, or capabilities without authorization.",
+  "definition": "Model stealing is an attempt to copy a model's behavior, weights, or capabilities without authorization, often by repeatedly querying a deployed system and training a substitute on its outputs. It threatens the intellectual property and competitive advantage of model providers and can also expose private training data. Defenses include rate limiting, output watermarking, and detecting extraction-like query patterns.",
+  "example": null,
+  "related": [
+    "weights",
+    "distillation",
+    "watermarking",
+    "privacy-attack"
+  ]
+}

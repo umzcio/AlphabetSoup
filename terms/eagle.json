@@ -1,0 +1,16 @@
+{
+  "slug": "eagle",
+  "term": "EAGLE Speculative Decoding",
+  "acronym": "EAGLE",
+  "category": "Inference & Serving",
+  "short": "A speed-up that lets a model guess several next words from its own internal signals, no helper model.",
+  "definition": "EAGLE is a speculative decoding method, a way of speeding up generation by guessing several words ahead and checking them at once. It adds small predictor components to a model that draft candidate words directly from the model's own internal signals, removing the need to load and run a separate, smaller helper model. A verification step then accepts or rejects each guess, speeding up generation while keeping the output identical to normal.",
+  "example": null,
+  "related": [
+    "speculative-decoding",
+    "medusa",
+    "decode",
+    "suffix-decoding",
+    "inference-engine"
+  ]
+}

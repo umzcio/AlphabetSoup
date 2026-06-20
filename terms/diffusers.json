@@ -1,0 +1,16 @@
+{
+  "slug": "diffusers",
+  "term": "Diffusers",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Hugging Face library providing a standard interface to diffusion models.",
+  "definition": "Diffusers is Hugging Face's open-source library for working with diffusion models, a kind of AI that creates images by gradually turning random noise into a clear picture. It offers ready-made setups for tasks like turning text into images, editing or filling in parts of an image (inpainting), making video, and generating audio, and it downloads the trained models from the Hugging Face Hub. It is a common toolkit for models like Stable Diffusion.",
+  "example": null,
+  "related": [
+    "diffusion-model",
+    "stable-diffusion",
+    "image-generation",
+    "hugging-face",
+    "comfyui"
+  ]
+}

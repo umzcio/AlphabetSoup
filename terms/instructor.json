@@ -1,0 +1,16 @@
+{
+  "slug": "instructor",
+  "term": "Instructor",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Python library that makes an LLM return results in a fixed, checked shape using Pydantic templates.",
+  "definition": "Instructor is a lightweight Python library that wraps LLM API clients to return structured output checked against Pydantic models (templates that describe the exact shape and field types a result must have). It works across providers, automatically retries when a result fails the check, and supports partial extraction and streaming. By turning free-form responses into predictable data objects, it makes language models reliable data extractors without hand-parsing the output.",
+  "example": null,
+  "related": [
+    "structured-output",
+    "json-mode",
+    "function-calling",
+    "pydanticai",
+    "outlines"
+  ]
+}

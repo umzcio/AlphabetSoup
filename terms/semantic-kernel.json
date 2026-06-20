@@ -1,0 +1,16 @@
+{
+  "slug": "semantic-kernel",
+  "term": "Semantic Kernel",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Microsoft's developer toolkit for embedding language models into C#, Python, and Java applications.",
+  "definition": "Semantic Kernel is Microsoft's open-source SDK (a developer toolkit) for combining large language models with conventional code in C#, Python, or Java applications. It introduces plugins that pair model prompts with native functions, a planner that decomposes a goal into function calls, and memory connectors that ground responses in custom data. It is used to add controlled AI capabilities to existing enterprise software.",
+  "example": null,
+  "related": [
+    "microsoft-agent-framework",
+    "agent",
+    "tool-calling",
+    "planning",
+    "microsoft"
+  ]
+}

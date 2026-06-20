@@ -1,0 +1,14 @@
+{
+  "slug": "delimiters",
+  "term": "Delimiters",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Markers that separate instructions, input, and context within a prompt.",
+  "definition": "Delimiters are the markers — triple backticks, XML tags, or custom strings — that divide a prompt into clear sections such as instructions, user input, retrieved context, and examples. By signaling where each part begins and ends, they help the model treat data as data rather than as commands. Consistent use is a basic prompt-hygiene practice and offers a partial defense against prompt injection.",
+  "example": null,
+  "related": [
+    "structured-prompting",
+    "xml-prompting",
+    "prompt-injection"
+  ]
+}

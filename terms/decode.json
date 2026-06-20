@@ -1,0 +1,16 @@
+{
+  "slug": "decode",
+  "term": "Decode",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "The generation phase where a model produces output tokens one at a time.",
+  "definition": "Decode is the generation phase of inference, where the model produces output words one at a time after the prefill phase has read in the prompt and filled the KV cache (the model's running notes on the text so far). Each step generates one token (word-piece), adds it to those notes, and feeds it back in to produce the next. This phase is limited by how fast data moves in and out of memory rather than by raw calculation, so managing those notes drives its speed, measured as time per output word.",
+  "example": null,
+  "related": [
+    "prefill",
+    "kv-cache",
+    "decode-step",
+    "speculative-decoding",
+    "memory-bandwidth"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "constitutional-ai",
+  "term": "Constitutional AI",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An alignment method where a model critiques and revises its own answers against written principles.",
+  "definition": "Constitutional AI is an alignment approach from Anthropic in which a model critiques and revises its own responses against an explicit written set of principles (a constitution), then trains on the improved outputs. By generating its own feedback rather than relying on people to label every harmful case (an approach called RLAIF), making alignment more transparent, customizable, and scalable.",
+  "example": null,
+  "related": [
+    "anthropic",
+    "rlhf",
+    "reinforcement-learning",
+    "red-teaming"
+  ]
+}

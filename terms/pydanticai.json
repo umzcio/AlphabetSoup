@@ -1,0 +1,16 @@
+{
+  "slug": "pydanticai",
+  "term": "PydanticAI",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Python agent framework built around typed, validated inputs and outputs.",
+  "definition": "PydanticAI is a Python framework for building language model agents around typed validation. It uses Pydantic models to define and validate the structure of model inputs and outputs, so tool arguments and responses are checked against a schema. This brings type safety and predictable, parseable results to agent and tool-calling workflows.",
+  "example": null,
+  "related": [
+    "agent",
+    "structured-output",
+    "tool-calling",
+    "instructor",
+    "function-calling"
+  ]
+}

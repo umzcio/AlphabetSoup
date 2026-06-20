@@ -1,0 +1,16 @@
+{
+  "slug": "throughput",
+  "term": "Throughput",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "The total work a serving system completes per unit time, such as tokens per second.",
+  "definition": "Throughput measures the total work a serving system completes per unit time, usually expressed as tokens or requests per second across all users. It reflects how efficiently the hardware is used and is raised through batching, high GPU utilization, and optimized memory access. Throughput and latency are often in tension: aggressive batching serves more users at once but can lengthen the wait for any single request.",
+  "example": null,
+  "related": [
+    "latency",
+    "tokens-per-second",
+    "continuous-batching",
+    "tensor-parallelism",
+    "utilization"
+  ]
+}

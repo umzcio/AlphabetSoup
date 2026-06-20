@@ -1,0 +1,15 @@
+{
+  "slug": "domain-adaptation",
+  "term": "Domain Adaptation",
+  "acronym": null,
+  "category": "Training",
+  "short": "Adjusting a model so it performs better on a specific subject area or data distribution.",
+  "definition": "Domain adaptation adjusts a model so it works better in a specific area, such as legal, medical, or financial text, that differs from the data it was originally trained on. It is commonly done through continued pretraining or fine-tuning on a targeted corpus, which teaches domain vocabulary and conventions. The aim is stronger performance on the target domain without retraining from scratch.",
+  "example": null,
+  "related": [
+    "continued-pretraining",
+    "fine-tuning",
+    "transfer-learning",
+    "domain-data"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "resnet",
+  "term": "Residual Network",
+  "acronym": "ResNet",
+  "category": "Architectures",
+  "short": "A deep image network built on skip connections that add each block's input to its output.",
+  "definition": "A Residual Network, or ResNet, is a convolutional architecture built around skip connections that add a block's input directly to its output. This identity shortcut lets gradients flow cleanly and allows training to hundreds of layers without the accuracy degradation that plagued earlier deep networks. ResNet became a standard backbone for image classification and detection, and its residual idea later carried into Transformers.",
+  "example": null,
+  "related": [
+    "residual-connection",
+    "cnn",
+    "computer-vision",
+    "neural-network",
+    "image-segmentation"
+  ]
+}

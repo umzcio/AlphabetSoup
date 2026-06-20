@@ -1,0 +1,14 @@
+{
+  "slug": "jailbreak",
+  "term": "Jailbreak",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An input crafted to make a model ignore its safety rules and produce content it should refuse.",
+  "definition": "A jailbreak is an input designed to trick a model into ignoring its safety guidelines and producing content it should refuse, often using role-play framings, hypothetical scenarios, or encoded instructions. It differs from prompt injection in that the goal is to bypass refusal behavior rather than hijack an agent's actions. Defending against jailbreaks is an ongoing back-and-forth between attackers and model developers.",
+  "example": null,
+  "related": [
+    "red-teaming",
+    "system-prompt",
+    "constitutional-ai"
+  ]
+}

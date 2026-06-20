@@ -1,0 +1,17 @@
+{
+  "slug": "retrieval-model",
+  "term": "Retrieval Model",
+  "acronym": null,
+  "category": "Data",
+  "short": "A model that takes a query and selects the most relevant items from a corpus.",
+  "definition": "A retrieval model takes a query and selects the most relevant items from a large corpus. Keyword methods such as BM25 (a classic keyword-scoring formula) match on shared words, while dense methods use embeddings (lists of numbers capturing meaning) to compare query and document by meaning rather than exact words; a second-pass scorer then reranks the top candidates. Retrieval models sit at the core of search engines, RAG pipelines (which fetch documents to feed a model), and question-answering systems.",
+  "example": null,
+  "related": [
+    "retrieval-augmented-generation",
+    "embedding-model",
+    "reranking",
+    "semantic-search",
+    "vector-database",
+    "bm25"
+  ]
+}

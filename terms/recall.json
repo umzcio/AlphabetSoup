@@ -1,0 +1,16 @@
+{
+  "slug": "recall",
+  "term": "Recall",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Of all the truly positive items, the fraction the system actually found.",
+  "definition": "Recall is the fraction of all truly positive items that a system correctly identifies — true positives divided by all actual positives. It measures how complete the results are and falls when the system misses real positives. It is usually reported with precision, since favoring one tends to hurt the other, and the two are combined in the F1 score.",
+  "example": null,
+  "related": [
+    "precision",
+    "f1-score",
+    "classification",
+    "evaluation",
+    "accuracy"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "indirect-prompt-injection",
+  "term": "Indirect Prompt Injection",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Prompt injection that arrives through retrieved or external content rather than the user.",
+  "definition": "Indirect prompt injection is an attack where malicious instructions reach a model through external content it processes — such as a web page, document, or email — rather than from the user directly. When an agent retrieves and trusts that content, the hidden instructions can hijack its behavior. It is a particular risk for retrieval-augmented and tool-using systems that act on data they fetch.",
+  "example": null,
+  "related": [
+    "prompt-injection",
+    "data-poisoning",
+    "agent",
+    "rag"
+  ]
+}

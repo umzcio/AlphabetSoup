@@ -1,0 +1,16 @@
+{
+  "slug": "closed-weight-model",
+  "term": "Closed-Weight Model",
+  "acronym": null,
+  "category": "Data",
+  "short": "A model whose trained weights are kept private rather than released to the public.",
+  "definition": "A closed-weight model is one whose trained parameters are not publicly released, so it can usually be accessed only through an API or hosted product rather than downloaded and run locally. The owner keeps control over the weights, which protects intellectual property and limits misuse but prevents independent inspection, fine-tuning, or self-hosting. It contrasts with open-weight models, whose parameters are distributed freely.",
+  "example": null,
+  "related": [
+    "open-weights",
+    "weights",
+    "open-source-ai",
+    "foundation-model",
+    "frontier-model"
+  ]
+}

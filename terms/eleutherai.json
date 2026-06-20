@@ -1,0 +1,15 @@
+{
+  "slug": "eleutherai",
+  "term": "EleutherAI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A nonprofit research collective that released early open language models and the Pile corpus.",
+  "definition": "EleutherAI is a nonprofit AI research collective, started in 2020 as a grassroots effort to build and release open large language models. It produced open-weight models such as GPT-Neo, GPT-J, and GPT-NeoX, the Pile open-source pretraining corpus, and the lm-evaluation-harness, which became a standard framework for benchmarking models. It continues to publish open research, datasets, and evaluations.",
+  "example": null,
+  "related": [
+    "the-pile",
+    "lm-eval-harness",
+    "open-weights",
+    "ai2"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "roofline-model",
+  "term": "Roofline Model",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A chart that shows whether a workload is limited by memory bandwidth or by compute.",
+  "definition": "The roofline model is a performance framework that plots achievable compute throughput against arithmetic intensity, the ratio of arithmetic to bytes moved. Its characteristic roof shape has a sloped memory-bandwidth ceiling and a flat peak-compute ceiling. Where a workload falls reveals whether it is memory-bound, where more bandwidth would help, or compute-bound, where more arithmetic capacity would. Systems engineers use it to diagnose bottlenecks in training kernels and inference pipelines.",
+  "example": null,
+  "related": [
+    "arithmetic-intensity",
+    "memory-bandwidth",
+    "flops",
+    "model-flops-utilization",
+    "throughput"
+  ]
+}

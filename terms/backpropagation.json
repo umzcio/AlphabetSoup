@@ -1,0 +1,15 @@
+{
+  "slug": "backpropagation",
+  "term": "Backpropagation",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The algorithm that computes how each weight affected the error by working backward through a network.",
+  "definition": "Backpropagation computes how much each weight contributed to a model's error by applying the chain rule of calculus backward through the network, reusing intermediate values for efficiency. The resulting gradients (numbers showing which direction to nudge each weight to lower the error) tell an optimizer such as gradient descent how to adjust the weights. It is the engine behind training deep networks and is handled automatically by frameworks like PyTorch and JAX.",
+  "example": null,
+  "related": [
+    "gradient-descent",
+    "loss-function",
+    "neural-network",
+    "optimizer"
+  ]
+}

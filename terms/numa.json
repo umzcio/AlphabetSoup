@@ -1,0 +1,16 @@
+{
+  "slug": "numa",
+  "term": "NUMA",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A memory layout where each CPU reaches its own memory faster than another CPU's memory.",
+  "definition": "NUMA (Non-Uniform Memory Access) is a memory architecture in multi-processor systems where each CPU has its own local memory that it reaches quickly, while accessing another CPU's memory costs more time. Software that places data and threads carelessly can stall on these slower cross-node accesses. In AI servers, NUMA-aware scheduling helps keep data flowing to GPUs without unnecessary latency.",
+  "example": null,
+  "related": [
+    "cpu",
+    "memory-hierarchy",
+    "memory-bandwidth",
+    "compute-node",
+    "host-device-transfer"
+  ]
+}

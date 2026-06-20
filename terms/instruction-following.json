@@ -1,0 +1,15 @@
+{
+  "slug": "instruction-following",
+  "term": "Instruction Following",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A model's ability to understand a request and carry out what it asks.",
+  "definition": "Instruction following is a model's ability to read a task described in natural language and do what it asks, rather than simply continuing the text. This behavior is instilled mainly through instruction tuning, where a base model is fine-tuned on many request-and-response pairs. Reliable instruction following is what lets people steer a model with plain directions, and it underpins most prompting techniques.",
+  "example": null,
+  "related": [
+    "instruction-tuning",
+    "prompt-engineering",
+    "zero-shot-prompting",
+    "system-prompt"
+  ]
+}

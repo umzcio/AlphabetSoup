@@ -1,0 +1,15 @@
+{
+  "slug": "distributed-inference",
+  "term": "Distributed Inference",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Running model inference across multiple devices or machines instead of just one.",
+  "definition": "Distributed inference serves a model's predictions across several GPUs or machines rather than a single device. It becomes necessary when a model is too large to fit in one accelerator's memory, or when traffic demands more throughput than one device can supply. Techniques such as tensor parallelism and pipeline parallelism split the model across devices, while the interconnect speed between them strongly affects latency and efficiency.",
+  "example": null,
+  "related": [
+    "inference",
+    "tensor-parallelism",
+    "pipeline-parallelism",
+    "distributed-training"
+  ]
+}

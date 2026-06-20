@@ -1,0 +1,16 @@
+{
+  "slug": "data-governance",
+  "term": "Data Governance",
+  "acronym": null,
+  "category": "Data",
+  "short": "The rules and processes that control how data is collected, stored, used, and shared.",
+  "definition": "Data governance is the set of rules, roles, and processes that control how data is collected, stored, accessed, used, and retired across an organization. It covers ownership, access permissions, quality standards, privacy and licensing compliance, and audit trails. For AI work it helps ensure that training and evaluation data is used lawfully and responsibly, with clear accountability for sensitive or regulated information.",
+  "example": null,
+  "related": [
+    "data-license",
+    "data-lineage",
+    "differential-privacy",
+    "de-identification",
+    "data-curation"
+  ]
+}

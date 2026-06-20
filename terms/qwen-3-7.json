@@ -1,0 +1,16 @@
+{
+  "slug": "qwen-3-7",
+  "term": "Qwen 3.7",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A generation of Alibaba's Qwen models noted for math, multilingual, and coding strength.",
+  "definition": "Qwen 3.7 is a generation of Alibaba's widely downloaded Qwen model family, recognized for strong mathematical reasoning, multilingual translation, and coding tasks where the model works on its own toward a goal. The lineup pairs openly released models with a top-tier variant whose internal weights are kept private, aimed at long unsupervised runs, along with specialized versions for other fields. It continues Qwen's role as a heavily used base across research and production.",
+  "example": null,
+  "related": [
+    "qwen",
+    "qwen3",
+    "alibaba",
+    "reasoning-model",
+    "agentic-ai"
+  ]
+}

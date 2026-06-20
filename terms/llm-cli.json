@@ -1,0 +1,15 @@
+{
+  "slug": "llm-cli",
+  "term": "LLM CLI",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A command-line tool for querying language models and scripting them in the terminal.",
+  "definition": "LLM CLI is an open-source command-line utility, created by Simon Willison, for interacting with large language models from the terminal. It supports many models through a plugin system, stores conversation history in a local SQLite database, and can be piped into shell scripts to build pipelines. It is useful for rapid prototyping and for adding model calls to command-line workflows.",
+  "example": null,
+  "related": [
+    "llm",
+    "ollama",
+    "openai-compatible-api",
+    "litellm"
+  ]
+}

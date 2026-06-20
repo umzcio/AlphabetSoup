@@ -1,0 +1,15 @@
+{
+  "slug": "bm25",
+  "term": "BM25",
+  "acronym": "Okapi BM25",
+  "category": "Patterns",
+  "short": "A classic keyword formula for ranking which documents best match a search query.",
+  "definition": "BM25 is a long-standing formula for ranking documents by how well they match a keyword search, based on how often the search words appear and how rare they are. It predates AI embeddings and is still widely used in search and retrieval-augmented generation, often paired with embedding-based search for better results.",
+  "example": null,
+  "related": [
+    "retrieval-model",
+    "rag",
+    "vector-database",
+    "embedding"
+  ]
+}

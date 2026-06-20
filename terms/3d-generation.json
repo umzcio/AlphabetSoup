@@ -1,0 +1,15 @@
+{
+  "slug": "3d-generation",
+  "term": "3D Generation",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Creating three-dimensional shapes from text, a single image, or multiple views.",
+  "definition": "3D generation produces three-dimensional content—such as digital sculptures or other formats that store shape and depth—from text prompts, a single image, or multiple views. Some methods reuse what an existing image-making AI already knows, while others learn directly from 3D data. It extends image generation into the spatial world and is used in games, film, augmented and virtual reality, and robot simulation.",
+  "example": null,
+  "related": [
+    "diffusion-model",
+    "image-generation",
+    "text-to-image",
+    "computer-vision"
+  ]
+}

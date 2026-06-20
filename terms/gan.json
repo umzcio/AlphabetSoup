@@ -1,0 +1,16 @@
+{
+  "slug": "gan",
+  "term": "Generative Adversarial Network",
+  "acronym": "GAN",
+  "category": "Architectures",
+  "short": "Two networks trained against each other: one creates fake samples, the other tries to detect them.",
+  "definition": "A generative adversarial network pairs a generator that creates synthetic samples from random noise with a discriminator that tries to tell real data from generated data. The two improve by competing in a minimax game, pushing the generator toward increasingly realistic output. GANs drove early breakthroughs in photorealistic image synthesis and remain useful for fast, high-resolution generation, though diffusion models have largely surpassed them on image quality.",
+  "example": null,
+  "related": [
+    "generative-ai",
+    "diffusion-model",
+    "discriminative-model",
+    "image-generation",
+    "synthetic-data"
+  ]
+}

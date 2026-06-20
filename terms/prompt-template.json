@@ -1,0 +1,15 @@
+{
+  "slug": "prompt-template",
+  "term": "Prompt Template",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A reusable prompt with placeholders an application fills in per request.",
+  "definition": "A prompt template is a fixed prompt structure with placeholders that an application fills in for each request. By holding instructions and formatting constant while only the variables change, templates keep behavior consistent across many calls and separate prompt design from the data passed in. They are a basic tool in frameworks for building reliable LLM applications.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "system-prompt",
+    "structured-prompting",
+    "langchain"
+  ]
+}

@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Optimization",
   "short": "A GPU-efficient attention algorithm that avoids writing the big attention matrix to memory.",
-  "definition": "FlashAttention is an IO-aware, exact attention algorithm that computes attention without materializing the full N×N attention matrix in GPU high-bandwidth memory. By tiling the computation and keeping intermediate results in fast on-chip SRAM, it is both faster and far more memory-efficient than naive attention, enabling longer context windows.",
+  "definition": "FlashAttention is an exact attention algorithm designed around how a GPU moves data. It computes attention without ever building the full grid of scores between every pair of words in the main GPU memory. By working in small tiles and keeping intermediate results in the chip's tiny pool of fast on-chip memory, it is both faster and far more memory-efficient than the straightforward method, enabling longer context windows.",
   "example": null,
   "related": [
     "attention",

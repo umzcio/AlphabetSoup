@@ -1,0 +1,15 @@
+{
+  "slug": "constitutional-prompting",
+  "term": "Constitutional Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Having a model check and revise its own output against a written list of principles.",
+  "definition": "Constitutional prompting instructs a model to judge its own output against a written set of principles — a 'constitution' — and rewrite any response that breaks them. Inspired by Anthropic's Constitutional AI, it works while the model is running without retraining: a critique step flags violations and a revision step corrects them. This lets developers encode safety and style rules as readable text rather than relying only on RLHF (reinforcement learning from human feedback, where the model is tuned using people's ratings of its answers).",
+  "example": null,
+  "related": [
+    "constitutional-ai",
+    "self-refine",
+    "system-prompt",
+    "rlhf"
+  ]
+}

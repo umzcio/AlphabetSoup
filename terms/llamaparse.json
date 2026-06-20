@@ -1,0 +1,16 @@
+{
+  "slug": "llamaparse",
+  "term": "LlamaParse",
+  "acronym": null,
+  "category": "Data",
+  "short": "A document parser from the LlamaIndex team that turns complex files into clean text.",
+  "definition": "LlamaParse is a document parsing tool from the LlamaIndex team that converts complex files — such as PDFs with tables, figures, and multi-column layouts — into clean, structured text. It targets the messy first step of getting documents into AI pipelines, where layout and formatting often corrupt naive extraction. The cleaner output is meant to feed retrieval and RAG systems (which fetch relevant documents and feed them to a model as context).",
+  "example": null,
+  "related": [
+    "llamaindex",
+    "rag",
+    "document-chunking",
+    "chunking",
+    "unstructured-pruning"
+  ]
+}

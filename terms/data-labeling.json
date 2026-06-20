@@ -1,0 +1,16 @@
+{
+  "slug": "data-labeling",
+  "term": "Data Labeling",
+  "acronym": null,
+  "category": "Data",
+  "short": "Tagging raw data with correct outputs, like categories or transcriptions, to train models.",
+  "definition": "Data labeling is the process of attaching the correct outputs to raw data, such as categories, bounding boxes, or transcriptions, so it can train or evaluate supervised models. It is often labor-intensive and may combine human annotators with automated tools. Because models learn directly from these labels, their accuracy and consistency have a strong effect on the resulting model's performance.",
+  "example": null,
+  "related": [
+    "annotation",
+    "supervised-learning",
+    "ground-truth",
+    "dataset",
+    "human-feedback"
+  ]
+}

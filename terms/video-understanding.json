@@ -1,0 +1,15 @@
+{
+  "slug": "video-understanding",
+  "term": "Video Understanding",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Extracting meaning from video, including what happens and when.",
+  "definition": "Video understanding covers tasks like recognizing actions, pinpointing when something happens, writing captions, answering questions about a clip, and finding highlights. Models must capture both what appears—objects and scenes—and how it changes over time. Approaches include specialized neural networks for video and large multimodal models that take in sampled frames alongside text or audio.",
+  "example": null,
+  "related": [
+    "video-generation",
+    "multimodal-model",
+    "object-detection",
+    "multimodal-reasoning"
+  ]
+}

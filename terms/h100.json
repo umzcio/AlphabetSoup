@@ -1,0 +1,15 @@
+{
+  "slug": "h100",
+  "term": "NVIDIA H100",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "NVIDIA's Hopper-architecture data-center GPU, widely used to train and serve large models.",
+  "definition": "The NVIDIA H100 is a data-center GPU built on the Hopper architecture and used heavily for training and serving large models. It pairs many compute cores with high-bandwidth memory and fast interconnects, and added hardware support for FP8 to speed up large-model workloads. Newer Blackwell-generation chips have begun to succeed it in fresh deployments, though large fleets of H100s remain in active use.",
+  "example": null,
+  "related": [
+    "blackwell",
+    "gpu",
+    "nvidia",
+    "hbm"
+  ]
+}

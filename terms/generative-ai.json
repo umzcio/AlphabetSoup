@@ -1,0 +1,15 @@
+{
+  "slug": "generative-ai",
+  "term": "Generative AI",
+  "acronym": "GenAI",
+  "category": "Foundations",
+  "short": "Models that create new text, images, audio, video, or code by learning patterns in data.",
+  "definition": "Generative AI refers to models that create new content — text, images, audio, video, or code — by learning the patterns of their training data and then sampling from them given a prompt. Large language models and diffusion-based image generators are the most visible examples. Generative AI drove the major wave of mainstream AI adoption that began in 2022.",
+  "example": null,
+  "related": [
+    "llm",
+    "diffusion-model",
+    "machine-learning",
+    "transformer"
+  ]
+}

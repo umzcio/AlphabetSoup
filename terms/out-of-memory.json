@@ -1,0 +1,16 @@
+{
+  "slug": "out-of-memory",
+  "term": "Out of Memory",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "A failure that occurs when a workload needs more memory than is available.",
+  "definition": "Out of memory is a failure that occurs when a workload requires more memory than the hardware has free, typically GPU memory during model loading, training, or inference. Common causes include handling too many requests at once, long inputs that swell the cache of past words, or models too big for the device. Fixes include smaller batches, shrinking the model (quantization), splitting it across several devices, or trading speed for memory.",
+  "example": null,
+  "related": [
+    "kv-cache",
+    "gpu",
+    "batch-size",
+    "quantization",
+    "model-parallelism"
+  ]
+}

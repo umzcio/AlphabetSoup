@@ -1,0 +1,16 @@
+{
+  "slug": "hyperparameter-tuning",
+  "term": "Hyperparameter Tuning",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Searching for the training settings that produce the best model.",
+  "definition": "Hyperparameter tuning is the search for the training settings that are fixed before learning begins — such as learning rate, batch size, or the number of layers — rather than learned from data. It compares candidate configurations, often through grid search, random search, or more guided methods, and keeps the ones that yield the best validation performance. Good tuning can be the difference between a model that trains stably and one that diverges.",
+  "example": null,
+  "related": [
+    "hyperparameter",
+    "learning-rate",
+    "batch-size",
+    "validation-set",
+    "learning-rate-scheduler"
+  ]
+}

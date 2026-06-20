@@ -1,0 +1,15 @@
+{
+  "slug": "activation",
+  "term": "Activation",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The intermediate value a neuron or layer computes as data passes through a network.",
+  "definition": "An activation is the intermediate value a neural network computes at a unit or layer as input flows forward. Each neuron takes a weighted sum of its inputs, adds a bias, and applies an activation function to produce this number, which then feeds the next layer. Activations are the running representations a model builds up, and inspecting them is central to interpretability.",
+  "example": null,
+  "related": [
+    "activation-function",
+    "neural-network",
+    "weights",
+    "interpretability"
+  ]
+}

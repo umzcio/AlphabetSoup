@@ -1,0 +1,15 @@
+{
+  "slug": "map-reduce",
+  "term": "Map-Reduce",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Applying a prompt to each chunk of a large input, then combining the results.",
+  "definition": "Map-reduce, adapted from distributed computing, splits a long document or dataset into chunks, applies a prompt to each chunk independently in the map phase, and then combines the outputs in one or more reduce passes. This sidesteps the limit on how much text a model can read at once and allows the chunks to be processed at the same time. It is commonly used for summarizing long texts, answering questions over large collections of documents, and extracting data at scale.",
+  "example": null,
+  "related": [
+    "chunking",
+    "summarization",
+    "context-window",
+    "prompt-chaining"
+  ]
+}

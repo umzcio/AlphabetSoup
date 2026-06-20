@@ -1,0 +1,16 @@
+{
+  "slug": "concurrency",
+  "term": "Concurrency",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "How many requests a serving system handles at once without performance collapsing.",
+  "definition": "Concurrency measures how many active requests a serving system can process simultaneously while keeping latency acceptable. Serving engines raise concurrency by carefully sharing the memory of the GPU (the chip that runs the model), queuing incoming requests, and using continuous batching to push many users' next words forward in a single processing pass. High concurrency is what lets public APIs and chatbots serve many users on shared hardware.",
+  "example": null,
+  "related": [
+    "continuous-batching",
+    "throughput",
+    "latency",
+    "backpressure",
+    "kv-cache"
+  ]
+}

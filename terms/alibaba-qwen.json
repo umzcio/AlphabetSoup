@@ -1,0 +1,15 @@
+{
+  "slug": "alibaba-qwen",
+  "term": "Alibaba Qwen",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "Alibaba's model family and team behind the open-weight Qwen language and multimodal models.",
+  "definition": "Alibaba Qwen is the model family and research team at Alibaba responsible for the Qwen series. It has released a broad range of open-weight language, multimodal (text plus images or other media), and coding models across many sizes. Because the weights are openly available, Qwen models are widely used as bases for fine-tuning across the open AI ecosystem.",
+  "example": null,
+  "related": [
+    "qwen",
+    "alibaba",
+    "open-weights",
+    "fine-tuning"
+  ]
+}

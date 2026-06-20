@@ -1,0 +1,16 @@
+{
+  "slug": "catastrophic-forgetting",
+  "term": "Catastrophic Forgetting",
+  "acronym": null,
+  "category": "Training",
+  "short": "When training a model on new data erases skills it had previously learned.",
+  "definition": "Catastrophic forgetting is the tendency of a neural network to lose earlier knowledge when trained on new data, because the adjustments for the new task overwrite the internal values that stored the prior skills. It is a central challenge in continual learning and a practical concern when fine-tuning. Common fixes include mixing in old data, nudging the values to stay close to their previous settings, and methods like LoRA that train only a small set of added values.",
+  "example": null,
+  "related": [
+    "continual-learning",
+    "fine-tuning",
+    "lora",
+    "continued-pretraining",
+    "neural-network"
+  ]
+}

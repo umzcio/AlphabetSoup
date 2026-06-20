@@ -1,0 +1,16 @@
+{
+  "slug": "semantic-memory",
+  "term": "Semantic Memory",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An agent's store of long-lived facts, concepts, and general knowledge.",
+  "definition": "Semantic memory is an agent's store of long-lived facts, concepts, and general knowledge, as opposed to a record of specific past events. It holds durable information an agent can retrieve across many sessions, such as user preferences or domain facts, often kept in a vector database and pulled in when relevant. It complements episodic memory, which captures particular interactions over time.",
+  "example": null,
+  "related": [
+    "episodic-memory",
+    "agent-memory",
+    "memory",
+    "vector-database",
+    "memory-persistence"
+  ]
+}

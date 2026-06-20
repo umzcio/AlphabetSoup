@@ -1,0 +1,16 @@
+{
+  "slug": "post-training-quantization",
+  "term": "Post-Training Quantization",
+  "acronym": "PTQ",
+  "category": "Optimization",
+  "short": "Quantizing an already-trained model to lower precision without retraining it.",
+  "definition": "Post-Training Quantization (PTQ) reduces the size and memory footprint of an already-trained network, typically converting 16-bit floating-point weights to 8-bit or 4-bit integers. It requires little computation and no retraining, which makes it convenient and fast. The tradeoff is that it can introduce some accuracy loss, especially for smaller models or under aggressive compression, where quantization-aware training may be preferred.",
+  "example": null,
+  "related": [
+    "quantization",
+    "quantization-aware-training",
+    "gptq",
+    "awq",
+    "int8"
+  ]
+}

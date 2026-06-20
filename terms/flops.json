@@ -1,0 +1,15 @@
+{
+  "slug": "flops",
+  "term": "FLOPS",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A measure of compute capacity, counted as floating-point operations per second.",
+  "definition": "FLOPS stands for floating-point operations per second and measures how much arithmetic a processor can perform. It is a common way to describe the raw compute capacity of GPUs and other accelerators, often quoted at a specific numeric precision such as FP16 or FP8. The closely related total count of operations is used to estimate the cost of training a model or running a single inference pass.",
+  "example": null,
+  "related": [
+    "gpu",
+    "accelerator",
+    "arithmetic-intensity",
+    "model-flops-utilization"
+  ]
+}

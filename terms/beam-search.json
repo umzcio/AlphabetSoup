@@ -1,0 +1,16 @@
+{
+  "slug": "beam-search",
+  "term": "Beam Search",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Keeping several candidate sequences alive at once to find a higher-probability output.",
+  "definition": "Beam search is a way of generating text that keeps a fixed number of candidate sequences alive at each step (that number is the beam width), extending only the best-scoring ones and returning the most likely complete sequence at the end. It often produces more coherent text than simply taking the single best word each time, but is slower and uses more memory as the beam width grows. It remains common in translation and structured generation, while most chat applications prefer random sampling.",
+  "example": null,
+  "related": [
+    "greedy-decoding",
+    "decoding-strategy",
+    "top-p-sampling",
+    "temperature",
+    "logits"
+  ]
+}

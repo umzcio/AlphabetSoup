@@ -1,0 +1,15 @@
+{
+  "slug": "orchestrator",
+  "term": "Orchestrator",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "The component that plans, delegates subtasks, and combines results in a multi-agent system.",
+  "definition": "In a multi-agent architecture, the orchestrator takes a high-level objective and handles planning, task allocation, and synthesis. It decides which subagents or tools to invoke, in what order, and how to merge their outputs. It may be a language model running a planning prompt, a fixed set of rules that route the work, or a mix of both, and its design largely determines the reliability and efficiency of the whole system.",
+  "example": null,
+  "related": [
+    "orchestrator-worker",
+    "multi-agent-system",
+    "planner-executor",
+    "routing"
+  ]
+}

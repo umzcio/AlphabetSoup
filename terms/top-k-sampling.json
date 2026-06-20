@@ -1,0 +1,16 @@
+{
+  "slug": "top-k-sampling",
+  "term": "Top-k Sampling",
+  "acronym": "Top-K",
+  "category": "Inference & Serving",
+  "short": "Sampling the next token only from the k most likely candidates.",
+  "definition": "Top-k sampling keeps only the k most likely next words, rescales their odds so they add up to one again, and then picks randomly from that smaller set. It is simple to implement and keeps very unlikely tokens out of consideration. A fixed k can be too restrictive when the distribution is flat and too permissive when it is sharp, which is why adaptive alternatives like top-p and min-p adjust the cutoff to the distribution's shape.",
+  "example": null,
+  "related": [
+    "top-p-sampling",
+    "sampling",
+    "temperature",
+    "min-p",
+    "greedy-decoding"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "ngram-matching",
+  "term": "N-Gram Matching",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Drafting candidate tokens by looking up short word patterns in recent text.",
+  "definition": "N-gram matching proposes candidate words by looking up short recurring word sequences (an n-gram is a run of n consecutive words) in the prompt or recently generated text. It needs almost no extra compute or memory and can be combined with more sophisticated guess-ahead methods. Though simple, it gives meaningful speedups on repetitive workloads and is easy to add on top of an existing serving system.",
+  "example": null,
+  "related": [
+    "speculative-decoding",
+    "suffix-decoding",
+    "prefix-caching",
+    "tokens-per-second"
+  ]
+}

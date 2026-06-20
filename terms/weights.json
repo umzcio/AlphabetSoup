@@ -1,0 +1,14 @@
+{
+  "slug": "weights",
+  "term": "Weights",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The adjustable values on a network's connections that together encode what it knows.",
+  "definition": "Weights are the adjustable values attached to the connections in a neural network. They are tuned during training and together encode what the model knows, turning inputs into useful outputs. Open-weight models are those whose trained weights are released so others can run or adapt them, in contrast to models kept behind an API.",
+  "example": null,
+  "related": [
+    "parameter",
+    "open-weights",
+    "neural-network"
+  ]
+}

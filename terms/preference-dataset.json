@@ -1,0 +1,16 @@
+{
+  "slug": "preference-dataset",
+  "term": "Preference Dataset",
+  "acronym": null,
+  "category": "Data",
+  "short": "A dataset showing which output was preferred over others for each prompt.",
+  "definition": "A preference dataset is a collection of examples in which people or strong models indicate which of two or more responses is better for a given prompt. It powers alignment methods such as RLHF and DPO (two techniques for tuning a model to people's preferences), which train a model to favor the preferred responses. High-quality preference data is one of the most important ingredients for building helpful and well-aligned models.",
+  "example": null,
+  "related": [
+    "preference-data",
+    "reward-model",
+    "dpo",
+    "rlhf",
+    "human-feedback"
+  ]
+}

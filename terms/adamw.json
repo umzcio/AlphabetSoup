@@ -1,0 +1,16 @@
+{
+  "slug": "adamw",
+  "term": "AdamW",
+  "acronym": "AdamW",
+  "category": "Training",
+  "short": "A version of the Adam training optimizer that handles weight decay (a pull toward smaller numbers) separately.",
+  "definition": "AdamW is a version of the Adam optimizer (the algorithm that adjusts a model's internal numbers during training) that applies weight decay as a direct shrink on those numbers after each update, rather than folding it into the calculation. Weight decay gently pulls values toward smaller numbers, which curbs overfitting; this separate handling makes it work better than in standard Adam. AdamW is the default optimizer for training most large language models and vision transformers.",
+  "example": null,
+  "related": [
+    "adam",
+    "optimizer",
+    "weight-decay",
+    "learning-rate",
+    "regularization"
+  ]
+}

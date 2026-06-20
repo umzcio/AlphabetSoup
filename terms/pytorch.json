@@ -1,0 +1,15 @@
+{
+  "slug": "pytorch",
+  "term": "PyTorch",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "The dominant open-source deep learning framework, known for flexible Python-first design.",
+  "definition": "PyTorch is an open-source deep learning library, originally developed at Meta and now under the Linux Foundation. Its dynamic, define-by-run graphs make models easy to build and debug, which made it the default for AI research and much production work. Most modern language and diffusion models are trained in PyTorch, and it underpins higher-level libraries like Hugging Face Transformers.",
+  "example": null,
+  "related": [
+    "tensorflow",
+    "jax",
+    "hugging-face",
+    "deep-learning"
+  ]
+}

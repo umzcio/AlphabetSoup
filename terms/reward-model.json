@@ -1,0 +1,16 @@
+{
+  "slug": "reward-model",
+  "term": "Reward Model",
+  "acronym": null,
+  "category": "Training",
+  "short": "A model that scores outputs by how much humans would prefer them.",
+  "definition": "A reward model learns to predict how much humans would prefer a given output, producing a score that guides reinforcement learning during alignment. It is trained on preference data where annotators compare pairs of responses. Methods like DPO skip the explicit reward model, but it remains central to many RLHF pipelines.",
+  "example": null,
+  "related": [
+    "reward-modeling",
+    "rlhf",
+    "ppo",
+    "preference-data",
+    "dpo"
+  ]
+}

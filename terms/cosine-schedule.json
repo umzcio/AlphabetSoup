@@ -1,0 +1,15 @@
+{
+  "slug": "cosine-schedule",
+  "term": "Cosine Schedule",
+  "acronym": null,
+  "category": "Training",
+  "short": "Decaying the learning rate along half a cosine curve from its peak toward a minimum.",
+  "definition": "A cosine schedule decays the learning rate from its peak value following one half of a cosine curve, reaching a small minimum by the end of training. The smooth, gradual decay avoids the abrupt drops of step schedules and tends to yield better final quality. It is usually paired with a short linear warmup at the start, and variants with warm restarts periodically reset the rate.",
+  "example": null,
+  "related": [
+    "learning-rate",
+    "learning-rate-schedule",
+    "warmup",
+    "learning-rate-scheduler"
+  ]
+}

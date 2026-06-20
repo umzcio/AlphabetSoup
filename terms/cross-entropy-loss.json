@@ -1,0 +1,16 @@
+{
+  "slug": "cross-entropy-loss",
+  "term": "Cross-Entropy Loss",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "The standard loss for next-token prediction and classification.",
+  "definition": "Cross-entropy loss measures how far a model's predicted probability distribution is from the correct answer, penalizing confident wrong predictions heavily. It is the standard objective for classification and for next-token prediction in language models, where the model is scored on the probability it assigns to the true next token. Minimizing it pushes the model to put more probability on correct outputs.",
+  "example": null,
+  "related": [
+    "cross-entropy",
+    "loss-function",
+    "perplexity-metric",
+    "softmax",
+    "classification"
+  ]
+}

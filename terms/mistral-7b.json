@@ -1,0 +1,16 @@
+{
+  "slug": "mistral-7b",
+  "term": "Mistral 7B",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Mistral AI's 7-billion-parameter open-weight model released under Apache 2.0.",
+  "definition": "Mistral 7B is a 7-billion-parameter open-weight language model from Mistral AI (released for anyone to download), under the permissive Apache 2.0 license. At launch it outperformed larger rivals on many benchmark tests, illustrating that design and training-data quality can matter more than sheer size. It uses techniques that make it run faster and cheaper, and became one of the most downloaded open models and a common base for community fine-tunes.",
+  "example": null,
+  "related": [
+    "mistral-ai",
+    "open-weights",
+    "sliding-window-attention",
+    "grouped-query-attention",
+    "fine-tuning"
+  ]
+}

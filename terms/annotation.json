@@ -1,0 +1,16 @@
+{
+  "slug": "annotation",
+  "term": "Annotation",
+  "acronym": null,
+  "category": "Data",
+  "short": "Attaching labels, tags, or metadata to raw data so it can train or evaluate models.",
+  "definition": "Annotation is the process of attaching labels, tags, ratings, or structured metadata to raw data, done by humans or automated tools. Annotators might classify text sentiment, draw boxes around objects, or rate model responses for quality. Consistency matters: disagreement between annotators, measured as inter-annotator agreement, is a key signal of label quality for supervised learning and alignment.",
+  "example": null,
+  "related": [
+    "data-labeling",
+    "dataset",
+    "supervised-learning",
+    "ground-truth",
+    "human-feedback"
+  ]
+}

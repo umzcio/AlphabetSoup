@@ -1,0 +1,15 @@
+{
+  "slug": "bias-term",
+  "term": "Bias Term",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A learned additive constant in a neuron that lets it activate even when inputs are zero.",
+  "definition": "A bias term is an additive constant in each neuron that is learned alongside the weights. It lets a neuron produce a nonzero output even when all of its inputs are zero, giving the network more flexibility to fit data. Without bias terms, every neuron would be forced to output zero whenever its inputs were all zero. They are few in number relative to weights but matter for representational flexibility.",
+  "example": null,
+  "related": [
+    "weights",
+    "neural-network",
+    "activation",
+    "parameter"
+  ]
+}

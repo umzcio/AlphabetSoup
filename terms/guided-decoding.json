@@ -1,0 +1,16 @@
+{
+  "slug": "guided-decoding",
+  "term": "Guided Decoding",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Masking invalid tokens during generation to force output into a target format.",
+  "definition": "Guided decoding steers generation toward a desired structure by checking the model's raw scores for each possible next word and blocking any choice that would break the target format. A simple rule-tracker keeps count of which words are allowed at the current position, guaranteeing correctly formed output such as well-formed JSON. Frameworks like Outlines and SGLang implement it efficiently.",
+  "example": null,
+  "related": [
+    "constrained-decoding",
+    "structured-output",
+    "json-mode",
+    "outlines",
+    "logits"
+  ]
+}

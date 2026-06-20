@@ -1,0 +1,16 @@
+{
+  "slug": "qwen3",
+  "term": "Qwen3",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "The third generation of Alibaba's Qwen models, with switchable thinking modes.",
+  "definition": "Qwen3 is the third major generation of Alibaba's Qwen language model family. Its defining feature is a hybrid reasoning design: a single model can switch between a thinking mode that works step by step through hard tasks and a fast direct-response mode, letting users control how much computing effort to spend. The family spans small models up to a large mixture-of-experts model (which routes each request to only the relevant parts), is released openly, and can use external tools and many languages.",
+  "example": null,
+  "related": [
+    "qwen",
+    "alibaba",
+    "reasoning-model",
+    "chain-of-thought",
+    "moe"
+  ]
+}

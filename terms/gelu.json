@@ -1,0 +1,15 @@
+{
+  "slug": "gelu",
+  "term": "GELU",
+  "acronym": "Gaussian Error Linear Unit",
+  "category": "Foundations",
+  "short": "A smooth activation function widely used inside modern Transformer models.",
+  "definition": "GELU, short for Gaussian Error Linear Unit, is an activation function — the small nonlinear step applied inside a neural network so it can learn complex patterns. It passes through more of the larger values and less of the smaller ones in a smooth way, and it is a common default in modern Transformer models.",
+  "example": null,
+  "related": [
+    "activation-function",
+    "relu",
+    "neural-network",
+    "transformer"
+  ]
+}

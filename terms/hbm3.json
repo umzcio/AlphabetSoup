@@ -1,0 +1,15 @@
+{
+  "slug": "hbm3",
+  "term": "HBM3",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A recent generation of high-bandwidth memory delivering very high throughput per stack.",
+  "definition": "HBM3 is a generation of High Bandwidth Memory, the stacked memory chips used on AI accelerators, that pushes its data rate even higher than earlier versions — often more than a terabyte per second per stack. This speed matters because it feeds the large tables of numbers and the conversation memory (the KV cache) that large language models rely on during training and inference. Modern AI GPUs depend heavily on HBM3 and its faster successor HBM3E to keep their compute cores busy.",
+  "example": null,
+  "related": [
+    "hbm",
+    "memory-bandwidth",
+    "kv-cache",
+    "gpu"
+  ]
+}

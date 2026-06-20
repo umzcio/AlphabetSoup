@@ -1,0 +1,16 @@
+{
+  "slug": "self-supervised-learning",
+  "term": "Self-Supervised Learning",
+  "acronym": "SSL",
+  "category": "Foundations",
+  "short": "Learning from labels the model creates automatically from the data itself.",
+  "definition": "Self-supervised learning creates its own training signal from unlabeled data, for example by hiding parts of the input and predicting them. For text, this is usually next-token or masked-token prediction; for images, methods often match representations of augmented views. This approach enables pretraining on vast unlabeled corpora and is the foundation of modern large language models.",
+  "example": null,
+  "related": [
+    "pretraining",
+    "supervised-learning",
+    "unsupervised-learning",
+    "representation-learning",
+    "llm"
+  ]
+}

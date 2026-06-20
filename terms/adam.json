@@ -1,0 +1,16 @@
+{
+  "slug": "adam",
+  "term": "Adam Optimizer",
+  "acronym": "Adam",
+  "category": "Optimization",
+  "short": "An adaptive optimizer that tunes a separate learning rate for each parameter.",
+  "definition": "Adam (Adaptive Moment Estimation) is an optimizer that keeps running averages of each parameter's gradients and their squared values, then uses both to set an individual step size per parameter. This makes it converge quickly and tolerate a wide range of settings, which is why it is the default for most deep learning and language model training. The AdamW variant, with decoupled weight decay, is now common for transformers.",
+  "example": null,
+  "related": [
+    "adamw",
+    "optimizer",
+    "sgd",
+    "gradient-descent",
+    "learning-rate"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "training-data",
+  "term": "Training Data",
+  "acronym": null,
+  "category": "Data",
+  "short": "The examples a model learns from while its weights are adjusted.",
+  "definition": "Training data is the body of examples — text, images, audio, code, and more — that a model learns from while its weights are adjusted, kept separate from the validation and test data used to measure performance. Its scale, quality, diversity, and curation largely determine a model's capabilities and limitations. Foundation models are trained on web-scale collections and synthetic generation.",
+  "example": null,
+  "related": [
+    "dataset",
+    "validation-set",
+    "test-set",
+    "data-curation",
+    "pretraining-corpus"
+  ]
+}

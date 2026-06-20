@@ -1,0 +1,16 @@
+{
+  "slug": "o4-mini",
+  "term": "o4-mini",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's smaller, cost-efficient reasoning model in the o-series.",
+  "definition": "o4-mini is a compact reasoning model from OpenAI, offered as a smaller and cheaper member of the o-series. Like its larger siblings, it works through a chain of thought (writing out its reasoning step by step) while answering, but in a lighter form that responds faster and costs less. It is especially competitive on coding and mathematical reasoning relative to its price, suiting applications that need reasoning without the expense of the largest models.",
+  "example": null,
+  "related": [
+    "openai",
+    "reasoning-model",
+    "chain-of-thought",
+    "test-time-compute",
+    "o3"
+  ]
+}

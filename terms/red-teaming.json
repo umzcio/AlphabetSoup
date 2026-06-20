@@ -1,0 +1,14 @@
+{
+  "slug": "red-teaming",
+  "term": "Red-Teaming",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Adversarially probing a model to surface harmful outputs and failures before deployment.",
+  "definition": "Red-teaming is the practice of adversarially testing a model to surface harmful outputs, jailbreaks, and other failures so they can be fixed before deployment. Borrowed from security practice, it has people or automated systems craft adversarial prompts and edge cases to expose weaknesses. Findings feed back into safety mitigations and fine-tuning.",
+  "example": null,
+  "related": [
+    "jailbreak",
+    "interpretability",
+    "constitutional-ai"
+  ]
+}

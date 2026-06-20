@@ -1,0 +1,15 @@
+{
+  "slug": "model-inversion",
+  "term": "Model Inversion",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Recovering training information by probing a model's outputs.",
+  "definition": "Model inversion is a privacy attack that attempts to reconstruct information about training data by analyzing a model's outputs and responses to crafted queries. In some cases it can recover sensitive attributes or approximate representations of individual records. It is a concern for models trained on private data, and defenses include differential privacy and limiting how much detail outputs expose.",
+  "example": null,
+  "related": [
+    "privacy-attack",
+    "membership-inference",
+    "differential-privacy",
+    "model-stealing"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "mt-bench",
+  "term": "MT-Bench",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A multi-turn benchmark scoring chat quality with a model acting as judge.",
+  "definition": "MT-Bench is a multi-turn conversational benchmark from LMSYS built around a small set of two-turn questions spanning categories such as writing, reasoning, math, coding, and humanities. A strong model scores each response on a numeric scale, allowing instruction-following quality to be measured without human raters. It was introduced alongside the FastChat framework as a way to compare chat models.",
+  "example": null,
+  "related": [
+    "llm-as-judge",
+    "evaluation",
+    "instruction-following",
+    "benchmark",
+    "chatbot"
+  ]
+}

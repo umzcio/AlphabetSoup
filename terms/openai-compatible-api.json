@@ -1,0 +1,16 @@
+{
+  "slug": "openai-compatible-api",
+  "term": "OpenAI Compatible API",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "An endpoint that mirrors OpenAI's request and response format so existing clients work unchanged.",
+  "definition": "An OpenAI-compatible API exposes the same request and response formats as OpenAI's chat completions and completions endpoints. This lets existing client code, SDKs, and tools work with alternative inference servers such as vLLM, SGLang, Ollama, and TGI with little or no modification. It has become the de facto interface for self-hosted and third-party model serving, reducing the cost of switching backends.",
+  "example": null,
+  "related": [
+    "openai-api",
+    "vllm",
+    "sglang",
+    "ollama",
+    "litellm"
+  ]
+}

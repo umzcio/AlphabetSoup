@@ -1,0 +1,16 @@
+{
+  "slug": "llama",
+  "term": "Llama",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Meta's family of open-weight large language models, released under its own community license.",
+  "definition": "Llama is Meta's family of open-weight large language models — the trained models are released for anyone to download — under a community license that permits research and most commercial use. Because they are downloadable, Llama became a de facto standard base for the open community, spawning a large ecosystem of adapted and compressed (quantized) versions. It is widely used for running models on one's own computer or device and for fine-tuning experiments.",
+  "example": null,
+  "related": [
+    "meta-ai",
+    "open-weights",
+    "llama-3",
+    "llama-4",
+    "fine-tuning"
+  ]
+}

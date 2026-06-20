@@ -1,0 +1,16 @@
+{
+  "slug": "regression-test",
+  "term": "Regression Test",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A repeatable check that a change did not make previously working behavior worse.",
+  "definition": "A regression test is a repeatable check that confirms a change has not broken behavior that previously worked. In machine learning it often means rerunning a fixed set of prompts or benchmarks after updating a model, prompt, or pipeline and comparing results to a known baseline. It catches silent quality drops and is a routine part of maintaining models and applications.",
+  "example": null,
+  "related": [
+    "evaluation",
+    "test-set",
+    "benchmark",
+    "holdout-set",
+    "golden-dataset"
+  ]
+}

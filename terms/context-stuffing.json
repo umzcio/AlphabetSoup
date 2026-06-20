@@ -1,0 +1,15 @@
+{
+  "slug": "context-stuffing",
+  "term": "Context Stuffing",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Loading the context window with documents so the model can answer from them directly.",
+  "definition": "Context stuffing is the practice of filling a model's context window with background documents, retrieved passages, or conversation history so it can answer from that material instead of relying on its weights (the knowledge baked in during training). It is the simplest form of retrieval augmentation — fetch everything relevant, insert it, and let the model reason over it. The approach works when the material fits comfortably but degrades once the window fills with irrelevant content.",
+  "example": null,
+  "related": [
+    "context-window",
+    "retrieval-augmented-generation",
+    "retrieval-prompt",
+    "prompt-compression"
+  ]
+}

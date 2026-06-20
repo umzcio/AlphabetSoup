@@ -1,0 +1,16 @@
+{
+  "slug": "tensor-core",
+  "term": "Tensor Core",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Specialized units in NVIDIA GPUs that accelerate the matrix math behind deep learning.",
+  "definition": "Tensor Cores are specialized execution units inside NVIDIA GPUs, introduced with the Volta architecture, that accelerate the matrix multiply-accumulate operations dominating deep learning. Each performs a small matrix multiplication and accumulation per clock cycle, taking low-precision inputs such as FP16, BF16, FP8, or INT8 while accumulating in higher precision. This mixed-precision approach sharply increases throughput and reduces memory use, and it is the main source of the advertised performance in NVIDIA's data-center GPUs.",
+  "example": null,
+  "related": [
+    "nvidia",
+    "gpu",
+    "mixed-precision",
+    "fp8",
+    "bf16"
+  ]
+}

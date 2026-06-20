@@ -1,0 +1,15 @@
+{
+  "slug": "meta-prompting",
+  "term": "Meta-Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Using a model to write or improve the prompts given to a model.",
+  "definition": "Meta-prompting treats prompt construction as a task the model itself can handle. A capable model is given a high-level goal and asked to produce a detailed prompt or system instruction for achieving it, which is then run — often against a smaller, specialized model. This supports automatic prompt optimization, generating examples, and building domain-adapted instructions without manual iteration. It underlies programmatic prompting tools such as DSPy.",
+  "example": null,
+  "related": [
+    "prompt-engineering",
+    "dspy",
+    "prompt-template",
+    "system-prompt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "github-copilot",
+  "term": "GitHub Copilot",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "GitHub and Microsoft's AI pair-programming assistant built into code editors.",
+  "definition": "GitHub Copilot is an AI pair-programming assistant from GitHub and Microsoft that suggests code, answers questions, and increasingly performs agentic tasks inside editors. It autocompletes lines and functions as a developer types and provides a chat interface for explaining or generating code. It was one of the first widely adopted AI coding tools.",
+  "example": null,
+  "related": [
+    "copilot",
+    "claude-code",
+    "cursor",
+    "microsoft",
+    "agent"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "hugging-face-transformers",
+  "term": "Hugging Face Transformers",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "The most widely used library for loading and running pretrained models.",
+  "definition": "Hugging Face Transformers is an open-source library that gives one consistent way, in the Python programming language, to load, run, and further train tens of thousands of ready-made models for text, images, audio, and combined tasks. Its built-in shortcuts hide the differences between models so they can be used with little setup, and it works with the major underlying AI toolkits. It is the most common starting point for working with open models from the Hugging Face Hub.",
+  "example": null,
+  "related": [
+    "hugging-face",
+    "huggingface-hub",
+    "transformer",
+    "pytorch",
+    "fine-tuning"
+  ]
+}

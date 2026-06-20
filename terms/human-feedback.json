@@ -1,0 +1,16 @@
+{
+  "slug": "human-feedback",
+  "term": "Human Feedback",
+  "acronym": "HF",
+  "category": "Data",
+  "short": "Human judgments of model outputs used as a signal to align model behavior.",
+  "definition": "Human feedback is the set of signals — preferences, rankings, corrections, or ratings — that people provide about model outputs to steer a model toward helpful and harmless behavior. It is the raw material for alignment methods such as RLHF and DPO (two techniques for tuning a model to people's preferences), where a reward model (a scoring model trained to predict which answers people prefer) or direct preference signal is derived from these judgments. The quality and consistency of human feedback shape how well a model follows intentions.",
+  "example": null,
+  "related": [
+    "rlhf",
+    "dpo",
+    "reward-model",
+    "preference-data",
+    "human-in-the-loop"
+  ]
+}

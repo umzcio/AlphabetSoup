@@ -1,0 +1,16 @@
+{
+  "slug": "chatbot-arena",
+  "term": "Chatbot Arena",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "An open platform where people vote on blind head-to-head model responses to rank them.",
+  "definition": "Chatbot Arena is an open evaluation platform where users submit a prompt, see answers from two anonymous models side by side, and vote for the better one. The votes are pooled into Elo ratings (a points-based ranking system borrowed from chess) that produce a ranked leaderboard. Because it measures real human preference across varied prompts, it is treated as one of the more realistic measures of conversational quality.",
+  "example": null,
+  "related": [
+    "elo-rating",
+    "leaderboard",
+    "lmarena",
+    "win-rate",
+    "evaluation"
+  ]
+}

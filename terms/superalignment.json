@@ -1,0 +1,15 @@
+{
+  "slug": "superalignment",
+  "term": "Superalignment",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The challenge of aligning AI systems that may exceed human ability to supervise them.",
+  "definition": "Superalignment refers to the challenge of supervising and aligning AI systems that may eventually surpass human ability, where ordinary human oversight could be too slow or unreliable to catch mistakes. Proposed approaches include using AI to help evaluate and oversee other AI, and developing oversight methods that scale with capability. It treats present-day alignment techniques as possibly insufficient for far more capable future systems.",
+  "example": null,
+  "related": [
+    "scalable-oversight",
+    "alignment",
+    "ai-safety",
+    "asi"
+  ]
+}

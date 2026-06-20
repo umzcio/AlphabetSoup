@@ -1,0 +1,16 @@
+{
+  "slug": "rnn",
+  "term": "Recurrent Neural Network",
+  "acronym": "Recurrent Neural Network",
+  "category": "Architectures",
+  "short": "A sequence model that carries a hidden state forward as it reads one element at a time.",
+  "definition": "A Recurrent Neural Network processes a sequence step by step, updating a hidden state that carries information from earlier elements forward. This recurrence gives it a form of memory for text, audio, and time series. Plain RNNs struggle to remember information over long inputs, as the learning signal fades, which led to improved variants known as LSTM and GRU. Transformers have largely replaced RNNs for language, though state space models revive recurrent-style computation.",
+  "example": null,
+  "related": [
+    "lstm",
+    "gru",
+    "transformer",
+    "state-space-model",
+    "neural-network"
+  ]
+}

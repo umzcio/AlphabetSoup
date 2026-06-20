@@ -1,0 +1,16 @@
+{
+  "slug": "dataset-card",
+  "term": "Dataset Card",
+  "acronym": null,
+  "category": "Data",
+  "short": "Documentation describing a dataset's contents, origin, intended use, and limitations.",
+  "definition": "A dataset card is a structured document that describes a dataset's contents, how and where it was collected, its intended uses, and its known limitations or biases. It commonly notes licensing, language coverage, preprocessing steps, and ethical considerations. By making these details explicit, a dataset card helps others decide whether the data is appropriate for a given task and use it responsibly.",
+  "example": null,
+  "related": [
+    "dataset",
+    "model-card",
+    "data-license",
+    "data-lineage",
+    "hugging-face-datasets"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "ai2",
+  "term": "Allen Institute for AI",
+  "acronym": "AI2",
+  "category": "Organizations",
+  "short": "A Seattle nonprofit AI lab focused on fully open models, data, and reproducible research.",
+  "definition": "The Allen Institute for AI (AI2) is a nonprofit research institute in Seattle, founded in 2014 by Paul Allen. It emphasizes openness, releasing the OLMo family of fully open language models along with their training data, code, and weights (the internal numbers a model learns), plus the Dolma collection of training text and the lm-evaluation tooling ecosystem for scoring models. AI2 also runs the Semantic Scholar academic search engine.",
+  "example": null,
+  "related": [
+    "open-weights",
+    "open-source-ai",
+    "the-pile",
+    "eleutherai"
+  ]
+}

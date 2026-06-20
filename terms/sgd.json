@@ -1,0 +1,16 @@
+{
+  "slug": "sgd",
+  "term": "Stochastic Gradient Descent",
+  "acronym": "Stochastic Gradient Descent",
+  "category": "Optimization",
+  "short": "Updating parameters from small random batches rather than the full dataset.",
+  "definition": "Stochastic Gradient Descent updates a model's parameters using gradients computed on small random subsets of data — mini-batches — instead of the whole dataset. The noise this introduces helps the optimizer escape sharp minima and often improves generalization, while making each step cheap. Modern training almost always uses momentum or adaptive variants such as SGD with momentum or Adam rather than plain SGD.",
+  "example": null,
+  "related": [
+    "gradient-descent",
+    "optimizer",
+    "adam",
+    "batch-size",
+    "learning-rate"
+  ]
+}

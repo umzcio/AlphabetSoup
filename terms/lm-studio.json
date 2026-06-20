@@ -1,0 +1,16 @@
+{
+  "slug": "lm-studio",
+  "term": "LM Studio",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A desktop app for browsing, downloading, and running open models locally with a chat interface.",
+  "definition": "LM Studio is a desktop application for running open models on a personal computer through a graphical interface. It lets people browse and download model files, chat with them locally, and expose a local API server that mimics hosted endpoints. It is aimed at users who want private, offline AI without working from the command line.",
+  "example": null,
+  "related": [
+    "ollama",
+    "llama-cpp",
+    "gguf",
+    "open-webui",
+    "homelab-ai-server"
+  ]
+}

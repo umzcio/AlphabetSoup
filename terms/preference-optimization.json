@@ -1,0 +1,16 @@
+{
+  "slug": "preference-optimization",
+  "term": "Preference Optimization",
+  "acronym": null,
+  "category": "Training",
+  "short": "Updating a model directly from preference data, skipping a separate reward model.",
+  "definition": "Preference optimization covers methods such as DPO and its relatives that update a model's parameters directly from pairwise or ranked preference data. By bypassing the separate reward model and reinforcement learning stage of classic RLHF, these methods offer greater stability and lower compute cost. They are widely used to make models more helpful, harmless, and honest.",
+  "example": null,
+  "related": [
+    "dpo",
+    "preference-data",
+    "preference-learning",
+    "rlhf",
+    "reward-model"
+  ]
+}

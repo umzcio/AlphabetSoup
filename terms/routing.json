@@ -1,0 +1,16 @@
+{
+  "slug": "routing",
+  "term": "Routing",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Deciding which downstream handler, model, or pipeline should process a given request.",
+  "definition": "Routing is the decision logic that selects which downstream handler should process a request. In language-model systems this can mean choosing between a fast small model and a slow large one, picking a specialized agent for a topic, or dispatching to the right search pipeline. Routing can follow fixed rules, compare the query by meaning, or be decided by a model itself. Good routing improves both cost efficiency and response quality.",
+  "example": null,
+  "related": [
+    "router-pattern",
+    "routing-agent",
+    "semantic-router",
+    "classification",
+    "orchestrator"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "muon",
+  "term": "Muon",
+  "acronym": null,
+  "category": "Training",
+  "short": "An optimizer that orthogonalizes weight updates for more uniform learning.",
+  "definition": "Muon is an optimizer (the part of training that adjusts the model's internal numbers) that smooths each adjustment, then reshapes it so the model learns at a more even pace across all of a layer's numbers rather than over-correcting in a few directions. It has reached a good solution faster than the popular AdamW optimizer on some language-model training runs, while using a similar amount of memory.",
+  "example": null,
+  "related": [
+    "optimizer",
+    "adamw",
+    "learning-rate",
+    "gradient-descent"
+  ]
+}

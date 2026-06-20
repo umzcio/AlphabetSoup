@@ -1,0 +1,15 @@
+{
+  "slug": "long-running-agent",
+  "term": "Long-Running Agent",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An agent built to persist and make progress across many steps or sessions.",
+  "definition": "A long-running agent is designed to operate over many steps or across separate sessions rather than a single short interaction. It relies on persistent memory, checkpoints, and context management to keep track of a goal as time passes and conversations restart. The main challenges are preventing drift, controlling cost over a long horizon, and recovering cleanly after interruptions.",
+  "example": null,
+  "related": [
+    "agent",
+    "memory-persistence",
+    "agent-memory",
+    "loop-engineering"
+  ]
+}

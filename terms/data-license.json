@@ -1,0 +1,16 @@
+{
+  "slug": "data-license",
+  "term": "Data License",
+  "acronym": null,
+  "category": "Data",
+  "short": "The legal terms that govern how a dataset may be used, shared, and redistributed.",
+  "definition": "A data license is the set of legal terms that govern how a dataset may be used, copied, modified, shared, or sold. It can permit broad reuse, restrict use to research or non-commercial purposes, or impose attribution and share-alike requirements. For AI development, license terms determine whether data can legally enter a training corpus, making them an important factor in data sourcing and compliance.",
+  "example": null,
+  "related": [
+    "data-governance",
+    "data-lineage",
+    "dataset",
+    "dataset-card",
+    "open-source-ai"
+  ]
+}

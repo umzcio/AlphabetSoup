@@ -1,0 +1,15 @@
+{
+  "slug": "safety-classifier",
+  "term": "Safety Classifier",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A model trained to detect harmful or disallowed content in prompts or responses.",
+  "definition": "A safety classifier is a model trained to detect categories of harmful or disallowed content in prompts or responses, acting as a filter alongside the main model. It scores inputs and outputs so a system can block, rewrite, or escalate risky content before it reaches a user. Safety classifiers are a common component of guardrail systems and layer on top of model-level alignment.",
+  "example": null,
+  "related": [
+    "safety-filter",
+    "moderation-model",
+    "guardrails",
+    "toxicity"
+  ]
+}

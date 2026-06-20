@@ -1,0 +1,15 @@
+{
+  "slug": "cerebras",
+  "term": "Cerebras",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "An AI hardware company that uses an entire silicon wafer as a single giant processor.",
+  "definition": "Cerebras is an AI hardware company, founded in 2016, that takes an unconventional approach to chip design. Instead of cutting a wafer into many small chips, its Wafer Scale Engine uses the whole wafer as a single processor with hundreds of thousands of cores and large on-chip memory. This avoids much of the communication overhead of stringing together many separate GPU chips for certain training and model-running jobs, sold through Cerebras Cloud.",
+  "example": null,
+  "related": [
+    "groq",
+    "sambanova",
+    "accelerator",
+    "inference"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "logits",
+  "term": "Logits",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "The raw per-token scores a model outputs before softmax turns them into probabilities.",
+  "definition": "Logits are the raw scores a language model produces at its final layer, one real value per token in the vocabulary. They are not probabilities; they become a probability distribution only after passing through a softmax. Inference-time controls such as temperature, top-k, top-p, and repetition penalty all operate on the logits before softmax, reshaping the distribution that sampling then draws from.",
+  "example": null,
+  "related": [
+    "softmax",
+    "temperature",
+    "top-k-sampling",
+    "top-p-sampling",
+    "decoding-strategy"
+  ]
+}

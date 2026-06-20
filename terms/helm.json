@@ -1,0 +1,16 @@
+{
+  "slug": "helm",
+  "term": "HELM",
+  "acronym": "Holistic Evaluation of Language Models",
+  "category": "Evaluation",
+  "short": "A framework and benchmark suite for broad, transparent evaluation of language models.",
+  "definition": "HELM is a framework and benchmark suite for evaluating language models across many tasks and metrics at once. Rather than a single score, it reports a structured view that covers dimensions such as accuracy, calibration, robustness, fairness, and efficiency. The goal is broad, transparent comparison, so the same models are measured under consistent conditions across scenarios.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "evaluation",
+    "leaderboard",
+    "lm-eval-harness",
+    "mmlu"
+  ]
+}

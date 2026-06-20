@@ -1,0 +1,16 @@
+{
+  "slug": "vocabulary",
+  "term": "Vocabulary",
+  "acronym": null,
+  "category": "Data",
+  "short": "The fixed set of tokens a tokenizer can produce and a model can read.",
+  "definition": "Vocabulary is the fixed set of tokens that a tokenizer can produce and that a model maps to and from integer IDs. Its size is a design choice — a larger vocabulary can represent text in fewer tokens but increases the model's embedding and output layers. Vocabulary composition affects efficiency, multilingual coverage, and how rare words are split into smaller pieces.",
+  "example": null,
+  "related": [
+    "tokenizer",
+    "token",
+    "tokenizer-training",
+    "byte-pair-encoding",
+    "embedding"
+  ]
+}

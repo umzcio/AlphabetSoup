@@ -1,0 +1,15 @@
+{
+  "slug": "google-cloud",
+  "term": "Google Cloud",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "Google's cloud platform offering TPUs, GPUs, and managed services for AI workloads.",
+  "definition": "Google Cloud is Google's cloud computing platform and a major provider of AI infrastructure. It offers TPU and GPU computing power (specialized chips for AI work) along with Vertex AI, a managed environment for training, tuning, and deploying models, including access to Gemini and open models. It serves as core infrastructure for organizations building and running AI systems.",
+  "example": null,
+  "related": [
+    "google",
+    "tpu",
+    "gemini",
+    "inference"
+  ]
+}

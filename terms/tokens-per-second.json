@@ -1,0 +1,16 @@
+{
+  "slug": "tokens-per-second",
+  "term": "Tokens per Second",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "A common speed measure for how fast a model generates or processes text.",
+  "definition": "Tokens per second is a common measure of language model speed, counting how many tokens a system generates or processes each second. Reported per request, it tracks how quickly streamed text appears to one user; reported across all requests, it tracks aggregate throughput. The figure depends on model size, hardware memory bandwidth, batch size, and serving optimizations such as continuous batching and speculative decoding.",
+  "example": null,
+  "related": [
+    "throughput",
+    "tpot",
+    "ttft",
+    "latency",
+    "memory-bandwidth"
+  ]
+}

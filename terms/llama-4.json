@@ -1,0 +1,16 @@
+{
+  "slug": "llama-4",
+  "term": "Llama 4",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Meta's fourth-generation open-weight Llama models, built on a mixture-of-experts design.",
+  "definition": "Llama 4 is Meta's fourth-generation open-weight model family, which introduced a mixture-of-experts architecture to the Llama series so that only part of the network activates per token. It adds native multimodal handling of text and images and supports very long context windows. Released in multiple variants, it continues Meta's strategy of providing competitive open-weight models as a foundation for the broader research and developer ecosystem.",
+  "example": null,
+  "related": [
+    "llama",
+    "meta-ai",
+    "moe",
+    "multimodal-model",
+    "open-weights"
+  ]
+}

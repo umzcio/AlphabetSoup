@@ -1,0 +1,15 @@
+{
+  "slug": "system-prompt-leakage",
+  "term": "System Prompt Leakage",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Exposure of the hidden system instructions that are meant to stay private.",
+  "definition": "System prompt leakage is the exposure of the hidden system instructions that configure a model's behavior, persona, or constraints and are meant to stay private. Attackers coax a model into repeating these instructions, which can reveal proprietary prompt designs, internal rules, or clues for bypassing safeguards. It is often pursued through jailbreaks or prompt injection and motivates not relying on a secret system prompt alone for security.",
+  "example": null,
+  "related": [
+    "system-prompt",
+    "prompt-injection",
+    "jailbreak",
+    "prompt-engineering"
+  ]
+}

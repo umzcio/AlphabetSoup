@@ -1,0 +1,16 @@
+{
+  "slug": "openai-codex",
+  "term": "OpenAI Codex",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "OpenAI's brand for its code-focused models and agentic coding tools.",
+  "definition": "OpenAI Codex is OpenAI's name for its code-focused models and the agentic coding tools built on them. The brand has covered both an earlier model trained to translate natural language into code and later products that act as coding agents, working across a repository to read, edit, and run code on a developer's behalf.",
+  "example": null,
+  "related": [
+    "openai",
+    "github-copilot",
+    "claude-code",
+    "swe-bench",
+    "agent"
+  ]
+}

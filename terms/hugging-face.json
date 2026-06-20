@@ -1,0 +1,15 @@
+{
+  "slug": "hugging-face",
+  "term": "Hugging Face",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "The company whose Hub hosts the open-model ecosystem and the Transformers library.",
+  "definition": "Hugging Face is a company whose platform, the Hub, hosts hundreds of thousands of open models, datasets, and demos, acting as the center of the open AI ecosystem — often called the GitHub of machine learning. It maintains widely used free software toolkits — including Transformers, Diffusers, PEFT (tools for cheaply adapting models), and Datasets — and provides hosted tools for running and training models.",
+  "example": null,
+  "related": [
+    "pytorch",
+    "transformer",
+    "meta-ai",
+    "ollama"
+  ]
+}

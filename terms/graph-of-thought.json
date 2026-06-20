@@ -1,0 +1,15 @@
+{
+  "slug": "graph-of-thought",
+  "term": "Graph of Thought",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A reasoning structure where thought paths can branch, merge, and revisit earlier steps.",
+  "definition": "Graph of Thought generalizes tree-based reasoning by letting thought paths branch, merge, and form cycles, modeled as a directed graph. This captures cases where insights from separate branches combine or where an earlier conclusion is revised after a later discovery. The added flexibility can help on complex compositional tasks, though managing and scoring the graph carries more overhead than a tree.",
+  "example": null,
+  "related": [
+    "tree-of-thoughts",
+    "chain-of-thought",
+    "self-consistency",
+    "reasoning-model"
+  ]
+}

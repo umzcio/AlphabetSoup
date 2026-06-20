@@ -1,0 +1,16 @@
+{
+  "slug": "lmql",
+  "term": "LMQL",
+  "acronym": "Language Model Query Language",
+  "category": "Frameworks & Tools",
+  "short": "A query language that treats model prompting as constrained generation with enforced output rules.",
+  "definition": "LMQL is a programming language and tool that treats prompting a language model as constrained decoding — restricting what the model is allowed to produce as it generates. Developers write prompts in Python-like code with rules, such as a required format, a length limit, or a list of allowed answers, and the tool enforces them by blocking any choice that breaks a rule. This yields output with a guaranteed structure, reducing the need to clean up the result afterward.",
+  "example": null,
+  "related": [
+    "constrained-decoding",
+    "structured-output",
+    "outlines",
+    "guidance",
+    "prompt-engineering"
+  ]
+}

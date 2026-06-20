@@ -1,0 +1,16 @@
+{
+  "slug": "devin",
+  "term": "Devin",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Cognition's autonomous coding-agent product that carries out software tasks.",
+  "definition": "Devin is a coding-agent product from the company Cognition, designed to take a software task described in natural language and carry it out with limited supervision. It plans steps, writes and runs code, uses a terminal and browser, and iterates toward a working result. It is positioned as an autonomous software engineering agent rather than an inline coding assistant.",
+  "example": null,
+  "related": [
+    "agent",
+    "agentic-ai",
+    "cursor",
+    "github-copilot",
+    "swe-bench"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "big-bench",
+  "term": "BIG-bench",
+  "acronym": "Beyond the Imitation Game Benchmark",
+  "category": "Evaluation",
+  "short": "A large, collaborative benchmark of hundreds of diverse and difficult tasks.",
+  "definition": "BIG-bench is a collaborative benchmark containing hundreds of diverse tasks contributed by many researchers. It was built to probe capabilities that may appear only at larger model scales and to track progress on problems that remain hard for AI systems. A curated subset, BIG-bench Hard, focuses on the tasks where models still struggle most.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "emergent-abilities",
+    "evaluation",
+    "scaling-laws",
+    "mmlu"
+  ]
+}

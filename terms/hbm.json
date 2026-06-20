@@ -1,0 +1,15 @@
+{
+  "slug": "hbm",
+  "term": "High Bandwidth Memory",
+  "acronym": "High Bandwidth Memory",
+  "category": "Hardware & Systems",
+  "short": "Stacked memory placed close to the processor to feed AI accelerators very quickly.",
+  "definition": "High Bandwidth Memory is a type of computer memory chip that stacks its memory layers vertically and connects them to the processor through a wide, short interface, placing the memory physically close to the chip. This design delivers far more data per second than the ordinary memory used on regular graphics cards, which AI accelerators depend on. Since computation often stalls waiting for the model's numbers to load, the amount and speed of HBM frequently limits how large a model a single chip can train or serve.",
+  "example": null,
+  "related": [
+    "hbm3",
+    "memory-bandwidth",
+    "gpu",
+    "h100"
+  ]
+}

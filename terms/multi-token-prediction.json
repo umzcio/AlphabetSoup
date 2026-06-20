@@ -1,0 +1,16 @@
+{
+  "slug": "multi-token-prediction",
+  "term": "Multi-Token Prediction",
+  "acronym": "MTP",
+  "category": "Inference & Serving",
+  "short": "Predicting several future tokens in one step instead of one at a time.",
+  "definition": "Multi-token prediction trains or modifies a model to output several future tokens (word-pieces) in a single step rather than one at a time. Paired with a checking step, as in speculative decoding, it raises words generated per second while preserving output quality. The extra predictions act as drafts that the model confirms in bulk, which is most useful on long outputs.",
+  "example": null,
+  "related": [
+    "speculative-decoding",
+    "medusa",
+    "eagle",
+    "tokens-per-second",
+    "decode"
+  ]
+}

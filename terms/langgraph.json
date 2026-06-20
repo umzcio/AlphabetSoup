@@ -1,0 +1,16 @@
+{
+  "slug": "langgraph",
+  "term": "LangGraph",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A framework for building AI agents as stateful graphs of nodes and edges.",
+  "definition": "LangGraph is an open-source framework from the LangChain team for writing AI agents as graphs of nodes and edges that share a persistent state. Unlike simple linear chains, it supports cycles, so an agent can retry, reflect, and branch, along with persistence and human-in-the-loop checkpoints. This structure suits reliable production agents and long-running, multi-agent workflows.",
+  "example": null,
+  "related": [
+    "langchain",
+    "agent",
+    "agentic-loop",
+    "multi-agent-system",
+    "human-in-the-loop"
+  ]
+}

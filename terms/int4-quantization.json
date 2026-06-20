@@ -1,0 +1,15 @@
+{
+  "slug": "int4-quantization",
+  "term": "INT4 Quantization",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Compressing model weights to 4-bit integers for the largest memory and bandwidth savings.",
+  "definition": "INT4 quantization stores model weights, and sometimes activations (the intermediate numbers the model computes as it runs), as 4-bit integers instead of more detailed number formats. Among common quantization schemes it offers the greatest reduction in memory and bandwidth, which can let very large models run on consumer or edge hardware. The tradeoff is potential loss of accuracy, so it is paired with calibration and recovery techniques, and hardware support for 4-bit math has steadily improved.",
+  "example": null,
+  "related": [
+    "quantization",
+    "int8",
+    "awq",
+    "gptq"
+  ]
+}

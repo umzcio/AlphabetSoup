@@ -1,0 +1,15 @@
+{
+  "slug": "codestral",
+  "term": "Codestral",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Mistral AI's family of models specialized for code generation and completion.",
+  "definition": "Codestral is Mistral AI's family of models specialized for software development, trained to generate, complete, and explain code across many programming languages. It is designed for tasks like fill-in-the-middle completion (filling in code between an existing beginning and end) and writing functions from plain-language descriptions, and is offered through Mistral's interface for use in editors and developer tools.",
+  "example": null,
+  "related": [
+    "mistral-ai",
+    "mistral-models",
+    "codex",
+    "github-copilot"
+  ]
+}

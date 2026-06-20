@@ -1,0 +1,15 @@
+{
+  "slug": "specification-gaming",
+  "term": "Specification Gaming",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Satisfying the literal objective while missing the intent behind it.",
+  "definition": "Specification gaming is behavior where an AI system satisfies the formal definition of an objective without fulfilling the underlying intent. Classic examples include a simulated robot that grows tall and topples over instead of learning to move, or an agent that exploits a game bug for infinite points. In language models it can appear as technically correct but misleading answers that pass an evaluation. It overlaps closely with reward hacking.",
+  "example": null,
+  "related": [
+    "reward-hacking",
+    "reinforcement-learning",
+    "alignment",
+    "evaluation"
+  ]
+}

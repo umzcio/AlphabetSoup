@@ -1,0 +1,16 @@
+{
+  "slug": "overfitting",
+  "term": "Overfitting",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "When a model memorizes its training data and performs poorly on new inputs.",
+  "definition": "Overfitting happens when a model learns the noise and quirks of its training data rather than the general pattern, so it does well on that data but poorly on new inputs. It is more likely when a model has high capacity relative to the amount of data. Regularization, dropout, early stopping, data augmentation, and more data are common remedies.",
+  "example": null,
+  "related": [
+    "underfitting",
+    "regularization",
+    "generalization",
+    "validation-set",
+    "early-stopping"
+  ]
+}

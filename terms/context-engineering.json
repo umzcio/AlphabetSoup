@@ -1,0 +1,15 @@
+{
+  "slug": "context-engineering",
+  "term": "Context Engineering",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Curating exactly what goes into a model's context and how to compact it.",
+  "definition": "Context engineering is the practice of deciding exactly what goes into a model's context — instructions, retrieved documents, tool results, and conversation history — and how to compact it as a task grows. It treats the context window as a budget to be managed rather than filled. For longer-running agents, handling context well becomes as important as the wording of the prompt itself.",
+  "example": null,
+  "related": [
+    "context-window",
+    "prompt-engineering",
+    "long-context-compression",
+    "context-stuffing"
+  ]
+}

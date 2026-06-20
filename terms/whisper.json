@@ -1,0 +1,16 @@
+{
+  "slug": "whisper",
+  "term": "Whisper",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's openly downloadable family of models that turn speech into text and translate it.",
+  "definition": "Whisper is OpenAI's family of speech recognition models, released openly for anyone to download and trained on a very large set of audio in many languages and tasks. It reliably turns spoken words into written text and translates speech across many languages, accents, and noisy conditions. Available in several sizes, it is widely used for captioning, meeting transcription, voice interfaces, and as a building block in systems that combine audio with text.",
+  "example": null,
+  "related": [
+    "openai",
+    "asr",
+    "speech-to-text",
+    "encoder-decoder",
+    "open-weights"
+  ]
+}

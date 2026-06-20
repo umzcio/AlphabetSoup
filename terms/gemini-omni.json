@@ -1,0 +1,16 @@
+{
+  "slug": "gemini-omni",
+  "term": "Gemini Omni",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A high-end Gemini model built to reason across text, code, audio, images, and video.",
+  "definition": "Gemini Omni is a high-end model in Google DeepMind's Gemini family, built to reason across text, code, audio, images, and video in a single system. It is designed for very long context windows that enable repository-scale code analysis and deep video understanding, and supports media generation. It targets demanding multimodal and agentic uses within Google's products.",
+  "example": null,
+  "related": [
+    "gemini",
+    "google-deepmind",
+    "gemini-ultra",
+    "multimodal-model",
+    "omni-model"
+  ]
+}

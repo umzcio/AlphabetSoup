@@ -1,0 +1,16 @@
+{
+  "slug": "rdma",
+  "term": "Remote Direct Memory Access",
+  "acronym": "RDMA",
+  "category": "Hardware & Systems",
+  "short": "A way for one machine to read or write another's memory over the network without involving its CPU.",
+  "definition": "Remote Direct Memory Access (RDMA) lets one computer read or write the memory of another over a network without involving either machine's CPU or operating system kernel. By moving data through dedicated hardware paths, it achieves very low latency and high bandwidth with little CPU overhead. In AI clusters, RDMA over InfiniBand or Converged Ethernet (RoCE) moves gradients and parameters between GPU nodes, easing the communication bottleneck in distributed training.",
+  "example": null,
+  "related": [
+    "infiniband",
+    "interconnect",
+    "distributed-training",
+    "all-reduce",
+    "network-topology"
+  ]
+}

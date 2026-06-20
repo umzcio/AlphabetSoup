@@ -1,0 +1,16 @@
+{
+  "slug": "benchmark",
+  "term": "Benchmark",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A fixed dataset, task, and scoring method used to measure and compare model performance.",
+  "definition": "A benchmark is a curated dataset paired with a task definition and a scoring protocol, used to measure how well models perform and to compare systems reproducibly. Benchmarks span reasoning, coding, language understanding, and safety, and they drive progress by setting concrete targets. They can be gamed or become saturated as models catch up, which prompts harder successor benchmarks.",
+  "example": null,
+  "related": [
+    "evaluation",
+    "leaderboard",
+    "benchmark-contamination",
+    "mmlu",
+    "ground-truth"
+  ]
+}

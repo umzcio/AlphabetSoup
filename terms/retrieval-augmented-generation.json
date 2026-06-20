@@ -1,0 +1,16 @@
+{
+  "slug": "retrieval-augmented-generation",
+  "term": "Retrieval-Augmented Generation",
+  "acronym": "RAG",
+  "category": "Patterns",
+  "short": "Pairing a retriever with a generator so answers draw on fetched documents, not just weights.",
+  "definition": "Retrieval-Augmented Generation combines a search step, typically a vector database (a store that finds text by meaning rather than exact words), with a text-generating model. Matching passages are inserted into the model's prompt so it can reason over and cite up-to-date or specialized information it did not learn during training. This reduces hallucination (confident but made-up answers), lets knowledge be updated without retraining, and provides traceability through source citations.",
+  "example": null,
+  "related": [
+    "rag",
+    "embedding",
+    "vector-database",
+    "semantic-search",
+    "context-window"
+  ]
+}

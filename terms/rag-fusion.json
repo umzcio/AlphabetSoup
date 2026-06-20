@@ -1,0 +1,16 @@
+{
+  "slug": "rag-fusion",
+  "term": "RAG Fusion",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Generating several query variations, retrieving for each, then merging the ranked results.",
+  "definition": "RAG Fusion improves retrieval-augmented generation (looking up relevant documents and feeding them to the model) by handling poorly phrased queries. A model rewrites the user's question into several related search variations, runs them at the same time, and combines the separate result lists using reciprocal rank fusion, which rewards documents that score well across multiple queries. The top-ranked passages are then passed to the generation prompt, broadening coverage beyond a single literal search.",
+  "example": null,
+  "related": [
+    "rag",
+    "reranking",
+    "semantic-search",
+    "retrieval-augmented-generation",
+    "embedding"
+  ]
+}

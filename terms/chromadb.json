@@ -1,0 +1,16 @@
+{
+  "slug": "chromadb",
+  "term": "ChromaDB",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source, developer-friendly vector database for storing and searching embeddings.",
+  "definition": "ChromaDB is an open-source vector database designed to be easy for developers to set up and use. It stores embeddings alongside their source text and metadata, then retrieves the most similar entries to a query vector. Its lightweight, embeddable design makes it a common starting point for retrieval-augmented generation and semantic search in prototypes and small applications.",
+  "example": null,
+  "related": [
+    "vector-database",
+    "embedding",
+    "semantic-search",
+    "rag",
+    "faiss"
+  ]
+}

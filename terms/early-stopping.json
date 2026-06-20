@@ -1,0 +1,15 @@
+{
+  "slug": "early-stopping",
+  "term": "Early Stopping",
+  "acronym": null,
+  "category": "Training",
+  "short": "Halting training once validation performance stops improving to avoid overfitting.",
+  "definition": "Early stopping ends a training run once performance on a held-out validation set stops improving, rather than continuing for a fixed number of steps. It guards against overfitting, where the model keeps lowering training loss while generalizing worse to new data. The point of best validation performance is usually kept as the final model.",
+  "example": null,
+  "related": [
+    "overfitting",
+    "validation-set",
+    "regularization",
+    "generalization"
+  ]
+}

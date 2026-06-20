@@ -1,0 +1,16 @@
+{
+  "slug": "weave",
+  "term": "Weave",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Weights and Biases toolkit for tracing and evaluating LLM applications.",
+  "definition": "Weave is an open-source toolkit from Weights and Biases aimed at language model application development. It automatically traces LLM calls, retrieval steps, and tool invocations within a pipeline, storing the inputs and outputs of each step. It also provides evaluation primitives for scoring model behavior on datasets, focusing on the application layer rather than raw training metrics.",
+  "example": null,
+  "related": [
+    "weights-and-biases",
+    "evaluation",
+    "llm-as-judge",
+    "rag",
+    "agent"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "swe-bench",
+  "term": "SWE-bench",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A benchmark that tests coding agents on real GitHub issues from open repositories.",
+  "definition": "SWE-bench evaluates coding agents on real software tasks drawn from GitHub issues in open-source repositories. For each task the model is given the codebase and an issue, and must produce a patch that resolves it and passes the project's existing tests. Because it requires reading and editing across many files, it has become a standard test of agentic coding, though scores depend heavily on the surrounding scaffolding.",
+  "example": null,
+  "related": [
+    "pass-at-k",
+    "agent",
+    "evaluation",
+    "benchmark",
+    "scaffolding"
+  ]
+}

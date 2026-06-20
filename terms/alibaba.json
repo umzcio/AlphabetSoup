@@ -1,0 +1,15 @@
+{
+  "slug": "alibaba",
+  "term": "Alibaba",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A Chinese tech company whose Tongyi Lab builds the freely downloadable Qwen model family.",
+  "definition": "Alibaba is a Chinese multinational technology company known for e-commerce, digital payments, and cloud computing through Alibaba Cloud. Its AI research, conducted in Tongyi Lab, produces the Qwen family of open-weight (freely downloadable) language and multimodal models that handle text plus images or other media. They come in a range of sizes and support both step-by-step reasoning and standard modes. Alibaba Cloud provides hosting and runs the models for the broader AI ecosystem.",
+  "example": null,
+  "related": [
+    "qwen",
+    "alibaba-cloud",
+    "moe",
+    "open-weights"
+  ]
+}

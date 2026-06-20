@@ -1,0 +1,16 @@
+{
+  "slug": "microsoft-agent-framework",
+  "term": "Microsoft Agent Framework",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Microsoft's framework for building and running production-grade agent systems.",
+  "definition": "Microsoft Agent Framework is Microsoft's framework for building production agent systems — applications where language models plan, call tools, and carry out multi-step tasks. It provides orchestration, tool integration, and the plumbing needed to run agents reliably at scale. It consolidates patterns Microsoft developed across earlier agent tooling into a single supported foundation for enterprise use.",
+  "example": null,
+  "related": [
+    "agent",
+    "semantic-kernel",
+    "autogen",
+    "multi-agent-system",
+    "tool-calling"
+  ]
+}

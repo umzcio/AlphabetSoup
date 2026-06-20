@@ -1,0 +1,15 @@
+{
+  "slug": "zero-redundancy-optimizer",
+  "term": "ZeRO",
+  "acronym": "Zero Redundancy Optimizer",
+  "category": "Training",
+  "short": "A memory-saving method that spreads training data across GPUs to fit bigger models.",
+  "definition": "ZeRO, short for Zero Redundancy Optimizer, is a set of memory-saving techniques from Microsoft's DeepSpeed that avoid keeping duplicate copies of a model's weights and related training data on every graphics card. By spreading them across the cluster, it makes training much larger models possible.",
+  "example": null,
+  "related": [
+    "deepspeed",
+    "data-parallelism",
+    "distributed-training",
+    "sharding"
+  ]
+}

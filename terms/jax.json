@@ -1,0 +1,16 @@
+{
+  "slug": "jax",
+  "term": "JAX",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Google library for fast number-crunching that auto-computes gradients and compiles code for speed.",
+  "definition": "JAX is a Google library for high-performance numerical computing that pairs NumPy-style array math with automatic differentiation (computing the gradients, or rates of change, that training needs) and XLA, a compiler that turns the code into fast machine instructions. Built-in transforms let the same function run in parallel or spread training across many GPUs and TPUs (specialized AI chips). Its style favors large-scale training and it underlies several frontier model stacks.",
+  "example": null,
+  "related": [
+    "pytorch",
+    "tensorflow",
+    "google-deepmind",
+    "gpu",
+    "xla"
+  ]
+}

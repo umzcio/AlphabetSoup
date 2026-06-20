@@ -1,0 +1,16 @@
+{
+  "slug": "transfer-learning",
+  "term": "Transfer Learning",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Reusing knowledge a model gained on one task to learn a related task faster.",
+  "definition": "Transfer learning takes knowledge a model gained on one task or dataset and applies it to a new, related problem, usually by fine-tuning. Starting from a pretrained model rather than from scratch sharply reduces the data and compute a new task needs. It is the standard way to adapt foundation models and is why small teams can build capable applications.",
+  "example": null,
+  "related": [
+    "fine-tuning",
+    "foundation-model",
+    "pretraining",
+    "domain-adaptation",
+    "continued-pretraining"
+  ]
+}

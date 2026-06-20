@@ -1,0 +1,15 @@
+{
+  "slug": "harmlessness",
+  "term": "Harmlessness",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An alignment goal of avoiding outputs likely to cause harm.",
+  "definition": "Harmlessness is an alignment objective requiring that a model avoid outputs likely to cause harm, such as instructions for weapons, support for self-harm, or offensive and deceptive content. It is one of the three goals in the helpful, harmless, honest framework. Balancing harmlessness against helpfulness is a core tension, since overly cautious training can lead to unnecessary refusals.",
+  "example": null,
+  "related": [
+    "helpfulness",
+    "honesty",
+    "refusal",
+    "constitutional-ai"
+  ]
+}

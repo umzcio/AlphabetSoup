@@ -1,0 +1,15 @@
+{
+  "slug": "openai",
+  "term": "OpenAI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "The US lab behind the GPT models and ChatGPT, closely partnered with Microsoft.",
+  "definition": "OpenAI is a US AI research and deployment company founded in 2015 that builds the GPT family of large language models, the o-series reasoning models, and image and video systems, and runs the ChatGPT product and a developer API (a way for other software to call its models). It operates under a capped-profit structure with a deep partnership with Microsoft. Its corporate structure and partnerships evolve quickly and are worth verifying before publishing.",
+  "example": null,
+  "related": [
+    "chatgpt",
+    "microsoft",
+    "anthropic",
+    "google-deepmind"
+  ]
+}

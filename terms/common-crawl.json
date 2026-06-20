@@ -1,0 +1,16 @@
+{
+  "slug": "common-crawl",
+  "term": "Common Crawl",
+  "acronym": "CC",
+  "category": "Data",
+  "short": "A nonprofit that publishes a large public archive of web pages used to pretrain models.",
+  "definition": "Common Crawl is a nonprofit that maintains a freely available, petabyte-scale archive of web pages, metadata, and extracted text gathered through regular internet crawls. It is the foundational raw source behind most large-scale language model pretraining datasets, including C4 and The Pile. Practitioners apply heavy filtering, deduplication, and language identification on top of its raw dumps to produce usable corpora.",
+  "example": null,
+  "related": [
+    "crawl",
+    "c4",
+    "the-pile",
+    "pretraining-corpus",
+    "data-filtering"
+  ]
+}

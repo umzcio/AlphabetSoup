@@ -1,0 +1,15 @@
+{
+  "slug": "fp32",
+  "term": "FP32",
+  "acronym": "32-bit floating point",
+  "category": "Hardware & Systems",
+  "short": "The full-precision 32-bit number format used as the accuracy baseline.",
+  "definition": "FP32, or 32-bit floating point, is the standard full-precision way computers store decimal numbers. In AI it serves as the accuracy baseline: models are often compared in FP32, then compressed to smaller formats like FP16 or FP8 to save memory and run faster, trading a little accuracy for speed.",
+  "example": null,
+  "related": [
+    "fp16",
+    "fp8",
+    "quantization",
+    "low-precision-inference"
+  ]
+}

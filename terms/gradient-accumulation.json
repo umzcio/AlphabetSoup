@@ -1,0 +1,16 @@
+{
+  "slug": "gradient-accumulation",
+  "term": "Gradient Accumulation",
+  "acronym": null,
+  "category": "Training",
+  "short": "Adding up the adjustments from several small batches before applying one update to the model.",
+  "definition": "Gradient accumulation adds up the suggested adjustments from several small batches of data before applying a single update to the model, imitating a larger batch than fits in memory at once. This lets limited hardware gain the stability benefits of large batches without holding all the data at the same time. It trades a few extra passes through the data for lower peak memory use.",
+  "example": null,
+  "related": [
+    "batch-size",
+    "gradient-descent",
+    "optimizer",
+    "microbatching",
+    "training-step"
+  ]
+}

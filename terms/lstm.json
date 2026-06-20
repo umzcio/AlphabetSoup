@@ -1,0 +1,16 @@
+{
+  "slug": "lstm",
+  "term": "Long Short-Term Memory",
+  "acronym": "LSTM",
+  "category": "Architectures",
+  "short": "A recurrent network with gates that carry information across many steps, easing vanishing gradients.",
+  "definition": "Long Short-Term Memory is a recurrent neural network cell with three gates (input, forget, and output) that control what enters, is retained in, and leaves a long-term cell state. This gating eases the vanishing gradient problem (where plain recurrent networks, or RNNs, lose track of early inputs during training) and lets the cell carry information across many steps. LSTMs were the workhorse for machine translation, speech recognition, and time-series tasks before Transformers became dominant.",
+  "example": null,
+  "related": [
+    "gru",
+    "rnn",
+    "transformer",
+    "neural-network",
+    "backpropagation"
+  ]
+}

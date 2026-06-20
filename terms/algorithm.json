@@ -1,0 +1,15 @@
+{
+  "slug": "algorithm",
+  "term": "Algorithm",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A finite, well-defined sequence of steps that solves a problem or performs a computation.",
+  "definition": "An algorithm is a finite, well-defined sequence of instructions that, when executed, solves a specific problem or carries out a computation. Algorithms are the foundation of all software, including AI systems. In machine learning, both training and inference are themselves algorithms operating on data and model parameters.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "gradient-descent",
+    "inference",
+    "parameter"
+  ]
+}

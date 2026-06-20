@@ -1,0 +1,16 @@
+{
+  "slug": "pairwise-comparison",
+  "term": "Pairwise Comparison",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Judging outputs by directly comparing two candidates and picking the better one.",
+  "definition": "Pairwise comparison evaluates outputs by showing two candidate responses to the same prompt and asking a judge — human or model — which is better. Comparing relative quality is often easier and more reliable than assigning an absolute score to each response alone. Aggregating many such comparisons yields metrics like win rate and Elo-style ratings used in preference data and leaderboards.",
+  "example": null,
+  "related": [
+    "win-rate",
+    "elo-rating",
+    "llm-as-judge",
+    "preference-data",
+    "evaluation"
+  ]
+}

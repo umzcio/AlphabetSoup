@@ -1,0 +1,15 @@
+{
+  "slug": "scalable-oversight",
+  "term": "Scalable Oversight",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Supervision methods that keep working as AI systems grow more capable than their reviewers.",
+  "definition": "Scalable oversight is the problem of supervising and evaluating AI systems whose outputs become too complex or capable for unaided humans to check directly. Proposed approaches use AI assistance to help humans review work, such as having models debate, critique, or decompose a task into verifiable parts. It is closely tied to superalignment and to keeping training signals reliable as models improve.",
+  "example": null,
+  "related": [
+    "superalignment",
+    "alignment",
+    "debate",
+    "human-feedback"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "mistral-ai",
+  "term": "Mistral AI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A French company known for efficient open-weight models and the Le Chat assistant.",
+  "definition": "Mistral AI is a French AI company founded in 2023 by former Google DeepMind and Meta researchers, positioned as a European champion. It is known for efficient open-weight models — including the compact Mistral 7B and Mixtral, which splits work among specialized sub-networks — alongside paid flagship models offered through an API (a way for software to call the model) and the Le Chat assistant. Funding figures move fast and should be verified before publishing.",
+  "example": null,
+  "related": [
+    "moe",
+    "ollama",
+    "meta-ai",
+    "hugging-face"
+  ]
+}

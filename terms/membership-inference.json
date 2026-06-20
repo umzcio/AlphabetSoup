@@ -1,0 +1,15 @@
+{
+  "slug": "membership-inference",
+  "term": "Membership Inference",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Inferring whether a specific example was part of a model's training data.",
+  "definition": "Membership inference is a privacy attack that tries to determine whether a particular example was included in a model's training data, often by exploiting differences in how confidently the model treats seen versus unseen inputs. It can reveal sensitive information about individuals in a dataset. Defenses include differential privacy and limiting overfitting so the model does not memorize specific records.",
+  "example": null,
+  "related": [
+    "privacy-attack",
+    "model-inversion",
+    "differential-privacy",
+    "training-data"
+  ]
+}

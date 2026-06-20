@@ -1,0 +1,15 @@
+{
+  "slug": "image-to-text",
+  "term": "Image to Text",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Producing text from an image, such as a caption or extracted content.",
+  "definition": "Image to text is the task of producing text from an image, covering captioning, answering questions about a picture, and reading text out of it. An image reader picks out what is in the picture and a language model turns that into words. It is a core capability of models that combine vision and language, and a building block for document and accessibility applications.",
+  "example": null,
+  "related": [
+    "image-captioning",
+    "ocr",
+    "vision-language-model",
+    "visual-question-answering"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "structured-pruning",
+  "term": "Structured Pruning",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Removing whole heads, neurons, or layers so the model stays dense and fast.",
+  "definition": "Structured pruning removes coherent groups of parameters — whole attention heads, feedforward neurons, embedding dimensions, or entire layers. Because the result stays dense, it runs on standard matrix-multiplication hardware without needing sparse kernels. It usually reaches less extreme sparsity than unstructured pruning for the same accuracy, but it delivers more reliable real-world speedups, making it attractive for deployment.",
+  "example": null,
+  "related": [
+    "pruning",
+    "unstructured-pruning",
+    "sparsity",
+    "model-compression",
+    "quantization"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "reranking",
+  "term": "Reranking",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Reordering retrieved candidates with a stronger model to surface the most relevant first.",
+  "definition": "Reranking takes an initial set of retrieved candidates and reorders them with a stronger, slower model so the most relevant items rise to the top. It is a common second stage in retrieval pipelines: a fast search returns many candidates, and the reranker scores each against the query more carefully. This improves the quality of the context fed to a model without scoring every document in the whole collection.",
+  "example": null,
+  "related": [
+    "semantic-search",
+    "rag",
+    "embedding",
+    "retrieval-model"
+  ]
+}

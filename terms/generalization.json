@@ -1,0 +1,15 @@
+{
+  "slug": "generalization",
+  "term": "Generalization",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "How well a model applies what it learned to fresh, unseen inputs.",
+  "definition": "Generalization is how well a model applies what it learned to fresh, unseen inputs rather than just the examples it trained on. Strong generalization is the real goal of machine learning, since a model that only memorizes its training data is of little use. It is the opposite failure mode from overfitting, and it is measured on held-out data the model did not train on.",
+  "example": null,
+  "related": [
+    "overfitting",
+    "underfitting",
+    "validation-set",
+    "machine-learning"
+  ]
+}

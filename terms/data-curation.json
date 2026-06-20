@@ -1,0 +1,14 @@
+{
+  "slug": "data-curation",
+  "term": "Data Curation",
+  "acronym": null,
+  "category": "Data",
+  "short": "Choosing, filtering, cleaning, and balancing training data to raise its quality.",
+  "definition": "Data curation is the work of choosing, filtering, cleaning, and balancing training data to raise its quality. It includes removing low-quality, duplicated, toxic, or private content and balancing domains and languages. Careful curation — not just adding raw volume — is now seen as one of the most powerful levers for improving a model's performance and safety.",
+  "example": null,
+  "related": [
+    "pretraining-corpus",
+    "synthetic-data",
+    "pretraining"
+  ]
+}

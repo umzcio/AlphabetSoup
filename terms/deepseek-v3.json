@@ -1,0 +1,16 @@
+{
+  "slug": "deepseek-v3",
+  "term": "DeepSeek V3",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "DeepSeek's downloadable model that activates only part of its huge network per request.",
+  "definition": "DeepSeek V3 is a large, downloadable language model from DeepSeek built as a mixture of experts: it has a huge number of internal settings, but only a small fraction switch on to handle any given request, which saves computation. It uses a memory-saving form of attention and was trained using low-precision math on a reportedly modest budget, reaching performance close to leading models of its time. It is the base the DeepSeek-R1 reasoning model was built from.",
+  "example": null,
+  "related": [
+    "deepseek",
+    "deepseek-r1",
+    "moe",
+    "fp8",
+    "open-weights"
+  ]
+}

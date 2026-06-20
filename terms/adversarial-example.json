@@ -1,0 +1,15 @@
+{
+  "slug": "adversarial-example",
+  "term": "Adversarial Example",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An input crafted to make a model produce a wrong or unintended output.",
+  "definition": "An adversarial example is an input deliberately constructed to cause a model to make a mistake, often through small perturbations that are imperceptible to humans but change the prediction. They expose brittleness in how models generalize and are studied to measure and improve robustness. The concept extends from image classifiers to language models, where crafted prompts can trigger unwanted responses.",
+  "example": null,
+  "related": [
+    "adversarial-prompt",
+    "red-teaming",
+    "jailbreak",
+    "generalization"
+  ]
+}

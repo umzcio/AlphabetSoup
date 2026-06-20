@@ -1,0 +1,16 @@
+{
+  "slug": "mixture-of-depths",
+  "term": "Mixture of Depths",
+  "acronym": "MoD",
+  "category": "Architectures",
+  "short": "A technique where a router lets some tokens skip a Transformer layer to save computation.",
+  "definition": "Mixture of Depths is a conditional computation technique in which a router decides, per token, whether to process it through a given Transformer layer or bypass it via a residual shortcut. Tokens carrying complex information use the full layer, while simpler tokens skip it. This lowers the average compute per forward pass without reducing capacity for hard tokens. It can be combined with mixture-of-experts layers to build highly efficient sparse models.",
+  "example": null,
+  "related": [
+    "moe",
+    "transformer",
+    "router-pattern",
+    "sparsity",
+    "flops"
+  ]
+}

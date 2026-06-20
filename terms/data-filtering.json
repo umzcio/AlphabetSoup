@@ -1,0 +1,16 @@
+{
+  "slug": "data-filtering",
+  "term": "Data Filtering",
+  "acronym": null,
+  "category": "Data",
+  "short": "Screening data by quality, safety, or relevance rules to decide what to keep for training.",
+  "definition": "Data filtering screens a dataset against quality, safety, or relevance rules to decide which examples to keep or discard. Filters might remove low-quality or boilerplate web pages, toxic or unsafe content, off-topic documents, or text in unwanted languages. It is a central step in turning raw web crawls into usable pretraining corpora, since careful filtering improves model quality and reduces unwanted behavior.",
+  "example": null,
+  "related": [
+    "data-cleaning",
+    "deduplication",
+    "data-curation",
+    "common-crawl",
+    "pretraining-corpus"
+  ]
+}

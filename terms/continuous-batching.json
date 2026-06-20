@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Inference & Serving",
   "short": "Adding and removing requests from a GPU batch every step instead of waiting.",
-  "definition": "Continuous (or iteration-level) batching is a scheduling strategy where the server can admit new requests and evict finished ones at every forward pass, rather than running a fixed static batch to completion. This keeps the GPU saturated even when prompts and outputs have wildly different lengths, dramatically improving throughput. It is on by default in vLLM and SGLang.",
+  "definition": "Continuous (also called iteration-level) batching is a scheduling strategy where the server can admit new requests and drop finished ones at every processing step, rather than running one fixed group of requests to completion. This keeps the GPU (the chip that runs the model) busy even when prompts and outputs have wildly different lengths, dramatically improving throughput (total work done per second). It is on by default in vLLM and SGLang.",
   "example": null,
   "related": [
     "vllm",

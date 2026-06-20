@@ -1,0 +1,16 @@
+{
+  "slug": "self-consistency",
+  "term": "Self-Consistency",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Sampling several reasoning paths and taking a majority vote over their final answers.",
+  "definition": "Self-consistency has the model work through the same question several times, each time showing its step-by-step reasoning, then takes a majority vote over the final answers. Because each attempt makes different mistakes, the most common answer tends to be more reliable than any single one. It needs no extra training and improves accuracy on arithmetic, commonsense, and logic problems, at the cost of running the model several times instead of once.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "reasoning-model",
+    "temperature",
+    "test-time-compute",
+    "sampling"
+  ]
+}

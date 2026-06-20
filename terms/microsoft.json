@@ -1,0 +1,14 @@
+{
+  "slug": "microsoft",
+  "term": "Microsoft",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A major tech company, key OpenAI partner, Azure AI host, and maker of Copilot and Phi.",
+  "definition": "Microsoft is a global technology company and a central player in AI as OpenAI's key partner and investor. It hosts models on its Azure cloud, ships Copilot assistants across Windows, Office, and GitHub, and develops its own small Phi models. Through Azure it is one of the primary clouds for AI training and inference.",
+  "example": null,
+  "related": [
+    "openai",
+    "chatgpt",
+    "nvidia"
+  ]
+}

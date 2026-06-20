@@ -1,0 +1,16 @@
+{
+  "slug": "win-rate",
+  "term": "Win Rate",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "The share of head-to-head comparisons that one model's outputs win.",
+  "definition": "Win rate is the share of head-to-head comparisons in which one model's outputs are preferred over another's, as judged by humans or a strong model. It summarizes relative quality from many pairwise comparisons and is a primary metric in preference-based evaluations and modern leaderboards. A higher win rate means judges chose that model more often, though results depend on the prompts and judges used.",
+  "example": null,
+  "related": [
+    "pairwise-comparison",
+    "llm-as-judge",
+    "elo-rating",
+    "leaderboard",
+    "evaluation"
+  ]
+}

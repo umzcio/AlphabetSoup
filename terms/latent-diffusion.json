@@ -1,0 +1,15 @@
+{
+  "slug": "latent-diffusion",
+  "term": "Latent Diffusion",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Running the image-building process on a compact summary of the image to cut computing cost.",
+  "definition": "Latent diffusion builds images from random noise while working on a compact numeric summary of the picture, learned by a small companion network, rather than on every pixel—which sharply reduces computing cost. A cleanup network gradually removes noise from this summary, guided by text or other input, and a decoder then expands the finished summary back into a full image. Stable Diffusion is the most widely adopted example.",
+  "example": null,
+  "related": [
+    "diffusion-model",
+    "stable-diffusion",
+    "vae",
+    "latent-space"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "rlvr",
+  "term": "Reinforcement Learning from Verifiable Rewards",
+  "acronym": "RLVR",
+  "category": "Training",
+  "short": "Training on tasks where correctness can be checked automatically by a program.",
+  "definition": "Reinforcement learning from verifiable rewards trains models on tasks where correctness can be checked by a program, such as passing unit tests or matching a math answer. The automatic reward avoids the noise of human labels and provides a clean training signal. It has been central to recent gains in reasoning models.",
+  "example": null,
+  "related": [
+    "reinforcement-learning",
+    "reasoning-model",
+    "rlhf",
+    "reward-model",
+    "grpo"
+  ]
+}

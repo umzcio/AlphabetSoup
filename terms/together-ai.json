@@ -1,0 +1,15 @@
+{
+  "slug": "together-ai",
+  "term": "Together AI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A cloud platform for running open-weight models via API with optimized inference.",
+  "definition": "Together AI is an AI infrastructure and research company, founded in 2022, that runs a cloud platform for serving open-weight models through an API (a way for other software to call a model). It supports models such as Llama, Mistral, and Qwen, tuned to answer many requests quickly and cheaply. It also publishes research, offering developers access to open models without running their own AI chips.",
+  "example": null,
+  "related": [
+    "open-weights",
+    "inference",
+    "llama",
+    "openrouter"
+  ]
+}

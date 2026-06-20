@@ -1,0 +1,14 @@
+{
+  "slug": "json-mode",
+  "term": "JSON Mode",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A setting that makes a model return syntactically valid JSON.",
+  "definition": "JSON mode is a request setting offered by many model services that forces the output into valid JSON (a standard text format that programs can read directly). It guarantees parseable structure but does not, on its own, enforce a particular schema or field set — that requires structured outputs or a supplied schema. JSON mode makes responses easier to consume in code, since downstream programs can parse them directly instead of scraping free-form text.",
+  "example": null,
+  "related": [
+    "structured-output",
+    "output-format",
+    "constrained-decoding"
+  ]
+}

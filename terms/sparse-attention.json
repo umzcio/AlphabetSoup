@@ -1,0 +1,16 @@
+{
+  "slug": "sparse-attention",
+  "term": "Sparse Attention",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "Computing attention over a chosen subset of token pairs instead of all of them.",
+  "definition": "Sparse Attention lowers the cost of full attention by computing scores for only a structured subset of token pairs rather than every pair. Patterns include local windows, a few global tokens, strided connections, and learned dynamic choices, reducing the quadratic cost toward near-linear. Architectures like Longformer and BigBird use these patterns, which is one family of techniques for extending models to very long contexts.",
+  "example": null,
+  "related": [
+    "attention",
+    "sliding-window-attention",
+    "flash-attention",
+    "context-window",
+    "transformer"
+  ]
+}

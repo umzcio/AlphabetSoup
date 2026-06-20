@@ -1,0 +1,16 @@
+{
+  "slug": "learning-rate-scheduler",
+  "term": "Learning Rate Scheduler",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "A policy that changes the learning rate over the course of training.",
+  "definition": "A learning rate scheduler adjusts the learning rate as training proceeds, following a predefined or adaptive policy. Common patterns include a linear warmup followed by cosine decay, step decay, or polynomial decay. Proper scheduling — especially warmup paired with decay — is important for stable training of large transformers, helping to prevent early divergence and poor final performance.",
+  "example": null,
+  "related": [
+    "learning-rate-schedule",
+    "cosine-schedule",
+    "warmup",
+    "learning-rate",
+    "optimizer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "loss-function",
+  "term": "Loss Function",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A single number measuring how far a model's output is from the desired output.",
+  "definition": "A loss function reduces the gap between a model's predictions and the desired targets to a single number, and training works by minimizing it. The choice of loss shapes what the model learns: cross-entropy is standard for classification and language modeling, while mean squared error is common for regression. Optimizers adjust parameters to lower the average loss across the data.",
+  "example": null,
+  "related": [
+    "objective-function",
+    "cross-entropy",
+    "gradient-descent",
+    "backpropagation",
+    "optimizer"
+  ]
+}

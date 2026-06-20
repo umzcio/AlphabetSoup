@@ -1,0 +1,15 @@
+{
+  "slug": "human-on-the-loop",
+  "term": "Human on the Loop",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A person supervising a mostly autonomous system, ready to step in when needed.",
+  "definition": "Human on the loop describes a setup where a system runs mostly autonomously while a person monitors it and can intervene, pause, or override when something looks wrong. Unlike human-in-the-loop designs, the person does not approve each action but watches the overall behavior. It suits systems that must act quickly or at scale yet still need human oversight as a safety net.",
+  "example": null,
+  "related": [
+    "human-in-the-loop",
+    "human-approval-gate",
+    "guardrails",
+    "agent"
+  ]
+}

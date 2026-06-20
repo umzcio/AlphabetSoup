@@ -1,0 +1,16 @@
+{
+  "slug": "suffix-decoding",
+  "term": "Suffix Decoding",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "A model-free speculative method that copies continuations from matching earlier text.",
+  "definition": "Suffix decoding is a lightweight technique that needs no extra model: it looks for places where the ending of the text being written matches text seen earlier in the prompt or output. When it finds a match, the system copies or extends that continuation as a guess instead of running the full model, then checks the guess. It is especially effective for repetitive or structured generation such as code, data formats like JSON, or repeated tool-using loops.",
+  "example": null,
+  "related": [
+    "speculative-decoding",
+    "ngram-matching",
+    "prefix-caching",
+    "tokens-per-second",
+    "structured-output"
+  ]
+}

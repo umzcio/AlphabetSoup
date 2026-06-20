@@ -1,0 +1,15 @@
+{
+  "slug": "pretraining",
+  "term": "Pretraining",
+  "acronym": null,
+  "category": "Training",
+  "short": "The initial, compute-heavy stage where a model learns broad patterns from a huge unlabeled dataset.",
+  "definition": "Pretraining is the first and most compute-intensive stage of building a model, where it learns broad language or visual patterns by predicting parts of a massive unlabeled dataset (often trillions of tokens) with a self-supervised objective like next-token prediction. The result is a base model with wide world knowledge that later stages refine — through fine-tuning or alignment — into a useful assistant.",
+  "example": null,
+  "related": [
+    "pretraining-corpus",
+    "fine-tuning",
+    "llm",
+    "supervised-learning"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "ray",
+  "term": "Ray",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source framework for parallelizing Python and scaling ML across clusters.",
+  "definition": "Ray is an open-source compute framework from Anyscale for parallelizing Python code and scaling machine learning across clusters. Its libraries cover distributed training, hyperparameter search, model serving, and data preprocessing. Many LLM inference systems, including vLLM, rely on Ray to coordinate work across multiple machines and GPUs.",
+  "example": null,
+  "related": [
+    "distributed-training",
+    "distributed-inference",
+    "cluster",
+    "hyperparameter-tuning",
+    "vllm"
+  ]
+}

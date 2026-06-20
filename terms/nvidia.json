@@ -1,0 +1,15 @@
+{
+  "slug": "nvidia",
+  "term": "NVIDIA",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "The chipmaker whose data-center chips (GPUs) and CUDA software do most of the heavy computing behind AI.",
+  "definition": "NVIDIA is a chip and software company whose data-center GPUs (graphics chips repurposed to do the heavy math behind AI) and CUDA platform (the software that runs programs on those chips) underpin the large majority of AI training and inference (running a trained model). Its Hopper and Blackwell chip designs, fast NVLink links between chips, and serving software make it central to both the hardware and the software of modern AI.",
+  "example": null,
+  "related": [
+    "gpu",
+    "cuda",
+    "tensorrt",
+    "triton"
+  ]
+}

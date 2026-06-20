@@ -1,0 +1,16 @@
+{
+  "slug": "speech-language-model",
+  "term": "Speech-Language Model",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A model that joins speech understanding or generation with language ability.",
+  "definition": "A speech-language model combines the ability to understand or produce speech with language modeling in a single system. Rather than chaining a separate transcriber, text model, and synthesizer, it processes audio and text together so spoken input can flow more directly into reasoning and spoken output. This integration supports tasks like spoken dialogue, voice assistants, and speech-to-speech translation.",
+  "example": null,
+  "related": [
+    "audio-language-model",
+    "speech-to-text",
+    "speech-to-speech",
+    "multimodal-model",
+    "whisper"
+  ]
+}

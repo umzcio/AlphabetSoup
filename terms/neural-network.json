@@ -1,0 +1,15 @@
+{
+  "slug": "neural-network",
+  "term": "Neural Network",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A model made of layers of simple units connected by adjustable weights.",
+  "definition": "A neural network is a model made of layers of simple units (neurons) that pass numbers to each other through weighted connections. Each unit adds up its inputs, each scaled by a weight, then bends the result through a simple curve so the network can capture more than straight-line patterns. During training the weights are tuned automatically (by a method called backpropagation) so the network turns inputs into useful outputs. It is the core building block of deep learning.",
+  "example": null,
+  "related": [
+    "deep-learning",
+    "machine-learning",
+    "transformer",
+    "attention"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "runway",
+  "term": "Runway",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A product line of AI tools for generating and editing video and other media.",
+  "definition": "Runway is a product line of generative AI tools for creating and editing media, with a focus on video. It offers text-to-video and image-to-video generation along with editing features aimed at filmmakers, designers, and other creative professionals. Runway is part of the broader expansion of generative AI from text and images into video and motion content.",
+  "example": null,
+  "related": [
+    "video-generation",
+    "text-to-video",
+    "image-generation",
+    "generative-ai",
+    "diffusion-model"
+  ]
+}

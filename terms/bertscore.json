@@ -1,0 +1,16 @@
+{
+  "slug": "bertscore",
+  "term": "BERTScore",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A text similarity metric that compares meaning rather than exact wording.",
+  "definition": "BERTScore measures how similar generated text is to a reference by comparing meaning rather than exact word overlap. It turns words into embeddings (lists of numbers that capture meaning), matches them by similarity, and combines the matches into precision, recall, and F1 scores. Because it captures meaning, it can credit paraphrases that surface-overlap metrics like BLEU miss, making it useful for summarization and generation.",
+  "example": null,
+  "related": [
+    "embedding",
+    "bleu",
+    "rouge",
+    "f1-score",
+    "evaluation"
+  ]
+}

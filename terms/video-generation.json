@@ -1,0 +1,15 @@
+{
+  "slug": "video-generation",
+  "term": "Video Generation",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Synthesizing video clips from text, a starting image, or prior frames.",
+  "definition": "Video generation synthesizes video sequences from text prompts, a starting image, or prior video context. The central difficulty is maintaining temporal consistency and realistic motion across frames at acceptable cost. The field is advancing quickly, with offerings from several major labs, and quality, length, motion coherence, and controllability continue to improve. It overlaps closely with text-to-video methods.",
+  "example": null,
+  "related": [
+    "text-to-video",
+    "video-understanding",
+    "diffusion-model",
+    "sora"
+  ]
+}

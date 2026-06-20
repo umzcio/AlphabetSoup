@@ -1,0 +1,15 @@
+{
+  "slug": "ollama",
+  "term": "Ollama",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source tool for running open-weight models locally with a simple CLI and API.",
+  "definition": "Ollama is an open-source tool that packages and runs open-weight models on a personal computer through a simple command line and a local, OpenAI-compatible API. Built on llama.cpp, it handles model downloads, quantized formats, and GPU/CPU execution, so developers can swap a cloud API for a private, offline model without changing their application code.",
+  "example": null,
+  "related": [
+    "quantization",
+    "llm",
+    "meta-ai",
+    "mistral-ai"
+  ]
+}

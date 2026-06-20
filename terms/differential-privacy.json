@@ -1,0 +1,16 @@
+{
+  "slug": "differential-privacy",
+  "term": "Differential Privacy",
+  "acronym": null,
+  "category": "Data",
+  "short": "A privacy method that limits how much any single individual's data affects the result.",
+  "definition": "Differential privacy is a mathematical framework that limits how much any single individual's data can influence the output of a computation, usually by adding carefully calibrated noise. This bounds what an observer can infer about any one person while still allowing useful aggregate statistics or models to be learned. A tunable privacy budget controls the tradeoff between strength of protection and accuracy of the result.",
+  "example": null,
+  "related": [
+    "privacy-risk",
+    "de-identification",
+    "personally-identifiable-information",
+    "data-governance",
+    "membership-inference"
+  ]
+}

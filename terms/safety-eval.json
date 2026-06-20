@@ -1,0 +1,16 @@
+{
+  "slug": "safety-eval",
+  "term": "Safety Eval",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "An evaluation focused on whether a model produces risky or harmful behavior.",
+  "definition": "A safety eval measures whether a model produces risky or harmful output, such as dangerous instructions, toxic language, or compliance with disallowed requests. It runs curated prompts and adversarial cases through the model and scores the responses against safety criteria. The results guide guardrails, training, and release decisions, and are often paired with red teaming to find harder failures.",
+  "example": null,
+  "related": [
+    "red-team-eval",
+    "ai-safety",
+    "toxicity",
+    "guardrails",
+    "evaluation"
+  ]
+}

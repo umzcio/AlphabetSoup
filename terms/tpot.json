@@ -1,0 +1,16 @@
+{
+  "slug": "tpot",
+  "term": "Time Per Output Token",
+  "acronym": "TPOT",
+  "category": "Inference & Serving",
+  "short": "How long a model takes to produce each token during the decode phase.",
+  "definition": "Time per output token measures how long the model takes to produce each token during the decode phase, usually in milliseconds. It sets the pace at which streamed text appears once prefill is complete, so lower values make streaming feel smoother. TPOT depends on batch size, model size, how fast the hardware can move data, and how well the model's core math runs on the chip, and together with time to first token it defines a generation's responsiveness.",
+  "example": null,
+  "related": [
+    "ttft",
+    "decode",
+    "streaming",
+    "tokens-per-second",
+    "memory-bandwidth"
+  ]
+}

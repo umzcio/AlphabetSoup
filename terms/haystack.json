@@ -1,0 +1,16 @@
+{
+  "slug": "haystack",
+  "term": "Haystack",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source framework from deepset for building search, RAG, and agent pipelines.",
+  "definition": "Haystack is an open-source LLM orchestration framework from deepset for building production natural-language systems like question answering, semantic search, and retrieval-augmented generation. It models a workflow as a pipeline of components — retrievers, rankers, readers, generators — that can be swapped and connected, and it integrates with many vector stores and model providers. It is used to assemble retrieval and agent applications.",
+  "example": null,
+  "related": [
+    "rag",
+    "semantic-search",
+    "reranking",
+    "vector-database",
+    "llm"
+  ]
+}

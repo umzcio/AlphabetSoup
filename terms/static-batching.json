@@ -1,0 +1,16 @@
+{
+  "slug": "static-batching",
+  "term": "Static Batching",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Grouping requests into fixed batches that all start and finish together.",
+  "definition": "Static batching groups requests into fixed batches that are assembled before execution and run together until the whole batch completes. It is simple but inefficient for generation, since fast requests must wait for the slowest one in the batch to finish before any new work begins. Continuous batching was developed to replace it, letting requests enter and leave a batch at each step.",
+  "example": null,
+  "related": [
+    "continuous-batching",
+    "batching",
+    "dynamic-batching",
+    "throughput",
+    "scheduler"
+  ]
+}

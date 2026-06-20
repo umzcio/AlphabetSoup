@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-ai",
+  "term": "Agentic AI",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "AI systems that plan, call tools, observe results, and act over many steps toward a goal.",
+  "definition": "Agentic AI describes systems built around models that plan, call tools, observe the results, and act over many steps toward a goal, rather than answering a single prompt. It is the umbrella term for the agent patterns increasingly used in AI products. The model drives a loop of decisions instead of producing one fixed reply.",
+  "example": null,
+  "related": [
+    "agent",
+    "agentic-loop",
+    "tool-use",
+    "planning"
+  ]
+}

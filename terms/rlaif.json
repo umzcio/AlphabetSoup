@@ -1,0 +1,16 @@
+{
+  "slug": "rlaif",
+  "term": "Reinforcement Learning from AI Feedback",
+  "acronym": "Reinforcement Learning from AI Feedback",
+  "category": "Training",
+  "short": "Aligning a model using preference judgments from another model instead of humans.",
+  "definition": "Reinforcement learning from AI feedback replaces or supplements human preference labels with judgments from another model, making alignment cheaper and easier to scale. A model evaluates candidate outputs, and those judgments train the reward signal used to optimize behavior. Anthropic's Constitutional AI is a well-known approach in this family.",
+  "example": null,
+  "related": [
+    "rlhf",
+    "constitutional-ai",
+    "reward-model",
+    "preference-learning",
+    "llm-as-judge"
+  ]
+}

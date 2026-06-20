@@ -1,0 +1,16 @@
+{
+  "slug": "plan-and-execute",
+  "term": "Plan-and-Execute",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Drafting a full plan up front, then carrying out each step in a separate execution pass.",
+  "definition": "Plan-and-Execute separates high-level planning from step-by-step action. A planner model first decomposes a complex goal into an ordered list of steps; an executor then works through each one, often calling tools, while a controller can revise the plan if problems arise. Splitting the two phases reduces myopic decisions and improves reliability on long-horizon tasks compared with purely reactive loops.",
+  "example": null,
+  "related": [
+    "planner-executor",
+    "planning",
+    "react",
+    "agent",
+    "orchestrator"
+  ]
+}

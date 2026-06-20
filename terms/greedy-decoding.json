@@ -1,0 +1,16 @@
+{
+  "slug": "greedy-decoding",
+  "term": "Greedy Decoding",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Always picking the single highest-probability token at each generation step.",
+  "definition": "Greedy decoding is the simplest decoding strategy (rule for choosing each next word): at every step the model picks the single highest-scoring token, or word-piece, giving the same output every time. It is fast and predictable but can be repetitive or get stuck, because the best choice in the moment can lead to a worse sentence overall. Sampling methods and beam search are common alternatives that trade some speed for diversity or quality.",
+  "example": null,
+  "related": [
+    "decoding-strategy",
+    "beam-search",
+    "top-p-sampling",
+    "temperature",
+    "logits"
+  ]
+}

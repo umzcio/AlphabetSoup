@@ -1,0 +1,16 @@
+{
+  "slug": "ppo",
+  "term": "Proximal Policy Optimization",
+  "acronym": "Proximal Policy Optimization",
+  "category": "Training",
+  "short": "A reinforcement learning method that updates a policy in small, stable steps.",
+  "definition": "Proximal Policy Optimization is a reinforcement learning algorithm (it learns from rewards by trial and error) that improves stability by limiting how much the model's behavior can change in a single update. In RLHF training, it uses a reward model to score the model's responses and nudges the model toward higher-scoring answers, while a penalty keeps it from drifting too far from its starting point. It was the standard method for RLHF before simpler approaches like DPO and GRPO gained ground.",
+  "example": null,
+  "related": [
+    "rlhf",
+    "reward-model",
+    "policy-gradient",
+    "dpo",
+    "grpo"
+  ]
+}

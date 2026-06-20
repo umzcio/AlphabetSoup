@@ -1,0 +1,14 @@
+{
+  "slug": "deepseek",
+  "term": "DeepSeek",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A Chinese lab known for capable, cost-efficient open-weight and reasoning models.",
+  "definition": "DeepSeek is a Chinese AI lab, founded in 2023 as a subsidiary of the hedge fund High-Flyer, that gained wide attention for releasing capable open-weight models trained cost-efficiently, including reasoning-focused models like DeepSeek-R1. Its releases reshaped industry discussion about training efficiency, mixture-of-experts designs (which save effort by using only the relevant parts of a model for each request), and the competitiveness of open models.",
+  "example": null,
+  "related": [
+    "moe",
+    "reinforcement-learning",
+    "meta-ai"
+  ]
+}

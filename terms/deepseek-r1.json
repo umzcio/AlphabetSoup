@@ -1,0 +1,16 @@
+{
+  "slug": "deepseek-r1",
+  "term": "DeepSeek-R1",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "DeepSeek's downloadable reasoning model, trained largely by trial-and-error reward.",
+  "definition": "DeepSeek-R1 is a reasoning model from DeepSeek, trained mainly through trial-and-error with rewards (reinforcement learning) that pushed it to work through problems step by step, rather than copying worked examples written by people. It reached strong results on math and coding tests while being released openly, with the trained model files free to download. Its training approach and reported efficiency drew wide interest in open reasoning models.",
+  "example": null,
+  "related": [
+    "deepseek",
+    "deepseek-v3",
+    "reasoning-model",
+    "reinforcement-learning",
+    "chain-of-thought"
+  ]
+}

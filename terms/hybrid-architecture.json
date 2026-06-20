@@ -1,0 +1,16 @@
+{
+  "slug": "hybrid-architecture",
+  "term": "Hybrid Architecture",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A model that mixes complementary building blocks, such as attention and state space layers.",
+  "definition": "A hybrid architecture combines complementary components to capture the benefits of each. A common example interleaves Transformer attention layers with state space model layers like Mamba: attention provides global context at higher cost, while the state space layers handle long-range dependencies efficiently. Hybrids may also mix sparse mixture-of-experts feedforward layers with dense attention. The approach is an active research direction aimed at exceeding pure-Transformer efficiency.",
+  "example": null,
+  "related": [
+    "mamba",
+    "state-space-model",
+    "transformer",
+    "moe",
+    "attention"
+  ]
+}

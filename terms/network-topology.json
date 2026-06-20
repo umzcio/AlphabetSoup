@@ -1,0 +1,16 @@
+{
+  "slug": "network-topology",
+  "term": "Network Topology",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "The pattern of how machines and accelerators are wired together in a cluster.",
+  "definition": "Network topology is the arrangement of connections linking machines and accelerators in a cluster, describing which devices can talk to which and how directly. Common patterns include fat-tree, ring, and torus layouts. In large-scale AI training, the topology strongly affects how fast the model's working data moves between GPUs, so it is designed carefully to avoid communication bottlenecks during distributed training.",
+  "example": null,
+  "related": [
+    "interconnect",
+    "infiniband",
+    "all-reduce",
+    "distributed-training",
+    "cluster"
+  ]
+}

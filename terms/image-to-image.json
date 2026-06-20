@@ -1,0 +1,15 @@
+{
+  "slug": "image-to-image",
+  "term": "Image to Image",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Transforming one image into another, optionally guided by a text prompt.",
+  "definition": "Image to image is the task of transforming a source image into a new one rather than generating from scratch, often guided by a text prompt or other input. Examples include applying the look of one image to another, turning a sketch into a photo, sharpening or enlarging a picture, and letting an image-making AI begin from an existing image instead of from random noise. It underpins many editing and refinement workflows.",
+  "example": null,
+  "related": [
+    "image-editing",
+    "inpainting",
+    "diffusion-model",
+    "image-generation"
+  ]
+}

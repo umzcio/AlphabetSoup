@@ -1,0 +1,16 @@
+{
+  "slug": "gemini-ultra",
+  "term": "Gemini Ultra",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "The largest and most capable tier of Google DeepMind's Gemini model family.",
+  "definition": "Gemini Ultra is the largest and most capable tier of Google DeepMind's Gemini family, built for highly complex multimodal reasoning, coding, science, and long-context tasks. It is Google's frontier capability offering, competing with the top models from other major labs, and is typically accessed through a premium subscription. Successive Gemini generations have continued to iterate on the Ultra tier.",
+  "example": null,
+  "related": [
+    "gemini",
+    "google-deepmind",
+    "gemini-flash",
+    "frontier-model",
+    "multimodal-reasoning"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "sora",
+  "term": "Sora",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's text-to-video model that generates short clips from text descriptions.",
+  "definition": "Sora is OpenAI's text-to-video model, which generates short, high-resolution video clips from text descriptions or image inputs. It builds video by gradually refining small compressed pieces of each frame, helping it keep motion and scenes consistent over time. Sora is part of the broader move of generative AI from text and images into video, where models must keep things physically and visually consistent across many frames.",
+  "example": null,
+  "related": [
+    "openai",
+    "video-generation",
+    "text-to-video",
+    "diffusion-model",
+    "generative-ai"
+  ]
+}

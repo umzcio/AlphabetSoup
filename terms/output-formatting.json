@@ -1,0 +1,14 @@
+{
+  "slug": "output-formatting",
+  "term": "Output Formatting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Prompting a model to produce a specific response structure or style.",
+  "definition": "Output formatting is the act of prompting a model for a particular response structure or style, such as a table, a JSON object, a fixed-length summary, or a consistent tone. It reduces downstream parsing and editing by making responses predictable from one request to the next. Because it depends on the model obeying instructions, it is often paired with structured outputs or guided decoding when strict conformance matters.",
+  "example": null,
+  "related": [
+    "output-format",
+    "structured-output",
+    "guided-decoding"
+  ]
+}

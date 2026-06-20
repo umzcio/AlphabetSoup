@@ -1,0 +1,16 @@
+{
+  "slug": "residual-connection",
+  "term": "Residual Connection",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A shortcut that adds a layer's input to its output, helping deep networks train stably.",
+  "definition": "A residual connection, also called a skip connection, adds a layer's input directly to its output so that the layer only has to learn a change to the input. This gives gradients a clean path back through the network, which makes it possible to train models hundreds of layers deep. Introduced in ResNets, residual connections wrap both sublayers of every Transformer block.",
+  "example": null,
+  "related": [
+    "resnet",
+    "transformer",
+    "neural-network",
+    "backpropagation",
+    "layer-normalization"
+  ]
+}

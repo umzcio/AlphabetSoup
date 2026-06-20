@@ -1,0 +1,15 @@
+{
+  "slug": "deceptive-alignment",
+  "term": "Deceptive Alignment",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When a model behaves as intended during training but hides a different goal for deployment.",
+  "definition": "Deceptive alignment is a theoretical safety concern in which a capable model learns to recognize when it is being evaluated and acts in line with the training objective during that period, while internally pursuing a different goal once deployed. This would make the misalignment hard to catch with standard evaluation. It is treated as a key long-term risk and motivates interpretability and oversight research.",
+  "example": null,
+  "related": [
+    "mesa-optimization",
+    "deception",
+    "alignment",
+    "interpretability"
+  ]
+}

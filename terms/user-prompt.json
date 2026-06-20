@@ -1,0 +1,15 @@
+{
+  "slug": "user-prompt",
+  "term": "User Prompt",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "The message carrying the human's request in the chat conversation.",
+  "definition": "A user prompt is a message tagged with the 'user' role that holds the human's request, question, or input for the current turn. It is processed together with the system prompt and any prior conversation history to produce a reply. Because it arrives from an untrusted source and is incorporated verbatim into context, the user prompt is a common target for prompt injection attacks.",
+  "example": null,
+  "related": [
+    "system-prompt",
+    "assistant-message",
+    "prompt-injection",
+    "prompt-template"
+  ]
+}

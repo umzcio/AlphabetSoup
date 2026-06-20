@@ -1,0 +1,15 @@
+{
+  "slug": "image-segmentation",
+  "term": "Image Segmentation",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Labeling each pixel of an image so regions and objects are separated.",
+  "definition": "Image segmentation divides an image into meaningful regions by labeling each tiny dot, or pixel, with what it belongs to. Some methods just label every pixel by type (road, sky, person), some also tell apart individual objects, and some do both at once. It is fundamental to self-driving cars, medical imaging, and robotics, where systems must know exactly where things are.",
+  "example": null,
+  "related": [
+    "object-detection",
+    "computer-vision",
+    "depth-estimation",
+    "vision-transformer"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "pretraining-corpus",
+  "term": "Pretraining Corpus",
+  "acronym": null,
+  "category": "Data",
+  "short": "The massive body of text and other data used to train a model from scratch.",
+  "definition": "A pretraining corpus is the massive body of text — and sometimes code, images, or audio — used in the initial training of a model, typically trillions of tokens (the small chunks of text a model reads) drawn from web crawls, books, code repositories, and scientific papers. Its composition, quality, and cleaning have a large effect on the resulting model's abilities and biases, so building one demands heavy filtering and deduplication.",
+  "example": null,
+  "related": [
+    "pretraining",
+    "data-curation",
+    "synthetic-data",
+    "token"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "learning-rate",
+  "term": "Learning Rate",
+  "acronym": "LR",
+  "category": "Foundations",
+  "short": "The size of each step a model takes when updating its parameters during training.",
+  "definition": "The learning rate scales how large each parameter update is during training, based on the gradient. Set it too high and training oscillates or diverges; set it too low and training is slow or stalls. It is among the most important hyperparameters, and modern runs often warm it up from zero and then decay it on a schedule.",
+  "example": null,
+  "related": [
+    "learning-rate-schedule",
+    "gradient-descent",
+    "hyperparameter",
+    "warmup",
+    "adamw"
+  ]
+}

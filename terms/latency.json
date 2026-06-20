@@ -1,0 +1,16 @@
+{
+  "slug": "latency",
+  "term": "Latency",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "How long a user waits for a model's response, often split into wait-for-first-word and per-word time.",
+  "definition": "Latency is the time a user waits for a model's response. For LLM inference it is often broken into time to first token (how long until the first word appears) and the per-token generation time thereafter. Reducing latency requires fast prompt processing, efficient memory management, and short queuing delays. It is distinct from throughput, since handling more requests at once can raise individual latency while serving more users overall.",
+  "example": null,
+  "related": [
+    "ttft",
+    "tpot",
+    "throughput",
+    "prefill",
+    "concurrency"
+  ]
+}

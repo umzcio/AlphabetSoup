@@ -1,0 +1,16 @@
+{
+  "slug": "regularization",
+  "term": "Regularization",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Techniques that discourage overfitting and improve a model's generalization.",
+  "definition": "Regularization is any technique that discourages a model from fitting its training data too exactly, so it generalizes better to new inputs. Common methods include L2 weight decay, which penalizes large weights, L1 penalties that push many weights to exactly zero, dropout, early stopping, and data augmentation. In large-model training, weight decay is applied as standard practice alongside the implicit noise of mini-batches.",
+  "example": null,
+  "related": [
+    "overfitting",
+    "generalization",
+    "weight-decay",
+    "dropout",
+    "early-stopping"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "keras",
+  "term": "Keras",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A high-level, beginner-friendly API for building and training neural networks.",
+  "definition": "Keras is a high-level API for building and training neural networks, known for a simple, readable interface. It runs on top of backends like TensorFlow, JAX, and PyTorch, letting the same model code execute on different engines. Its low barrier to entry makes it a common starting point for learners and for quick prototyping.",
+  "example": null,
+  "related": [
+    "tensorflow",
+    "neural-network",
+    "deep-learning",
+    "pytorch",
+    "jax"
+  ]
+}

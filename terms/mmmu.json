@@ -1,0 +1,16 @@
+{
+  "slug": "mmmu",
+  "term": "MMMU",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A multimodal benchmark testing expert-level reasoning over images and text.",
+  "definition": "MMMU is a benchmark for multimodal models that pairs college-level questions with images such as diagrams, charts, and figures across many academic disciplines. Answering requires reading the visual material and reasoning about it, not just recognizing objects. It is used to gauge how well vision-language models handle the kind of expert reasoning expected in technical and professional subjects.",
+  "example": null,
+  "related": [
+    "multimodal-model",
+    "vision-language-model",
+    "benchmark",
+    "evaluation",
+    "multimodal-reasoning"
+  ]
+}

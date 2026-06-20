@@ -1,0 +1,16 @@
+{
+  "slug": "autoencoder",
+  "term": "Autoencoder",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A network that compresses input into a small representation and rebuilds the original from it.",
+  "definition": "An autoencoder is a neural network trained to squeeze its input into a compact internal representation (the bottleneck) and then reconstruct the original from that code. By forcing the data through a narrow layer, it learns which features matter most. Autoencoders are used for compression, denoising, anomaly detection, and learning embeddings, and the idea underlies parts of modern generative models.",
+  "example": null,
+  "related": [
+    "embedding",
+    "vae",
+    "latent-space",
+    "representation-learning",
+    "neural-network"
+  ]
+}

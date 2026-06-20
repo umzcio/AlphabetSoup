@@ -1,0 +1,16 @@
+{
+  "slug": "web-scraping",
+  "term": "Web Scraping",
+  "acronym": null,
+  "category": "Data",
+  "short": "Programmatically collecting data from websites.",
+  "definition": "Web scraping is the programmatic collection of data from websites, in which automated tools fetch pages and extract their text, links, or other content. It is a common way to assemble large corpora for pretraining language models, often building on broad crawls of the public web. Scraped data usually needs heavy cleaning, deduplication, and filtering before it is suitable for training.",
+  "example": null,
+  "related": [
+    "crawl",
+    "common-crawl",
+    "data-cleaning",
+    "data-filtering",
+    "training-data"
+  ]
+}

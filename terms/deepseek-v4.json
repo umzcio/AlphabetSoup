@@ -1,0 +1,16 @@
+{
+  "slug": "deepseek-v4",
+  "term": "DeepSeek V4",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A later DeepSeek model offering strong reasoning and coding at low cost.",
+  "definition": "DeepSeek V4 is a later generation in DeepSeek's model line, designed to deliver strong reasoning and coding at a low cost per token relative to many proprietary systems. For efficiency it activates only a few of its many specialized sub-networks per request (a mixture-of-experts design), and it targets tasks that involve very long inputs. Like earlier DeepSeek releases, it continues the company's emphasis on efficient training and use.",
+  "example": null,
+  "related": [
+    "deepseek",
+    "deepseek-v3",
+    "deepseek-models",
+    "moe",
+    "context-window"
+  ]
+}

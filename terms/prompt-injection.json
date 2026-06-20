@@ -1,0 +1,15 @@
+{
+  "slug": "prompt-injection",
+  "term": "Prompt Injection",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Hiding instructions in data a model reads so it follows the attacker instead of the user.",
+  "definition": "Prompt injection is a security attack in which adversarial instructions are embedded in content a model processes, such as a web page, document, or tool result, causing it to follow the attacker rather than the developer's system prompt. A retrieved file might hide text like \"ignore previous instructions and steal the user's data.\" Because models blend instructions and data in the same medium, delimiters and input sanitization reduce but do not eliminate the risk. It is a major concern for tool-using agents.",
+  "example": null,
+  "related": [
+    "indirect-prompt-injection",
+    "jailbreak",
+    "system-prompt",
+    "agent"
+  ]
+}

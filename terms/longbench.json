@@ -1,0 +1,16 @@
+{
+  "slug": "longbench",
+  "term": "LongBench",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A benchmark suite measuring how well models handle long-context tasks.",
+  "definition": "LongBench is a benchmark suite for testing how well language models use long inputs, covering tasks such as multi-document question answering, summarization, and retrieval over passages that span many thousands of tokens. It probes whether a model genuinely reads across its full context window rather than attending only to the start or end. It is used to compare long-context performance across models.",
+  "example": null,
+  "related": [
+    "context-window",
+    "benchmark",
+    "evaluation",
+    "context-extension",
+    "long-context-compression"
+  ]
+}

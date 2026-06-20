@@ -1,0 +1,15 @@
+{
+  "slug": "agi",
+  "term": "Artificial General Intelligence",
+  "acronym": "Artificial General Intelligence",
+  "category": "Foundations",
+  "short": "A hypothetical system that could match human ability across the full range of intellectual tasks.",
+  "definition": "Artificial general intelligence refers to a hypothetical system that could match or exceed human cognitive ability across essentially any domain, including ones it was not trained on, rather than excelling at one narrow task. Such a system would reason, plan, and learn from few examples the way people do. No agreed test or definition exists, so usage of the term varies widely between labs.",
+  "example": null,
+  "related": [
+    "asi",
+    "general-ai",
+    "narrow-ai",
+    "artificial-intelligence"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "mixtral",
+  "term": "Mixtral",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Mistral AI's open models that hold many specialist sub-networks but use only a couple for each word.",
+  "definition": "Mixtral is a family of open-weight models from Mistral AI (released for anyone to download) under the Apache 2.0 license. Each layer holds several specialist sub-networks (the 'experts') but uses only a couple of them for any given word, so the model is large overall while the work done per word stays small. This design delivers quality comparable to much larger conventional models while using less computing power to run, which made Mixtral a widely adopted open model.",
+  "example": null,
+  "related": [
+    "mistral-ai",
+    "moe",
+    "sparse-moe",
+    "open-weights",
+    "expert-parallelism"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "image-generation",
+  "term": "Image Generation",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Creating new pictures with AI, most often from a text prompt.",
+  "definition": "Image generation is the broad task of creating new pictures with AI, most often from text prompts using diffusion models (which build an image by gradually cleaning up random noise). It spans art, design, product imagery, and editing, and can be guided by sketches, layouts, or reference images. As one of the most visible consumer uses of generative AI, it underlies tools that turn descriptions into finished visuals.",
+  "example": null,
+  "related": [
+    "text-to-image",
+    "diffusion-model",
+    "stable-diffusion",
+    "image-editing"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "feature",
+  "term": "Feature",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A single input attribute a model uses, such as a word count or a pixel value.",
+  "definition": "A feature is a single input attribute a model uses to make predictions, such as a word count, a pixel value, or a measured quantity. Classic machine learning relied on features hand-designed by experts, while deep learning learns useful features automatically from raw data. The set of features available to a model strongly shapes what it can learn.",
+  "example": null,
+  "related": [
+    "representation-learning",
+    "embedding",
+    "machine-learning",
+    "deep-learning"
+  ]
+}

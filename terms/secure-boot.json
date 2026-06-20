@@ -1,0 +1,16 @@
+{
+  "slug": "secure-boot",
+  "term": "Secure Boot",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A startup check that only lets digitally signed, trusted system software run on a server.",
+  "definition": "Secure Boot is a security control that allows only digitally signed and trusted bootloaders, kernels, and critical system components to run during a server's startup. By verifying signatures before code executes, it blocks tampered or unauthorized firmware from loading. In AI training and inference clusters it is a foundational defense against supply-chain attacks and unauthorized firmware modifications.",
+  "example": null,
+  "related": [
+    "ipmi-bmc",
+    "datacenter",
+    "compute-node",
+    "cluster",
+    "ai-governance"
+  ]
+}

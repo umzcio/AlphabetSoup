@@ -1,0 +1,16 @@
+{
+  "slug": "bleu",
+  "term": "BLEU",
+  "acronym": "Bilingual Evaluation Understudy",
+  "category": "Evaluation",
+  "short": "A text-overlap metric, common in machine translation, scoring n-gram match to references.",
+  "definition": "BLEU is an automatic metric for evaluating generated text, originally designed for machine translation. It scores the overlap of word sequences (n-grams) between a model's output and one or more reference texts, combining these with a penalty for outputs that are too short. Despite weak sensitivity to meaning, it remains widely reported for its simplicity and long history.",
+  "example": null,
+  "related": [
+    "rouge",
+    "bertscore",
+    "ngram-matching",
+    "evaluation",
+    "exact-match"
+  ]
+}

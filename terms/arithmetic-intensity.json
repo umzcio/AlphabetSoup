@@ -1,0 +1,15 @@
+{
+  "slug": "arithmetic-intensity",
+  "term": "Arithmetic Intensity",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "The ratio of compute operations to memory traffic, used to spot the bottleneck in a workload.",
+  "definition": "Arithmetic intensity is the ratio of floating-point operations performed to bytes moved to and from memory, usually given as FLOPs per byte. It indicates whether a computation is memory-bound (low intensity, limited by bandwidth) or compute-bound (high intensity, limited by raw throughput). Large batched matrix multiplications have high intensity, while single-token decoding has low intensity. The roofline model uses it to predict achievable performance.",
+  "example": null,
+  "related": [
+    "roofline-model",
+    "flops",
+    "memory-bandwidth",
+    "decode"
+  ]
+}

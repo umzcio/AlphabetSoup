@@ -1,0 +1,16 @@
+{
+  "slug": "prefill",
+  "term": "Prefill",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "The first inference phase that processes the whole prompt and builds the KV cache.",
+  "definition": "Prefill is the first phase of running a model, where it reads every word of the prompt at once in a single pass and saves their values in the KV cache (its working memory of the text so far). This step is limited by raw computing speed and largely sets the time to first token — how long until the first word of the answer appears, especially for long prompts. Techniques like chunked prefill split long prompts into smaller pieces to ease memory pressure and overlap with the word-by-word writing that follows.",
+  "example": null,
+  "related": [
+    "decode",
+    "kv-cache",
+    "ttft",
+    "chunked-prefill",
+    "disaggregated-prefill"
+  ]
+}

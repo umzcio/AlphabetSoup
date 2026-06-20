@@ -1,0 +1,15 @@
+{
+  "slug": "structured-output",
+  "term": "Structured Output",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Constraining generation so the response is valid structured data like JSON.",
+  "definition": "Structured output makes a model's response conform to a predefined schema rather than free-form prose. It is achieved by guided decoding, which at each step blocks any next word that would break the required format and allows only valid ones, or by fine-tuning the model to follow format instructions. JSON (a standard data format) mode and tool-call responses are common examples, and libraries like Outlines and Instructor add it on top of any model. It makes responses safe for a program to read automatically.",
+  "example": null,
+  "related": [
+    "json-mode",
+    "constrained-decoding",
+    "guided-decoding",
+    "function-calling"
+  ]
+}

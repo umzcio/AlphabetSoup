@@ -1,0 +1,15 @@
+{
+  "slug": "self-play",
+  "term": "Self-Play",
+  "acronym": null,
+  "category": "Training",
+  "short": "Training a system on experience it generates itself, sometimes against copies of itself.",
+  "definition": "Self-play trains a system by having it produce its own experience, sometimes competing against copies of itself, and learning from the outcomes. It became famous in game-playing AI, where a system improves by playing itself many times. The idea now informs generating training data and reasoning traces for language models.",
+  "example": null,
+  "related": [
+    "reinforcement-learning",
+    "synthetic-data",
+    "self-consistency",
+    "reasoning-model"
+  ]
+}

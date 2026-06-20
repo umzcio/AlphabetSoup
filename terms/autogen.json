@@ -1,0 +1,16 @@
+{
+  "slug": "autogen",
+  "term": "AutoGen",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Microsoft's open-source framework for building multi-agent conversational AI systems.",
+  "definition": "AutoGen is an open-source framework from Microsoft for building systems of multiple AI agents that talk to each other to solve a task. Each agent is backed by a language model or tools, and agents converse, delegate subtasks, and coordinate through natural language. It supports customizable agent roles and conversation patterns, making it a common choice for multi-agent research and applications.",
+  "example": null,
+  "related": [
+    "multi-agent-system",
+    "multi-agent-collaboration",
+    "agent",
+    "microsoft",
+    "tool-use"
+  ]
+}

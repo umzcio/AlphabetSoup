@@ -1,0 +1,16 @@
+{
+  "slug": "mamba",
+  "term": "Mamba",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A state space model with input-dependent selection that scales efficiently to long sequences.",
+  "definition": "Mamba is a state space model architecture whose key idea is selective state spaces: its state transition and output parameters depend on the input, letting the model choose what to remember or forget like a learned gate. This overcomes earlier state space models that used fixed transitions. Mamba reaches performance competitive with Transformers on language tasks while scaling linearly with sequence length, making it a notable non-Transformer approach to long-context modeling.",
+  "example": null,
+  "related": [
+    "state-space-model",
+    "hybrid-architecture",
+    "transformer",
+    "attention",
+    "context-window"
+  ]
+}

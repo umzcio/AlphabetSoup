@@ -1,0 +1,16 @@
+{
+  "slug": "constrained-decoding",
+  "term": "Constrained Decoding",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Restricting which tokens a model can emit so output fits a schema or grammar.",
+  "definition": "Constrained decoding restricts which tokens (the word-pieces a model emits) it may generate at each step so the output conforms to a required format, such as a fixed shape or pattern. By blocking any token that would break that format, it guarantees structurally valid results without relying on the model to follow instructions perfectly. It is how serving systems reliably produce valid JSON or other structured output.",
+  "example": null,
+  "related": [
+    "guided-decoding",
+    "structured-output",
+    "json-mode",
+    "logits",
+    "outlines"
+  ]
+}

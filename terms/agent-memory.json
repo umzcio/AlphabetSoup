@@ -1,0 +1,15 @@
+{
+  "slug": "agent-memory",
+  "term": "Agent Memory",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Techniques that let an agent retain information across turns or sessions.",
+  "definition": "Agent memory is the set of techniques that let an agent retain information across turns or sessions — scratchpads, running summaries, or a retrieval store of past facts and interactions. It extends an agent beyond what fits in a single context window, so it can recall earlier decisions and user preferences. Good memory design balances recall against the cost of carrying irrelevant detail.",
+  "example": null,
+  "related": [
+    "memory",
+    "episodic-memory",
+    "memory-persistence",
+    "context-window"
+  ]
+}

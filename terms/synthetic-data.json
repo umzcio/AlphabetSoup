@@ -1,0 +1,15 @@
+{
+  "slug": "synthetic-data",
+  "term": "Synthetic Data",
+  "acronym": null,
+  "category": "Data",
+  "short": "Training examples produced by a model or program instead of gathered from the real world.",
+  "definition": "Synthetic data is text, images, or other examples produced by an existing model or a program rather than collected from real sources. A common recipe uses a strong teacher model to generate instruction-response pairs or reasoning traces. It is widely used in post-training and increasingly in pretraining to scale data cheaply, cover rare cases, and protect privacy — and works best when validated to avoid quality collapse.",
+  "example": null,
+  "related": [
+    "data-curation",
+    "pretraining-corpus",
+    "distillation",
+    "fine-tuning"
+  ]
+}

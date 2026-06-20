@@ -1,0 +1,15 @@
+{
+  "slug": "refusal",
+  "term": "Refusal",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When a model declines a request that violates its policies, ideally with a clear reason.",
+  "definition": "A refusal is when a model declines to answer or act on a request that conflicts with its safety policies, ideally explaining why rather than failing silently. Calibrating refusals is a balance: the model should reject genuinely harmful requests without over-refusing benign ones that merely resemble them. Tuning this trade-off is an active area of alignment and evaluation work.",
+  "example": null,
+  "related": [
+    "harmlessness",
+    "helpfulness",
+    "constitutional-ai",
+    "jailbreak"
+  ]
+}

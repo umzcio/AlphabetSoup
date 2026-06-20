@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Foundations",
   "short": "The maximum number of tokens a model can consider at once.",
-  "definition": "The context window is the maximum span of tokens (prompt plus generated output) a model can attend to in a single pass. Larger windows let a model reason over more documents or longer conversations, but cost grows with length because the KV cache and attention computation scale with it.",
+  "definition": "The context window is the maximum span of tokens (the chunks of text a model reads, roughly word-sized) a model can consider at once, covering both the prompt and the generated output. Larger windows let a model reason over more documents or longer conversations, but cost grows with length because the model's running memory of the text and the work of weighing every part against every other part both scale with it.",
   "example": null,
   "related": [
     "token",

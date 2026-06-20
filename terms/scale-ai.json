@@ -1,0 +1,15 @@
+{
+  "slug": "scale-ai",
+  "term": "Scale AI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A data platform company supplying labeled and synthetic data to train and evaluate AI models.",
+  "definition": "Scale AI is a data platform company that supplies large-scale, high-quality human-annotated and synthetic data used to train and evaluate AI models, with strengths in perception, autonomy, and enterprise applications. Its data labeling, evaluation, and synthetic data generation services are used by many leading AI labs. It sits in the data layer of the AI stack rather than building models itself.",
+  "example": null,
+  "related": [
+    "data-labeling",
+    "synthetic-data",
+    "annotation",
+    "evaluation"
+  ]
+}

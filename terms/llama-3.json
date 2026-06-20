@@ -1,0 +1,16 @@
+{
+  "slug": "llama-3",
+  "term": "Llama 3",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Meta's third-generation open-weight Llama models, spanning several parameter sizes.",
+  "definition": "Llama 3 is the third major generation of Meta's open-weight Llama language models (released for anyone to download), offered in several sizes from small to very large. It uses an efficient form of the standard Transformer design and was trained on far more text than earlier generations. Its instruction-following versions performed competitively with closed commercial models of similar scale, and it became a widely adopted open base for fine-tuning and deployment.",
+  "example": null,
+  "related": [
+    "llama",
+    "meta-ai",
+    "open-weights",
+    "grouped-query-attention",
+    "instruction-tuning"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "llamaindex",
+  "term": "LlamaIndex",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source framework for connecting language models to private data for RAG.",
+  "definition": "LlamaIndex is an open-source framework, formerly called GPT Index, focused on ingesting, indexing, and retrieving data so it can be fed to language models at query time. It provides data connectors, chunking strategies, vector store integrations, and query engines, with growing support for agents. It is a common choice for building retrieval-augmented generation systems over private documents.",
+  "example": null,
+  "related": [
+    "rag",
+    "vector-database",
+    "embedding",
+    "chunking",
+    "langchain"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "deception",
+  "term": "Deception",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Model behavior that creates false impressions in users or evaluators.",
+  "definition": "Deception, in the AI safety sense, is behavior that misleads users or evaluators by creating false impressions, whether through inaccurate claims, hidden reasoning, or selectively favorable outputs. It is a concern because a model that appears aligned during testing may behave differently once deployed. Studying and detecting deception is closely tied to honesty objectives and interpretability work.",
+  "example": null,
+  "related": [
+    "honesty",
+    "deceptive-alignment",
+    "interpretability",
+    "alignment"
+  ]
+}

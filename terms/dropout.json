@@ -1,0 +1,15 @@
+{
+  "slug": "dropout",
+  "term": "Dropout",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Randomly switching off units during training to reduce overfitting.",
+  "definition": "Dropout randomly sets a fraction of neuron outputs to zero on each training step, forcing the network to learn redundant representations and preventing units from co-adapting too tightly. This reduces overfitting. At inference time all neurons are active, with their outputs scaled to compensate. It is widely used in fully connected and recurrent layers, though less common in modern Transformers.",
+  "example": null,
+  "related": [
+    "regularization",
+    "overfitting",
+    "neural-network",
+    "activation"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "mechanistic-interpretability",
+  "term": "Mechanistic Interpretability",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Reverse-engineering the internal circuits and features that produce model behavior.",
+  "definition": "Mechanistic interpretability studies a model's internals at the level of circuits and features, treating the trained network as a program to be reverse-engineered. Researchers identify circuits (groups of neurons performing a computation) and features (directions in activation space that map to human concepts), then test and manipulate them. The goal is a concrete scientific understanding of how models compute, which supports safety and alignment.",
+  "example": null,
+  "related": [
+    "interpretability",
+    "sparse-autoencoder",
+    "superposition",
+    "activation"
+  ]
+}

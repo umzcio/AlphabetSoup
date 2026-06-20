@@ -1,0 +1,15 @@
+{
+  "slug": "activation-checkpointing",
+  "term": "Activation Checkpointing",
+  "acronym": null,
+  "category": "Training",
+  "short": "Saving memory in training by recomputing the model's intermediate working values instead of storing them all.",
+  "definition": "Activation checkpointing reduces the memory used during training by storing only a subset of activations (the model's intermediate working values) and recomputing the rest later, instead of keeping all of them. This trades extra computation for lower memory, allowing larger models or bigger batches to fit on the same hardware. It is also known as gradient checkpointing.",
+  "example": null,
+  "related": [
+    "gradient-checkpointing",
+    "backpropagation",
+    "activation",
+    "batch-size"
+  ]
+}

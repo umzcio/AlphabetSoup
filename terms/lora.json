@@ -4,7 +4,7 @@
   "acronym": "Low-Rank Adaptation",
   "category": "Training",
   "short": "A cheap fine-tuning method that trains small add-on weight matrices.",
-  "definition": "LoRA is a parameter-efficient fine-tuning (PEFT) technique that freezes the original model weights and injects small trainable low-rank matrices into each layer. Only those tiny matrices are trained, slashing memory and compute while reaching quality close to full fine-tuning. Multiple LoRA 'adapters' can be swapped or even batched on the same base model at serving time.",
+  "definition": "LoRA is a parameter-efficient fine-tuning technique (it customizes a model while training only a tiny fraction of it) that freezes the original model weights and adds small trainable matrices to each layer. Only those tiny matrices are trained, slashing memory and compute cost while reaching quality close to full fine-tuning. Multiple LoRA 'adapters' (these add-on matrices) can be swapped on the same base model.",
   "example": null,
   "related": [
     "fine-tuning",

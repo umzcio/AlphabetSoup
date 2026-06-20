@@ -1,0 +1,15 @@
+{
+  "slug": "orchestrator-worker",
+  "term": "Orchestrator Worker",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A pattern where one controller coordinates several specialist worker agents.",
+  "definition": "Orchestrator worker is a multi-agent pattern in which one controller decomposes a task and assigns each part to a specialist worker, then gathers and combines what the workers return. The orchestrator handles planning and coordination while the workers focus narrowly on their own subtasks. Keeping each worker's scope small tends to make the overall system more reliable and easier to reason about.",
+  "example": null,
+  "related": [
+    "orchestrator",
+    "hierarchical-agent",
+    "multi-agent-system",
+    "planner-executor"
+  ]
+}

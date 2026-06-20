@@ -1,0 +1,15 @@
+{
+  "slug": "compute-node",
+  "term": "Compute Node",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A single server in a cluster, often holding several GPUs that do the actual computation.",
+  "definition": "A compute node is one server within a larger cluster that performs computational work. In AI, a node commonly holds multiple GPUs (often eight), CPUs, fast accelerator memory, intra-node links such as NVLink, and high-speed network adapters for talking to other nodes. Distributed training frameworks split work across many nodes using data, tensor, or pipeline parallelism, communicating over the cluster's network.",
+  "example": null,
+  "related": [
+    "cluster",
+    "gpu",
+    "nvlink",
+    "distributed-training"
+  ]
+}

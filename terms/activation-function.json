@@ -1,0 +1,17 @@
+{
+  "slug": "activation-function",
+  "term": "Activation Function",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The nonlinear step that lets stacked network layers learn complex patterns.",
+  "definition": "An activation function transforms a neuron's weighted input into its output in a nonlinear way. Without it, stacking layers would collapse into a single linear transformation, sharply limiting what a network can learn. The choice affects how smoothly the network trains. Common options include ReLU, sigmoid, and tanh, while modern Transformers tend to use GELU or SwiGLU — these are all just named recipes for that nonlinear step.",
+  "example": null,
+  "related": [
+    "relu",
+    "sigmoid",
+    "activation",
+    "neural-network",
+    "gelu",
+    "swiglu"
+  ]
+}

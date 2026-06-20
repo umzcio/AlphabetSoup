@@ -1,0 +1,16 @@
+{
+  "slug": "command-r",
+  "term": "Command R",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Cohere's model family built for business search-and-answer and tool use.",
+  "definition": "Command R is Cohere's family of language models built for business uses that look up relevant documents and feed them to the model before it answers, plus workflows where the model uses outside tools. A larger Command R+ variant exists. The models are tuned to cite their sources accurately, stay anchored to the provided documents, and chain multiple tool calls together. They run through Cohere's interface, major cloud platforms, and private setups.",
+  "example": null,
+  "related": [
+    "cohere",
+    "rag",
+    "tool-use",
+    "grounding",
+    "citation"
+  ]
+}

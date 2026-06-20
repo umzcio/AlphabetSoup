@@ -1,0 +1,16 @@
+{
+  "slug": "tensor-parallelism",
+  "term": "Tensor Parallelism",
+  "acronym": "TP",
+  "category": "Training",
+  "short": "Splitting the matrices inside a layer across multiple devices.",
+  "definition": "Tensor parallelism splits the large grids of numbers inside a layer across multiple GPUs (the chips that do the heavy math) so each one computes only a slice. The partial results are then merged together, which demands fast connections between the chips like NVLink. It is a key technique for training and serving models too big for a single GPU's memory, often combined with pipeline and data parallelism.",
+  "example": null,
+  "related": [
+    "pipeline-parallelism",
+    "data-parallelism",
+    "model-parallelism",
+    "all-reduce",
+    "nvlink"
+  ]
+}

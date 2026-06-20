@@ -1,0 +1,15 @@
+{
+  "slug": "frontier-model",
+  "term": "Frontier Model",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A model near the current capability edge of the field.",
+  "definition": "A frontier model is one of the most capable models available at a given time, sitting near the leading edge of what the field can do. The label is relative and shifts as new systems are released. Because such models can be both highly capable and less well understood, they receive particular attention in AI safety and governance discussions.",
+  "example": null,
+  "related": [
+    "foundation-model",
+    "llm",
+    "ai-safety",
+    "scaling-laws"
+  ]
+}

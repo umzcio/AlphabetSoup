@@ -1,0 +1,16 @@
+{
+  "slug": "pseudonymization",
+  "term": "Pseudonymization",
+  "acronym": null,
+  "category": "Data",
+  "short": "Replacing identifiers with substitutes while preserving the ability to link records.",
+  "definition": "Pseudonymization replaces direct identifiers in data, such as names or IDs, with consistent substitute values while preserving the ability to link records that belong to the same entity. It reduces exposure of personal information without fully anonymizing the data, since the mapping can in principle be reversed. It is a common step in handling sensitive data before it is used for analysis or training.",
+  "example": null,
+  "related": [
+    "de-identification",
+    "personally-identifiable-information",
+    "data-governance",
+    "privacy-risk",
+    "differential-privacy"
+  ]
+}

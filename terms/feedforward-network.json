@@ -1,0 +1,16 @@
+{
+  "slug": "feedforward-network",
+  "term": "Feedforward Network",
+  "acronym": "FFN",
+  "category": "Architectures",
+  "short": "A network where signals move forward through layers without loops, used in each Transformer block.",
+  "definition": "A feedforward network is a stack of fully connected layers separated by nonlinear activations, where signals flow forward without loops. In a Transformer block, the FFN follows the attention sublayer: it projects each token up to a larger intermediate dimension, applies an activation, then projects back down. This is where much of the model's factual knowledge is thought to reside, and FFN layers hold a large share of a Transformer's parameters.",
+  "example": null,
+  "related": [
+    "neural-network",
+    "transformer",
+    "activation-function",
+    "attention",
+    "parameter"
+  ]
+}

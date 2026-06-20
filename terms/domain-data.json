@@ -1,0 +1,16 @@
+{
+  "slug": "domain-data",
+  "term": "Domain Data",
+  "acronym": null,
+  "category": "Data",
+  "short": "Data drawn from a specific field, such as law, medicine, or code, for specialized models.",
+  "definition": "Domain data is data drawn from a specific field, such as law, medicine, finance, or code, rather than general web text. It is used to adapt a model to the vocabulary, conventions, and reasoning of that field, often through continued pretraining or fine-tuning. Adding domain data tends to improve accuracy and relevance on specialized tasks where general-purpose models fall short.",
+  "example": null,
+  "related": [
+    "domain-adaptation",
+    "fine-tuning",
+    "continued-pretraining",
+    "finetuning-dataset",
+    "data-mixing"
+  ]
+}

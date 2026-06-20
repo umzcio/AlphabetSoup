@@ -1,0 +1,16 @@
+{
+  "slug": "streaming",
+  "term": "Streaming",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Sending generated tokens to the client as they are produced rather than all at once.",
+  "definition": "Streaming delivers a model's output to the user token by token as it is generated, instead of waiting for the full response to finish. It makes applications feel faster and is why time to first token matters so much, since the user sees text appear almost immediately. Most serving systems support it over Server-Sent Events or similar protocols, and chat and coding tools expect it.",
+  "example": null,
+  "related": [
+    "streaming-response",
+    "ttft",
+    "tpot",
+    "decode",
+    "latency"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "context-extension",
+  "term": "Context Extension",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Techniques that let a model handle prompts longer than its original training length.",
+  "definition": "Context extension covers methods that let a model work with prompts longer than the context window — the maximum amount of text it can consider at once — that it was trained on. Common approaches adjust how the model tracks the position of each word, so it still keeps its bearings over longer stretches of text, sometimes with a little extra training. It matters because larger contexts let a model take in more documents or history at once.",
+  "example": null,
+  "related": [
+    "context-window",
+    "rope",
+    "long-context-compression",
+    "positional-encoding"
+  ]
+}

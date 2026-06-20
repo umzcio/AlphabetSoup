@@ -1,0 +1,16 @@
+{
+  "slug": "hugging-face-datasets",
+  "term": "Hugging Face Datasets",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Hugging Face library for loading, processing, and sharing machine learning datasets.",
+  "definition": "Hugging Face Datasets is an open-source library for loading, processing, and sharing the collections of data used to train and test machine learning models. It provides one-line access to thousands of datasets on the Hugging Face Hub, and it reads large collections straight from disk in pieces so they can be processed without filling up the computer's working memory. It is a common companion to the Transformers library.",
+  "example": null,
+  "related": [
+    "dataset",
+    "huggingface-hub",
+    "hugging-face-transformers",
+    "hugging-face",
+    "training-data"
+  ]
+}

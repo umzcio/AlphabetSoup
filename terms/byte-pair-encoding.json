@@ -1,0 +1,16 @@
+{
+  "slug": "byte-pair-encoding",
+  "term": "Byte-Pair Encoding",
+  "acronym": "BPE",
+  "category": "Data",
+  "short": "A tokenization method that builds subwords by repeatedly merging the most frequent symbol pairs.",
+  "definition": "Byte-Pair Encoding is a tokenization algorithm that starts from a character or byte vocabulary and iteratively merges the most frequent adjacent pair of symbols into a new token, repeating until it reaches a target vocabulary size. The resulting subword vocabulary handles rare and unknown words gracefully. A byte-level variant underpins the tokenizers used by GPT, LLaMA, and many other language models.",
+  "example": null,
+  "related": [
+    "tokenization",
+    "tokenizer",
+    "vocabulary",
+    "wordpiece",
+    "sentencepiece"
+  ]
+}

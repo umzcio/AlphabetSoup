@@ -1,0 +1,16 @@
+{
+  "slug": "expert-parallelism",
+  "term": "Expert Parallelism",
+  "acronym": "EP",
+  "category": "Training",
+  "short": "Spreading the experts of a Mixture-of-Experts model across multiple devices.",
+  "definition": "Expert parallelism distributes the many expert sub-networks of a Mixture-of-Experts model across devices, so each device holds only some of the experts. For a given token, only the experts chosen by the router are loaded and computed on their assigned device. This is essential for serving the largest sparse MoE models, which would otherwise exceed the memory of any single node.",
+  "example": null,
+  "related": [
+    "moe",
+    "sparse-moe",
+    "model-parallelism",
+    "tensor-parallelism",
+    "routing-network"
+  ]
+}

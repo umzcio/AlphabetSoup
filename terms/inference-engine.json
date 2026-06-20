@@ -1,0 +1,16 @@
+{
+  "slug": "inference-engine",
+  "term": "Inference Engine",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "The serving software that runs a model efficiently and exposes it through an API.",
+  "definition": "An inference engine is the serving software that runs a trained model efficiently, handling batching, the KV cache (the model's running notes on the text), scheduling, and the request API. It turns the model's raw learned numbers into a service that many users can call at once with good speed and capacity. vLLM, SGLang, and TensorRT-LLM are widely used examples.",
+  "example": null,
+  "related": [
+    "vllm",
+    "sglang",
+    "trt-llm",
+    "model-server",
+    "continuous-batching"
+  ]
+}

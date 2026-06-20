@@ -1,0 +1,16 @@
+{
+  "slug": "corpus",
+  "term": "Corpus",
+  "acronym": null,
+  "category": "Data",
+  "short": "A large body of text, audio, images, or other data assembled for training or analysis.",
+  "definition": "A corpus is a large, organized body of data, most often text but sometimes audio, images, or mixed media, gathered for training or analyzing models. Pretraining corpora can run to trillions of tokens drawn from web crawls, books, and code. The size, quality, and diversity of a corpus strongly shape what a model trained on it can do.",
+  "example": null,
+  "related": [
+    "dataset",
+    "pretraining-corpus",
+    "common-crawl",
+    "data-curation",
+    "token"
+  ]
+}

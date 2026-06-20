@@ -1,0 +1,15 @@
+{
+  "slug": "nf4",
+  "term": "NF4",
+  "acronym": "4-bit NormalFloat",
+  "category": "Optimization",
+  "short": "A 4-bit number format for shrinking model weights with very little quality loss.",
+  "definition": "NF4, short for 4-bit NormalFloat, is a way of storing each of a model's weights using only four bits, with the small set of available values chosen to match how weights are normally spread out. It is the format behind QLoRA fine-tuning and lets very large models fit on a single graphics card with little loss in quality.",
+  "example": null,
+  "related": [
+    "quantization",
+    "qlora",
+    "lora",
+    "fp8"
+  ]
+}

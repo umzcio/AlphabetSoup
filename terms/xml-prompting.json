@@ -1,0 +1,15 @@
+{
+  "slug": "xml-prompting",
+  "term": "XML Prompting",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "Using XML-style tags to organize a prompt's sections and constraints.",
+  "definition": "XML prompting uses XML-style tags — paired labels like <context>...</context> borrowed from web markup — to wrap and label the parts of a prompt, marking where instructions, context, examples, and input begin and end. The explicit tag boundaries make it easy for a model to tell one section from another and to keep data separate from directions. It is a common structuring device, and some models are tuned to follow tagged prompts especially closely.",
+  "example": null,
+  "related": [
+    "structured-prompting",
+    "delimiters",
+    "prompt-engineering",
+    "prompt-template"
+  ]
+}

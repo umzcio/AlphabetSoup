@@ -1,0 +1,15 @@
+{
+  "slug": "deep-learning",
+  "term": "Deep Learning",
+  "acronym": "DL",
+  "category": "Foundations",
+  "short": "Machine learning built on neural networks with many stacked layers.",
+  "definition": "Deep learning is machine learning built on neural networks with many stacked layers. The depth lets the system learn increasingly abstract features from raw data — early layers catch edges or sounds, later layers assemble them into whole objects or concepts. It is trained with gradient descent and backpropagation and powers nearly all modern language models, image generators, and speech systems.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "neural-network",
+    "transformer",
+    "llm"
+  ]
+}

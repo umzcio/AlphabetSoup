@@ -1,0 +1,16 @@
+{
+  "slug": "crewai",
+  "term": "CrewAI",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source framework for orchestrating teams of role-playing AI agents.",
+  "definition": "CrewAI is an open-source framework for defining and running \"crews\" of AI agents that take on roles and collaborate to complete a larger objective. It provides abstractions for agents, tasks, tools, and memory, so a developer can assign each agent a role and let them coordinate. It is used to build structured multi-agent workflows and collaborative automation.",
+  "example": null,
+  "related": [
+    "multi-agent-system",
+    "multi-agent-collaboration",
+    "agent",
+    "role-prompting",
+    "autogen"
+  ]
+}

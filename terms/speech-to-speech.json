@@ -1,0 +1,15 @@
+{
+  "slug": "speech-to-speech",
+  "term": "Speech to Speech",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Converting spoken input directly into spoken output.",
+  "definition": "Speech to speech converts spoken input into spoken output, covering tasks like real-time speech translation and voice conversion. End-to-end systems map audio to audio directly, rather than transcribing to text, translating, and re-synthesizing in separate stages, which can preserve tone and reduce delay. It underpins voice assistants and live interpretation that respond by speaking back.",
+  "example": null,
+  "related": [
+    "speech-to-text",
+    "tts",
+    "omni-model",
+    "speech-language-model"
+  ]
+}

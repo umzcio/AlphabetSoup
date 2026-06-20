@@ -1,0 +1,15 @@
+{
+  "slug": "asr",
+  "term": "Automatic Speech Recognition",
+  "acronym": "Automatic Speech Recognition",
+  "category": "Multimodal",
+  "short": "Turning spoken audio into written text using acoustic and language modeling.",
+  "definition": "Automatic speech recognition converts spoken language into written text. Modern systems are end-to-end neural models trained on large amounts of labeled audio, handling varied accents, background noise, multiple speakers, and even translation. Persistent challenges include domain vocabulary and low-resource languages. ASR is the input pathway for voice assistants, live captioning, meeting transcription, and audio-language models, with Whisper a widely used open example.",
+  "example": null,
+  "related": [
+    "speech-to-text",
+    "whisper",
+    "tts",
+    "audio-language-model"
+  ]
+}

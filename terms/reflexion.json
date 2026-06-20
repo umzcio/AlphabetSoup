@@ -1,0 +1,16 @@
+{
+  "slug": "reflexion",
+  "term": "Reflexion",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An agent reviewing its past mistakes in natural language to guide its next attempt.",
+  "definition": "Reflexion lets an agent reflect on its previous outputs and errors in natural language, then feed that verbal critique back in to produce a better attempt. The reflection can come from the same model or a stronger critic. It is a lightweight way to add self-improvement loops to agents without external reward signals or reinforcement learning, since the feedback is plain text rather than a trained score.",
+  "example": null,
+  "related": [
+    "reflection",
+    "self-refine",
+    "agent",
+    "react",
+    "agent-memory"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "continual-learning",
+  "term": "Continual Learning",
+  "acronym": null,
+  "category": "Training",
+  "short": "Training a model on a stream of new tasks while retaining what it learned before.",
+  "definition": "Continual learning, also called lifelong learning, aims to let a model acquire new skills or knowledge from a stream of tasks while keeping its performance on earlier ones. The main obstacle is catastrophic forgetting, where updates for new tasks overwrite weights important to old ones. Mitigations include experience replay, regularizing toward prior weights, and modular or parameter-isolated architectures.",
+  "example": null,
+  "related": [
+    "catastrophic-forgetting",
+    "continued-pretraining",
+    "fine-tuning",
+    "transfer-learning"
+  ]
+}

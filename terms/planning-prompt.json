@@ -1,0 +1,15 @@
+{
+  "slug": "planning-prompt",
+  "term": "Planning Prompt",
+  "acronym": null,
+  "category": "Prompting",
+  "short": "A prompt that asks the model to outline a plan before it acts.",
+  "definition": "A planning prompt asks a model to lay out the steps of a task before carrying them out, rather than jumping straight to an answer. Sketching a plan first tends to improve reliability on multi-step problems and gives a structure that later steps or tool calls can follow. The pattern is common in agents, where an explicit plan guides a sequence of actions toward a goal.",
+  "example": null,
+  "related": [
+    "planning",
+    "plan-and-execute",
+    "chain-of-thought",
+    "agent"
+  ]
+}

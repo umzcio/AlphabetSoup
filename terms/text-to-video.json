@@ -1,0 +1,15 @@
+{
+  "slug": "text-to-video",
+  "term": "Text-to-Video",
+  "acronym": "T2V",
+  "category": "Multimodal",
+  "short": "Generating moving footage from a text prompt, keeping motion consistent.",
+  "definition": "Text-to-video generation creates moving footage from a text prompt. It is harder than still images because the model must keep objects and motion consistent from frame to frame while controlling cost. Common approaches adapt the same kinds of models used for images to work over a whole sequence of frames at once. It is a fast-moving area, with Sora a prominent example.",
+  "example": null,
+  "related": [
+    "video-generation",
+    "text-to-image",
+    "diffusion-model",
+    "sora"
+  ]
+}

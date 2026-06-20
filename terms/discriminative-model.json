@@ -1,0 +1,15 @@
+{
+  "slug": "discriminative-model",
+  "term": "Discriminative Model",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A model that predicts labels or decisions rather than generating new data.",
+  "definition": "A discriminative model learns to predict labels or decisions from inputs, modeling the boundary between classes rather than how the data itself was produced. It answers questions like which category an input belongs to. This contrasts with generative models, which learn to produce new data. Classifiers are the most common example.",
+  "example": null,
+  "related": [
+    "classifier",
+    "generative-ai",
+    "classification",
+    "supervised-learning"
+  ]
+}

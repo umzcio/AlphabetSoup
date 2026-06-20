@@ -1,0 +1,15 @@
+{
+  "slug": "hyperparameter",
+  "term": "Hyperparameter",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A configuration value set before training, such as learning rate or batch size.",
+  "definition": "A hyperparameter is a configuration value set before training begins, such as the learning rate, batch size, number of layers, or dropout rate. Unlike weights, hyperparameters are not learned from data; they control the optimization process and model architecture. Tuning them well, through grid search, random search, or Bayesian optimization, is often key to good results.",
+  "example": null,
+  "related": [
+    "hyperparameter-tuning",
+    "learning-rate",
+    "batch-size",
+    "weights"
+  ]
+}

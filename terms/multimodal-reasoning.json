@@ -1,0 +1,15 @@
+{
+  "slug": "multimodal-reasoning",
+  "term": "Multimodal Reasoning",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Reasoning jointly over several input types, like text plus images or charts.",
+  "definition": "Multimodal reasoning is a model's ability to reason jointly over several input types at once—text combined with images, charts, tables, diagrams, audio, or video. Rather than handling each in isolation, the model integrates them to draw conclusions. Strong multimodal reasoning supports visual math, document analysis, scientific figure interpretation, and agents that act on what they see.",
+  "example": null,
+  "related": [
+    "multimodal-model",
+    "vision-language-model",
+    "reasoning-model",
+    "visual-question-answering"
+  ]
+}

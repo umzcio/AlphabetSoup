@@ -1,0 +1,15 @@
+{
+  "slug": "image-editing",
+  "term": "AI Image Editing",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Using generative models to alter existing images, often from text instructions.",
+  "definition": "AI image editing uses generative models to modify existing images: filling in masked areas, extending a picture past its edges, applying the look of one image to another, adding or removing objects, and making changes from typed instructions. Modern systems follow plain-language requests while keeping the rest of the scene consistent. It is common in creative tools and design workflows, where it lets people revise an image without redrawing it from scratch.",
+  "example": null,
+  "related": [
+    "inpainting",
+    "image-to-image",
+    "diffusion-model",
+    "image-generation"
+  ]
+}

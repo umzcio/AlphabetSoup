@@ -1,0 +1,15 @@
+{
+  "slug": "microsoft-365-copilot",
+  "term": "Microsoft 365 Copilot",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Microsoft's AI assistant built into the Microsoft 365 productivity apps.",
+  "definition": "Microsoft 365 Copilot is Microsoft's work-focused AI assistant embedded in the Microsoft 365 apps such as Word, Excel, Outlook, PowerPoint, and Teams. It uses large language models grounded in an organization's own documents, email, and chat to draft content, summarize material, and answer questions across those apps. It is aimed at workplace productivity rather than open-ended consumer chat.",
+  "example": null,
+  "related": [
+    "microsoft",
+    "copilot",
+    "grounding",
+    "llm"
+  ]
+}

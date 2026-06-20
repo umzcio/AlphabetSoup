@@ -1,0 +1,15 @@
+{
+  "slug": "document-ai",
+  "term": "Document AI",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Systems that read, parse, and reason over documents like forms and invoices.",
+  "definition": "Document AI covers systems that read, parse, and reason over documents such as forms, contracts, invoices, and reports. They combine text extraction—often via optical character recognition—with layout understanding to capture tables, fields, and structure, increasingly using vision-language models. It feeds document content into automation and retrieval pipelines, and underpins tasks like invoice processing and contract review.",
+  "example": null,
+  "related": [
+    "ocr",
+    "vision-language-model",
+    "multimodal-model",
+    "rag"
+  ]
+}

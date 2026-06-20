@@ -1,0 +1,16 @@
+{
+  "slug": "aime",
+  "term": "AIME",
+  "acronym": "American Invitational Mathematics Examination",
+  "category": "Evaluation",
+  "short": "A hard high-school math competition repurposed to test mathematical reasoning in models.",
+  "definition": "AIME is a difficult United States high-school mathematics competition whose problems span algebra, number theory, combinatorics, and geometry. The AI community uses it as a benchmark for multi-step mathematical reasoning, since solutions require careful work rather than recall. Strong reasoning models now score highly on recent AIME problems, making it a marker of progress on hard reasoning.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "reasoning-model",
+    "gsm8k",
+    "chain-of-thought",
+    "evaluation"
+  ]
+}

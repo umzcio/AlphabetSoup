@@ -1,0 +1,15 @@
+{
+  "slug": "bias",
+  "term": "Bias",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Systematic, unfair disparities in model behavior across groups or contexts.",
+  "definition": "Bias in AI refers to systematic and unfair disparities in model behavior across groups such as race, gender, religion, or nationality. It can originate in unrepresentative training data, skewed human feedback labels, or spurious correlations the model learns. Bias may show up as uneven accuracy across dialects, stereotyped associations, or unfair refusals. Detecting and reducing it is a central concern in responsible development.",
+  "example": null,
+  "related": [
+    "training-data",
+    "human-feedback",
+    "toxicity",
+    "harmlessness"
+  ]
+}

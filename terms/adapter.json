@@ -1,0 +1,16 @@
+{
+  "slug": "adapter",
+  "term": "Adapter",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Small trainable modules inserted into a frozen model so it can learn new tasks cheaply.",
+  "definition": "Adapters are small neural network modules — a tiny stack that shrinks the data, transforms it, then expands it back — inserted between the layers of a frozen (unchanged) pretrained model. Only the adapter parameters are trained, leaving the base weights untouched. This parameter-efficient fine-tuning approach lets one backbone serve many tasks by swapping adapters, cutting storage and compute compared with full fine-tuning. LoRA and IA3 are modern variants of the idea.",
+  "example": null,
+  "related": [
+    "lora",
+    "ia3",
+    "peft",
+    "fine-tuning",
+    "prefix-tuning"
+  ]
+}

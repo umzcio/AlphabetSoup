@@ -1,0 +1,16 @@
+{
+  "slug": "artificial-intelligence",
+  "term": "Artificial Intelligence",
+  "acronym": "AI",
+  "category": "Foundations",
+  "short": "The broad field of building software that does things normally requiring human intelligence.",
+  "definition": "Artificial intelligence is the broad field of building software that can do things normally associated with human intelligence — understanding language, recognizing images, making decisions, or generating content. It spans everything from simple rule-based systems to deep neural networks, but modern AI is dominated by machine learning, where systems learn patterns from data rather than following hand-written rules.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "deep-learning",
+    "generative-ai",
+    "narrow-ai",
+    "neural-network"
+  ]
+}

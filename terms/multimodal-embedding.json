@@ -1,0 +1,15 @@
+{
+  "slug": "multimodal-embedding",
+  "term": "Multimodal Embedding",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "A shared vector space where related images, text, or audio sit close together.",
+  "definition": "Multimodal embeddings turn inputs of different kinds—such as images, text, and audio—into lists of numbers placed in one shared space, where items with similar meaning land close together no matter their original form. Models like CLIP learn these spaces by training on matched pairs. This lets a search in one form find content in another, and supports retrieval that mixes media for vision-language models.",
+  "example": null,
+  "related": [
+    "embedding",
+    "clip",
+    "multimodal-rag",
+    "vision-language-model"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "grpo",
+  "term": "Group Relative Policy Optimization",
+  "acronym": "GRPO",
+  "category": "Training",
+  "short": "A training method that scores several answers per prompt against each other instead of using a separate scoring model.",
+  "definition": "Group Relative Policy Optimization is a reinforcement-learning technique (learning by trial and reward) that generates several answers to a prompt and judges each one against the group's average. This relative comparison replaces the separate scoring model used by methods like PPO, cutting memory and computation. Popularized by DeepSeek-R1, it is widely used to train reasoning models, often with checkable rewards such as whether the math answer is correct.",
+  "example": null,
+  "related": [
+    "ppo",
+    "reinforcement-learning",
+    "reasoning-model",
+    "rlvr",
+    "policy-gradient"
+  ]
+}

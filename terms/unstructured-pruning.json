@@ -1,0 +1,16 @@
+{
+  "slug": "unstructured-pruning",
+  "term": "Unstructured Pruning",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Zeroing individual weights to reach high sparsity, needing sparse kernels for speedups.",
+  "definition": "Unstructured pruning sets individual weights to zero based on a criterion such as magnitude, gradient sensitivity, or a second-order estimate. It can reach very high sparsity with little accuracy loss, but because the removed weights are scattered irregularly, realizing actual speedups requires sparse computation kernels. SparseGPT and Wanda are notable methods that apply it to large language models.",
+  "example": null,
+  "related": [
+    "pruning",
+    "structured-pruning",
+    "sparsity",
+    "model-compression",
+    "quantization"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "parameter",
+  "term": "Parameter",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A learned numeric value inside a model, adjusted during training.",
+  "definition": "A parameter is one of the learned numbers inside a neural network, mostly weights and biases, whose values are set during training. A gradient-based optimizer adjusts them to reduce the loss. Parameter count is a rough proxy for model size, ranging from millions to over a trillion, though architecture and data matter just as much as raw count.",
+  "example": null,
+  "related": [
+    "weights",
+    "bias-term",
+    "hyperparameter",
+    "scaling-laws"
+  ]
+}

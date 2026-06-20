@@ -1,0 +1,15 @@
+{
+  "slug": "data-science",
+  "term": "Data Science",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "An interdisciplinary field that extracts insights from data using statistics and computing.",
+  "definition": "Data science is an interdisciplinary field that combines statistics, computer science, domain expertise, and visualization to extract useful insights from structured and unstructured data. It spans data collection, cleaning, exploration, modeling, and communicating results. Machine learning is one major tool within the broader data science workflow rather than the whole of it.",
+  "example": null,
+  "related": [
+    "machine-learning",
+    "data-cleaning",
+    "dataset",
+    "big-data"
+  ]
+}

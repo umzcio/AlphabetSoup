@@ -1,0 +1,15 @@
+{
+  "slug": "batch-size",
+  "term": "Batch Size",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The number of examples processed in one training step before the weights are updated.",
+  "definition": "Batch size is the number of examples used to estimate the needed weight adjustment in one training step before the model's weights are updated. Larger batches give a steadier estimate and use hardware efficiently but require more memory. Smaller batches add randomness that can help the model generalize but may need more steps to settle. It is a key training setting, often tuned alongside the learning rate.",
+  "example": null,
+  "related": [
+    "gradient-descent",
+    "hyperparameter",
+    "learning-rate",
+    "gradient-accumulation"
+  ]
+}

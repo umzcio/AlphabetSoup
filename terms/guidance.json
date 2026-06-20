@@ -1,0 +1,16 @@
+{
+  "slug": "guidance",
+  "term": "Guidance",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A Microsoft library for interleaving generation, logic, and constraints in one template.",
+  "definition": "Guidance is an open-source library from Microsoft for controlling what a language model writes by mixing the model's own text, your own logic, and tool calls inside a single template. It guides the model word by word to follow strict rules — such as a required data format — so the output comes out clean and structured without needing to be fixed up afterward. It works with models running locally or over the internet and suits reliable data extraction.",
+  "example": null,
+  "related": [
+    "constrained-decoding",
+    "structured-output",
+    "json-mode",
+    "guided-decoding",
+    "microsoft"
+  ]
+}

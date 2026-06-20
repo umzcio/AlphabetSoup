@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Inference & Serving",
   "short": "Splitting a long prompt's prefill into chunks so it doesn't block other requests.",
-  "definition": "Chunked prefill breaks the prefill phase of a long prompt into smaller token chunks that can be interleaved with the decode steps of other in-flight requests. Without it, one very long prompt can monopolize the GPU and spike time-to-first-token for everyone else. It is a key knob for keeping latency low in mixed short/long workloads.",
+  "definition": "Chunked prefill breaks prefill — the work of reading in a prompt before any answer is generated — into smaller pieces that can be interleaved with the token-by-token generation of other requests already running. Without it, one very long prompt can hog the GPU (the chip that runs the model) and make everyone else wait much longer for their first word of output. It is a key control for keeping response times low when short and long requests are mixed.",
   "example": null,
   "related": [
     "continuous-batching",

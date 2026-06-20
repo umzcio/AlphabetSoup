@@ -1,0 +1,16 @@
+{
+  "slug": "planner-executor",
+  "term": "Planner Executor",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A two-role setup where one component plans the steps and another carries them out.",
+  "definition": "Planner Executor is an agent pattern that splits work between two roles: a planner that decides what steps to take and an executor that performs them. The planner produces an ordered plan from a goal, and the executor runs each step, usually invoking tools and returning results. Separating decision-making from action keeps long tasks organized and makes the plan easier to inspect or adjust.",
+  "example": null,
+  "related": [
+    "plan-and-execute",
+    "planning",
+    "orchestrator-worker",
+    "agent",
+    "tool-use"
+  ]
+}

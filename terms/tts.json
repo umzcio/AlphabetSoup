@@ -1,0 +1,15 @@
+{
+  "slug": "tts",
+  "term": "Text-to-Speech",
+  "acronym": "Text-to-Speech",
+  "category": "Multimodal",
+  "short": "Synthesizing natural-sounding spoken audio from written text.",
+  "definition": "Text-to-speech creates spoken audio from written text. Modern systems often work in stages—reading the text, predicting how it should sound, then turning that into an audio waveform—or do it all in one model, trained on large amounts of recorded speech. Recent methods have improved how natural and expressive the voice sounds, and can even copy a specific person's voice. As the counterpart to speech recognition, it powers voice assistants, audiobooks, and accessibility tools.",
+  "example": null,
+  "related": [
+    "asr",
+    "speech-to-text",
+    "speech-to-speech",
+    "audio-language-model"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "kimi",
+  "term": "Kimi",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Moonshot AI's assistant and model family, known for long-context handling.",
+  "definition": "Kimi is the assistant and model family from the Chinese company Moonshot AI, known for handling very long inputs well and, in later open-weight releases (with the model's internal settings shared for anyone to download and run), strong coding and agentic performance — that is, carrying out multi-step tasks on its own. It is available as a chatbot and through model releases that developers can build on. Specific capabilities and versions change over time.",
+  "example": null,
+  "related": [
+    "moonshot-ai",
+    "chatbot",
+    "context-window",
+    "open-weights"
+  ]
+}

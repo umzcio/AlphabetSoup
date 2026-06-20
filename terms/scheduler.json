@@ -1,0 +1,16 @@
+{
+  "slug": "scheduler",
+  "term": "Scheduler",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "The component that decides which requests run and in what order over time.",
+  "definition": "A scheduler is the component of a serving system that decides how work is assigned over time — which requests to admit, batch together, or defer. In language model inference it manages queues, groups requests for efficiency, and applies policies like iteration-level scheduling so new requests can join an in-flight batch. Good scheduling balances throughput against per-request latency under changing load.",
+  "example": null,
+  "related": [
+    "continuous-batching",
+    "iteration-level-scheduling",
+    "throughput",
+    "latency",
+    "model-server"
+  ]
+}

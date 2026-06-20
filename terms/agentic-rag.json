@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-rag",
+  "term": "Agentic RAG",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Retrieval driven by an agent loop that decides when and what to search.",
+  "definition": "Agentic RAG combines RAG (looking up documents and feeding them to the model) with an agent loop, letting the model decide when to search, refine its queries, and pull more context across several steps rather than retrieving once up front. This handles complex or multi-part questions better than a single fixed retrieval, since the agent can follow up on gaps in what it finds. The cost is more model calls and a longer, harder-to-control loop.",
+  "example": null,
+  "related": [
+    "rag",
+    "agent",
+    "agentic-loop",
+    "retrieval-augmented-generation"
+  ]
+}

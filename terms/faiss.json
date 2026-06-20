@@ -1,0 +1,16 @@
+{
+  "slug": "faiss",
+  "term": "FAISS",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A library from Meta for fast similarity search over large collections of vectors.",
+  "definition": "FAISS is an open-source library from Meta for efficient similarity search and clustering over large sets of dense vectors. It provides indexing methods that find the nearest embeddings to a query, trading exact results for speed and memory when needed, and can run on CPUs or GPUs. It is a foundational building block inside many vector databases and retrieval systems.",
+  "example": null,
+  "related": [
+    "vector-database",
+    "embedding",
+    "semantic-search",
+    "chromadb",
+    "rag"
+  ]
+}

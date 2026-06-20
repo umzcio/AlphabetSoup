@@ -1,0 +1,14 @@
+{
+  "slug": "fp8",
+  "term": "FP8",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "An 8-bit floating-point format that cuts memory and boosts throughput on modern GPUs.",
+  "definition": "FP8 is an 8-bit floating-point number format supported by recent GPUs that uses eight bits per value instead of the historical sixteen or thirty-two. It roughly halves memory and can double throughput for both training and inference, at the cost of careful per-tensor scaling to stay accurate. It is increasingly used in large-model training pipelines and optimized serving engines.",
+  "example": null,
+  "related": [
+    "gpu",
+    "quantization",
+    "nvidia"
+  ]
+}

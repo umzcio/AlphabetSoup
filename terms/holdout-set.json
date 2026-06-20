@@ -1,0 +1,16 @@
+{
+  "slug": "holdout-set",
+  "term": "Holdout Set",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Data kept separate from training so a model can be tested on unseen examples.",
+  "definition": "A holdout set is data deliberately set aside and never used during training, so it can measure how well a model generalizes to unseen examples. Evaluating on held-out data guards against overstating performance, since a model can memorize its training set. Keeping the holdout truly separate is essential, as any leakage into training inflates the resulting scores.",
+  "example": null,
+  "related": [
+    "validation-set",
+    "test-set",
+    "overfitting",
+    "generalization",
+    "evaluation"
+  ]
+}

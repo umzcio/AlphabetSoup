@@ -1,0 +1,16 @@
+{
+  "slug": "sdxl",
+  "term": "SDXL",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A higher-capacity line of Stability AI's open Stable Diffusion image models.",
+  "definition": "SDXL is a higher-capacity line within Stability AI's open Stable Diffusion family of models that turn text descriptions into images. It improves image quality and how closely results match the prompt over earlier versions while keeping its weights open, so it can run on one's own machine and be adapted with extra training. Like its predecessors it builds images by gradually removing noise from a compressed version of the picture, and it anchors a large community of shared add-ons and tweaks.",
+  "example": null,
+  "related": [
+    "stable-diffusion",
+    "stability-ai",
+    "latent-diffusion",
+    "text-to-image",
+    "open-weights"
+  ]
+}

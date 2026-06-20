@@ -1,0 +1,15 @@
+{
+  "slug": "checkpoint",
+  "term": "Checkpoint",
+  "acronym": null,
+  "category": "Training",
+  "short": "A saved snapshot of a model's parameters at a point during or after training.",
+  "definition": "A checkpoint is a saved copy of a model's parameters, used to resume an interrupted run, evaluate progress partway through training, or release a finished model. Runs typically write checkpoints at regular intervals so work is not lost on failure. Released model weights are essentially a published checkpoint, frozen at the end of training.",
+  "example": null,
+  "related": [
+    "model-checkpoint",
+    "weights",
+    "training-step",
+    "safetensors"
+  ]
+}

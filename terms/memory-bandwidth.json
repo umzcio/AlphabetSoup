@@ -1,0 +1,16 @@
+{
+  "slug": "memory-bandwidth",
+  "term": "Memory Bandwidth",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "The rate at which a processor can read and write its memory, measured in gigabytes per second.",
+  "definition": "Memory bandwidth is the maximum rate at which a processor can move data to and from its memory, usually measured in gigabytes per second. In AI workloads it is often the binding constraint rather than raw compute, since generating tokens loads large amounts of weight data for relatively little arithmetic. GPUs and accelerators use high-bandwidth memory (HBM) to maximize this rate.",
+  "example": null,
+  "related": [
+    "hbm",
+    "roofline-model",
+    "arithmetic-intensity",
+    "memory-hierarchy",
+    "gpu"
+  ]
+}

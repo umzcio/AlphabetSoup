@@ -1,0 +1,16 @@
+{
+  "slug": "phi-silica",
+  "term": "Phi Silica",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A small Microsoft language model optimized to run on a device's neural processing unit.",
+  "definition": "Phi Silica is a small language model from Microsoft, optimized to run on a device's neural processing unit (a chip built for AI work) rather than in the cloud. By running on the local hardware, it processes and summarizes text quickly while keeping user data on the device. It is part of the broader move toward on-device and hybrid AI, where lightweight models handle routine work without sending data over the network.",
+  "example": null,
+  "related": [
+    "phi",
+    "microsoft",
+    "npu",
+    "inference",
+    "homelab-ai-server"
+  ]
+}

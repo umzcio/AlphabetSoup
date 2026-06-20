@@ -1,0 +1,16 @@
+{
+  "slug": "validation-set",
+  "term": "Validation Set",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Held-out data used to tune and compare models during development.",
+  "definition": "A validation set is data held out from training and used during development to tune hyperparameters (the settings that control how a model is trained), choose between models, and decide when to stop training. It gives an estimate of performance on unseen data while the model is still being shaped. Because choices are made against it, it is kept separate from the test set, which is reserved for the final unbiased evaluation.",
+  "example": null,
+  "related": [
+    "test-set",
+    "holdout-set",
+    "hyperparameter-tuning",
+    "early-stopping",
+    "overfitting"
+  ]
+}

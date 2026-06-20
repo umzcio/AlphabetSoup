@@ -1,0 +1,16 @@
+{
+  "slug": "quantization-aware-training",
+  "term": "Quantization-Aware Training",
+  "acronym": "QAT",
+  "category": "Optimization",
+  "short": "Simulating low precision during training so the model adapts to it.",
+  "definition": "Quantization-aware training inserts fake quantization operations during training so the model learns to compensate for the precision loss it will face at inference time. This yields noticeably better accuracy after quantizing — especially to INT8 or INT4 — than quantizing a model trained only in full precision. It costs more than post-training quantization but is common when deploying to edge devices or cost-sensitive serving.",
+  "example": null,
+  "related": [
+    "post-training-quantization",
+    "quantization",
+    "int8",
+    "int4-quantization",
+    "low-precision-inference"
+  ]
+}

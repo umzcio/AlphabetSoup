@@ -1,0 +1,15 @@
+{
+  "slug": "sakana-ai",
+  "term": "Sakana AI",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A Tokyo AI research lab exploring nature-inspired and evolutionary methods for building models.",
+  "definition": "Sakana AI is a Tokyo-based AI research company that investigates nature-inspired algorithms, evolutionary methods, and alternative scaling paradigms for building AI systems. It has published work on model merging, evolutionary model design, and efficient training approaches. It is one of the notable AI research labs based outside the US and China.",
+  "example": null,
+  "related": [
+    "scaling-laws",
+    "weights",
+    "distillation",
+    "synthetic-data"
+  ]
+}

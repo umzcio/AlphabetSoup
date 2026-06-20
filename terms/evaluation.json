@@ -1,0 +1,16 @@
+{
+  "slug": "evaluation",
+  "term": "Evaluation",
+  "acronym": "Evals",
+  "category": "Evaluation",
+  "short": "The methods used to judge a model's quality, safety, and reliability.",
+  "definition": "Evaluation, often shortened to evals, is the set of methods used to judge how well a model performs on quality, safety, and reliability. It ranges from standardized benchmarks and automatic metrics to human review and task-specific tests. Well-designed evals are central to building, comparing, and trusting AI systems, since they reveal both capabilities and failure modes.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "leaderboard",
+    "ground-truth",
+    "llm-as-judge",
+    "safety-eval"
+  ]
+}

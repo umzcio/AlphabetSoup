@@ -1,0 +1,15 @@
+{
+  "slug": "gradient-descent",
+  "term": "Gradient Descent",
+  "acronym": "GD",
+  "category": "Foundations",
+  "short": "The core training algorithm that adjusts weights downhill to lower a model's loss.",
+  "definition": "Gradient descent is the core training algorithm that repeatedly adjusts a model's weights in the direction that lowers its loss, taking a step whose size is set by the learning rate. Stochastic gradient descent approximates the full gradient using a random mini-batch, making it practical on large datasets. Modern optimizers such as Adam build on this idea with adaptive step sizes and momentum.",
+  "example": null,
+  "related": [
+    "sgd",
+    "learning-rate",
+    "backpropagation",
+    "optimizer"
+  ]
+}

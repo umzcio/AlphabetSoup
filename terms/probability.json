@@ -1,0 +1,16 @@
+{
+  "slug": "probability",
+  "term": "Probability",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A core mathematical idea behind how models score and sample possible outputs.",
+  "definition": "Probability is a core mathematical idea throughout machine learning. Models typically output a probability distribution over possible labels or next tokens, and training objectives like cross-entropy measure how well those predicted probabilities match reality. Sampling strategies such as temperature, top-p, and top-k all operate on these distributions. Calibration describes how well stated probabilities match observed frequencies.",
+  "example": null,
+  "related": [
+    "logits",
+    "softmax",
+    "cross-entropy",
+    "temperature",
+    "sampling"
+  ]
+}

@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Patterns",
   "short": "Tying a model's answers to verifiable external sources or data.",
-  "definition": "Grounding means anchoring a model's output to authoritative, verifiable information — retrieved documents, database records, or tool results — rather than relying solely on its parametric memory. Grounded systems can cite sources and are less prone to hallucination.",
+  "definition": "Grounding means anchoring a model's output to authoritative, verifiable information — retrieved documents, database records, or tool results — rather than relying solely on what it absorbed during training. Grounded systems can cite sources and are less prone to hallucination.",
   "example": null,
   "related": [
     "rag",

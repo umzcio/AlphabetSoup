@@ -1,0 +1,15 @@
+{
+  "slug": "epoch",
+  "term": "Epoch",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "One complete pass through the entire training dataset.",
+  "definition": "An epoch is one complete sweep through all of the training data, made up of many small update steps over batches (small groups of examples processed at a time). Models on smaller datasets are often trained for several epochs until the error stops improving, while very large pretraining runs may pass over their data only once or a fraction of a time. Fine-tuning runs typically use a small number of epochs.",
+  "example": null,
+  "related": [
+    "training-step",
+    "batch-size",
+    "pretraining",
+    "fine-tuning"
+  ]
+}

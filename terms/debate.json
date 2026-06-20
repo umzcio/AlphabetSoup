@@ -1,0 +1,15 @@
+{
+  "slug": "debate",
+  "term": "Multi-Agent Debate",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Multiple agents argue opposing positions and critique each other to reach a stronger answer.",
+  "definition": "Multi-agent debate sets two or more agents against each other on a question or proposal. The agents take opposing positions, present arguments, critique each other's reasoning, and iterate until they converge or the system picks the best-supported conclusion. The back-and-forth tends to surface errors and improve factuality on contentious or high-stakes questions, at the cost of extra model calls.",
+  "example": null,
+  "related": [
+    "multi-agent-system",
+    "multi-agent-collaboration",
+    "self-consistency",
+    "reflection"
+  ]
+}

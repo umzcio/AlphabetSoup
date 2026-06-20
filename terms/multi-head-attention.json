@@ -1,0 +1,16 @@
+{
+  "slug": "multi-head-attention",
+  "term": "Multi-Head Attention",
+  "acronym": "MHA",
+  "category": "Architectures",
+  "short": "Running several attention operations in parallel, each focused on different relationships between tokens.",
+  "definition": "Multi-Head Attention runs several attention operations in parallel, each with its own learned view of the words being compared. Each head can focus on a different kind of relationship between tokens, such as grammar in one and figuring out what a pronoun refers to in another. The heads' results are then combined back into a single output. It is the core attention block in every Transformer layer.",
+  "example": null,
+  "related": [
+    "attention",
+    "transformer",
+    "grouped-query-attention",
+    "multi-query-attention",
+    "kv-cache"
+  ]
+}

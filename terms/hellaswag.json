@@ -1,0 +1,16 @@
+{
+  "slug": "hellaswag",
+  "term": "HellaSwag",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A commonsense benchmark where models pick the most plausible ending to a short scenario.",
+  "definition": "HellaSwag is a commonsense reasoning benchmark in which a model reads a short situation and chooses the most plausible continuation from four options. The wrong choices are deliberately crafted to look plausible at a glance but break down on reflection, which made the task hard for earlier models. Modern language models have largely solved it, so it now serves as a baseline rather than a frontier evaluation.",
+  "example": null,
+  "related": [
+    "benchmark",
+    "evaluation",
+    "arc",
+    "mmlu",
+    "lm-eval-harness"
+  ]
+}

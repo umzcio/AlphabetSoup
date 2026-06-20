@@ -1,0 +1,16 @@
+{
+  "slug": "model-checkpoint",
+  "term": "Model Checkpoint",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A saved snapshot of a model's state taken during or after training.",
+  "definition": "A model checkpoint is a saved snapshot of a model's state, usually its weights and sometimes its optimizer state, captured at a point during or after training. Checkpoints let a run resume after interruption, allow comparison of versions, and provide the artifact that is loaded for inference. They are how training progress is preserved and shared.",
+  "example": null,
+  "related": [
+    "weights",
+    "checkpoint",
+    "safetensors",
+    "fine-tuning",
+    "inference"
+  ]
+}

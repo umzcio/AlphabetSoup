@@ -1,0 +1,16 @@
+{
+  "slug": "gpt-5-4",
+  "term": "GPT-5.4",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A later GPT model that handles voice, images, and text in one network, with built-in step-by-step reasoning.",
+  "definition": "GPT-5.4 is a later model in OpenAI's GPT line, built so that voice, images, and text all pass through a single network, which speeds up responses and preserves fine detail in audio such as tone of voice. It builds in the kind of slow, step-by-step reasoning that earlier lived in separate reasoning models, and is positioned as a cost-efficient everyday workhorse.",
+  "example": null,
+  "related": [
+    "openai",
+    "gpt",
+    "gpt-4o",
+    "multimodal-model",
+    "reasoning-model"
+  ]
+}

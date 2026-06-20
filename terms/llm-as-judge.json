@@ -1,0 +1,16 @@
+{
+  "slug": "llm-as-judge",
+  "term": "LLM-as-a-Judge",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Using a capable model to score or compare the outputs of other models.",
+  "definition": "LLM-as-a-Judge uses a capable language model, often guided by a rubric or reference answer, to score a response or pick the better of two candidates. It scales evaluation beyond what human annotators can label and underpins preference learning, benchmark construction, and production monitoring. It can inherit biases — favoring the first or longer answer, or its own outputs — so judgments are validated against human ratings.",
+  "example": null,
+  "related": [
+    "evaluation",
+    "rubric",
+    "pairwise-comparison",
+    "win-rate",
+    "preference-data"
+  ]
+}

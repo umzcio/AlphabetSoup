@@ -1,0 +1,15 @@
+{
+  "slug": "text-to-image",
+  "term": "Text-to-Image",
+  "acronym": "T2I",
+  "category": "Multimodal",
+  "short": "Generating a picture from a written description, usually with a diffusion model.",
+  "definition": "Text-to-image generation produces a picture from a written prompt, usually with a diffusion model that starts from random noise and gradually cleans it into an image, steered by the meaning of the prompt. It is one of the most popular uses of generative AI, behind systems such as DALL-E and Midjourney and open models like Stable Diffusion. The same approach also supports many editing tasks.",
+  "example": null,
+  "related": [
+    "image-generation",
+    "diffusion-model",
+    "stable-diffusion",
+    "latent-diffusion"
+  ]
+}

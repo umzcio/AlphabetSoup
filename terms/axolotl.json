@@ -1,0 +1,16 @@
+{
+  "slug": "axolotl",
+  "term": "Axolotl",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source tool for fine-tuning (further training) language models from a single settings file.",
+  "definition": "Axolotl is an open-source tool that simplifies fine-tuning — further training a large language model on your own data. It bundles several lower-level training libraries behind one plain settings file, so a user fills in options instead of writing code. It supports full retraining and lighter methods like LoRA and QLoRA that adjust only a small part of the model, plus common chat formats, and is popular for launching repeatable training runs quickly.",
+  "example": null,
+  "related": [
+    "fine-tuning",
+    "lora",
+    "qlora",
+    "peft",
+    "trl"
+  ]
+}

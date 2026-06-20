@@ -1,0 +1,16 @@
+{
+  "slug": "tokenization",
+  "term": "Tokenization",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Breaking input text into tokens, often sub-word pieces, before a model processes it.",
+  "definition": "Tokenization is the step that breaks input text into tokens, often sub-word pieces, before a model processes it. The choice of tokenizer affects how efficiently a model handles different languages and code, since some are split into many more pieces than others. It also determines how length and cost are measured, because models bill and limit context by token count.",
+  "example": null,
+  "related": [
+    "token",
+    "tokenizer",
+    "byte-pair-encoding",
+    "vocabulary",
+    "context-window"
+  ]
+}

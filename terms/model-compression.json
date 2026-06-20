@@ -1,0 +1,16 @@
+{
+  "slug": "model-compression",
+  "term": "Model Compression",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Shrinking a trained model so it runs faster and on smaller hardware.",
+  "definition": "Model compression reduces the size and resource needs of a trained model so it can run efficiently on servers or edge devices. It combines techniques such as quantization, pruning, knowledge distillation, and weight clustering to cut a model's footprint, often substantially. The result lowers deployment cost, improves response times, and makes offline, on-device AI possible.",
+  "example": null,
+  "related": [
+    "quantization",
+    "pruning",
+    "distillation",
+    "low-precision-inference",
+    "sparsity"
+  ]
+}

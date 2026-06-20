@@ -1,0 +1,16 @@
+{
+  "slug": "preference-learning",
+  "term": "Preference Learning",
+  "acronym": null,
+  "category": "Training",
+  "short": "Training a model to align with which of several candidate outputs people prefer.",
+  "definition": "Preference learning trains a model to align with human or AI preferences by showing it pairs or sets of candidate outputs labeled by which is better. A reward model or implicit reward signal then guides the model toward higher-quality, safer, and more helpful responses. It underlies RLHF, DPO, and GRPO, and avoids needing an exact correct answer for every query.",
+  "example": null,
+  "related": [
+    "preference-data",
+    "reward-model",
+    "rlhf",
+    "dpo",
+    "preference-optimization"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "openxla",
+  "term": "OpenXLA",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open compiler stack that optimizes machine learning models for varied hardware.",
+  "definition": "OpenXLA is an open-source compiler stack for machine learning. It takes models expressed in frameworks like JAX, PyTorch, or TensorFlow and compiles them into optimized code for a range of hardware, including GPUs and TPUs. By sitting between frameworks and accelerators, it aims to give portable, high-performance execution without framework-specific tuning.",
+  "example": null,
+  "related": [
+    "jax",
+    "tpu",
+    "torch-compile",
+    "tensorflow",
+    "inference"
+  ]
+}

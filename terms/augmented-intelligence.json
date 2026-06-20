@@ -1,0 +1,15 @@
+{
+  "slug": "augmented-intelligence",
+  "term": "Augmented Intelligence",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A framing of AI that supports human judgment rather than replacing it.",
+  "definition": "Augmented intelligence is a framing of AI that emphasizes supporting human work instead of automating it away. The same underlying technology as other AI is used, but the design keeps a person in control while the system handles suggestions, analysis, or drafting. This human-in-the-loop framing is common in healthcare, legal, and financial settings where human oversight and accountability are essential.",
+  "example": null,
+  "related": [
+    "human-in-the-loop",
+    "copilot",
+    "artificial-intelligence",
+    "agentic-ai"
+  ]
+}

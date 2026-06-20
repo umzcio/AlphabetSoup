@@ -1,0 +1,16 @@
+{
+  "slug": "tgi",
+  "term": "Text Generation Inference",
+  "acronym": "TGI",
+  "category": "Frameworks & Tools",
+  "short": "Hugging Face's open-source server for deploying language models in production.",
+  "definition": "Text Generation Inference is Hugging Face's open-source server for deploying large language models in production. It includes continuous batching, optimized attention kernels, and quantization support to serve open models efficiently on GPUs. It is one of several engines used to turn a downloaded model into a fast, scalable inference endpoint.",
+  "example": null,
+  "related": [
+    "vllm",
+    "continuous-batching",
+    "hugging-face",
+    "inference-engine",
+    "model-server"
+  ]
+}

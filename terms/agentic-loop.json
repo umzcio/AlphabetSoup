@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-loop",
+  "term": "Agentic Loop",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "The repeating cycle in which an agent reasons, acts, observes, and continues.",
+  "definition": "An agentic loop is the core execution pattern of an AI agent. On each iteration the model takes in the current context — goal, history, and recent tool results — produces reasoning and a chosen action, executes that action, and observes the output, repeating until a stopping condition is met. Loop design matters: a poorly bounded loop can spin indefinitely, accumulate context, or fail silently.",
+  "example": null,
+  "related": [
+    "agent",
+    "loop-engineering",
+    "react",
+    "tool-calling"
+  ]
+}
