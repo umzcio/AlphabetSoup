@@ -1,0 +1,15 @@
+{
+  "slug": "ai-race",
+  "term": "AI Race",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The competition among companies and countries to build the most capable AI fastest.",
+  "definition": "The AI race is the intense competition among companies and nations to develop the most capable AI first. Supporters say competition drives progress; critics warn it can pressure developers to cut corners on safety and testing. It shapes funding, policy, and how openly models are released.",
+  "example": null,
+  "related": [
+    "frontier-model",
+    "ai-governance",
+    "ai-safety",
+    "ai-bubble"
+  ]
+}

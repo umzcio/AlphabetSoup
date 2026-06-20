@@ -1,0 +1,15 @@
+{
+  "slug": "gradient-boosting",
+  "term": "Gradient Boosting",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "An ensemble method that builds models in sequence, each fixing the previous one's mistakes.",
+  "definition": "Gradient boosting builds a model out of many small models — usually decision trees — added one at a time, where each new tree focuses on correcting the errors of the ones before it. The result is a highly accurate predictor, and tools like XGBoost and LightGBM make it a top choice for spreadsheet-style data.",
+  "example": null,
+  "related": [
+    "decision-tree",
+    "random-forest",
+    "ensemble-learning",
+    "machine-learning"
+  ]
+}

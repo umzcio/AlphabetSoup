@@ -1,0 +1,15 @@
+{
+  "slug": "dual-use",
+  "term": "Dual-Use",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Technology that can be used for both beneficial and harmful purposes.",
+  "definition": "Dual-use describes technology that can serve both helpful and harmful ends. A model that designs medicines could in principle help design toxins; one that finds software bugs could fix them or exploit them. The dual-use nature of capable AI drives much of the debate over access, safeguards, and how openly to release models.",
+  "example": null,
+  "related": [
+    "ai-safety",
+    "red-teaming",
+    "capability-boundary",
+    "ai-governance"
+  ]
+}

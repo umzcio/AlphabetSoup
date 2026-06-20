@@ -1,0 +1,15 @@
+{
+  "slug": "linear-regression",
+  "term": "Linear Regression",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The simplest regression method, fitting a straight-line relationship between inputs and a number.",
+  "definition": "Linear regression is the simplest and oldest regression method. It fits a straight-line relationship between input features and a numeric target, choosing the line that best matches the training data. Despite its simplicity, it is widely used, easy to interpret, and a building block for more complex models.",
+  "example": null,
+  "related": [
+    "regression",
+    "supervised-learning",
+    "logistic-regression",
+    "machine-learning"
+  ]
+}

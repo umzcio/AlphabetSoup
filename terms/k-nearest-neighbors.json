@@ -1,0 +1,15 @@
+{
+  "slug": "k-nearest-neighbors",
+  "term": "K-Nearest Neighbors",
+  "acronym": "kNN",
+  "category": "Foundations",
+  "short": "A simple method that classifies a new item by looking at its closest known examples.",
+  "definition": "K-nearest neighbors (kNN) makes a prediction for a new item by finding the k most similar examples in the training data and taking their majority label or average value. It needs almost no training, but it can be slow and memory-heavy because it compares against all stored examples at prediction time.",
+  "example": null,
+  "related": [
+    "classification",
+    "clustering",
+    "machine-learning",
+    "embedding"
+  ]
+}

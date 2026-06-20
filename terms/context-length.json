@@ -1,0 +1,15 @@
+{
+  "slug": "context-length",
+  "term": "Context Length",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "How much text a model can consider at once; the size of its context window.",
+  "definition": "Context length is how much text a model can take into account at once, measured in tokens — essentially the size of its context window. A longer context length lets a model work with bigger documents and longer conversations, but it costs more memory and compute to process.",
+  "example": null,
+  "related": [
+    "context-window",
+    "token",
+    "long-context-modeling",
+    "token-limit"
+  ]
+}

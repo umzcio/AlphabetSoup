@@ -1,0 +1,15 @@
+{
+  "slug": "confusion-matrix",
+  "term": "Confusion Matrix",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A table showing where a classifier was right and where it mistook one class for another.",
+  "definition": "A confusion matrix is a small table that lays out a classifier's predictions against the true answers, showing how many it got right and exactly which classes it mixed up. It is the basis for metrics like precision and recall, and it reveals patterns that a single accuracy number hides.",
+  "example": null,
+  "related": [
+    "classification",
+    "precision",
+    "recall",
+    "f1-score"
+  ]
+}

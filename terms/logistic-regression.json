@@ -1,0 +1,15 @@
+{
+  "slug": "logistic-regression",
+  "term": "Logistic Regression",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A simple, widely used method for sorting things into categories, despite its name.",
+  "definition": "Logistic regression is a simple, popular method for classification — predicting a category, such as spam or not-spam — despite the word 'regression' in its name. It estimates the probability that an input belongs to a class, and it is valued for being fast and easy to interpret.",
+  "example": null,
+  "related": [
+    "classification",
+    "linear-regression",
+    "supervised-learning",
+    "machine-learning"
+  ]
+}

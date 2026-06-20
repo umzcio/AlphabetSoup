@@ -1,0 +1,15 @@
+{
+  "slug": "roc-auc",
+  "term": "ROC-AUC",
+  "acronym": "Receiver Operating Characteristic, Area Under the Curve",
+  "category": "Evaluation",
+  "short": "A score summarizing how well a classifier separates two classes across all cutoffs.",
+  "definition": "ROC-AUC scores a classifier across every possible decision threshold. The ROC curve plots the true-positive rate against the false-positive rate, and the AUC — the area under that curve — condenses it into one number from 0.5 (random) to 1.0 (perfect). It is popular because it does not depend on a single cutoff.",
+  "example": null,
+  "related": [
+    "confusion-matrix",
+    "precision",
+    "recall",
+    "evaluation"
+  ]
+}

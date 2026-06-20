@@ -1,0 +1,15 @@
+{
+  "slug": "sandbox",
+  "term": "Sandbox",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An isolated environment for running code or AI safely, walled off from the real system.",
+  "definition": "A sandbox is an isolated environment where code or an AI system can run without touching the real system around it. Sandboxes let developers test safely and let AI agents execute code or use tools while limiting the damage a mistake or attack could cause.",
+  "example": null,
+  "related": [
+    "agent-sandbox",
+    "agent-permissioning",
+    "guardrails",
+    "capability-boundary"
+  ]
+}

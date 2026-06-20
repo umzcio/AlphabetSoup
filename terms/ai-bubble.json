@@ -1,0 +1,15 @@
+{
+  "slug": "ai-bubble",
+  "term": "AI Bubble",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The worry that AI investment and hype have outpaced real value and may sharply correct.",
+  "definition": "The AI bubble is the concern that investment, valuations, and hype around AI have run ahead of the real value being delivered, and could sharply correct, echoing past technology bubbles. Whether today's AI spending is a bubble or a lasting shift is widely debated, with strong views on both sides.",
+  "example": null,
+  "related": [
+    "ai-race",
+    "ai-winter",
+    "frontier-model",
+    "artificial-intelligence"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "random-forest",
+  "term": "Random Forest",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A model that combines many decision trees and averages them for more accurate, stable predictions.",
+  "definition": "A random forest combines many decision trees, each trained on a random slice of the data and features, then averages or votes across them. Pooling many imperfect trees produces predictions that are more accurate and less prone to overfitting than any single tree. It is a reliable workhorse for everyday machine learning.",
+  "example": null,
+  "related": [
+    "decision-tree",
+    "ensemble-learning",
+    "gradient-boosting",
+    "machine-learning"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "ensemble-learning",
+  "term": "Ensemble Learning",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Combining several models so their pooled prediction beats any single one.",
+  "definition": "Ensemble learning combines the predictions of several models so the group performs better than any individual model. By averaging or voting, ensembles cancel out individual errors and reduce overfitting. Random forests and gradient boosting are popular examples, and ensembles often win machine-learning competitions.",
+  "example": null,
+  "related": [
+    "random-forest",
+    "gradient-boosting",
+    "decision-tree",
+    "machine-learning"
+  ]
+}

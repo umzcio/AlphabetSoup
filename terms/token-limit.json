@@ -1,0 +1,15 @@
+{
+  "slug": "token-limit",
+  "term": "Token Limit",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "The maximum number of tokens a model can take in or produce in one request.",
+  "definition": "A token limit is the maximum number of tokens — the word-pieces a model reads and writes — allowed in a single request. It covers the prompt plus the response and is set by the model's context window. Going over forces you to shorten the input or split the work into parts.",
+  "example": null,
+  "related": [
+    "token",
+    "context-window",
+    "context-length",
+    "llm"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "dimensionality-reduction",
+  "term": "Dimensionality Reduction",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Shrinking data from many variables down to a few while keeping the important structure.",
+  "definition": "Dimensionality reduction shrinks data described by many variables down to a smaller number while preserving as much meaningful structure as possible. It makes data easier to visualize, store, and model, and it cuts noise. Common methods include principal component analysis and learned embeddings.",
+  "example": null,
+  "related": [
+    "principal-component-analysis",
+    "embedding",
+    "feature-engineering",
+    "unsupervised-learning"
+  ]
+}

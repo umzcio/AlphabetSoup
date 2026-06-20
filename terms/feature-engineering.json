@@ -1,0 +1,15 @@
+{
+  "slug": "feature-engineering",
+  "term": "Feature Engineering",
+  "acronym": null,
+  "category": "Data",
+  "short": "Crafting and selecting the input variables that help a model learn better.",
+  "definition": "Feature engineering is the work of creating, selecting, and shaping the input variables (features) a model learns from — for example, turning a raw date into 'day of week' or combining two columns. Good features often improve results more than a fancier model. Deep learning reduces but does not eliminate the need for it.",
+  "example": null,
+  "related": [
+    "feature",
+    "machine-learning",
+    "data-curation",
+    "supervised-learning"
+  ]
+}

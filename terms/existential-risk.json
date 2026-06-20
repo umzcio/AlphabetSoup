@@ -1,0 +1,15 @@
+{
+  "slug": "existential-risk",
+  "term": "Existential Risk",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The concern that advanced AI could pose a catastrophic, even civilization-ending, threat.",
+  "definition": "Existential risk, often shortened to x-risk, is the concern that highly capable AI could cause catastrophic, possibly irreversible harm to humanity if it grows powerful while poorly aligned with human values. It is a serious focus for some researchers and policymakers, and a point of sharp disagreement about how likely or near it is.",
+  "example": null,
+  "related": [
+    "ai-safety",
+    "superintelligence",
+    "alignment",
+    "p-doom"
+  ]
+}

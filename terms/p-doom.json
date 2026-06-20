@@ -1,0 +1,15 @@
+{
+  "slug": "p-doom",
+  "term": "P(doom)",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A person's rough estimate of the probability that AI leads to catastrophe.",
+  "definition": "P(doom) is informal shorthand for someone's rough estimate of the probability that advanced AI leads to catastrophic or existential harm. Researchers cite wildly different numbers, reflecting deep uncertainty. It works more as a conversational gauge of how worried a person is than as a rigorous measurement.",
+  "example": null,
+  "related": [
+    "existential-risk",
+    "ai-safety",
+    "superintelligence",
+    "alignment"
+  ]
+}

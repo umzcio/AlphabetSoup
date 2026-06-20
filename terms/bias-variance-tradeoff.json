@@ -1,0 +1,15 @@
+{
+  "slug": "bias-variance-tradeoff",
+  "term": "Bias-Variance Tradeoff",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The balance between a model being too simple (bias) and too sensitive to its data (variance).",
+  "definition": "The bias-variance tradeoff is a core machine-learning idea describing two ways models fail. High bias means the model is too simple and misses real patterns (underfitting); high variance means it is too tuned to the training data's quirks and fails on new data (overfitting). Good models balance the two.",
+  "example": null,
+  "related": [
+    "overfitting",
+    "underfitting",
+    "generalization",
+    "regularization"
+  ]
+}

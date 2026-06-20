@@ -1,0 +1,15 @@
+{
+  "slug": "support-vector-machine",
+  "term": "Support Vector Machine",
+  "acronym": "SVM",
+  "category": "Foundations",
+  "short": "A classic algorithm that separates categories by finding the widest gap between them.",
+  "definition": "A support vector machine (SVM) is a classic classification algorithm that separates categories by finding the boundary with the widest possible margin between them. With a mathematical trick called a kernel, it can also handle data that no straight line can split. SVMs were a leading method before deep learning.",
+  "example": null,
+  "related": [
+    "classification",
+    "machine-learning",
+    "supervised-learning",
+    "logistic-regression"
+  ]
+}

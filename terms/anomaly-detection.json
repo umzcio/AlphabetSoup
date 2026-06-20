@@ -1,0 +1,15 @@
+{
+  "slug": "anomaly-detection",
+  "term": "Anomaly Detection",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Spotting data points that don't fit the normal pattern, such as fraud or equipment faults.",
+  "definition": "Anomaly detection is the task of spotting data points that do not fit the normal pattern — a fraudulent transaction, a failing machine, a network intrusion. Because real anomalies are rare and varied, models often learn what 'normal' looks like and flag anything that deviates from it.",
+  "example": null,
+  "related": [
+    "unsupervised-learning",
+    "clustering",
+    "machine-learning",
+    "predictive-analytics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "mlops",
+  "term": "MLOps",
+  "acronym": "Machine Learning Operations",
+  "category": "Frameworks & Tools",
+  "short": "The tools and practices for deploying, monitoring, and maintaining ML models in production.",
+  "definition": "MLOps (machine learning operations) is the set of tools and practices for reliably deploying, monitoring, and maintaining machine-learning models in production. It borrows from software DevOps to handle data pipelines, model versioning, testing, and retraining. LLMOps is a newer offshoot focused on large language models.",
+  "example": null,
+  "related": [
+    "llmops",
+    "model-monitoring",
+    "concept-drift",
+    "telemetry"
+  ]
+}

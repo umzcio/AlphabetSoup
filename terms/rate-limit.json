@@ -1,0 +1,15 @@
+{
+  "slug": "rate-limit",
+  "term": "Rate Limit",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A cap on how many requests you can make to a service in a given time.",
+  "definition": "A rate limit is a cap on how many requests a user or app may make to a service within a period of time. AI providers put rate limits on their APIs to keep service stable and fair and to control cost. Hitting one usually returns an error and means waiting or requesting a higher limit.",
+  "example": null,
+  "related": [
+    "api",
+    "responses-api",
+    "llm",
+    "throughput"
+  ]
+}

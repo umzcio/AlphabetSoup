@@ -1,0 +1,15 @@
+{
+  "slug": "model-collapse",
+  "term": "Model Collapse",
+  "acronym": null,
+  "category": "Data",
+  "short": "The gradual degradation of models trained too much on AI-generated data.",
+  "definition": "Model collapse is the gradual degradation that can happen when models are trained over and over on AI-generated data instead of real human data. Each generation loses some of the variety and rare cases of the original, so quality drifts and narrows. It is a growing concern as more of the internet becomes AI-written.",
+  "example": null,
+  "related": [
+    "synthetic-data",
+    "data-curation",
+    "pretraining-corpus",
+    "generative-ai"
+  ]
+}

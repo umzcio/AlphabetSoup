@@ -1,0 +1,15 @@
+{
+  "slug": "k-means",
+  "term": "K-Means",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A popular algorithm that groups data into a chosen number of clusters.",
+  "definition": "K-means is a popular clustering algorithm that sorts data into a chosen number (k) of groups by repeatedly assigning each point to the nearest group center and recomputing those centers. It is fast and widely used for tasks like customer segmentation, though you must pick the number of clusters in advance.",
+  "example": null,
+  "related": [
+    "clustering",
+    "unsupervised-learning",
+    "k-nearest-neighbors",
+    "machine-learning"
+  ]
+}

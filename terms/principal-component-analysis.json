@@ -1,0 +1,15 @@
+{
+  "slug": "principal-component-analysis",
+  "term": "Principal Component Analysis",
+  "acronym": "PCA",
+  "category": "Foundations",
+  "short": "A classic technique that compresses many correlated variables into a few key dimensions.",
+  "definition": "Principal component analysis (PCA) is a classic technique for dimensionality reduction. It finds the directions along which the data varies the most and re-expresses the data using just those few directions, compressing many correlated variables into a handful of informative ones. It is widely used for visualization and noise reduction.",
+  "example": null,
+  "related": [
+    "dimensionality-reduction",
+    "embedding",
+    "feature-engineering",
+    "unsupervised-learning"
+  ]
+}

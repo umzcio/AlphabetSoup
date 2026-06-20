@@ -1,0 +1,15 @@
+{
+  "slug": "superintelligence",
+  "term": "Superintelligence",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Hypothetical AI that far exceeds the best human minds across virtually all fields.",
+  "definition": "Superintelligence is hypothetical AI that would far surpass the best human minds across virtually every field, including science, strategy, and creativity. Also captured by the term ASI, it sits beyond human-level general intelligence and is central to debates about AI's long-term risks and benefits.",
+  "example": null,
+  "related": [
+    "asi",
+    "agi",
+    "existential-risk",
+    "technological-singularity"
+  ]
+}

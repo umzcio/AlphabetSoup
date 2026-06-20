@@ -1,0 +1,15 @@
+{
+  "slug": "vram",
+  "term": "VRAM",
+  "acronym": "Video RAM",
+  "category": "Hardware & Systems",
+  "short": "The fast memory on a GPU that holds the model and data it's working on.",
+  "definition": "VRAM (video RAM) is the fast memory built into a GPU. In AI it holds the model's weights and the data being processed, so the amount of VRAM sets a hard limit on how large a model a given GPU can run. Limited VRAM is a major reason models are compressed through quantization.",
+  "example": null,
+  "related": [
+    "gpu",
+    "quantization",
+    "kv-cache",
+    "hbm"
+  ]
+}

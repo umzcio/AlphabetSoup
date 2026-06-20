@@ -1,0 +1,15 @@
+{
+  "slug": "batch-processing",
+  "term": "Batch Processing",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Running many jobs together in bulk, often cheaper but slower than one at a time.",
+  "definition": "Batch processing runs many tasks together as a group rather than one at a time in real time. AI providers often offer cheaper batch options for large jobs — like labeling a million records — that can wait, since the work can be scheduled when spare capacity is available. It trades speed for lower cost.",
+  "example": null,
+  "related": [
+    "batching",
+    "inference",
+    "throughput",
+    "webhook"
+  ]
+}

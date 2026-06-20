@@ -1,0 +1,15 @@
+{
+  "slug": "webhook",
+  "term": "Webhook",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An automatic message a service sends to your app when an event happens.",
+  "definition": "A webhook is an automatic message one service sends to another the moment an event happens, instead of the receiver having to keep asking. In AI apps, webhooks deliver results from long-running jobs — like a finished video or a completed batch — as soon as they are ready.",
+  "example": null,
+  "related": [
+    "api",
+    "batch-processing",
+    "automation",
+    "llmops"
+  ]
+}

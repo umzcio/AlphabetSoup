@@ -1,0 +1,15 @@
+{
+  "slug": "naive-bayes",
+  "term": "Naive Bayes",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A fast, simple classifier based on probabilities, often used for text and spam filtering.",
+  "definition": "Naive Bayes is a fast, simple classification method based on probability. It assumes each input feature contributes independently to the result — a 'naive' simplification that rarely holds exactly but works surprisingly well in practice. It is a classic choice for text tasks like spam filtering and topic labeling.",
+  "example": null,
+  "related": [
+    "classification",
+    "machine-learning",
+    "sentiment-analysis",
+    "supervised-learning"
+  ]
+}

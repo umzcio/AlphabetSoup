@@ -1,0 +1,15 @@
+{
+  "slug": "decision-tree",
+  "term": "Decision Tree",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A model that makes a prediction by following a branching series of yes/no questions.",
+  "definition": "A decision tree makes a prediction by asking a sequence of simple yes/no questions about the input, branching at each step until it reaches an answer. Trees are easy to read and explain, but a single tree can overfit, which is why they are often combined into forests or boosted ensembles.",
+  "example": null,
+  "related": [
+    "random-forest",
+    "gradient-boosting",
+    "classification",
+    "machine-learning"
+  ]
+}

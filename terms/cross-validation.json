@@ -1,0 +1,15 @@
+{
+  "slug": "cross-validation",
+  "term": "Cross-Validation",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "Testing a model by training and checking it on different slices of the data in turn.",
+  "definition": "Cross-validation estimates how well a model will perform on new data by splitting the data into several parts, then training on some and testing on the held-out part, rotating through all of them. Averaging the results gives a more reliable score than a single train/test split, especially with limited data.",
+  "example": null,
+  "related": [
+    "holdout-set",
+    "validation-set",
+    "overfitting",
+    "evaluation"
+  ]
+}
