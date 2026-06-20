@@ -9,7 +9,7 @@
   "related": [
     "cross-entropy",
     "loss-function",
-    "perplexity-metric",
+    "perplexity",
     "softmax",
     "classification"
   ]

@@ -7,7 +7,6 @@
   "definition": "Perplexity AI is the main product of Perplexity, Inc., functioning as an answer engine: users ask questions in natural language and receive direct answers synthesized from real-time web sources, with inline citations to the original content. It combines its own retrieval systems with large language models from several providers, and adds features for multi-step research, organizing projects, and agentic browsing. The emphasis is on cited, current answers rather than open-ended chat.",
   "example": null,
   "related": [
-    "perplexity-answer-engine",
     "rag",
     "citation",
     "semantic-search",
