@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # This repo is dictionary DATA (term JSONs) — its only automation is the
+  # validate/notify GitHub Actions workflows. Keep those actions current.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    labels:
+      - "dependencies"
+      - "github-actions"
