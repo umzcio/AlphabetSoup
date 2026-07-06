@@ -1,0 +1,13 @@
+{
+  "slug": "workslop",
+  "term": "Workslop",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "AI-generated work output that looks polished but is low-quality, pushing the cleanup work onto someone else.",
+  "definition": "Workslop is AI-generated content produced at work — a report, a summary, a chunk of code — that looks professional and complete at a glance but turns out to be shallow, wrong, or missing key context once someone actually relies on it. Because it arrives looking finished, it often gets passed along before the problem is caught, shifting the real work of verifying and fixing it onto a coworker or reviewer downstream. It's the workplace version of AI slop: the cost isn't the AI's time saved, it's the hidden human time spent cleaning up after it.",
+  "example": null,
+  "related": [
+    "ai-slop",
+    "hallucination"
+  ]
+}

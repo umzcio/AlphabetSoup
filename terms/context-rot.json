@@ -1,0 +1,15 @@
+{
+  "slug": "context-rot",
+  "term": "Context Rot",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "The tendency for a model's answers to get worse as more content piles up in its context window.",
+  "definition": "Context rot describes how a model's ability to find and use the right information degrades as its input fills up with more tokens, even when the context window is technically large enough to hold everything. In practice this shows up as the model losing track of instructions from earlier in a long conversation, over-weighting recent messages over trained knowledge, or getting distracted by irrelevant details buried in a long document or tool output. It's a reminder that a bigger context window doesn't guarantee a model can actually make good use of all of it.",
+  "example": null,
+  "related": [
+    "context-window",
+    "long-context-modeling",
+    "context-engineering",
+    "attention"
+  ]
+}
