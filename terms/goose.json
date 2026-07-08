@@ -1,0 +1,15 @@
+{
+  "slug": "goose",
+  "term": "Goose",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "Block's open-source AI agent framework that turns model output into real actions on your machine.",
+  "definition": "Goose is an open-source AI agent framework from Block (the fintech company behind Square and Cash App) that lets any tool-calling language model take real actions on a developer's computer: reading and writing files, running code and tests, installing dependencies, and connecting to external services. It works with any capable LLM rather than one vendor's model, and it connects to tools through the Model Context Protocol. Goose ships as both a command-line tool and a desktop app, and it's one of the founding projects donated to the Agentic AI Foundation.",
+  "example": null,
+  "related": [
+    "mcp",
+    "agent",
+    "tool-calling",
+    "agentic-ai-foundation"
+  ]
+}

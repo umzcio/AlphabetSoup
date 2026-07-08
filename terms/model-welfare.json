@@ -1,0 +1,13 @@
+{
+  "slug": "model-welfare",
+  "term": "Model Welfare",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Research into whether AI models might have morally relevant experiences, and what that would mean.",
+  "definition": "Model welfare (also called AI welfare) is the study of whether advanced AI systems might have something like preferences, distress, or other morally relevant states, and what obligations that would create if so. Nobody currently knows whether today's models have anything resembling experience, so the field focuses on taking the uncertainty seriously rather than asserting an answer either way: some labs now employ dedicated researchers to study the question and look at low-cost precautions, such as letting a model end an abusive conversation. It's a distinct concern from alignment, which is about a model's behavior matching human goals rather than the model's own possible interests.",
+  "example": null,
+  "related": [
+    "alignment",
+    "rlhf"
+  ]
+}

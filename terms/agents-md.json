@@ -1,0 +1,14 @@
+{
+  "slug": "agents-md",
+  "term": "AGENTS.md",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open, plain-Markdown file convention for giving coding agents project-specific instructions.",
+  "definition": "AGENTS.md is an open convention, originated by OpenAI, for a plain Markdown file placed in a code repository that tells AI coding agents how to work in that project: how to build it, run its tests, follow its style conventions, and format pull requests. It exists alongside a human-facing README so that agent-specific detail doesn't clutter documentation meant for people, and coding tools from multiple companies now read it. It's now stewarded as an open standard under the Agentic AI Foundation rather than controlled by a single vendor.",
+  "example": null,
+  "related": [
+    "agent",
+    "agentic-ai-foundation",
+    "vibe-coding"
+  ]
+}

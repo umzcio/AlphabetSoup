@@ -1,0 +1,16 @@
+{
+  "slug": "nemotron",
+  "term": "Nemotron",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "NVIDIA's family of open-weight language models tuned for efficient, long-running agents.",
+  "definition": "Nemotron is NVIDIA's family of open-weight language models, released in a range of sizes and built to run agentic workloads efficiently rather than chase raw benchmark size alone. Newer Nemotron models use a hybrid design that mixes Mamba-style state-space layers with regular Transformer attention plus a mixture-of-experts feedforward network, so only a fraction of the model activates per request. This combination is aimed at cutting the cost of very long contexts and multi-step agent reasoning while keeping the weights open for anyone to download and run.",
+  "example": null,
+  "related": [
+    "hybrid-architecture",
+    "mamba",
+    "moe",
+    "open-weights",
+    "long-running-agent"
+  ]
+}

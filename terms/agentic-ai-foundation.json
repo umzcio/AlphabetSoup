@@ -1,0 +1,16 @@
+{
+  "slug": "agentic-ai-foundation",
+  "term": "Agentic AI Foundation",
+  "acronym": "AAIF",
+  "category": "Organizations",
+  "short": "A Linux Foundation project set up to steward open, shared standards for AI agents.",
+  "definition": "The Agentic AI Foundation is a directed fund under the Linux Foundation, founded by Anthropic, Block, and OpenAI (with backing from other major tech companies) to keep the plumbing of AI agents open and vendor-neutral rather than locked to one company. Its founding contributions include the Model Context Protocol for connecting agents to tools, Block's Goose agent framework, and OpenAI's AGENTS.md convention for giving coding agents project instructions. The goal is to let these building blocks evolve as shared, community-governed standards instead of competing proprietary formats.",
+  "example": null,
+  "related": [
+    "mcp",
+    "goose",
+    "agents-md",
+    "anthropic",
+    "openai"
+  ]
+}
