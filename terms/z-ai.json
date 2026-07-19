@@ -1,0 +1,16 @@
+{
+  "slug": "z-ai",
+  "term": "Z.ai",
+  "acronym": "Zhipu AI",
+  "category": "Organizations",
+  "short": "A Chinese AI company, formerly Zhipu AI, that builds the open-weight GLM family of language models.",
+  "definition": "Z.ai is a Chinese artificial-intelligence company, spun out of Tsinghua University, that builds the GLM family of large language models. It was known as Zhipu AI until a 2025 rebrand to Z.ai for its international products. The company releases many of its models as open weights — free for anyone to download and run — and focuses on agentic and coding ability to compete with both Western labs and other Chinese firms like DeepSeek and Moonshot. In January 2026 it listed on the Hong Kong Stock Exchange, widely reported as the first publicly traded Chinese AI lab.",
+  "example": null,
+  "related": [
+    "glm",
+    "llm",
+    "open-weights",
+    "deepseek",
+    "kimi"
+  ]
+}

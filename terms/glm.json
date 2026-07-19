@@ -1,0 +1,15 @@
+{
+  "slug": "glm",
+  "term": "GLM",
+  "acronym": "General Language Model",
+  "category": "Models & Products",
+  "short": "The open-weight family of large language models built by Z.ai; the name stands for General Language Model.",
+  "definition": "GLM, short for General Language Model, is the family of large language models built by the Chinese company Z.ai (formerly Zhipu AI). The models are released largely as open weights, meaning anyone can download and run them, and recent versions use a mixture-of-experts design — activating only part of the network for each request — to reach frontier scale more efficiently. GLM has been tuned heavily for agentic tasks and coding, and the GLM-5 series is its current flagship generation, positioned as a rival to top models from OpenAI, Google, and other labs.",
+  "example": null,
+  "related": [
+    "z-ai",
+    "llm",
+    "open-weights",
+    "agentic-ai"
+  ]
+}
