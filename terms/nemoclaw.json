@@ -1,0 +1,16 @@
+{
+  "slug": "nemoclaw",
+  "term": "NemoClaw",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "NVIDIA's packaged security stack for running AI agents like OpenClaw more safely and privately.",
+  "definition": "NemoClaw is an open-source package from NVIDIA that makes it easier to run autonomous AI agents — such as OpenClaw or Hermes — safely and privately inside a company's own systems. It bundles together several pieces: OpenShell (the sandbox that boxes the agent in), NVIDIA's Nemotron models for handling sensitive work locally, and a 'privacy router' that decides which requests can go to an outside cloud model and which must stay on local hardware because they contain private data. The goal is to give the power of always-on AI agents to organizations that need enterprise-grade security, control, and audit trails.",
+  "example": null,
+  "related": [
+    "openshell",
+    "openclaw",
+    "nemotron",
+    "agentic-ai",
+    "sandbox"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "openshell",
+  "term": "OpenShell",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "NVIDIA's secure runtime that boxes in autonomous AI agents so they can't touch anything they shouldn't.",
+  "definition": "OpenShell is an open-source runtime from NVIDIA that runs autonomous AI agents inside a tightly controlled sandbox, so a misbehaving or hijacked agent can't damage the rest of the system. It uses built-in Linux security features — restricting which system calls, files, and network connections an agent may use — and keeps an audit log of every action it allows or blocks, all governed by rules you write in advance. Agents like OpenClaw, Claude Code, and Codex can run inside it unchanged. It exists because letting an AI agent freely run commands and edit files on a real machine is risky, and OpenShell adds a safety boundary around that power.",
+  "example": null,
+  "related": [
+    "sandbox",
+    "agentic-ai",
+    "openclaw",
+    "nemoclaw",
+    "agent"
+  ]
+}

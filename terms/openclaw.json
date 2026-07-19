@@ -1,0 +1,16 @@
+{
+  "slug": "openclaw",
+  "term": "OpenClaw",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "A wildly popular open-source personal AI agent that runs on your own machine and connects to your apps and files.",
+  "definition": "OpenClaw is an open-source personal AI assistant that runs on your own computer rather than in someone else's cloud. It connects a language model to your files, shell, web browser, and everyday chat apps (WhatsApp, Telegram, Slack, and many more), so it can run tasks around the clock — reading and writing files, running commands, browsing the web, and even writing its own new 'skills' to extend what it can do. Started in late 2025 by developer Peter Steinberger, it became one of the fastest-growing open-source projects ever, drawing hundreds of thousands of GitHub stars within months, and now runs as a non-profit. Its reach also raised safety questions, which is part of why sandboxing tools like OpenShell emerged around it.",
+  "example": null,
+  "related": [
+    "agent",
+    "agentic-ai",
+    "openshell",
+    "nemoclaw",
+    "tool-calling"
+  ]
+}
