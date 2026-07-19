@@ -1,0 +1,15 @@
+{
+  "slug": "claw4science",
+  "term": "Claw4Science",
+  "acronym": null,
+  "category": "Data",
+  "short": "A curated dataset and platform that organizes the scientific AI-agent skills built on top of OpenClaw.",
+  "definition": "Claw4Science is a dataset and platform that catalogs the scientific tools built for the OpenClaw agent ecosystem. As researchers used OpenClaw's 'skills' (small, shareable instruction files) to automate work in fields like bioinformatics and drug discovery, those skills spread across many separate repositories with inconsistent naming and quality, making them hard to find or compare. Claw4Science gathers thousands of these skills and projects into one organized, searchable collection sorted by scientific purpose. Introduced in a 2026 research preprint, it aims to give scientific AI agents a common foundation for discovery, comparison, and benchmarking. It is a niche, research-focused resource rather than a mainstream tool.",
+  "example": null,
+  "related": [
+    "openclaw",
+    "dataset",
+    "agentic-ai",
+    "multi-agent-system"
+  ]
+}

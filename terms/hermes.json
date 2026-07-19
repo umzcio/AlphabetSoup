@@ -1,0 +1,15 @@
+{
+  "slug": "hermes",
+  "term": "Hermes",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Nous Research's family of open-weight language models, fine-tuned from open base models for reliable instruction following and tool use.",
+  "definition": "Hermes is a family of open-weight language models from Nous Research, an independent group focused on open AI. Rather than training a model from scratch, Nous takes an existing open base model (such as Meta's Llama) and fine-tunes it on large amounts of carefully prepared instruction data to make it better at following directions, using tools, producing clean structured output, and staying coherent in long conversations. Hermes models are known for being relatively unrestricted and steerable, and they ship with open weights on Hugging Face so anyone can download and run them. Hermes 4, released in 2025, added stronger reasoning and came in several sizes.",
+  "example": null,
+  "related": [
+    "open-weights",
+    "fine-tuning",
+    "llm",
+    "tool-calling"
+  ]
+}
