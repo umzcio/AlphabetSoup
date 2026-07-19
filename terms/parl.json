@@ -1,0 +1,15 @@
+{
+  "slug": "parl",
+  "term": "PARL",
+  "acronym": "Parallel-Agent Reinforcement Learning",
+  "category": "Training",
+  "short": "A training method that teaches an AI to split a big task into parts many helper agents can work on at the same time.",
+  "definition": "PARL, or Parallel-Agent Reinforcement Learning, is a way of training a model to break a complex job into pieces that can run at the same time and to coordinate a team of helper agents working on them in parallel, instead of plodding through one step after another. During training the model is rewarded for spinning up helpers, for making sure their subtasks actually finish, and for the quality of the final result — so it learns when running things in parallel genuinely helps and when it just adds noise. The approach was described by Moonshot AI as part of how its Kimi K2.5 model learned to direct large numbers of sub-agents at once. It is a fairly new idea, and the name also collides with an unrelated research method, so treat it as emerging rather than settled terminology.",
+  "example": null,
+  "related": [
+    "multi-agent-system",
+    "reinforcement-learning",
+    "agent",
+    "kimi"
+  ]
+}
