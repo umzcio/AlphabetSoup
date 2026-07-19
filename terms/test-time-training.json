@@ -1,0 +1,15 @@
+{
+  "slug": "test-time-training",
+  "term": "Test-Time Training",
+  "acronym": "TTT",
+  "category": "Inference & Serving",
+  "short": "Briefly updating a model's own parameters on each new input before it answers, instead of only relying on fixed training.",
+  "definition": "Test-time training lets a model adjust some of its own parameters at inference time, using the specific input it's just been given, before producing its final answer. Rather than treating training and deployment as strictly separate phases, the model runs a quick self-supervised update on the task in front of it — which can help it handle examples that look different from anything in its training data. It's a heavier-weight cousin of test-time compute techniques like extra reasoning steps: instead of just thinking longer, the model briefly re-trains itself on the problem at hand.",
+  "example": null,
+  "related": [
+    "test-time-compute",
+    "fine-tuning",
+    "in-context-learning",
+    "inference"
+  ]
+}

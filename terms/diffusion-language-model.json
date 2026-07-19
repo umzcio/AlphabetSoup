@@ -1,0 +1,15 @@
+{
+  "slug": "diffusion-language-model",
+  "term": "Diffusion Language Model",
+  "acronym": "dLLM",
+  "category": "Architectures",
+  "short": "A text model that generates a whole passage at once by refining it out of noise, instead of writing one word at a time.",
+  "definition": "A diffusion language model applies the same idea behind image-generating diffusion models to text: instead of producing one token after another like a typical LLM, it starts with a placeholder or masked version of the whole output and repeatedly refines every position at once until a coherent passage emerges. Because many tokens are updated in parallel each step rather than one at a time, diffusion language models can generate text several times faster than comparable autoregressive models. The approach is newer and less proven at large scale than standard next-token generation, but models like Mercury and Gemini Diffusion have shown it can match reasonable quality while cutting latency substantially.",
+  "example": null,
+  "related": [
+    "diffusion-model",
+    "autoregressive-model",
+    "speculative-decoding",
+    "llm"
+  ]
+}

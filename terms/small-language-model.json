@@ -1,0 +1,16 @@
+{
+  "slug": "small-language-model",
+  "term": "Small Language Model",
+  "acronym": "SLM",
+  "category": "Foundations",
+  "short": "A language model with far fewer parameters than a large model, built to run fast and cheap on modest hardware.",
+  "definition": "A small language model is a language model built with a fraction of the parameters of a frontier LLM — often a few hundred million to a few billion instead of hundreds of billions. That smaller size means faster responses, lower cost, and the ability to run on a phone, laptop, or other device with no data center required. SLMs typically trade away some general knowledge and reasoning breadth for that efficiency, so they work best when fine-tuned or prompted for a narrower task rather than asked to do everything an LLM can.",
+  "example": null,
+  "related": [
+    "llm",
+    "distillation",
+    "quantization",
+    "edge-ai",
+    "fine-tuning"
+  ]
+}

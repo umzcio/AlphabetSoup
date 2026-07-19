@@ -1,0 +1,15 @@
+{
+  "slug": "weak-to-strong-generalization",
+  "term": "Weak-to-Strong Generalization",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Studying whether a weaker model's supervision can still reliably train a stronger, more capable model.",
+  "definition": "Weak-to-strong generalization is an alignment research approach that studies what happens when a weaker, less capable model supervises the training of a stronger one — for example, using a smaller model's labels to fine-tune a larger, more capable model. It's a testbed for a problem humans expect to face soon: as models get more capable than the people training them, human feedback itself becomes a form of weak supervision. Researchers look at whether the strong model can generalize beyond its weak supervisor's mistakes and end up more capable and accurate than the labels it was trained on, which would be an encouraging sign for keeping much smarter future AI systems aligned.",
+  "example": null,
+  "related": [
+    "superalignment",
+    "alignment",
+    "scalable-oversight",
+    "rlhf"
+  ]
+}
