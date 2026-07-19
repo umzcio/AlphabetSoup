@@ -1,0 +1,15 @@
+{
+  "slug": "agent-swarm",
+  "term": "Agent Swarm",
+  "acronym": "Swarm",
+  "category": "Patterns",
+  "short": "Many lightweight AI agents working at once, with useful behavior emerging from the group rather than one boss agent.",
+  "definition": "An agent swarm is an approach where, instead of one big AI trying to do everything, you run many small, focused agents at the same time and pass work between them as needed. The idea borrows from nature — like ants or bees — where simple individuals following simple rules produce complex, coordinated results as a group. Unlike a strict hierarchy with a single manager agent handing down orders, a swarm usually coordinates more loosely, routing each task to whichever agent fits. OpenAI's experimental \"Swarm\" framework helped popularize the term for building these lightweight, handoff-based systems. Swarms can be flexible and easy to scale, but because behavior emerges from the group they can be harder to predict and debug.",
+  "example": null,
+  "related": [
+    "multi-agent-system",
+    "agent",
+    "orchestrator",
+    "emergent-behavior"
+  ]
+}
