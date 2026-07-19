@@ -1,0 +1,15 @@
+{
+  "slug": "ornith",
+  "term": "Ornith",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "An open-weight family of AI coding models that learn to write their own training scaffolds during reinforcement learning.",
+  "definition": "Ornith is a family of open-weight coding models released in June 2026 by DeepReinforce, a team focused on reinforcement learning. Its standout idea is self-scaffolding: instead of practicing inside a fixed set of helper steps that engineers designed by hand, each model learns to write and refine its own scaffold — the plan of attack it uses to work through a coding problem — as part of the same reinforcement-learning loop that improves its answers. Ornith-1.0 comes in four sizes, from a 9-billion-parameter model up to a 397-billion-parameter mixture-of-experts version, is released under a permissive MIT license, and its largest variant reports strong scores on SWE-Bench Verified, a widely used test of real software-engineering tasks.",
+  "example": null,
+  "related": [
+    "reinforcement-learning",
+    "open-weights",
+    "swe-bench",
+    "agentic-ai"
+  ]
+}
