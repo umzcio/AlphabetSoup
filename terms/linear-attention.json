@@ -1,0 +1,16 @@
+{
+  "slug": "linear-attention",
+  "term": "Linear Attention",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "An attention design that tracks context with a fixed-size running state instead of comparing every token to every other.",
+  "definition": "Linear attention is an alternative to standard (softmax) attention that avoids comparing every token in the input to every other token. Instead, it keeps a fixed-size running summary of everything seen so far and updates that summary one token at a time, similar to how a state-space model works. This makes it much cheaper to run over long inputs, since the cost grows in proportion to length rather than length squared. The tradeoff is that compressing history into a fixed-size state can lose fine-grained detail, so it can struggle to recall one specific fact from far back in a long context; newer variants mix it with regular attention to soften this weakness.",
+  "example": null,
+  "related": [
+    "attention",
+    "sparse-attention",
+    "state-space-model",
+    "mamba",
+    "kv-cache"
+  ]
+}
