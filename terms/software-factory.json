@@ -1,0 +1,15 @@
+{
+  "slug": "software-factory",
+  "term": "Software Factory",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An organization-level setup where AI agents plan, build, test, and ship software while humans review outcomes.",
+  "definition": "A software factory is a pattern where AI coding agents handle most of the software delivery pipeline: turning a request or bug report into planned changes, writing the code, testing it, and shipping it, while humans focus on setting direction and reviewing results rather than writing every line themselves. It extends a single coding agent into a continuous, largely automated loop spanning many agents, tools, and checks. The term reflects a shift in how engineering teams work as agentic tools take on more of the day-to-day implementation.",
+  "example": null,
+  "related": [
+    "coding-agent",
+    "agentic-workflow",
+    "agentic-ai",
+    "multi-agent-system"
+  ]
+}
