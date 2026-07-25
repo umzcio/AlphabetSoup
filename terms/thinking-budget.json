@@ -1,0 +1,14 @@
+{
+  "slug": "thinking-budget",
+  "term": "Thinking Budget",
+  "acronym": "Reasoning Effort",
+  "category": "Inference & Serving",
+  "short": "A setting that controls how much a reasoning model 'thinks' before answering, trading speed and cost against quality.",
+  "definition": "A thinking budget is a control that decides how much hidden reasoning a model is allowed to do before it gives an answer. Reasoning models work through a problem step by step behind the scenes, and more of that internal 'thinking' usually means better answers on hard tasks — but also more time and higher cost. Different providers expose this in different ways: OpenAI calls it a reasoning effort setting (low, medium, or high), while Anthropic lets you set a token budget for extended thinking. Turning it up helps on complex problems; turning it down keeps simple requests fast and cheap.",
+  "example": null,
+  "related": [
+    "reasoning-model",
+    "test-time-compute",
+    "chain-of-thought"
+  ]
+}
