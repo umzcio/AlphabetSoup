@@ -1,0 +1,15 @@
+{
+  "slug": "full-duplex-voice",
+  "term": "Full-Duplex Voice",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Voice AI that can listen and speak at the same time, like a real phone call, instead of taking strict turns.",
+  "definition": "Full-duplex voice is a style of voice interaction where an AI system can listen and speak at the same time, the way two people do on a phone call. It can be interrupted mid-sentence, choose when to jump in, and keep tracking what the user is saying while it talks, rather than waiting for a clean pause before it starts or stops listening. This replaces the older turn-based pattern, where the system had to fully stop listening before it could respond, and it makes voice assistants feel closer to a natural conversation.",
+  "example": null,
+  "related": [
+    "speech-to-speech",
+    "omni-model",
+    "tts",
+    "speech-to-text"
+  ]
+}

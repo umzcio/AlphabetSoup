@@ -1,0 +1,15 @@
+{
+  "slug": "coding-agent",
+  "term": "Coding Agent",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An AI agent that writes, runs, tests, and debugs code on its own toward a given goal.",
+  "definition": "A coding agent is an AI agent focused on software development: given a task or bug report, it can read a codebase, write and edit code, run commands and tests, check the results, and iterate until the task is done, rather than just suggesting a single snippet. It typically has access to tools like a terminal, file editor, and version control, and loops between acting and checking its own work. Coding agents power products such as autonomous pull-request generators and in-terminal coding assistants.",
+  "example": null,
+  "related": [
+    "agent",
+    "agentic-workflow",
+    "tool-calling",
+    "code-generation"
+  ]
+}

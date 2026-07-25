@@ -1,0 +1,15 @@
+{
+  "slug": "lethal-trifecta",
+  "term": "Lethal Trifecta",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The risky combination of an AI agent having private data access, exposure to untrusted content, and outside actions.",
+  "definition": "The lethal trifecta is a security pattern that makes an AI agent dangerous: it has access to private or sensitive data, exposure to untrusted external content such as web pages, emails, or documents it wasn't specifically told to trust, and the ability to take actions with real-world effects, like sending a message or calling an API. When all three are present, a hidden instruction buried in that untrusted content can trick the agent into leaking the private data through one of its own available actions. Removing any one of the three legs breaks the attack, which is why it is used as a checklist for designing safer agents.",
+  "example": null,
+  "related": [
+    "prompt-injection",
+    "indirect-prompt-injection",
+    "agentic-ai",
+    "red-teaming"
+  ]
+}
