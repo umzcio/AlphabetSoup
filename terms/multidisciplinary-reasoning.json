@@ -1,0 +1,15 @@
+{
+  "slug": "multidisciplinary-reasoning",
+  "term": "Multidisciplinary Reasoning",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A capability category testing whether AI can reason accurately across many fields at once — from law to physics to medicine.",
+  "definition": "Multidisciplinary reasoning, as a capability category, measures how well an AI can reason across a wide range of subjects — science, law, medicine, humanities, mathematics — rather than being strong in just one area. It rewards both broad, expert-level knowledge and the ability to reason carefully with it under hard questions. Benchmarks like Humanity's Last Exam gather thousands of very difficult questions spanning many disciplines to test this, and it appears as a headline axis when labs want to show how generally capable a model is.",
+  "example": null,
+  "related": [
+    "humanitys-last-exam",
+    "reasoning-model",
+    "evaluation",
+    "benchmark"
+  ]
+}

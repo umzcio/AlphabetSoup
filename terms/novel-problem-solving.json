@@ -1,0 +1,15 @@
+{
+  "slug": "novel-problem-solving",
+  "term": "Novel Problem-Solving",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A capability category testing whether AI can solve unfamiliar problems by reasoning, not by recalling something similar from training.",
+  "definition": "Novel problem-solving, as a capability category, measures whether an AI can handle problems it has not effectively seen before — working out a solution from reasoning and general principles rather than matching something memorized during training. It targets genuine flexibility and generalization: the ability to face a fresh puzzle with unfamiliar rules and figure it out. Benchmarks like ARC-AGI are built specifically to resist memorization, so they serve as a proxy for this skill, and models still struggle badly on the hardest versions, which makes it a closely watched axis of progress.",
+  "example": null,
+  "related": [
+    "arc-agi",
+    "generalization",
+    "reasoning-model",
+    "evaluation"
+  ]
+}
