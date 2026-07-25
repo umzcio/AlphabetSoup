@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-coding",
+  "term": "Agentic Coding",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "When an AI agent handles a whole coding task end to end — planning, writing, running, and fixing code — not just autocompleting lines.",
+  "definition": "Agentic coding is when an AI does software development as an autonomous agent rather than a passive helper. Instead of suggesting the next line for a human to accept, it takes a goal or bug report and works the whole loop itself: exploring the codebase, writing and editing files, running commands and tests, reading the results, and trying again until the task is done. It is the capability behind tools that can open a pull request or fix an issue on their own, and models are increasingly compared on how well they do it, using benchmarks like SWE-bench and Terminal-Bench.",
+  "example": null,
+  "related": [
+    "coding-agent",
+    "agent",
+    "swe-bench",
+    "terminal-bench"
+  ]
+}

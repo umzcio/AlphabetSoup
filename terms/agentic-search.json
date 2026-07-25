@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-search",
+  "term": "Agentic Search",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "When an AI agent researches a question across the web on its own — running many searches, reading pages, and assembling an answer.",
+  "definition": "Agentic search is when an AI acts as an autonomous researcher rather than answering from memory or a single lookup. Given a hard question, it plans a series of web searches, opens and reads pages, follows leads, and combines what it finds into an answer — often repeating the cycle many times to track down obscure facts. It goes beyond basic retrieval by deciding for itself what to look for next and when it has enough. Models are compared on this capability with benchmarks like BrowseComp, and it is the engine behind 'deep research' features.",
+  "example": null,
+  "related": [
+    "deep-research",
+    "agentic-rag",
+    "browsecomp",
+    "agent"
+  ]
+}

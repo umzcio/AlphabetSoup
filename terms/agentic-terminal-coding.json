@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-terminal-coding",
+  "term": "Agentic Terminal Coding",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Agentic coding measured in a live terminal, where the AI runs real shell commands to complete tasks the way a developer would.",
+  "definition": "Agentic terminal coding is a slice of agentic coding where the AI agent works directly in a command-line terminal — running real shell commands, installing tools, editing files, and checking output — to complete a task, rather than just producing code for a human to run. Because a terminal can do almost anything on a computer, it is a demanding test of an agent's ability to plan, use tools, and recover from errors over many steps. Benchmarks like Terminal-Bench and Frontier-Bench measure exactly this, and it appears as a common capability axis on model comparison pages.",
+  "example": null,
+  "related": [
+    "agentic-coding",
+    "terminal-bench",
+    "frontier-bench",
+    "coding-agent"
+  ]
+}

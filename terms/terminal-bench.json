@@ -1,0 +1,15 @@
+{
+  "slug": "terminal-bench",
+  "term": "Terminal-Bench",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A benchmark that measures how well AI agents complete real tasks inside a command-line terminal.",
+  "definition": "Terminal-Bench is a benchmark that evaluates AI agents on their ability to get things done in a command-line terminal — installing software, editing files, running programs, and fixing what breaks — across a set of realistic, often multi-step tasks. Because a terminal exposes the full power of a computer, doing well requires planning, correct tool use, and error recovery over many steps, making it a demanding test of agentic coding. It is widely cited when labs compare models on autonomous coding, and it is the predecessor to Frontier-Bench.",
+  "example": null,
+  "related": [
+    "agentic-terminal-coding",
+    "agentic-coding",
+    "frontier-bench",
+    "swe-bench"
+  ]
+}

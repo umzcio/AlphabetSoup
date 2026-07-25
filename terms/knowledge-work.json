@@ -1,0 +1,15 @@
+{
+  "slug": "knowledge-work",
+  "term": "Knowledge Work",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A capability category measuring whether AI can do the professional office work people are paid for, like drafting and analysis.",
+  "definition": "Knowledge work, as a capability category on AI model comparisons, refers to the professional, information-based tasks people are paid to do — writing reports and legal briefs, analyzing data, building spreadsheets, preparing plans, and similar office work. Measuring it asks not just whether a model can hold a conversation, but whether it can produce the actual deliverables of real jobs at a useful standard. Benchmarks like OpenAI's GDPval score models on exactly these tasks, drawn from many occupations, which is why 'knowledge work' now shows up as a headline axis when labs compare their models.",
+  "example": null,
+  "related": [
+    "gdpval",
+    "evaluation",
+    "benchmark",
+    "agentic-ai"
+  ]
+}
