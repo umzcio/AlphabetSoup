@@ -1,0 +1,15 @@
+{
+  "slug": "sovereign-ai",
+  "term": "Sovereign AI",
+  "acronym": "AI Sovereignty",
+  "category": "Foundations",
+  "short": "A country's push to control its own AI — the data, compute, and models — rather than relying on foreign providers.",
+  "definition": "Sovereign AI is the idea that a country — or sometimes a company or region — should control its own artificial intelligence rather than depend on systems owned by foreign companies or governments. In practice that means keeping the data, the computing hardware, the trained models, and the people who run them within its own borders and under its own laws. Governments increasingly treat AI like electricity or telecommunications — critical national infrastructure — and worry that relying on outside providers leaves their data, economy, and security exposed. This has set off a wave of national investment in home-grown data centers, chips, and models, along with debate over how much true independence is realistic when the underlying hardware and research are so globally concentrated.",
+  "example": null,
+  "related": [
+    "ai-governance",
+    "ai-race",
+    "data-privacy",
+    "open-weights"
+  ]
+}
