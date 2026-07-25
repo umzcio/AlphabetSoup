@@ -1,0 +1,15 @@
+{
+  "slug": "browsecomp",
+  "term": "BrowseComp",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "An OpenAI benchmark that tests whether AI agents can find hard-to-locate facts on the web through persistent, multi-step browsing.",
+  "definition": "BrowseComp (short for 'browsing competition') is a benchmark from OpenAI that measures how well AI agents can research the open web. Its questions are written so the answer is genuinely hard to find — scattered across multiple pages and not answerable in a single search — so a model has to browse persistently, follow leads, and cross-check sources to get it right. It has become a standard test of agentic search, and it is one of the capability axes labs cite when comparing frontier models.",
+  "example": null,
+  "related": [
+    "agentic-search",
+    "deep-research",
+    "agentic-rag",
+    "benchmark"
+  ]
+}
