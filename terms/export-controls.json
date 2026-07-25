@@ -1,0 +1,15 @@
+{
+  "slug": "export-controls",
+  "term": "Export Controls",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Government restrictions on selling advanced technology abroad — in AI, mainly limits on shipping cutting-edge chips to rival nations.",
+  "definition": "Export controls are government rules that restrict which technologies can be sold or shipped to other countries, usually for national-security reasons. In AI, they refer mainly to United States limits on selling the most advanced chips — the GPUs used to train frontier models — to countries such as China, in order to slow rivals' progress. These controls have reshaped the industry: chipmakers design special lower-powered versions for restricted markets, buyers seek workarounds, and the rules themselves change frequently as governments adjust what counts as too powerful to export. They are a central lever in the geopolitics of AI.",
+  "example": null,
+  "related": [
+    "sovereign-ai",
+    "gpu",
+    "nvidia",
+    "ai-race"
+  ]
+}

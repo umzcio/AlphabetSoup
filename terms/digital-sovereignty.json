@@ -1,0 +1,15 @@
+{
+  "slug": "digital-sovereignty",
+  "term": "Digital Sovereignty",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Control over an entire digital stack — infrastructure, software, data, and AI — free of dependence on foreign providers.",
+  "definition": "Digital sovereignty is the ability of a country or organization to control its own digital destiny — the infrastructure, software, data, and increasingly the AI it depends on — without being at the mercy of foreign providers or governments. It is the broad parent idea behind narrower concepts like data sovereignty (control of data) and compute sovereignty (control of hardware). The concern is that relying on a handful of overseas tech giants for cloud, chips, and software leaves a nation exposed if access is cut off, prices change, or foreign laws reach in. Sovereign AI is essentially digital sovereignty applied to artificial intelligence.",
+  "example": null,
+  "related": [
+    "sovereign-ai",
+    "data-sovereignty",
+    "compute-sovereignty",
+    "ai-governance"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "techno-nationalism",
+  "term": "Techno-nationalism",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Treating leadership in key technologies like AI and chips as a matter of national power, to be promoted and protected by the state.",
+  "definition": "Techno-nationalism is the idea that a country's strength and security are tied to its lead in critical technologies — such as AI, semiconductors, and telecommunications — and that governments should therefore actively promote their own tech industries while restricting rivals' access. It shows up as subsidies for home-grown chipmaking, export controls on advanced hardware, screening of foreign investment, and the broader push for sovereign AI. The mindset frames technology less as a shared global endeavor and more as a race between nations, and it has become a defining feature of AI policy.",
+  "example": null,
+  "related": [
+    "sovereign-ai",
+    "ai-race",
+    "export-controls",
+    "chips-act"
+  ]
+}

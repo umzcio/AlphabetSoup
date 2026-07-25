@@ -1,0 +1,15 @@
+{
+  "slug": "compute-sovereignty",
+  "term": "Compute Sovereignty",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A country's ability to control the chips, data centers, and energy that AI runs on, rather than depending on foreign suppliers.",
+  "definition": "Compute sovereignty is a nation's ability to control the raw computing power that modern AI depends on — the advanced chips, the data centers that house them, and the energy that runs them. As AI became strategically important, governments realized that controlling their data was not enough if the hardware to train and run models sat in another country's hands or came from a single foreign supplier. This has driven heavy investment in domestic data centers and chipmaking, and made access to AI chips a matter of national security. It is the hardware backbone of sovereign AI.",
+  "example": null,
+  "related": [
+    "sovereign-ai",
+    "gpu",
+    "nvidia",
+    "export-controls"
+  ]
+}
