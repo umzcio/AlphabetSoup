@@ -1,0 +1,15 @@
+{
+  "slug": "graph-engineering",
+  "term": "Graph Engineering",
+  "acronym": "Knowledge Graph Engineering",
+  "category": "Patterns",
+  "short": "The practice of building and maintaining knowledge graphs — increasingly with LLM help — so AI can reason over connected facts.",
+  "definition": "Graph engineering is the practice of designing, building, and maintaining knowledge graphs — organized networks of facts that link things like people, places, and concepts — so AI systems can reason over structured, verified information instead of guessing. It covers pulling the entities and relationships out of messy text, shaping the graph's schema (the rules for what kinds of things and links are allowed), and keeping the graph accurate as new data arrives. This work is increasingly done with help from language models, which can read documents and propose the entities and connections to add. Well-built graphs power GraphRAG and similar techniques that ground model answers in real facts and support multi-step reasoning, cutting down on made-up responses. It is often called knowledge graph engineering.",
+  "example": null,
+  "related": [
+    "knowledge-graph",
+    "rag",
+    "structured-output",
+    "llm"
+  ]
+}
