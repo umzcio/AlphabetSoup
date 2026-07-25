@@ -1,0 +1,15 @@
+{
+  "slug": "data-sovereignty",
+  "term": "Data Sovereignty",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "The principle that data is governed by the laws of the country where it is collected or kept, and the drive to keep it that way.",
+  "definition": "Data sovereignty is the principle that data is subject to the laws of the country where it is collected, stored, or processed — and the drive to keep it that way. For a government or company, it means ensuring that sensitive information about its citizens, operations, or research stays under its own legal control rather than being exposed to foreign governments through the cloud services or vendors that hold it. It is a core piece of sovereign AI, since the data used to train and run AI systems is only as protected as the laws and infrastructure surrounding it. In practice it drives rules about where data may live and who may access it.",
+  "example": null,
+  "related": [
+    "sovereign-ai",
+    "data-privacy",
+    "digital-sovereignty",
+    "ai-governance"
+  ]
+}

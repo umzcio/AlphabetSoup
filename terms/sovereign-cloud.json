@@ -1,0 +1,15 @@
+{
+  "slug": "sovereign-cloud",
+  "term": "Sovereign Cloud",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "Cloud computing kept within a country's borders and legal control, so data and systems aren't subject to foreign jurisdiction.",
+  "definition": "A sovereign cloud is cloud computing infrastructure that is walled off to stay under a specific country's or region's laws and control. The data centers sit within national borders, and access, operations, and encryption keys are arranged so that no foreign government or company can reach the data or shut the service off. Governments and regulated industries like banking and healthcare use sovereign clouds to get the convenience of the cloud without giving up legal control of sensitive information. It is a practical building block of both data sovereignty and sovereign AI.",
+  "example": null,
+  "related": [
+    "sovereign-ai",
+    "data-sovereignty",
+    "cloud-computing",
+    "digital-sovereignty"
+  ]
+}

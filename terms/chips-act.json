@@ -1,0 +1,15 @@
+{
+  "slug": "chips-act",
+  "term": "CHIPS Act",
+  "acronym": "CHIPS and Science Act",
+  "category": "Foundations",
+  "short": "A 2022 US law that funds domestic semiconductor manufacturing to reduce reliance on foreign, mostly Asian, chip production.",
+  "definition": "The CHIPS Act (formally the CHIPS and Science Act, passed in the United States in 2022) is a law that provides tens of billions of dollars in subsidies and incentives to build semiconductor factories on American soil. Its goal is to reduce US dependence on chips made overseas — especially in Taiwan and South Korea — which are essential to everything from phones to the GPUs that power AI. It reflects the wider push for compute sovereignty: a country deciding that the ability to make its own advanced chips is too strategically important to leave to other nations. Several other regions have since launched similar chip-subsidy programs.",
+  "example": null,
+  "related": [
+    "compute-sovereignty",
+    "export-controls",
+    "gpu",
+    "sovereign-ai"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "ai-diffusion-rule",
+  "term": "AI Diffusion Rule",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A 2025 US plan to tier countries' access to AI chips, rescinded before it took effect and replaced by case-by-case deals.",
+  "definition": "The AI Diffusion Rule was a United States framework, introduced in early 2025, that would have sorted the world's countries into tiers governing how many advanced AI chips each could buy — close allies with broad access, adversaries with none, and most nations capped in between. The aim was to control the global spread ('diffusion') of AI computing power. It proved controversial and was rescinded in May 2025 before taking effect, replaced by country-by-country negotiations and case-by-case licensing. It remains a notable example of governments trying to steer who gets access to the hardware behind frontier AI.",
+  "example": null,
+  "related": [
+    "export-controls",
+    "sovereign-ai",
+    "gpu",
+    "ai-race"
+  ]
+}
