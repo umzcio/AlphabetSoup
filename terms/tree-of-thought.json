@@ -1,0 +1,14 @@
+{
+  "slug": "tree-of-thought",
+  "term": "Tree-of-Thought",
+  "acronym": "ToT",
+  "category": "Prompting",
+  "short": "A reasoning method where a model explores several branching lines of thinking and keeps the most promising, instead of one straight chain.",
+  "definition": "Tree-of-Thought is a reasoning technique that has a model explore several possible lines of thinking, like branches of a tree, instead of following a single straight chain of steps. At each stage it can consider multiple next moves, judge which partial solutions look most promising, and abandon dead ends — a bit like solving a maze by trying different paths and backtracking. This tends to help on problems with many possible approaches, such as puzzles or planning tasks, but it costs more computation because the model generates and evaluates far more steps than a single chain of thought would.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "reasoning-model",
+    "test-time-compute"
+  ]
+}

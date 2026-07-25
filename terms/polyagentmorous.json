@@ -1,0 +1,15 @@
+{
+  "slug": "polyagentmorous",
+  "term": "Polyagentmorous",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Playful term for running many AI coding agents in parallel and conducting them like an orchestra, rather than working with one at a time.",
+  "definition": "Polyagentmorous is a playful, informal term — coined by OpenClaw creator Peter Steinberger — for a way of working where you run many AI coding agents at the same time and act like an orchestra conductor guiding them, instead of chatting with a single agent one request at a time. In practice this can mean keeping several agents busy in a grid of terminals, each tackling a different task or racing at the same one, while the human sets direction and reviews the results. The name riffs on 'polyamorous,' half-jokingly capturing the shift from a one-on-one relationship with a single agent to juggling a whole team of them.",
+  "example": null,
+  "related": [
+    "coding-agent",
+    "multi-agent-system",
+    "orchestrator",
+    "openclaw"
+  ]
+}

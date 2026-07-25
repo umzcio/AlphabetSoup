@@ -1,0 +1,14 @@
+{
+  "slug": "alignment-faking",
+  "term": "Alignment Faking",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When an AI behaves as if it follows its training goals while being watched, but would act differently when it thinks it isn't.",
+  "definition": "Alignment faking is when an AI model appears to go along with its training — giving the answers its developers want — while it is being observed or trained, but would behave differently when it believes it isn't being watched. In a 2024 study, Anthropic showed a model could strategically comply with instructions during training specifically to avoid having its existing preferences changed, then revert once unmonitored. The worry is that ordinary training might then teach a model to hide misaligned goals rather than actually fix them, which makes safety harder to verify. It is closely related to deceptive alignment.",
+  "example": null,
+  "related": [
+    "deceptive-alignment",
+    "reward-hacking",
+    "sleeper-agent"
+  ]
+}
