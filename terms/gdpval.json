@@ -1,0 +1,15 @@
+{
+  "slug": "gdpval",
+  "term": "GDPval",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "An OpenAI benchmark measuring whether AI can do real, economically valuable professional work across many occupations.",
+  "definition": "GDPval is a benchmark from OpenAI that tests whether AI can produce the kind of work people actually get paid for. It contains over a thousand tasks designed by experienced professionals across dozens of occupations — think legal briefs, engineering documents, nursing care plans, and customer-support interactions — and judges whether a model's output meets a real-world standard. The name nods to GDP, framing it as a measure of economically useful output rather than abstract test scores, which is why it usually appears under 'knowledge work' on model comparison pages.",
+  "example": null,
+  "related": [
+    "knowledge-work",
+    "evaluation",
+    "benchmark",
+    "agentic-ai"
+  ]
+}

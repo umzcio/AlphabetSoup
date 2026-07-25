@@ -1,0 +1,15 @@
+{
+  "slug": "frontier-bench",
+  "term": "Frontier-Bench",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A continuously updated agent benchmark spanning coding, finance, biology, and hardware design — with the best agents near 34%.",
+  "definition": "Frontier-Bench is an AI-agent benchmark built by the team behind Terminal-Bench and the Harbor framework, designed to keep pace with rapidly improving models rather than being replaced. Its first version contains 74 difficult, hands-on tasks that reach beyond coding into fields like finance, music, biology, and hardware design, each run in a real computer environment. It is a community effort with a live, evolving leaderboard, and the tasks are hard enough that the best agents currently solve only about a third of them. It succeeds Terminal-Bench as a moving-target measure of frontier agent ability.",
+  "example": null,
+  "related": [
+    "terminal-bench",
+    "agentic-terminal-coding",
+    "benchmark",
+    "agent"
+  ]
+}
