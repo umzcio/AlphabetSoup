@@ -1,0 +1,10 @@
+{
+  "slug": "kimi-k3",
+  "term": "Kimi K3",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Moonshot AI's large open-weight model, released July 2026 and notable for strong coding and agentic performance.",
+  "definition": "Kimi K3 is a large open-weight model from the Chinese AI company Moonshot AI, released in July 2026 as one of the biggest open-weight models available at the time. Like other frontier-scale systems, it uses a mixture-of-experts design that activates only a fraction of its many specialized sub-networks for each request, keeping it efficient to run despite its size. It drew wide attention for topping coding leaderboards and for strong agentic performance — carrying out multi-step tasks with tools — continuing Moonshot's focus on long-context handling from earlier Kimi releases.",
+  "example": null,
+  "related": ["kimi", "moonshot-ai", "open-weights", "moe", "deepseek-v4"]
+}
