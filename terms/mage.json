@@ -1,0 +1,16 @@
+{
+  "slug": "mage",
+  "term": "Mage",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Microsoft's family of small 4-billion-parameter multimodal models that understand and generate images and video, built for research.",
+  "definition": "Mage is a family of compact multimodal AI models from Microsoft, all built to a small 4-billion-parameter size so researchers can train, fine-tune, and run them on modest hardware. It has two halves: Mage-VL, which understands images and video (including reacting to a live stream in real time), and Mage-Flow, which generates and edits images from text prompts. The guiding idea is efficiency — spending the model's limited capacity only where the important visual detail is — which lets these small models keep pace with much larger open systems while being far cheaper to run. Released in 2026 under an open MIT license, Mage is aimed at controlled experiments and specialized applications rather than being one giant do-everything model.",
+  "example": null,
+  "related": [
+    "multimodal",
+    "vision-language-model",
+    "text-to-image",
+    "small-language-model",
+    "microsoft"
+  ]
+}
