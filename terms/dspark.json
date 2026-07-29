@@ -1,0 +1,15 @@
+{
+  "slug": "dspark",
+  "term": "DSpark",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "DeepSeek's open-source framework that speeds up LLM text generation using speculative decoding, without changing the model itself.",
+  "definition": "DSpark is a framework from the Chinese AI lab DeepSeek that makes large language models generate text much faster without retraining them or altering their output. It is built on speculative decoding: a small, fast 'draft' model guesses several upcoming tokens, and the large model then checks those guesses in a single batch, keeping the ones it agrees with — so the expensive model does less step-by-step work. DeepSeek reports its own V4 models running roughly 60–85% faster with DSpark switched on (a vendor figure independent testers have yet to fully confirm). It was open-sourced in 2026 through a toolkit called DeepSpec, and has been shown to work on other labs' models too, such as Gemma and Qwen.",
+  "example": null,
+  "related": [
+    "speculative-decoding",
+    "deepseek",
+    "latency",
+    "throughput"
+  ]
+}
