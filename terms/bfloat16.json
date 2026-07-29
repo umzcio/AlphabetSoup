@@ -1,0 +1,15 @@
+{
+  "slug": "bfloat16",
+  "term": "bfloat16",
+  "acronym": "Brain Floating Point 16",
+  "category": "Hardware & Systems",
+  "short": "A 16-bit number format widely used to train AI models — it saves memory while keeping the wide range needed for stable training.",
+  "definition": "bfloat16 (brain floating point) is a compact 16-bit format for storing the numbers inside a neural network, designed by Google for AI workloads. Compared with the standard 32-bit format, it halves memory use and speeds up computation, letting bigger models train on the same hardware. Its trick is keeping the same wide range of magnitudes as 32-bit numbers while giving up some fine precision — a tradeoff that turns out to keep training stable, which is why it became a default for training large models. It is typically used alongside higher-precision math in what's called mixed-precision training.",
+  "example": null,
+  "related": [
+    "mixed-precision",
+    "fp8",
+    "quantization",
+    "gpu"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "double-descent",
+  "term": "Double Descent",
+  "acronym": null,
+  "category": "Training",
+  "short": "A surprising pattern where making a model bigger first hurts accuracy, then — past a certain point — helps again.",
+  "definition": "Double descent is a counterintuitive pattern in how model performance changes with size or training. Classic statistics says that making a model too big causes overfitting and worse results on new data. Double descent shows that as you keep growing the model past the point where it can perfectly fit the training data, error can actually start falling again — producing a curve that dips, rises, then dips a second time. It helps explain why today's enormous over-parameterized models generalize well despite being far larger than old rules of thumb would allow, and it is closely tied to puzzles like grokking.",
+  "example": null,
+  "related": [
+    "overfitting",
+    "generalization",
+    "scaling-laws",
+    "grokking"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "dora",
+  "term": "DoRA",
+  "acronym": "Weight-Decomposed Low-Rank Adaptation",
+  "category": "Training",
+  "short": "An improved take on LoRA that fine-tunes a model by splitting each weight into a size and a direction, updating them separately.",
+  "definition": "DoRA (Weight-Decomposed Low-Rank Adaptation) is a fine-tuning method that improves on the popular LoRA approach. Like LoRA, it adapts a large model to a new task by training only a small set of extra parameters instead of all of them, keeping the process cheap and fast. DoRA's twist is to split each weight into two parts — its magnitude (how big) and its direction (which way it points) — and adapt them separately, which lets the update behave more like full fine-tuning and often reaches higher quality at the same low cost. It is one of several parameter-efficient fine-tuning techniques.",
+  "example": null,
+  "related": [
+    "lora",
+    "qlora",
+    "peft",
+    "fine-tuning"
+  ]
+}

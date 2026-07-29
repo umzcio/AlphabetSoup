@@ -1,0 +1,15 @@
+{
+  "slug": "process-reward-model",
+  "term": "Process Reward Model",
+  "acronym": "PRM",
+  "category": "Training",
+  "short": "A model that scores each step of an AI's reasoning, not just the final answer — used to train models to reason more reliably.",
+  "definition": "A process reward model (PRM) is a helper model that judges an AI's reasoning step by step, giving feedback on each intermediate step of a solution rather than only grading the final answer. This matters for training reasoning models: rewarding a correct final answer alone can encourage flawed shortcuts that happen to land on the right result, whereas rewarding sound steps pushes the model toward genuinely valid reasoning. PRMs are used to guide reinforcement learning and to help pick the best among many candidate solutions. They contrast with outcome reward models, which look only at the end result.",
+  "example": null,
+  "related": [
+    "reward-model",
+    "rlhf",
+    "reasoning-model",
+    "chain-of-thought"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "grokking",
+  "term": "Grokking",
+  "acronym": null,
+  "category": "Training",
+  "short": "When a model that seemed to just memorize suddenly 'gets it' and generalizes — long after its training accuracy maxed out.",
+  "definition": "Grokking is a surprising training phenomenon where a model appears to merely memorize its training data — scoring perfectly on it but failing on new examples — and then, after a long stretch of further training with no visible progress, suddenly starts to generalize and solves unseen cases too. It was highlighted in a 2022 study on small math problems. Grokking is striking because the leap to real understanding comes well after the model looked 'done,' and it has become a favorite puzzle for researchers studying how and when neural networks learn general rules rather than surface patterns.",
+  "example": null,
+  "related": [
+    "overfitting",
+    "generalization",
+    "regularization",
+    "double-descent"
+  ]
+}

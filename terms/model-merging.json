@@ -1,0 +1,15 @@
+{
+  "slug": "model-merging",
+  "term": "Model Merging",
+  "acronym": null,
+  "category": "Optimization",
+  "short": "Building a new model by combining the weights of two or more existing models, instead of training one from scratch.",
+  "definition": "Model merging is a set of techniques for creating a new model by directly combining the internal weights of two or more existing models — often ones fine-tuned for different tasks — rather than training a fresh model or running them side by side. Simple versions average the weights ('model soups'); smarter methods like TIES and SLERP blend them more carefully so the models don't cancel each other out. Done well, merging can fold several specialized skills into one model cheaply and without any extra training data, which has made it hugely popular in the open-weight community. It is a counterpart to compression methods like pruning.",
+  "example": null,
+  "related": [
+    "fine-tuning",
+    "open-weights",
+    "distillation",
+    "reap"
+  ]
+}

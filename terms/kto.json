@@ -1,0 +1,15 @@
+{
+  "slug": "kto",
+  "term": "KTO",
+  "acronym": "Kahneman-Tversky Optimization",
+  "category": "Training",
+  "short": "A way to align a model using simple good/bad labels on individual answers, instead of paired 'A is better than B' comparisons.",
+  "definition": "KTO (Kahneman-Tversky Optimization) is a method for aligning a language model with human preferences using only a simple thumbs-up or thumbs-down on each answer, rather than the paired 'A is better than B' comparisons that methods like DPO require. It borrows ideas from behavioral economics — specifically how people weigh gains versus losses — to decide how strongly to push the model toward liked answers and away from disliked ones. Because single good/bad labels are much easier and cheaper to collect than careful comparisons, KTO can be more practical for real-world alignment data.",
+  "example": null,
+  "related": [
+    "dpo",
+    "rlhf",
+    "preference-optimization",
+    "alignment"
+  ]
+}

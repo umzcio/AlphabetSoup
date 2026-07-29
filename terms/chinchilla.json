@@ -1,0 +1,14 @@
+{
+  "slug": "chinchilla",
+  "term": "Chinchilla",
+  "acronym": null,
+  "category": "Training",
+  "short": "A landmark finding that most large models were undertrained — for a fixed compute budget, smaller models fed far more data do better.",
+  "definition": "Chinchilla was a 2022 research result from DeepMind (and the model that demonstrated it) showing that most large language models of the time were far bigger than they should have been for the amount of data they saw. For a fixed training budget, the team found, it is better to use a somewhat smaller model and train it on much more data, roughly in balance, rather than pouring everything into size. Their 70-billion-parameter Chinchilla model beat much larger rivals by following this recipe. The finding reshaped how labs size models — often summarized as 'compute-optimal' training — and it built directly on earlier scaling laws.",
+  "example": null,
+  "related": [
+    "scaling-laws",
+    "pretraining",
+    "data-mixture"
+  ]
+}
