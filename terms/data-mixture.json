@@ -1,0 +1,15 @@
+{
+  "slug": "data-mixture",
+  "term": "Data Mixture",
+  "acronym": null,
+  "category": "Data",
+  "short": "The recipe of what kinds of data — and how much of each — go into training a model, which strongly shapes its abilities.",
+  "definition": "A data mixture is the recipe describing what a model is trained on: how much web text versus code versus math versus books versus other sources, and in what proportions. It is one of the most important and closely guarded choices in building a model, because the blend strongly shapes what the model becomes good at — more code improves programming and often general reasoning, more multilingual data improves other languages, and so on. Labs tune these proportions carefully, sometimes shifting them during training, and the exact mixture is frequently kept secret as a competitive edge.",
+  "example": null,
+  "related": [
+    "pretraining",
+    "synthetic-data",
+    "data-curation",
+    "scaling-laws"
+  ]
+}

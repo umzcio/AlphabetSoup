@@ -1,0 +1,15 @@
+{
+  "slug": "orpo",
+  "term": "ORPO",
+  "acronym": "Odds Ratio Preference Optimization",
+  "category": "Training",
+  "short": "A fine-tuning method that teaches a model instructions and human preferences at the same time, in a single step.",
+  "definition": "ORPO (Odds Ratio Preference Optimization) is a fine-tuning method that combines two normally separate stages into one. Usually a model is first taught to follow instructions (supervised fine-tuning) and then separately nudged toward preferred answers (with methods like RLHF or DPO). ORPO folds both into a single training step by adding a penalty that discourages the model from producing disliked responses while it learns, removing the need for a separate reward model or reference model. This makes alignment simpler and cheaper, and it has become popular for tuning open models.",
+  "example": null,
+  "related": [
+    "dpo",
+    "sft",
+    "rlhf",
+    "preference-optimization"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "model-sharding",
+  "term": "Model Sharding",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Splitting a model's parameters across multiple GPUs or machines because it's too big to fit on any single one.",
+  "definition": "Model sharding means breaking a model's parameters into pieces ('shards') and spreading them across multiple GPUs or machines, because the whole model is too large to fit in a single device's memory. Each device holds and computes only its slice, and the devices coordinate to run the model as one. Sharding is essential for both training and serving very large models, and it shows up in several forms — including tensor parallelism, ZeRO, and PyTorch's FSDP. It is the basic answer to the problem that modern models have outgrown any single chip.",
+  "example": null,
+  "related": [
+    "fsdp",
+    "tensor-parallelism",
+    "zero-redundancy-optimizer",
+    "gpu"
+  ]
+}

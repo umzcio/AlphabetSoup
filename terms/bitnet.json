@@ -1,0 +1,14 @@
+{
+  "slug": "bitnet",
+  "term": "BitNet",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A family of extremely compressed language models whose weights are limited to just a few values (even ternary: -1, 0, +1).",
+  "definition": "BitNet is a line of research from Microsoft into language models built from the start to use extremely low-precision weights — in the well-known 'b1.58' version, each weight is limited to just three values: -1, 0, or +1. Ordinary models store each weight in 16 bits; squeezing them down to roughly a single bit slashes memory use and can replace expensive multiplications with simple additions, making models far cheaper and faster to run, potentially without a dedicated GPU. The catch is that such models must be trained this way from scratch, and matching full-precision quality at large scale is still an active challenge. It represents the aggressive frontier of quantization.",
+  "example": null,
+  "related": [
+    "quantization",
+    "model-compression",
+    "bfloat16"
+  ]
+}

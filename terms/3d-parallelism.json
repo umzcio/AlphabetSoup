@@ -1,0 +1,15 @@
+{
+  "slug": "3d-parallelism",
+  "term": "3D Parallelism",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Training a huge model by splitting the work three ways at once — across data, across layers, and within layers — over many GPUs.",
+  "definition": "3D parallelism is the strategy used to train the largest models by combining three ways of splitting the work across many GPUs at the same time: data parallelism (different GPUs process different examples), pipeline parallelism (different GPUs handle different layers), and tensor parallelism (a single layer's math is split across GPUs). Each dimension handles a different bottleneck, and together they let a model far too large for any one machine train efficiently across thousands of chips. Coordinating all three is complex, which is why it is mostly used at frontier scale.",
+  "example": null,
+  "related": [
+    "data-parallelism",
+    "tensor-parallelism",
+    "pipeline-parallelism",
+    "fsdp"
+  ]
+}
