@@ -1,0 +1,10 @@
+{
+  "slug": "ai-browser",
+  "term": "AI Browser",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A web browser with an AI agent built in that can read pages and act on them for you.",
+  "definition": "An AI browser is a web browser built around an AI assistant that can see the page you're on, answer questions about it, and carry out multi-step actions like filling out forms, comparing prices, or booking something, instead of just displaying pages for you to operate by hand. Several consumer browsers released agent modes like this, alongside open-source frameworks that add similar abilities to ordinary browsers. Because the assistant can act on logged-in sites, these browsers face real security challenges, especially prompt injection, where a malicious page tricks the assistant into acting against the user's wishes.",
+  "example": null,
+  "related": ["computer-use", "agent", "prompt-injection", "browsergym"]
+}
