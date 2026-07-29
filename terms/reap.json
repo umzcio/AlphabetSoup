@@ -1,0 +1,15 @@
+{
+  "slug": "reap",
+  "term": "REAP",
+  "acronym": "Router-weighted Expert Activation Pruning",
+  "category": "Optimization",
+  "short": "A method for shrinking mixture-of-experts models by permanently deleting the experts the router relies on least, keeping most quality.",
+  "definition": "REAP (Router-weighted Expert Activation Pruning) is a technique for shrinking mixture-of-experts models — LLMs that contain many specialized sub-networks called 'experts' and use a router to pick a few for each input. REAP decides which experts to permanently delete by measuring how often and how strongly the router actually calls on each one, then removes the least useful, cutting the model's size and memory needs. Developed by Cerebras, it can drop up to half the experts from even trillion-parameter models while keeping most of their original quality on tasks like coding, and the pruned models are released openly. It is an alternative to merging experts together, and tends to hold up better on generation-heavy work.",
+  "example": null,
+  "related": [
+    "moe",
+    "pruning",
+    "model-compression",
+    "cerebras"
+  ]
+}
