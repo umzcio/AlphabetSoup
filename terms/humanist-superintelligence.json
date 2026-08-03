@@ -1,0 +1,15 @@
+{
+  "slug": "humanist-superintelligence",
+  "term": "Humanist Superintelligence",
+  "acronym": "HSI",
+  "category": "Safety & Alignment",
+  "short": "Microsoft AI's stated goal of building highly capable AI that stays in service of people rather than racing to surpass them.",
+  "definition": "Humanist Superintelligence is a framing put forward by Microsoft AI, led by Mustafa Suleyman, for how it wants to pursue very advanced AI: building state-of-the-art capabilities that are explicitly designed to serve humans and remain accountable to them, rather than treating ever-more-capable AI as a race toward autonomous systems that operate independently of people. It's presented as an alternative to framing AI progress purely as a race toward AGI or ASI for their own sake, emphasizing human benefit and control as the actual goal rather than a constraint added afterward. As with any single company's stated mission, it describes an intention and design philosophy rather than a technical guarantee, and it's worth watching whether products and policy actually follow it.",
+  "example": null,
+  "related": [
+    "superintelligence",
+    "asi",
+    "ai-safety",
+    "alignment"
+  ]
+}

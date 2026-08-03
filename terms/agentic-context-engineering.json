@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-context-engineering",
+  "term": "Agentic Context Engineering",
+  "acronym": "ACE",
+  "category": "Patterns",
+  "short": "A way for an AI agent to get better over time by rewriting its own notes, instead of retraining the model.",
+  "definition": "Agentic Context Engineering (ACE) is a technique for improving an AI agent's performance without changing its underlying weights. Instead of fine-tuning, ACE keeps a growing, structured \"playbook\" of concrete lessons — what worked, what failed, and why — and updates it after each task. The process splits into three roles: a Generator that attempts the task and produces a reasoning trace, a Reflector that pulls out concrete lessons from what succeeded or failed, and a Curator that folds those lessons into the evolving playbook. Because the playbook accumulates detail rather than being rewritten from scratch each time, it can grow into a genuinely useful reference, and researchers found it noticeably improved agents on tasks like multi-step tool use and financial analysis.",
+  "example": null,
+  "related": [
+    "context-engineering",
+    "self-improvement",
+    "in-context-learning",
+    "agent-memory"
+  ]
+}
