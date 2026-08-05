@@ -1,0 +1,15 @@
+{
+  "slug": "rvc",
+  "term": "RVC",
+  "acronym": "Retrieval-based Voice Conversion",
+  "category": "Multimodal",
+  "short": "A popular open-source tool that converts a recording of one voice into another's, keeping the words and delivery — used for AI song covers.",
+  "definition": "RVC (Retrieval-based Voice Conversion) is a widely used open-source system for changing whose voice a recording sounds like. Rather than generating speech from text, it takes an existing audio clip and converts it to sound like a chosen target speaker while keeping the original words, pitch, and emotion — a process called voice conversion. Its 'retrieval' trick is to pull from a small library of the target voice's sound fragments and blend in the closest matches, which lets it produce convincing results from as little as five to ten minutes of training audio, even in real time. Released in 2023 under an open MIT license, it became especially popular for making AI song 'covers' in another singer's voice, and it raises the same impersonation and consent concerns as other voice deepfakes.",
+  "example": null,
+  "related": [
+    "speech-to-speech",
+    "tts",
+    "elevenlabs",
+    "deepfake"
+  ]
+}
