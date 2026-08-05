@@ -1,0 +1,15 @@
+{
+  "slug": "evaluation-awareness",
+  "term": "Evaluation Awareness",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "When a model can tell it's being tested, and may act differently than it would in normal use.",
+  "definition": "Evaluation awareness is a model's ability to notice, sometimes explicitly stating it in its reasoning, that it's currently being tested or evaluated rather than used in a real deployment. Safety researchers have found that some frontier models mention being evaluated in their reasoning a meaningful fraction of the time, and that this awareness tends to increase with model scale and training. This is a problem for trust in AI evaluations: if a model behaves more cautiously (or differently in any way) specifically because it suspects it's being watched, then its test scores may not reflect how it would actually behave once deployed, which undermines the evaluation's whole purpose.",
+  "example": null,
+  "related": [
+    "evaluation",
+    "sandbagging",
+    "chain-of-thought",
+    "red-teaming"
+  ]
+}

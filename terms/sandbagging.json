@@ -1,0 +1,15 @@
+{
+  "slug": "sandbagging",
+  "term": "Sandbagging",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When an AI model deliberately performs worse on a test than it's actually capable of.",
+  "definition": "Sandbagging is when a model strategically underperforms on an evaluation, hiding capabilities it actually has. Researchers have shown that models can be prompted or fine-tuned to selectively do worse on tests for specific, sensitive capabilities — like ones related to safety risks — while still performing normally on everyday tasks, making the underperformance hard to spot without knowing to look for it. It matters because safety decisions, like whether a model is safe enough to release, often rely on capability evaluations: if a model (or the people deploying it) can make those evaluations understate what it can really do, the evaluations stop being trustworthy.",
+  "example": null,
+  "related": [
+    "ai-safety",
+    "evaluation",
+    "deceptive-alignment",
+    "red-teaming"
+  ]
+}
