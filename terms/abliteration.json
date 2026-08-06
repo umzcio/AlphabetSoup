@@ -1,0 +1,16 @@
+{
+  "slug": "abliteration",
+  "term": "Abliteration",
+  "acronym": "Directional Ablation",
+  "category": "Safety & Alignment",
+  "short": "Editing an open-weight model's internals to strip out its ability to refuse requests, without retraining it.",
+  "definition": "Abliteration is a technique for removing a language model's refusal behavior by editing its weights directly, rather than retraining it. It builds on a research finding that refusal is largely carried by a single consistent direction inside the model's internal representations: identify that direction, mathematically subtract it from the model's weights, and the model largely loses the ability to say no. Because it needs only a modest amount of compute and no training data, abliteration became a common way to produce 'uncensored' versions of open-weight models. It is contentious — supporters frame it as user control over models they run themselves and a way to remove over-refusal, while critics note it strips safety guardrails wholesale, and the process can also dent a model's general quality.",
+  "example": null,
+  "related": [
+    "refusal",
+    "heretic",
+    "open-weights",
+    "guardrails",
+    "alignment"
+  ]
+}

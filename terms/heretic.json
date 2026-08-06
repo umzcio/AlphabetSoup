@@ -1,0 +1,16 @@
+{
+  "slug": "heretic",
+  "term": "Heretic",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "An open-source tool that automatically strips the refusal behavior out of open-weight language models.",
+  "definition": "Heretic is an open-source tool that automates abliteration — the process of editing an open-weight language model so it stops refusing requests — without any retraining. Its contribution is automation: earlier abliteration required hand-tuning by someone who understood transformer internals, while Heretic searches for good settings itself, using an optimizer that balances two competing goals at once, driving refusals down while keeping the modified model's behavior as close as possible to the original so it doesn't get noticeably dumber. It can produce results rivaling expert manual work in under an hour on a single consumer graphics card. Released in 2025, it drew wide attention as a demonstration that safety alignment in openly distributed models can be removed cheaply by anyone who downloads them.",
+  "example": null,
+  "related": [
+    "abliteration",
+    "refusal",
+    "open-weights",
+    "guardrails",
+    "jailbreak"
+  ]
+}
