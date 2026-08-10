@@ -1,0 +1,16 @@
+{
+  "slug": "voice-cloning",
+  "term": "Voice Cloning",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Building a synthetic copy of a specific person's voice from samples, so it can be made to say anything.",
+  "definition": "Voice cloning is creating a digital replica of a particular person's voice so a system can generate new speech in it. Modern methods need surprisingly little source audio — sometimes under a minute — to capture someone's timbre, accent, and speaking style, after which typed text can be turned into convincing speech in that voice. It powers useful things like audiobook narration, dubbing across languages, and restoring speech for people who have lost their own. It is also the engine behind voice fraud and impersonation scams, which is why reputable providers require proof of consent and add safeguards. It differs from voice conversion, which reshapes an existing recording rather than generating fresh speech from text.",
+  "example": null,
+  "related": [
+    "voice-conversion",
+    "tts",
+    "deepfake",
+    "elevenlabs",
+    "rvc"
+  ]
+}

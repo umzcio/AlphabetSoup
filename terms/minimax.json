@@ -1,0 +1,15 @@
+{
+  "slug": "minimax",
+  "term": "MiniMax",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A Shanghai AI company known for its Hailuo video generators and open-weight models, and one of the first Chinese AI labs to go public.",
+  "definition": "MiniMax is a Chinese artificial-intelligence company founded in 2022 in Shanghai by former SenseTime researchers. It builds models spanning text, audio, images, and video, and is best known outside China for Hailuo, its video-generation product, alongside consumer apps like the character-chat service Talkie. The company releases some of its models as open weights, including the omni-modal MiniMax-H3. In early 2026 it listed on the Hong Kong Stock Exchange, following Z.ai as one of the first Chinese AI labs to go public, with its shares roughly doubling on debut.",
+  "example": null,
+  "related": [
+    "minimax-h3",
+    "video-generation",
+    "open-weights",
+    "z-ai"
+  ]
+}
