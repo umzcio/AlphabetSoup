@@ -1,0 +1,16 @@
+{
+  "slug": "minimax-h3",
+  "term": "MiniMax-H3",
+  "acronym": "Hailuo 3.0",
+  "category": "Models & Products",
+  "short": "An open-weight omni-modal model from MiniMax that generates short 2K video with matching stereo sound from text, images, audio, or video.",
+  "definition": "MiniMax-H3 (also called Hailuo 3.0) is a video-generation model released in 2026 by the Chinese AI company MiniMax. It is omni-modal: a single 33-billion-parameter transformer takes text, images, audio, or existing video as input and produces clips of roughly 4 to 15 seconds at up to 2K resolution with native stereo audio generated together with the picture, rather than dubbed on afterward. Its released weights let anyone download and run it, and it drew attention for delivering synchronized audio and video from one unified model at a notably low cost compared with closed competitors.",
+  "example": null,
+  "related": [
+    "omni-modal",
+    "omni-transformer",
+    "video-generation",
+    "text-to-video",
+    "open-weights"
+  ]
+}

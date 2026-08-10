@@ -1,0 +1,15 @@
+{
+  "slug": "omni-modal",
+  "term": "Omni-modal",
+  "acronym": "Any-to-Any",
+  "category": "Multimodal",
+  "short": "A single AI system that handles text, images, audio, and video together — taking any of them in and producing any of them out.",
+  "definition": "Omni-modal describes an AI system that works across all the main kinds of content — text, images, audio, and video — inside one model, rather than stitching together separate specialists for each. An omni-modal generative system can accept any mix of those inputs and produce output in whichever form is asked for, which is why it is also called 'any-to-any' generation. The appeal is that handling everything in one place lets the model relate what it sees to what it hears and reads, so, for example, generated video can carry sound that genuinely matches the action. It is a step beyond ordinary multimodal models, which typically understand several input types but generate only one.",
+  "example": null,
+  "related": [
+    "multimodal",
+    "omni-transformer",
+    "minimax-h3",
+    "audio-language-model"
+  ]
+}
