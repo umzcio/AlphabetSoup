@@ -1,0 +1,15 @@
+{
+  "slug": "voice-conversion",
+  "term": "Voice Conversion",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Transforming an existing recording so it sounds like a different speaker, while keeping the original words and delivery.",
+  "definition": "Voice conversion takes a recording of one person speaking or singing and re-renders it in someone else's voice, keeping the original words, timing, pitch movement, and emotional delivery intact. Because the performance carries over and only the vocal identity changes, it is popular for dubbing, video-game and film production, anonymizing a speaker's identity, and making AI song 'covers' — the main use of the open-source tool RVC. It differs from voice cloning, which generates entirely new speech from text in a target voice; here there is always a source performance driving the result. It raises the same consent and impersonation concerns as other voice deepfakes.",
+  "example": null,
+  "related": [
+    "voice-cloning",
+    "rvc",
+    "speech-to-speech",
+    "deepfake"
+  ]
+}
