@@ -1,0 +1,15 @@
+{
+  "slug": "omni-transformer",
+  "term": "Omni-Transformer",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A transformer that mixes text, image, audio, and video into one shared stream of tokens instead of processing each separately.",
+  "definition": "An omni-transformer is a transformer built to handle every kind of content in a single shared stream. Rather than giving each modality its own encoder and merging the results late, it converts text, images, audio, and video into one combined sequence of tokens and lets the model's attention work across all of them together from the very start — so connections between what is seen, heard, and read can form throughout, instead of being bolted on at the end. This 'single-stream' design is what makes omni-modal, any-to-any generation practical in one model. The specific name is associated with MiniMax's H3-Omni-Transformer, though the underlying unified-transformer idea appears across the research literature under several labels.",
+  "example": null,
+  "related": [
+    "omni-modal",
+    "transformer",
+    "minimax-h3",
+    "attention"
+  ]
+}
