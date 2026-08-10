@@ -1,0 +1,16 @@
+{
+  "slug": "seedance",
+  "term": "Seedance",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "ByteDance's AI video-generation model line, known for long, high-resolution clips with audio generated in sync.",
+  "definition": "Seedance is ByteDance's family of AI video-generation models, competing with systems like Sora and Veo. It turns a text prompt, image, or other reference material into a video clip, and its newer versions generate audio alongside the visuals in a shared process so that sound effects and on-screen action line up naturally, rather than adding sound as a separate step afterward. Later releases extended how long a single clip can run, raised output resolution, and increased the number of reference inputs, such as example images or style guides, a creator can feed in to steer a generation. ByteDance, which also owns TikTok, offers Seedance through its Jimeng and Doubao apps, with API access rolling out through its Volcano Engine cloud platform.",
+  "example": null,
+  "related": [
+    "video-generation",
+    "text-to-video",
+    "sora",
+    "veo",
+    "diffusion-model"
+  ]
+}

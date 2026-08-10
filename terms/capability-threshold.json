@@ -1,0 +1,16 @@
+{
+  "slug": "capability-threshold",
+  "term": "Capability Threshold",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A specific dangerous ability, like helping build weapons or run cyberattacks, that triggers extra safeguards once a model reaches it.",
+  "definition": "A capability threshold is a predefined, specific ability that a frontier AI lab treats as dangerous enough to require extra safeguards once a model is found to have reached it, such as independently carrying out cyberattacks or meaningfully helping someone build a biological or chemical weapon. Major labs publish these thresholds in named safety policies, including OpenAI's Preparedness Framework, Anthropic's Responsible Scaling Policy, and Google DeepMind's Frontier Safety Framework, which broadly follow the same pattern: test models for these abilities before wide release, and if a threshold is crossed, put specific protections in place, or pause development, before continuing. This is sometimes called an 'if-then commitment.'",
+  "example": null,
+  "related": [
+    "ai-safety",
+    "dual-use",
+    "frontier-model",
+    "capability-boundary",
+    "astra"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "astra",
+  "term": "Astra",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's next model, notable for solving open math problems and for being paused over cyberattack safety concerns.",
+  "definition": "Astra is a next-generation model OpenAI has been developing, still unreleased as of August 2026. In internal testing it made progress on, or fully resolved, ten long-standing open problems spanning areas like high-dimensional geometry and cryptography, with proofs published for outside experts to check. OpenAI also disclosed that Astra's evaluated abilities crossed what it calls a critical capability threshold for cybersecurity, meaning it could independently find and carry out cyberattacks against well-defended real-world systems. In response, OpenAI said it paused some internal work on the model and added stricter safeguards, such as isolated testing environments and tighter controls on network and tool access, while it works with government agencies and outside safety researchers to evaluate it further.",
+  "example": null,
+  "related": [
+    "openai",
+    "reasoning-model",
+    "capability-threshold",
+    "ai-safety",
+    "frontier-model"
+  ]
+}
