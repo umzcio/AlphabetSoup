@@ -1,0 +1,16 @@
+{
+  "slug": "gpt-5-6",
+  "term": "GPT-5.6",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "OpenAI's July 2026 model family, offered in three tiers — Luna, Terra, and Sol — from most affordable to most capable.",
+  "definition": "GPT-5.6 is a family of models released by OpenAI in July 2026, sold in three tiers so users can trade cost against capability: Luna, the cheapest and fastest; Terra, a balanced option for everyday work; and Sol, the flagship aimed at hard reasoning, coding, and agentic tasks where the model works through multi-step jobs on its own. OpenAI positioned the release around enterprise work, software engineering, scientific research, and cybersecurity. Its rollout was unusual: a limited preview went to a small set of partners first, ahead of the general launch.",
+  "example": null,
+  "related": [
+    "gpt",
+    "gpt-5-4",
+    "openai",
+    "reasoning-model",
+    "agentic-coding"
+  ]
+}
