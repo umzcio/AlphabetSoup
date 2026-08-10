@@ -1,0 +1,16 @@
+{
+  "slug": "qwen-3-6",
+  "term": "Qwen 3.6",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Alibaba's April 2026 open-weight Qwen generation, where a compact 27B model matched or beat far larger predecessors at coding.",
+  "definition": "Qwen 3.6 is a generation of Alibaba's open-weight Qwen models released in April 2026 under a permissive Apache 2.0 license. It shipped in two forms: a compact dense model of about 27 billion parameters, and a mixture-of-experts version that holds more total parameters but only activates a small slice of them for each token, keeping it cheap to run. Both accept text, images, and video, and handle very long inputs — around 256,000 tokens, stretchable further. Its headline result was efficiency: the small 27B model outscored the much larger previous generation on agentic coding benchmarks, reinforcing the trend of smaller open models catching up to far bigger ones.",
+  "example": null,
+  "related": [
+    "qwen",
+    "qwen3",
+    "qwen-3-7",
+    "moe",
+    "open-weights"
+  ]
+}
