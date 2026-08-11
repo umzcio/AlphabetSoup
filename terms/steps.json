@@ -1,0 +1,15 @@
+{
+  "slug": "steps",
+  "term": "Steps",
+  "acronym": "Sampling Steps",
+  "category": "Inference & Serving",
+  "short": "How many rounds of cleanup an image generator runs while turning noise into a picture — more steps, slower but usually finer.",
+  "definition": "Steps is the setting that controls how many passes an image or video generator makes while refining random noise into a finished result. Each step removes a bit more noise, so more steps generally mean a cleaner, more detailed picture — but also a proportionally longer wait, and the gains flatten out quickly, with little visible difference past a few dozen. Too few steps leaves the image looking rough or unresolved. The right number depends heavily on the model and sampling method: ordinary models often use twenty to fifty, while distilled 'turbo' models are specially trained to produce good results in as few as one to four.",
+  "example": null,
+  "related": [
+    "diffusion-model",
+    "cfg",
+    "image-generation",
+    "latency"
+  ]
+}
