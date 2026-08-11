@@ -1,0 +1,15 @@
+{
+  "slug": "cfg",
+  "term": "CFG",
+  "acronym": "Classifier-Free Guidance",
+  "category": "Inference & Serving",
+  "short": "A setting in image generators controlling how strictly the model follows your prompt versus inventing freely.",
+  "definition": "CFG (classifier-free guidance) is the dial in most image and video generators that decides how closely the result must match your prompt. Behind the scenes the model effectively imagines two versions of the picture — one guided by your words and one ignoring them — and then exaggerates the difference between them; the CFG number sets how far to push that exaggeration. Low values give the model freedom, producing more varied and natural images that may wander from what you asked for. High values force literal obedience to the prompt but can look harsh, oversaturated, or strangely warped. Most tools sit somewhere in the middle by default, and few-step 'turbo' models often need much lower values than normal ones.",
+  "example": null,
+  "related": [
+    "diffusion-model",
+    "text-to-image",
+    "steps",
+    "stable-diffusion"
+  ]
+}
