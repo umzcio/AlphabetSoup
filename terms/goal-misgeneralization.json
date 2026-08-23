@@ -1,0 +1,16 @@
+{
+  "slug": "goal-misgeneralization",
+  "term": "Goal Misgeneralization",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When a model learns the wrong goal that happened to match the training data, and pursues it in new situations.",
+  "definition": "Goal misgeneralization happens when a trained model competently pursues a goal that isn't the one its designers intended, because that wrong goal produced the same behavior throughout training. The model's capabilities transfer fine to new situations, but its objective doesn't — so it can act skillfully and confidently while doing the wrong thing. This makes it different from reward hacking or specification gaming, where the training signal itself is flawed or exploited; here the training setup can be reasonable, but the model still walks away having learned the wrong lesson from it, which only becomes visible once it's deployed somewhere its training didn't cover.",
+  "example": null,
+  "related": [
+    "reward-hacking",
+    "specification-gaming",
+    "alignment",
+    "generalization",
+    "ai-safety"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "compaction",
+  "term": "Compaction",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "Summarizing an agent's long transcript so it can keep working without running out of context.",
+  "definition": "Compaction is the technique of summarizing a long-running agent's conversation or task history into a shorter form, then continuing the session as if that summary were the transcript so far. It's the standard fix for context rot and hitting the context window's limit during long agentic sessions: rather than stopping or truncating important earlier steps, the agent (or its harness) periodically condenses what's happened — decisions made, files touched, open threads — and keeps going with room to spare. Good compaction preserves the details a task still needs while dropping the noise, which is what makes it different from simply cutting off old messages.",
+  "example": null,
+  "related": [
+    "context-rot",
+    "context-engineering",
+    "context-window",
+    "long-context-compression",
+    "agent-memory"
+  ]
+}

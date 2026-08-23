@@ -1,0 +1,16 @@
+{
+  "slug": "swe-bench-pro",
+  "term": "SWE-bench Pro",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A harder, contamination-resistant successor to SWE-bench, testing coding agents on enterprise-scale repos.",
+  "definition": "SWE-bench Pro is a large-scale coding benchmark built to be harder and more resistant to benchmark contamination than the original SWE-bench. It draws real issues from professional-scale repositories, including strongly copyleft-licensed open-source projects (whose license discourages their inclusion in training data) and private commercial codebases contributed by startups, so a model can't simply have memorized the answers. Because the tasks are longer and more realistic, top coding agents score far lower on it than on SWE-bench Verified, making it a stress test for genuine software-engineering ability rather than pattern recall.",
+  "example": null,
+  "related": [
+    "swe-bench",
+    "swe-bench-verified",
+    "benchmark-contamination",
+    "agentic-coding",
+    "benchmark"
+  ]
+}

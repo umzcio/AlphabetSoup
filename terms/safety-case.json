@@ -1,0 +1,16 @@
+{
+  "slug": "safety-case",
+  "term": "Safety Case",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A written argument, with evidence, for why a specific model release is safe enough to deploy.",
+  "definition": "A safety case is a structured document that lays out the evidence and reasoning for why a particular model, at a particular capability level, is safe enough to release or deploy. Borrowed from safety-critical engineering fields like aviation and nuclear power, the approach asks a lab to actively argue and justify a release rather than just report benchmark scores. A safety case typically names the specific risks considered (such as misuse for weapons or loss of control), the evaluations and safeguards meant to address each one, and the reasoning for why those measures are sufficient. Some frontier AI labs now write one as a required step before shipping their most capable models.",
+  "example": null,
+  "related": [
+    "ai-safety",
+    "red-teaming",
+    "model-card",
+    "evaluation",
+    "ai-governance"
+  ]
+}
