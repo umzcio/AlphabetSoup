@@ -1,0 +1,16 @@
+{
+  "slug": "attribution-graph",
+  "term": "Attribution Graph",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A map of which internal concepts fed into which others as a model worked out one answer.",
+  "definition": "An attribution graph is the diagram that circuit tracing produces: a picture of how information moved through a model on one specific prompt. Each node stands for an interpretable concept the model was using at some point, and each link shows that one concept pushed another toward being active, ending at the word the model finally produced. Reading such a graph can reveal genuinely surprising things — for instance, that a model worked out an intermediate fact nobody asked for, or reached its answer by a different route than its written explanation claimed. Researchers can also edit values in the graph and rerun the model to check whether the story it tells is really what drives the behavior.",
+  "example": null,
+  "related": [
+    "circuit-tracing",
+    "circuit",
+    "mechanistic-interpretability",
+    "interpretability",
+    "transcoder"
+  ]
+}

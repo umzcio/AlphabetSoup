@@ -1,0 +1,16 @@
+{
+  "slug": "circuit-tracing",
+  "term": "Circuit Tracing",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Following the internal steps a model took on one specific prompt to see how it reached its answer.",
+  "definition": "Circuit tracing is a method for working out how a model produced a particular answer by following the chain of internal steps that led there. Researchers swap parts of the network for more readable stand-ins, then trace which of those readable pieces influenced which others on the way to the output, producing a map called an attribution graph. Unlike asking a model to explain itself — which only shows what it says about its reasoning — circuit tracing looks at what actually happened inside. Anthropic released open-source circuit-tracing tools in 2025, and the approach has become one of the main practical techniques in mechanistic interpretability.",
+  "example": null,
+  "related": [
+    "attribution-graph",
+    "circuit",
+    "mechanistic-interpretability",
+    "transcoder",
+    "interpretability"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "transcoder",
+  "term": "Transcoder",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A readable stand-in that copies what one part of a model does, so researchers can follow the computation.",
+  "definition": "A transcoder is a small, deliberately readable network trained to reproduce what a chunk of a larger model does — take the same input, give roughly the same output — but using a long list of features that each stand for a recognizable concept. Where a sparse autoencoder describes what a model is representing at one point, a transcoder describes a step the model takes, which is what lets researchers follow a computation from one stage to the next. Cross-layer transcoders, which span several layers at once, are the machinery behind circuit tracing and attribution graphs. The trade-off is that the stand-in is never a perfect copy, so conclusions drawn from it have to be checked against the real model.",
+  "example": null,
+  "related": [
+    "sparse-autoencoder",
+    "circuit-tracing",
+    "attribution-graph",
+    "mechanistic-interpretability",
+    "interpretability"
+  ]
+}

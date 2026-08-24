@@ -1,0 +1,16 @@
+{
+  "slug": "polysemanticity",
+  "term": "Polysemanticity",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When one neuron responds to several unrelated things at once, making it hard to read.",
+  "definition": "Polysemanticity is the observation that a single neuron inside a network often fires for several unrelated things — one might respond to legal language, to pictures of cats, and to a particular punctuation pattern all at once. This is why you usually can't understand a model by reading its neurons one at a time. The leading explanation is superposition: the network has more concepts to represent than it has neurons, so it overlaps them, accepting occasional confusion in exchange for capacity. Tools like sparse autoencoders exist largely to undo this overlap and recover features that each mean one clear thing.",
+  "example": null,
+  "related": [
+    "superposition",
+    "sparse-autoencoder",
+    "mechanistic-interpretability",
+    "interpretability",
+    "activation"
+  ]
+}

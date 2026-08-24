@@ -1,0 +1,16 @@
+{
+  "slug": "nixl",
+  "term": "NIXL",
+  "acronym": "NVIDIA Inference Xfer Library",
+  "category": "Inference & Serving",
+  "short": "A library for moving a model's cached working memory quickly between GPUs, machines, and storage.",
+  "definition": "NIXL is an open-source library built to shift data between machines during inference as fast as possible, most importantly the KV cache — the working memory a model builds up while reading a prompt. That matters because modern serving setups split a request across different machines, and if handing the cache over is slow, the split costs more than it saves. NIXL gives one interface for many kinds of transfer, whether the data sits in GPU memory, ordinary system memory, or on storage, and picks a suitable transport underneath. It is the data-movement layer inside NVIDIA Dynamo and is used by other serving stacks too.",
+  "example": null,
+  "related": [
+    "nvidia-dynamo",
+    "kv-cache",
+    "disaggregated-serving",
+    "rdma",
+    "inference"
+  ]
+}
