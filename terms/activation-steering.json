@@ -1,0 +1,16 @@
+{
+  "slug": "activation-steering",
+  "term": "Activation Steering",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Nudging a model's behavior by adjusting its internal signals as it runs, instead of retraining it.",
+  "definition": "Activation steering changes how a model behaves by adding a nudge directly to its internal signals while it is generating text, rather than by retraining it or rewriting the prompt. Researchers first find the internal direction that corresponds to some quality — being cautious, being formal, talking about a particular topic — usually by comparing what happens on examples that have it against examples that don't. They can then dial that direction up or down at run time. It is used both as a control method and as a test: if pushing on a feature reliably changes the output, that is evidence the feature really does the job researchers think it does. Effects can be brittle, and pushing too hard tends to degrade the model's answers.",
+  "example": null,
+  "related": [
+    "mechanistic-interpretability",
+    "sparse-autoencoder",
+    "activation",
+    "interpretability",
+    "alignment"
+  ]
+}

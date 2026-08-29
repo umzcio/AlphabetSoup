@@ -1,0 +1,16 @@
+{
+  "slug": "nvidia-dynamo",
+  "term": "NVIDIA Dynamo",
+  "acronym": null,
+  "category": "Frameworks & Tools",
+  "short": "NVIDIA's open-source system for running large models across many GPUs and whole data centers.",
+  "definition": "NVIDIA Dynamo is an open-source serving framework for running large models at data-center scale, aimed at the case where one machine is not enough. It coordinates a fleet of GPUs: splitting a request's two phases — reading the prompt and generating the reply — onto machines suited to each, routing requests to whichever worker already has the relevant cached work, moving that cache between machines, and adding or removing workers as demand changes. It sits above the engines that do the actual token generation, such as vLLM, SGLang, and TensorRT-LLM, rather than replacing them.",
+  "example": null,
+  "related": [
+    "disaggregated-serving",
+    "disaggregated-prefill",
+    "vllm",
+    "sglang",
+    "kv-cache"
+  ]
+}

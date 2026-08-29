@@ -1,0 +1,16 @@
+{
+  "slug": "circuit",
+  "term": "Circuit",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A small group of parts inside a model that work together to carry out one identifiable step.",
+  "definition": "In interpretability research, a circuit is a small set of connected pieces inside a trained model — particular features, attention heads, or groups of neurons — that together perform one recognizable job, such as tracking which name was mentioned earlier or deciding whether a sentence is a question. The name borrows from electronics: rather than treating the network as one undifferentiated blob, researchers look for repeatable wiring that explains a specific behavior. Finding circuits is the main goal of mechanistic interpretability, because a behavior you can point to inside the model is one you can test, predict, and potentially fix.",
+  "example": null,
+  "related": [
+    "mechanistic-interpretability",
+    "interpretability",
+    "sparse-autoencoder",
+    "activation",
+    "attention"
+  ]
+}
