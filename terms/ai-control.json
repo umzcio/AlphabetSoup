@@ -1,0 +1,16 @@
+{
+  "slug": "ai-control",
+  "term": "AI Control",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Safeguards built around a deployed AI system so it can't cause serious harm even if it turns out to be misaligned.",
+  "definition": "AI Control is a safety approach that assumes a deployed model might be misaligned or deceptive despite passing training and testing, and asks what would stop it from causing serious harm anyway. Rather than relying only on making the model itself trustworthy, it builds defenses around the model as it operates: monitoring its actions, limiting what it can access, requiring approval for risky steps, and designing tasks so a model that tried to misbehave would likely get caught. Google DeepMind published an AI Control Roadmap in 2026 describing this as a second line of defense that matters most for highly capable, autonomous, internally-deployed systems, to be used alongside — not instead of — alignment research.",
+  "example": null,
+  "related": [
+    "control-problem",
+    "alignment",
+    "scalable-oversight",
+    "red-team-eval",
+    "sandbagging"
+  ]
+}

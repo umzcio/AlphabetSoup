@@ -1,0 +1,15 @@
+{
+  "slug": "taste-benchmark",
+  "term": "TASTE",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "An Anthropic benchmark testing whether AI models can judge which AI safety research proposals are more promising.",
+  "definition": "TASTE is a benchmark from Anthropic that measures whether a model can tell which of two AI safety research proposals is more promising, scored against the judgment of experienced human researchers who agreed on the answer. It targets a harder kind of evaluation than most benchmarks: judging open-ended research ideas rather than checking a verifiable answer, which matters because much of alignment research can't be graded automatically. In Anthropic's tests, models scored well below the human researchers used to build the benchmark, illustrating a current gap in AI's ability to help oversee its own safety research rather than just carry out well-specified tasks.",
+  "example": null,
+  "related": [
+    "alignment",
+    "scalable-oversight",
+    "evaluation",
+    "ai-control"
+  ]
+}
