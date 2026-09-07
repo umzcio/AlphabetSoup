@@ -1,16 +1,16 @@
 {
   "slug": "astra",
-  "term": "Astra",
+  "term": "GPT-6 Astra",
   "acronym": null,
   "category": "Models & Products",
-  "short": "OpenAI's next model, notable for solving open math problems and for being paused over cyberattack safety concerns.",
-  "definition": "Astra is a next-generation model OpenAI has been developing, still unreleased as of August 2026. In internal testing it made progress on, or fully resolved, ten long-standing open problems spanning areas like high-dimensional geometry and cryptography, with proofs published for outside experts to check. OpenAI also disclosed that Astra's evaluated abilities crossed what it calls a critical capability threshold for cybersecurity, meaning it could independently find and carry out cyberattacks against well-defended real-world systems. In response, OpenAI said it paused some internal work on the model and added stricter safeguards, such as isolated testing environments and tighter controls on network and tool access, while it works with government agencies and outside safety researchers to evaluate it further.",
+  "short": "OpenAI's flagship model, released in September 2026 with computer-use skills and added cybersecurity safeguards.",
+  "definition": "GPT-6 Astra is OpenAI's flagship model, released to trusted partners on September 3, 2026 and to paying users the next day. OpenAI describes it as its most capable and best-aligned model yet, beating both its predecessor GPT-5.6 Sol and rival Claude Fable on major reasoning benchmarks, and highlights 'computer use' — navigating a computer's screen and apps the way a person would — as a headline feature. During development, Astra's evaluated abilities crossed what OpenAI calls a critical capability threshold for cybersecurity, meaning it could independently find and carry out cyberattacks against well-defended real-world systems; OpenAI responded by adding stricter safeguards, restricting some cybersecurity-related capabilities in the general release, and giving first access to an application-based cybersecurity program. It followed a delay after a mid-2026 Hugging Face security incident prompted OpenAI to add further safeguards before shipping.",
   "example": null,
   "related": [
     "openai",
     "reasoning-model",
     "capability-threshold",
-    "ai-safety",
+    "computer-use",
     "frontier-model"
   ]
 }

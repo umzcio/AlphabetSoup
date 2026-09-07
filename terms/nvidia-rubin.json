@@ -3,8 +3,8 @@
   "term": "NVIDIA Rubin",
   "acronym": null,
   "category": "Hardware & Systems",
-  "short": "NVIDIA's next major AI chip platform, following Blackwell.",
-  "definition": "NVIDIA Rubin (the Vera Rubin platform) is NVIDIA's next major AI compute platform, succeeding the Blackwell generation. It pairs a new CPU (Vera) and GPU (Rubin) with faster interconnects, aiming to improve performance per watt and lower the cost of large-scale training and inference. Specific specs and dates shift, so verify before publishing.",
+  "short": "NVIDIA's AI chip platform after Blackwell, in full production for 2026 with much faster memory and interconnects.",
+  "definition": "NVIDIA Rubin (the Vera Rubin platform) is NVIDIA's AI compute platform succeeding Blackwell, announced at CES 2026 and in full production with partner systems shipping in the second half of 2026. It pairs a new CPU (Vera) with new GPUs (Rubin), each carrying far more high-bandwidth memory than Blackwell, alongside faster NVLink networking; NVIDIA packages 72 of the GPUs into a single Vera Rubin NVL72 server. The platform is aimed squarely at agentic AI, reasoning models, and mixture-of-experts models, with NVIDIA citing large reductions in inference cost per token compared to Blackwell.",
   "example": null,
   "related": [
     "blackwell",

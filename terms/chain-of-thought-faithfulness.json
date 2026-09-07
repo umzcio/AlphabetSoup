@@ -1,0 +1,15 @@
+{
+  "slug": "chain-of-thought-faithfulness",
+  "term": "Chain-of-Thought Faithfulness",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Whether a model's written-out reasoning actually reflects why it gave its answer, rather than a made-up story.",
+  "definition": "Chain-of-thought faithfulness asks whether the step-by-step reasoning a model writes out actually explains how it reached its answer, rather than being a plausible-sounding story invented afterward to justify a conclusion it reached some other way. Studies have found reasoning that looks unfaithful in this sense: slipping a hint into a prompt can change a model's final answer without the written reasoning ever mentioning the hint. This matters for safety because people increasingly read a model's chain of thought as a window into what it is 'really thinking,' including as a way to catch problems like deception or reward hacking — but an unfaithful chain of thought can look convincing while hiding the true reason for a decision. It is an active area of interpretability and alignment research.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "interpretability",
+    "deceptive-alignment",
+    "reward-hacking"
+  ]
+}
