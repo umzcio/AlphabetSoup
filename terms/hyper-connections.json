@@ -1,0 +1,15 @@
+{
+  "slug": "hyper-connections",
+  "term": "Hyper-Connections",
+  "acronym": "HC",
+  "category": "Architectures",
+  "short": "A shortcut design that replaces a fixed residual connection with several adjustable ones a model can learn to weight.",
+  "definition": "Hyper-Connections are an alternative to the standard residual connection, introduced by ByteDance's Seed team. Instead of one fixed shortcut carrying a layer's input past it, the network keeps several parallel copies of that signal and learns how strongly to mix them, both within a layer and across depth. This gives training more flexibility to balance two failure modes that plain residual connections can fall into — signals fading out (vanishing gradients) or different layers' representations collapsing into each other — without redesigning the rest of the network. It has shown consistent gains when pretraining large language and vision models, and it set up follow-on work like Manifold-Constrained Hyper-Connections, which adds stability guarantees the original method lacks.",
+  "example": null,
+  "related": [
+    "residual-connection",
+    "mhc",
+    "transformer",
+    "gradient-descent"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "mhc",
+  "term": "Manifold-Constrained Hyper-Connections",
+  "acronym": "mHC",
+  "category": "Architectures",
+  "short": "DeepSeek's fix for Hyper-Connections that keeps the extra shortcut paths from destabilizing training in very deep models.",
+  "definition": "Manifold-Constrained Hyper-Connections (mHC) is a DeepSeek technique that fixes a stability problem in Hyper-Connections, an earlier method for giving models several adjustable shortcut paths instead of one fixed residual connection. Left unconstrained, those extra paths can let signals get amplified layer after layer until training becomes unstable or fails outright. mHC forces the mixing of paths to stay on a mathematical surface (a manifold) where the total amount of signal is preserved rather than amplified or lost, enforced with an algorithm called Sinkhorn-Knopp. DeepSeek reported this kept training smooth at multiple model sizes where the unconstrained version often broke, making it a practical building block for training deeper, more efficient models.",
+  "example": null,
+  "related": [
+    "hyper-connections",
+    "residual-connection",
+    "deepseek",
+    "gradient-descent"
+  ]
+}
