@@ -1,0 +1,16 @@
+{
+  "slug": "fairwind",
+  "term": "Fairwind",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Google's gated-access program that lets vetted defenders use a cybersecurity-focused Gemini model.",
+  "definition": "Fairwind is a Google program that gates access to Gemini 3.8 Flash Cyber, a security-tuned variant of Gemini 3.8 Flash released in September 2026 for finding and patching software vulnerabilities. Rather than being sold through a public API, access goes only to vetted government authorities, critical-infrastructure operators, and software maintainers who apply and are approved, because the underlying model weights stay closed. The approach mirrors a broader industry pattern of frontier labs restricting their most capable cybersecurity-relevant models to trusted defenders, similar to Anthropic's Project Glasswing, in order to capture the benefits for defense while limiting the risk of the same abilities being used to attack systems.",
+  "example": null,
+  "related": [
+    "google-deepmind",
+    "gemini-flash",
+    "project-glasswing",
+    "capability-threshold",
+    "dual-use"
+  ]
+}

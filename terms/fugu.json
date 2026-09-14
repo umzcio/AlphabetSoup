@@ -1,0 +1,16 @@
+{
+  "slug": "fugu",
+  "term": "Fugu",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Sakana AI's model family that routes tasks across a pool of other models instead of being one big model itself.",
+  "definition": "Fugu is a family of models from Sakana AI, released in two tiers — the cost-focused Fugu Max and the flagship Fugu Ultra v2 — in September 2026. Rather than being a single large model trained end to end, Fugu is trained to understand a request and dynamically assemble a plan for solving it: routing pieces of the task across a fixed pool of open-weight and specialized models, and recursively calling copies of itself when a subtask needs more of the same treatment. Sakana argues this orchestration approach can match or beat frontier proprietary models on many benchmarks while avoiding reliance on any single vendor's model, since the underlying pieces can be swapped out as better ones become available.",
+  "example": null,
+  "related": [
+    "sakana-ai",
+    "multi-agent-system",
+    "orchestrator",
+    "routing-agent",
+    "open-weights"
+  ]
+}

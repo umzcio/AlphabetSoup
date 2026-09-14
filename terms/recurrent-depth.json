@@ -1,0 +1,16 @@
+{
+  "slug": "recurrent-depth",
+  "term": "Recurrent Depth",
+  "acronym": "Opaque Recurrence",
+  "category": "Architectures",
+  "short": "Looping a model's internal layers over a hidden state multiple times instead of writing out more reasoning text.",
+  "definition": "Recurrent depth, also called opaque recurrence, is a technique where a model reruns the same transformer layers over its internal hidden state several times before producing any output tokens, rather than reasoning by writing out more chain-of-thought text. First described in a 2025 research paper, it lets a model 'think harder' about a problem more efficiently, since looping in latent space costs less than generating and reading back long streams of text. The tradeoff is transparency: because little or none of that extra thinking shows up as readable text, it leaves far fewer legible traces for humans to inspect than a normal chain of thought. When OpenAI's GPT-6 Astra used a limited form of this technique in September 2026, AI safety researchers raised concerns that wider adoption could make it harder to monitor a model's reasoning for warning signs of deception or misbehavior, even as OpenAI said it had limited the technique specifically to keep Astra's reasoning legible.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "chain-of-thought-faithfulness",
+    "interpretability",
+    "astra",
+    "test-time-compute"
+  ]
+}
