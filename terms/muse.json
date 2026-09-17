@@ -1,0 +1,16 @@
+{
+  "slug": "muse",
+  "term": "Muse",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Meta's consumer AI agent that carries out real tasks like booking, shopping, and email on a person's behalf.",
+  "definition": "Muse is a personal AI agent from Meta, launched in September 2026, built to take real-world tasks off a person's plate rather than just answer questions. It can do things like book appointments, buy tickets, send emails, and pursue longer-term goals, working through apps a person already uses and continuing a task in the background after they close the app. It runs on a dedicated secure virtual computer with its own browser, and it pauses to ask for approval before consequential steps like sending a message or making a purchase. It launched in the United States with a free tier and two paid tiers, and is built on Meta's Muse Spark model family.",
+  "example": null,
+  "related": [
+    "meta-ai",
+    "virtual-assistant",
+    "agentic-commerce",
+    "action-confirmation",
+    "delegated-authority"
+  ]
+}
