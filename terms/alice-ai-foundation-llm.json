@@ -1,0 +1,16 @@
+{
+  "slug": "alice-ai-foundation-llm",
+  "term": "Alice AI Foundation LLM",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Yandex's open-weight large language model, trained from scratch and released with publicly downloadable weights.",
+  "definition": "Alice AI Foundation LLM is an open-weight large language model from the Russian company Yandex, released in September 2026 as part of its Alice AI assistant family. Unlike many open releases that start from another lab's model, Yandex trained it from scratch, and the company reports it matching or beating some larger open models from other labs on coding and knowledge-heavy tasks despite having fewer active parameters — though as with any vendor's own benchmark claims, that's worth checking against independent testing. Its release adds to a small but growing list of open-weight foundation models trained by major labs outside the US, alongside efforts from Chinese labs, that reduce reliance on any single country's AI supply chain.",
+  "example": null,
+  "related": [
+    "open-weights",
+    "llm",
+    "moe",
+    "sovereign-ai",
+    "hugging-face"
+  ]
+}

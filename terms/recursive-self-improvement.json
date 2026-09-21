@@ -1,0 +1,16 @@
+{
+  "slug": "recursive-self-improvement",
+  "term": "Recursive Self-Improvement",
+  "acronym": "RSI",
+  "category": "Safety & Alignment",
+  "short": "The idea of an AI system improving itself well enough to build its own successor, with less human involvement each round.",
+  "definition": "Recursive self-improvement is the scenario where an AI system helps design, train, or refine a better version of itself, and that improved version does the same for the next one, with humans playing a smaller role each cycle. It matters because if the loop sped up and ran with little oversight, capabilities could advance faster than anyone could evaluate or correct them, which is why it's treated as a marker on the road to the technological singularity. It remains mostly a future concern rather than something happening today: as of September 2026, Anthropic reported that its Claude models were already handling a growing share of the day-to-day work of researching and building Anthropic's next models, but said Claude was not acting independently in any part of that work, and framed its own measurements as a way to track progress toward this scenario rather than evidence that it had arrived.",
+  "example": null,
+  "related": [
+    "self-improvement",
+    "technological-singularity",
+    "existential-risk",
+    "superintelligence",
+    "ai-safety"
+  ]
+}
