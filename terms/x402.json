@@ -1,0 +1,15 @@
+{
+  "slug": "x402",
+  "term": "x402",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "An open protocol that lets an AI agent pay for a web resource automatically using the old, unused HTTP \"402 Payment Required\" status code.",
+  "definition": "x402 is an open payment protocol that revives the long-unused HTTP \"402 Payment Required\" status code: when an agent or app requests a resource that costs money, the server replies with a 402 and payment details, the client signs a small stablecoin payment, and the request is retried and fulfilled once payment settles. It needs no account sign-up or stored card, just a crypto wallet that can sign a transaction, which makes it well suited to AI agents paying per-request for APIs, data, or services on their own. It has become a common building block underneath higher-level agent checkout standards like the Agentic Commerce Protocol and Agent Payments Protocol.",
+  "example": null,
+  "related": [
+    "agent-payments-protocol",
+    "agentic-commerce-protocol",
+    "agentic-commerce",
+    "agent"
+  ]
+}

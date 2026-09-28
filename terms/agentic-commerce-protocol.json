@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-commerce-protocol",
+  "term": "Agentic Commerce Protocol",
+  "acronym": "ACP",
+  "category": "Patterns",
+  "short": "An open standard from OpenAI and Stripe that lets an AI agent complete checkout at a merchant it doesn't own.",
+  "definition": "The Agentic Commerce Protocol is an open standard, co-developed by OpenAI and Stripe, that defines how an AI agent can browse a merchant's product catalog and run checkout on a shopper's behalf. It covers building a cart, agreeing on what the agent is and isn't allowed to do, passing a narrowly scoped payment token instead of raw card details, and tracking the order afterward, while the merchant stays the merchant of record. It's the standard behind in-chat checkout features like ChatGPT's Instant Checkout, and it's meant to work with any payment provider, not just Stripe.",
+  "example": null,
+  "related": [
+    "agent-payments-protocol",
+    "x402",
+    "agentic-commerce",
+    "action-confirmation"
+  ]
+}

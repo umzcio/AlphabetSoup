@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Models & Products",
   "short": "Inflection AI's conversational assistant designed for empathetic, supportive dialogue.",
-  "definition": "Pi is a conversational AI assistant developed by Inflection AI, designed with an emphasis on empathetic, emotionally supportive dialogue rather than purely task-focused responses. It positions itself as a personal companion and is accessible across web, mobile, and messaging platforms. Its ownership and development direction shifted after much of Inflection's team moved to Microsoft, so its current status is worth verifying before publishing.",
+  "definition": "Pi is a conversational AI assistant developed by Inflection AI, designed with an emphasis on empathetic, emotionally supportive dialogue rather than purely task-focused responses. It positions itself as a personal companion, remains free to use, and is accessible through a web browser (including on mobile). After much of Inflection's team moved to Microsoft in 2024, the company refocused primarily on enterprise AI products, and Pi continues to run as its free consumer-facing assistant alongside that shift.",
   "example": null,
   "related": [
     "inflection-ai",
