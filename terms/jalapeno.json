@@ -1,0 +1,10 @@
+{
+  "slug": "jalapeno",
+  "term": "Jalapeño",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "OpenAI's first custom chip, co-designed with Broadcom specifically to run its own models cheaply at huge scale.",
+  "definition": "Jalapeño is OpenAI's first custom AI chip, co-developed with Broadcom and unveiled in 2026, built as an ASIC (a chip wired for one specific job) rather than a general-purpose GPU. It's designed around how OpenAI actually runs inference (using a trained model to answer requests) at massive scale, and the companies report meaningfully better performance per watt than comparable Nvidia GPUs for that workload. It's not sold or rented to outside customers; it's meant to lower OpenAI's own cost of serving its models as demand grows, following a path other large AI companies like Google have taken with their own custom chips.",
+  "example": null,
+  "related": ["asic", "openai", "accelerator", "gpu", "tpu"]
+}

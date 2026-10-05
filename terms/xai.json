@@ -3,12 +3,13 @@
   "term": "xAI",
   "acronym": null,
   "category": "Organizations",
-  "short": "Elon Musk's AI company, maker of the Grok models with real-time access to X.",
-  "definition": "xAI is an AI company founded in 2023 by Elon Musk that develops the Grok family of large language models, which are integrated into the social platform X and trained partly on its real-time data. It built one of the largest reported clusters of GPUs (the specialized chips used to train AI) to support training. Corporate developments — including reported acquisition talks — move fast and should be verified before publishing.",
+  "short": "Elon Musk's AI company, maker of the Grok models, now folded into SpaceX as SpaceXAI.",
+  "definition": "xAI is an AI company founded in 2023 by Elon Musk that develops the Grok family of large language models. In 2025 it acquired the social platform X (formerly Twitter), integrating Grok with X's real-time data, and built one of the largest reported clusters of GPUs (the specialized chips used to train AI) to support training. In February 2026, SpaceX acquired xAI in an all-stock deal, and the combined AI unit was rebranded SpaceXAI in July 2026, continuing Grok's development as part of Musk's broader space and AI ambitions.",
   "example": null,
   "related": [
     "openai",
     "anthropic",
-    "gpu"
+    "gpu",
+    "grok"
   ]
 }

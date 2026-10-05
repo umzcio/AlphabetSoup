@@ -1,0 +1,10 @@
+{
+  "slug": "asic",
+  "term": "ASIC",
+  "acronym": "Application-Specific Integrated Circuit",
+  "category": "Hardware & Systems",
+  "short": "A chip custom-built for one job, like running a specific company's AI models, instead of general-purpose computing.",
+  "definition": "An ASIC is a chip designed and wired for one specific task rather than general-purpose computing. In AI, that usually means a chip built around one company's own models and software, trading the flexibility of a general-purpose GPU for higher efficiency on that narrower job. Google's TPUs were an early example, and more companies, including OpenAI and Amazon, have since built their own inference-focused ASICs to cut cost and power use at large scale, at the expense of being locked into that one company's hardware.",
+  "example": null,
+  "related": ["accelerator", "tpu", "gpu", "inference"]
+}
