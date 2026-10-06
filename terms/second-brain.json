@@ -1,0 +1,16 @@
+{
+  "slug": "second-brain",
+  "term": "Second Brain",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A personal, searchable store of everything you've read and thought, increasingly queried with AI instead of browsed by hand.",
+  "definition": "A second brain is a personal knowledge system — notes, highlights, saved articles, and ideas kept in one searchable place so you can offload remembering and find things again later. The idea predates the current AI wave and comes from the personal knowledge management movement, but AI changed what it can do: rather than filing and re-reading notes yourself, you can now ask questions in plain language and get answers drawn from your own material, with the system retrieving the relevant notes behind the scenes. Most AI note-taking apps sell themselves on this promise. It serves one person, which is what distinguishes it from a company brain.",
+  "example": null,
+  "related": [
+    "company-brain",
+    "rag",
+    "knowledge-base",
+    "semantic-search",
+    "memory"
+  ]
+}

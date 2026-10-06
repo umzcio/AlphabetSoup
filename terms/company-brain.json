@@ -1,0 +1,16 @@
+{
+  "slug": "company-brain",
+  "term": "Company Brain",
+  "acronym": null,
+  "category": "Patterns",
+  "short": "A shared, governed layer of how an organization actually works, built so AI agents and people can both query and act on it.",
+  "definition": "A company brain is a shared store of how an organization actually operates — its decisions, conventions, context, and the reasoning behind them — maintained so that both employees and AI agents can query it and act on what they find. It differs from an ordinary knowledge base in ambition rather than storage: a knowledge base holds documents someone deliberately wrote, while a company brain aims to capture the working knowledge that normally lives in meetings, chat threads, and people's heads, and to keep itself current without constant manual upkeep. The idea gained momentum in 2026 because agents raised the stakes: a document a person can find is useful, but one an agent can reliably retrieve and act on becomes infrastructure. Where a second brain serves one person, a company brain serves the whole organization.",
+  "example": null,
+  "related": [
+    "second-brain",
+    "knowledge-base",
+    "context-engineering",
+    "enterprise-search",
+    "agentic-ai"
+  ]
+}
