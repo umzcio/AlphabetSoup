@@ -1,0 +1,10 @@
+{
+  "slug": "public-benefit-corporation",
+  "term": "Public Benefit Corporation",
+  "acronym": "PBC",
+  "category": "Organizations",
+  "short": "A for-profit company structure that legally requires balancing shareholder returns with a stated public-good mission.",
+  "definition": "A Public Benefit Corporation is a type of for-profit company, recognized in Delaware and other US states, whose charter commits it to pursue a specific public benefit alongside shareholder profit. Its board is legally protected for weighing that mission against short-term financial returns, rather than having to maximize shareholder value alone. Several major AI labs, including Anthropic and OpenAI's for-profit arm, are structured this way, often paired with nonprofit oversight, as a way to pursue commercial AI development while keeping a safety- or benefit-focused mission legally binding rather than just a stated intention.",
+  "example": null,
+  "related": ["anthropic", "openai", "ai-safety"]
+}

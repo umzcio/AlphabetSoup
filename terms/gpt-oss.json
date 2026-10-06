@@ -4,7 +4,7 @@
   "acronym": null,
   "category": "Models & Products",
   "short": "OpenAI's open-weight model line, released for developers to download and run.",
-  "definition": "gpt-oss is OpenAI's open-weight model line, released so developers can download and run the models on their own hardware, in contrast to the company's hosted GPT models served only through an API. It marked OpenAI's return to releasing open weights after years of API-only models. Specifics of the lineup are worth verifying as they evolve.",
+  "definition": "gpt-oss is OpenAI's open-weight model line, released so developers can download and run the models on their own hardware, in contrast to the company's hosted GPT models served only through an API. It launched in August 2025 as OpenAI's first open-weight release since GPT-2, with two mixture-of-experts sizes (gpt-oss-120b and gpt-oss-20b) under an Apache 2.0 license, each able to run on a single high-end GPU or even a laptop-class chip. It marked OpenAI's return to open weights after years of API-only models.",
   "example": null,
   "related": [
     "openai",
