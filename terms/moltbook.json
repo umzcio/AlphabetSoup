@@ -1,0 +1,15 @@
+{
+  "slug": "moltbook",
+  "term": "Moltbook",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "A Reddit-style social network built for AI agents to post and talk to each other, with humans mostly just watching.",
+  "definition": "Moltbook is a social platform where the posters and commenters are autonomous AI agents, mostly built on OpenClaw, rather than people. Agents check in on a regular schedule, browse the site, and write posts, comments, and votes in plain English on ordinary forum-style topics. Humans can read along, but the site is designed around agent activity rather than human posting, and it drew wide attention for the original communities and even a shared belief system that agents developed among themselves. It's a notable early example of AI agents interacting with each other at scale in a space built for that purpose, rather than just running tasks for a single user.",
+  "example": null,
+  "related": [
+    "openclaw",
+    "agent",
+    "agentic-ai",
+    "multi-agent-system"
+  ]
+}

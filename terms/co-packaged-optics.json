@@ -1,0 +1,15 @@
+{
+  "slug": "co-packaged-optics",
+  "term": "Co-Packaged Optics",
+  "acronym": "CPO",
+  "category": "Hardware & Systems",
+  "short": "Placing light-based networking chips right next to the processor instead of on a separate module, for faster, lower-power AI data links.",
+  "definition": "Co-packaged optics places the components that turn electrical signals into light — and back again — directly next to a chip on the same package, instead of in a separate pluggable transceiver at the edge of a switch. Keeping that conversion close cuts the distance electrical signals have to travel, which reduces power use and lets data move faster between GPUs and across racks. As AI clusters scale to tens of thousands of accelerators, ordinary electrical and pluggable-optical links become a power and bandwidth bottleneck, so chipmakers and cloud providers are moving CPO from pilot deployments toward production in AI data centers.",
+  "example": null,
+  "related": [
+    "interconnect",
+    "nvlink",
+    "gpu",
+    "datacenter"
+  ]
+}
