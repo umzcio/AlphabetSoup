@@ -1,0 +1,16 @@
+{
+  "slug": "cag",
+  "term": "CAG",
+  "acronym": "Cache-Augmented Generation",
+  "category": "Patterns",
+  "short": "Preloading a whole knowledge base into the model's context once and reusing the cache, instead of retrieving documents per question.",
+  "definition": "Cache-augmented generation is an alternative to RAG for giving a model access to a specific body of knowledge. Instead of searching a database for relevant passages every time someone asks a question, you load the entire collection into the model's context once, let the model read it, and save the internal state it built while reading. Every later question reuses that saved state, so there is no search step, no chance of pulling up the wrong document, and far less delay. The catch is size: everything has to fit inside the model's context window, which makes it a good fit for a company handbook or a product manual but not for millions of documents, where retrieval is still required. It was introduced in a 2024 paper pointedly titled 'Don't Do RAG.'",
+  "example": null,
+  "related": [
+    "rag",
+    "kv-cache",
+    "prompt-caching",
+    "context-window",
+    "grounding"
+  ]
+}
