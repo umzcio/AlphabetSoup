@@ -1,0 +1,16 @@
+{
+  "slug": "qwen-3-8",
+  "term": "Qwen 3.8",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Alibaba's August 2026 Qwen generation, spanning a 2.4-trillion-parameter flagship down to a 27B model that runs on a laptop.",
+  "definition": "Qwen 3.8 is the generation of Alibaba's Qwen models released in August 2026, covering an unusually wide range of sizes. At the top sits Qwen3.8-Max, a mixture-of-experts model with roughly 2.4 trillion total parameters, only a fraction of which are active for any given token. At the practical end is Qwen3.8-27B, a dense model about a hundredth that size, released under a permissive Apache 2.0 license, which accepts text, images, and video and handles around 262,000 tokens of input natively. The 27B version drew the most attention for bringing near-frontier quality to hardware ordinary people own, and it has become a common base that other labs build on — Cloudflare's Clef decision models were adapted from it.",
+  "example": null,
+  "related": [
+    "qwen",
+    "qwen-3-7",
+    "qwen-3-6",
+    "moe",
+    "open-weights"
+  ]
+}

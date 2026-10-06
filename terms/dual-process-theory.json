@@ -1,0 +1,15 @@
+{
+  "slug": "dual-process-theory",
+  "term": "Dual-Process Theory",
+  "acronym": "System 1 / System 2 Thinking",
+  "category": "Foundations",
+  "short": "The idea that thinking comes in two modes — fast instinct and slow deliberation — now borrowed to describe two kinds of AI model.",
+  "definition": "Dual-process theory is the psychology idea, popularized by Daniel Kahneman, that human thinking runs in two modes: System 1, which is fast, automatic, and intuitive, like recognizing a face or sensing that something is off; and System 2, which is slow, effortful, and deliberate, like working through a long calculation. AI has borrowed the vocabulary heavily. Models that reason step by step before answering are described as doing System 2 thinking, while decision models that return an instant judgment with no visible deliberation are marketed as 'System One' models. The analogy is loose — these systems do not actually work the way human cognition does — but it has become common shorthand for the tradeoff between speed and deliberation.",
+  "example": null,
+  "related": [
+    "reasoning-model",
+    "decision-model",
+    "chain-of-thought",
+    "test-time-compute"
+  ]
+}
