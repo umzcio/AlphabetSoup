@@ -1,0 +1,15 @@
+{
+  "slug": "kev",
+  "term": "Kev",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "An open family of small decision models, sized from under a billion parameters up to 27 billion, that can run locally.",
+  "definition": "Kev is an open family of decision models created by developer Jared Palmer, published in a range of sizes from under a billion parameters up to 27 billion so you can pick the smallest one that does your job. Like other decision models it does not generate text: it scores the available options directly and returns the winner with a confidence value. Built on top of Alibaba's open Qwen models and released with open weights, the smaller versions are light enough to run on a laptop or a phone, and the community has converted them to the common local-inference formats. It is the self-hosted counterpart to the paid hosted decision-model services.",
+  "example": null,
+  "related": [
+    "decision-model",
+    "jev",
+    "clef",
+    "open-weights"
+  ]
+}

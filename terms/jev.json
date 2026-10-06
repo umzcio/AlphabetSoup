@@ -1,0 +1,15 @@
+{
+  "slug": "jev",
+  "term": "Jev",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "TypeSafe AI's decision model — it takes content plus typed questions and returns answers with confidence scores, not text.",
+  "definition": "Jev is the first model from the startup TypeSafe AI, released in September 2026, and the launch that popularized the idea of a decision model. You give it a block of information along with a set of typed questions — pick a category, give a score, answer yes or no — and it evaluates them all at once, returning structured answers with calibrated confidence rather than written text. TypeSafe describes it as a 'System One' model, a nod to the psychology idea of fast, intuitive judgment as opposed to slow deliberate reasoning. It is sold as a hosted paid API, works on text only, and accepts inputs of roughly 32,000 tokens.",
+  "example": null,
+  "related": [
+    "decision-model",
+    "clef",
+    "kev",
+    "structured-output"
+  ]
+}

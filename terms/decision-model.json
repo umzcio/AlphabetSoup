@@ -1,0 +1,16 @@
+{
+  "slug": "decision-model",
+  "term": "Decision Model",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "A model built to answer fixed questions with a choice and a confidence score, instead of writing text.",
+  "definition": "A decision model is a kind of AI model built to decide rather than write. Instead of generating an answer word by word like a chatbot, you hand it some content plus a set of questions with fixed possible answers — is this spam, which category does it belong to, rate this one to five — and it returns the choice along with a confidence number for each option. Because it never writes prose, there is nothing to parse and no way for it to wander off-format, and it answers in milliseconds rather than seconds. The approach suits high-volume, repetitive judgments like moderation, routing, and filtering, where a full language model is slower and costlier than the job needs. The category took shape in late 2026 around models such as Jev, Clef, and Kev.",
+  "example": null,
+  "related": [
+    "classification",
+    "structured-output",
+    "logits",
+    "guardrails",
+    "llm"
+  ]
+}
