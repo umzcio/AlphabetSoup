@@ -1,0 +1,16 @@
+{
+  "slug": "clef",
+  "term": "Clef",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Cloudflare's open-weight decision models, which can judge images as well as text and run at very low latency.",
+  "definition": "Clef is a pair of open-weight decision models released by Cloudflare in October 2026: Clef, a 27-billion-parameter model, and Clef-flash, a smaller and faster 9-billion one. Both were adapted from Alibaba's open Qwen models and published under a permissive Apache 2.0 license, so anyone can download and run them, and both are also hosted on Cloudflare's own platform. Compared with Jev, the model that defined the category, Clef can look at images as well as read text, accepts about twice the input length, and returns decisions in tens of milliseconds.",
+  "example": null,
+  "related": [
+    "decision-model",
+    "jev",
+    "kev",
+    "open-weights",
+    "multimodal"
+  ]
+}
