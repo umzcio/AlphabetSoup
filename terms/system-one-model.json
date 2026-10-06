@@ -1,0 +1,16 @@
+{
+  "slug": "system-one-model",
+  "term": "System One Model",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A model that outputs a typed decision and confidence score directly, instead of generating an answer word by word.",
+  "definition": "A System One model is trained to look at a situation and immediately output a structured decision — such as a typed answer with a probability or confidence score — instead of generating a response one word at a time the way a typical large language model does. Skipping word-by-word generation lets it respond far faster and cheaper, which suits real-time settings like games, robotics, and simulations where a fast, reliable call matters more than a conversational, explained-out answer. The name plays on the 'System 1 vs. System 2' idea from psychology, contrasting fast intuitive judgment with slower step-by-step reasoning: a reasoning model that writes out chain-of-thought is doing the slow, deliberate kind, while a System One model is built purely for the fast kind. TypeSafe AI introduced the category in September 2026 with its Jev model.",
+  "example": null,
+  "related": [
+    "autoregressive-model",
+    "reasoning-model",
+    "chain-of-thought",
+    "diffusion-language-model",
+    "latency"
+  ]
+}

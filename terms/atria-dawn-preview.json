@@ -1,0 +1,16 @@
+{
+  "slug": "atria-dawn-preview",
+  "term": "Atria Dawn Preview",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "An open-weight model from Shanghai AI Laboratory built to carry out long, multi-step research and engineering tasks on its own.",
+  "definition": "Atria Dawn Preview is an open-weight model released by Shanghai AI Laboratory in September 2026, built on a large mixture-of-experts foundation model and aimed at long-horizon agentic work rather than short back-and-forth chat. Instead of answering a single question, it's designed to carry a task all the way through — finding relevant research, writing and running code, producing documents or presentations, or analyzing a security flaw — checking its own progress and using tools along the way over many steps. It was released under a permissive open-source license, making it free for others to download, inspect, and build on.",
+  "example": null,
+  "related": [
+    "agentic-ai",
+    "open-weights",
+    "moe",
+    "agent",
+    "ai-cybersecurity"
+  ]
+}
