@@ -1,0 +1,16 @@
+{
+  "slug": "alignment-tax",
+  "term": "Alignment Tax",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The cost in raw capability or performance a model gives up in exchange for being safer and more aligned.",
+  "definition": "The alignment tax is the performance a model loses, on raw capability benchmarks or in raw helpfulness, as a side effect of making it safer, more honest, or more aligned with human intent. Techniques like RLHF or constitutional AI can make a model more cautious or more willing to refuse, which sometimes comes at the cost of being less capable on narrow benchmarks than a version trained without those constraints. Labs try to keep this tax small, since a steep one makes it tempting for teams, or competitors, to skip safety work entirely to stay ahead.",
+  "example": null,
+  "related": [
+    "rlhf",
+    "constitutional-ai",
+    "ai-safety",
+    "reward-hacking",
+    "alignment"
+  ]
+}

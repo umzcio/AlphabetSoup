@@ -1,0 +1,16 @@
+{
+  "slug": "genie-3",
+  "term": "Genie 3",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Google DeepMind's world model that generates an interactive, playable environment in real time from a text or image prompt.",
+  "definition": "Genie 3 is a world model from Google DeepMind that generates an explorable environment on the fly: starting from a text description or an image, it renders new video frames in real time in response to a user's actions, the way a game engine would, rather than producing a single fixed video clip. In 2026 Google shipped it to consumers as Project Genie, a limited beta where subscribers can seed a world and remix its art style, though each generated world currently lasts only about a minute and Google is careful to describe it as a prototyping tool rather than a game engine. It's an example of world models moving from a research concept toward a real-time, interactive product.",
+  "example": null,
+  "related": [
+    "world-model",
+    "google-deepmind",
+    "video-generation",
+    "multimodal",
+    "embodied-ai"
+  ]
+}
