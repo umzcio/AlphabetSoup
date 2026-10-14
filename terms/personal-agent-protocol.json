@@ -1,0 +1,16 @@
+{
+  "slug": "personal-agent-protocol",
+  "term": "Personal Agent Protocol",
+  "acronym": "PAP",
+  "category": "Patterns",
+  "short": "An open standard, backed by Meta, Sierra, Walmart, and others, for how a person's AI agent talks to businesses.",
+  "definition": "The Personal Agent Protocol is an open standard, announced by Sierra and Meta in October 2026 with backing from companies including Walmart, Shopify, Stripe, and Genesys, for how a person's AI agent interacts with a business on their behalf. Built on OAuth, it lets a business decide whether an agent reaches it through a website, an API, or the business's own agent, and lets an agent start as an anonymous guest — checking stock or a return policy — before a customer signs in and chooses whether to grant it read-only or write access. It's broader than payment-specific standards like the Agent Payments Protocol, aiming to cover any business interaction, with specifics like payments expected as a later extension.",
+  "example": null,
+  "related": [
+    "agentic-commerce",
+    "agent-payments-protocol",
+    "agentic-commerce-protocol",
+    "delegated-authority",
+    "agent"
+  ]
+}

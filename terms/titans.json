@@ -1,0 +1,16 @@
+{
+  "slug": "titans",
+  "term": "Titans",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "A neural network design that learns a long-term memory module at test time, updating it most on the most surprising inputs.",
+  "definition": "Titans is a neural network architecture from Google Research that pairs ordinary attention, used as a short-term memory with limited capacity, with a separate neural long-term memory module whose weights keep updating while the model is running, not just during training. The update is driven by a 'surprise' signal: inputs that most violate what the memory already expects get written in more strongly, while older, less useful memories fade over time. The goal is a model that can effectively make use of far more context than attention alone can handle efficiently, without needing to retrain from scratch to pick up new information.",
+  "example": null,
+  "related": [
+    "test-time-training",
+    "attention",
+    "continual-learning",
+    "catastrophic-forgetting",
+    "context-window"
+  ]
+}
