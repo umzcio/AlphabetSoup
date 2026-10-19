@@ -1,0 +1,16 @@
+{
+  "slug": "nested-learning",
+  "term": "Nested Learning",
+  "acronym": null,
+  "category": "Training",
+  "short": "Treating a model as smaller learning problems nested inside each other, each updating at its own speed, so it can learn without forgetting.",
+  "definition": "Nested Learning is a machine learning paradigm, introduced by Google Research, that reframes a model and its training process as a set of smaller optimization problems nested inside one another, each with its own internal flow of information and its own update frequency. Instead of treating 'architecture' and 'optimizer' as separate layers bolted together, it unifies them: different parts of the system can update on faster or slower timescales, similar to how human memory consolidates recent experience into longer-term knowledge over time. The aim is to close the gap between today's large language models, which mostly stop learning once pretraining ends and suffer from catastrophic forgetting, and systems that can keep acquiring new knowledge over time without erasing what they already know. Google's Hope architecture is an early demonstration of the idea.",
+  "example": null,
+  "related": [
+    "continual-learning",
+    "catastrophic-forgetting",
+    "test-time-training",
+    "titans",
+    "neural-network"
+  ]
+}

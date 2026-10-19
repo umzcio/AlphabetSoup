@@ -1,0 +1,15 @@
+{
+  "slug": "latent-reasoning",
+  "term": "Latent Reasoning",
+  "acronym": null,
+  "category": "Architectures",
+  "short": "Letting a model reason using its own internal hidden representations instead of writing every reasoning step out as words.",
+  "definition": "Latent reasoning has a model work through a problem using its internal, continuous hidden states instead of writing out each reasoning step as natural-language tokens. A notable example is Coconut (Chain of Continuous Thought), which feeds a model's own last hidden state back in as the next input, skipping the step where it has to be decoded into a word. Because a single hidden state can blend several possible next steps at once, this lets the model keep multiple lines of reasoning in play simultaneously rather than committing to one word-by-word path, and it can use fewer tokens than writing everything out. The tradeoff is that this internal reasoning isn't directly readable by a person the way a written chain of thought is, which has implications for how easily outside observers can check why the model reached its answer.",
+  "example": null,
+  "related": [
+    "chain-of-thought",
+    "reasoning-model",
+    "chain-of-thought-faithfulness",
+    "test-time-compute"
+  ]
+}
