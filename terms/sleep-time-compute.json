@@ -1,0 +1,15 @@
+{
+  "slug": "sleep-time-compute",
+  "term": "Sleep-Time Compute",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Letting a model think about likely questions ahead of time, during idle moments, so answers arrive faster when a real question comes in.",
+  "definition": "Sleep-time compute shifts some of a model's thinking from the moment a user asks a question to the idle time beforehand, while it is 'asleep' and waiting for the next request. Given a standing context such as a document or codebase, the model uses spare time to digest it and build an enriched, reusable representation of likely-useful conclusions. When a real question arrives, it can draw on that pre-digested work instead of starting from scratch, cutting the compute and latency needed at answer time. It differs from simple prompt caching, which only stores exact past inputs verbatim, and from retrieval-augmented generation, since nothing is fetched from an external database — the model itself does the anticipatory reasoning. The gains are largest when future questions are fairly predictable from the standing context.",
+  "example": null,
+  "related": [
+    "test-time-compute",
+    "prompt-caching",
+    "ttft",
+    "inference"
+  ]
+}

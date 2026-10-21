@@ -1,0 +1,16 @@
+{
+  "slug": "circuit-breakers",
+  "term": "Circuit Breakers",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A safety technique that interrupts a model's internals the moment they head toward a harmful output, instead of just training it to refuse.",
+  "definition": "Circuit breakers are a safety technique that acts on a model's internal representations rather than on its final words. Ordinary refusal training teaches a model to say no to harmful requests at the output level, but determined adversarial prompts can often talk it past that training. Circuit breakers instead monitor the model's internal states while it generates a response and, if those states start to resemble the internal pattern of a harmful output, interrupt or reroute the computation before it can finish — similar to an electrical circuit breaker tripping to stop a surge. Because the intervention targets the underlying representation rather than one specific attack phrasing, researchers report it holds up against adversarial attacks the model was never trained against, including on multimodal models.",
+  "example": null,
+  "related": [
+    "jailbreak",
+    "red-teaming",
+    "refusal",
+    "interpretability",
+    "activation-steering"
+  ]
+}

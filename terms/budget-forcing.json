@@ -1,0 +1,15 @@
+{
+  "slug": "budget-forcing",
+  "term": "Budget Forcing",
+  "acronym": null,
+  "category": "Inference & Serving",
+  "short": "Directly controlling how long a reasoning model thinks by cutting its reasoning short or forcing it to keep going.",
+  "definition": "Budget forcing is a simple way to control how much a reasoning model thinks before answering, introduced by the 's1' research project. To make the model stop reasoning early, the system cuts off its thinking and inserts the token that signals 'reasoning is done,' forcing it straight to a final answer. To make the model think longer, it suppresses that same end-of-thinking token and appends the word 'Wait,' which nudges the model to keep exploring and often catch its own mistakes. It gives a direct, cheap lever over the test-time compute tradeoff between speed and accuracy, without needing to retrain the model for each desired reasoning length.",
+  "example": null,
+  "related": [
+    "test-time-scaling",
+    "test-time-compute",
+    "reasoning-model",
+    "chain-of-thought"
+  ]
+}
