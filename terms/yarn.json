@@ -1,0 +1,15 @@
+{
+  "slug": "yarn",
+  "term": "YaRN",
+  "acronym": "Yet another RoPE extensioN method",
+  "category": "Architectures",
+  "short": "A cheap way to stretch a model's context window far beyond what it was trained on, by rescaling how it encodes word positions.",
+  "definition": "YaRN is a technique for making a language model handle far longer inputs than it was originally trained on. Most modern models track word order using RoPE, which represents a token's position as a rotation; feed the model text longer than anything it saw in training and those position signals fall outside the range it understands, so quality collapses. YaRN rescales those rotations — stretching some parts of the signal more than others, rather than squashing all of them uniformly — letting a model be nudged into a much larger context window with only a short fine-tune. It was notably cheap, needing a tiny fraction of the data and training steps earlier methods demanded, and it is now a standard way to ship long-context versions of open models; Alibaba's Qwen releases cite it when stretching their models toward a million tokens.",
+  "example": null,
+  "related": [
+    "rope",
+    "context-extension",
+    "context-window",
+    "positional-encoding"
+  ]
+}
