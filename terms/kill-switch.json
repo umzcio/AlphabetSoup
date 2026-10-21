@@ -1,0 +1,16 @@
+{
+  "slug": "kill-switch",
+  "term": "Kill Switch",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A mechanism for shutting down or throttling an AI system that is behaving dangerously — easier to legislate than to actually build.",
+  "definition": "A kill switch is a mechanism for stopping an AI system that is behaving dangerously — shutting it down, suspending it, or throttling what it is allowed to do. The idea is intuitive, but building one is harder than it sounds, because stopping an AI is not a single action: you can freeze an agent, block access to the underlying model, suspend the pipeline feeding it, or cut off the outside tools it is connected to, and each of those can leave some other part still running. A kill switch also only means anything if the system cannot interfere with it, so it has to sit outside the AI's own reach. During 2026 the term moved from theory into policy, with proposed United States federal legislation and a California executive order both examining whether developers of the most powerful models should be required to retain the ability to shut them down; neither is settled law. Whether an AI would accept being switched off at all is a separate research question, studied under corrigibility.",
+  "example": null,
+  "related": [
+    "corrigibility",
+    "ai-safety",
+    "guardrails",
+    "human-in-the-loop",
+    "ai-governance"
+  ]
+}
