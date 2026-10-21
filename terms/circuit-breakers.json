@@ -11,6 +11,7 @@
     "red-teaming",
     "refusal",
     "interpretability",
-    "activation-steering"
+    "activation-steering",
+    "kill-switch"
   ]
 }

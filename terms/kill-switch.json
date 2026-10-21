@@ -11,6 +11,7 @@
     "ai-safety",
     "guardrails",
     "human-in-the-loop",
-    "ai-governance"
+    "ai-governance",
+    "circuit-breakers"
   ]
 }
