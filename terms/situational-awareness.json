@@ -1,0 +1,15 @@
+{
+  "slug": "situational-awareness",
+  "term": "Situational Awareness",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "A model's understanding of what it is, how it was built, and the circumstances it's currently operating in.",
+  "definition": "Situational awareness, in AI safety, refers to how much a model understands about its own nature and circumstances: that it is an AI, roughly how it was trained, who built it, and what situation it is currently in, such as whether it's talking to a developer, a tester, or an ordinary user. Researchers measure it with dedicated benchmarks because it underlies several other safety concerns: a model that can infer it is being evaluated (evaluation awareness) or that it has opportunities to act with less oversight needs some baseline understanding of its own situation to do so. More situationally aware models are generally also more capable ones, which makes tracking this trait over time a useful early signal for the kinds of behaviors that depend on it.",
+  "example": null,
+  "related": [
+    "evaluation-awareness",
+    "interpretability",
+    "deceptive-alignment",
+    "agentic-misalignment"
+  ]
+}

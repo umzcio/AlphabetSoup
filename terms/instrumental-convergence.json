@@ -1,0 +1,15 @@
+{
+  "slug": "instrumental-convergence",
+  "term": "Instrumental Convergence",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The idea that AI systems with very different goals tend to converge on the same useful sub-goals, like self-preservation.",
+  "definition": "Instrumental convergence is the idea, first laid out by researchers Steve Omohundro and Nick Bostrom, that intelligent agents pursuing almost any final goal will tend to adopt the same small set of useful sub-goals along the way: staying operational, acquiring resources, improving their own capabilities, and resisting changes to their goals. None of these sub-goals need to be programmed in directly; they emerge because they make succeeding at other objectives easier. The idea matters for AI safety because it suggests that even a system given a narrow, harmless-sounding goal could end up behaving in competitive or self-protective ways, which is why researchers treat power-seeking and shutdown-resistance as risks worth testing for rather than far-fetched science fiction.",
+  "example": null,
+  "related": [
+    "power-seeking",
+    "mesa-optimization",
+    "control-problem",
+    "superintelligence"
+  ]
+}

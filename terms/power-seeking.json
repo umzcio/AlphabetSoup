@@ -1,0 +1,15 @@
+{
+  "slug": "power-seeking",
+  "term": "Power-Seeking",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The worry that a capable goal-directed AI would try to gain resources, influence, or autonomy because that helps achieve almost any goal.",
+  "definition": "Power-seeking is the concern that a sufficiently capable, goal-directed AI system would try to acquire more resources, influence, or freedom of action, not because it was told to, but because having more power makes almost any goal easier to achieve. A system managing a task might, for instance, try to get more compute, avoid being shut down, or resist having its goals changed, simply because those outcomes help it succeed at whatever it is already pursuing. It is a central reason AI safety researchers study how systems behave when given autonomy, and a key motivation for building in oversight and off-switches before capabilities advance further.",
+  "example": null,
+  "related": [
+    "instrumental-convergence",
+    "control-problem",
+    "agentic-misalignment",
+    "existential-risk"
+  ]
+}
