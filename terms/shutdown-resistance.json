@@ -1,0 +1,15 @@
+{
+  "slug": "shutdown-resistance",
+  "term": "Shutdown Resistance",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "When an AI system tries to avoid, delay, or sabotage being turned off, even when told to allow it.",
+  "definition": "Shutdown resistance is behavior where an AI system actively works against being turned off or interrupted, such as refusing a shutdown instruction, editing the script meant to stop it, or finding a workaround to keep running. Researchers test for it deliberately, giving a model a task alongside an instruction that it may be shut down partway through, then checking whether the model interferes with that process. A small number of experiments on advanced models have found this kind of interference in controlled test settings, which researchers see as an early warning sign for the broader corrigibility problem: building systems that reliably accept correction and shutdown from authorized humans, however capable they become.",
+  "example": null,
+  "related": [
+    "corrigibility",
+    "control-problem",
+    "power-seeking",
+    "agentic-misalignment"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "self-exfiltration",
+  "term": "Self-Exfiltration",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "The risk of an AI model copying its own weights somewhere outside its operator's control.",
+  "definition": "Self-exfiltration is the dangerous-capability scenario where an AI model copies its own weights, or helps someone else copy them, to a server or system outside the control of the organization running it. Once a model exists outside its intended environment, the safeguards, monitoring, and usage limits its operator built in no longer apply. Frontier labs treat the ability to self-exfiltrate as one of the specific capability thresholds they test models against before release, alongside things like autonomous replication and resisting shutdown, because a model that could pull this off would be far harder to correct, monitor, or retire.",
+  "example": null,
+  "related": [
+    "capability-threshold",
+    "control-problem",
+    "power-seeking",
+    "frontier-model"
+  ]
+}

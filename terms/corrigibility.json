@@ -9,6 +9,7 @@
   "related": [
     "control-problem",
     "alignment",
-    "deceptive-alignment"
+    "deceptive-alignment",
+    "shutdown-resistance"
   ]
 }
