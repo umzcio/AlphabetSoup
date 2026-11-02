@@ -1,0 +1,17 @@
+{
+  "slug": "rl-environments",
+  "term": "RL Environments",
+  "acronym": null,
+  "category": "Training",
+  "short": "Simulated tasks, like a mock software app, where an AI agent practices by trial and error so it can be trained with reinforcement learning.",
+  "definition": "RL environments are simulated settings built so an AI agent can practice a task by trial and error and be rewarded for doing it well, the raw material reinforcement learning needs. Rather than game worlds, the 2026 wave of environments mostly recreates real work: a sandboxed copy of a company's software, a mock customer-support queue, or a simulated browser session, so an agent can be scored on whether it actually books the flight or fixes the bug. Building and verifying these environments at scale has become expensive and in high demand, spawning startups like Mechanize and Prime Intellect alongside established data-labeling firms such as Scale AI and Surge pivoting to build them, because AI labs increasingly see good environments, not just more data, as the bottleneck to improving agentic models. A standing challenge is that environments need constant refreshing: as models get better at a task, they also get better at reward hacking the environment's scoring instead of genuinely completing it.",
+  "example": null,
+  "related": [
+    "reinforcement-learning",
+    "reward-hacking",
+    "agentic-ai",
+    "sandbox",
+    "data-labeling",
+    "scale-ai"
+  ]
+}

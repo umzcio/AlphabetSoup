@@ -1,0 +1,16 @@
+{
+  "slug": "trainium",
+  "term": "AWS Trainium",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "Amazon's own line of AI chips, built to train and run models more cheaply than renting GPUs.",
+  "definition": "Trainium is Amazon Web Services' custom-built chip line for AI, designed in-house rather than bought from NVIDIA. Like other AI-specific chips (ASICs), it trades some of a general-purpose GPU's flexibility for lower cost and power use on the kind of math large models need. AWS pairs Trainium with its companion inference chip, Inferentia, and packages large numbers of them into clusters it rents out through its cloud, including one of the biggest built for Anthropic to train and serve Claude. Trainium is part of a wider industry shift: major cloud providers and AI labs increasingly design their own chips to cut their dependence on NVIDIA GPUs and lower the cost of running AI at scale.",
+  "example": null,
+  "related": [
+    "asic",
+    "amazon-web-services",
+    "gpu",
+    "accelerator",
+    "nvidia"
+  ]
+}

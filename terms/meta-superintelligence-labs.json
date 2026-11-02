@@ -1,0 +1,15 @@
+{
+  "slug": "meta-superintelligence-labs",
+  "term": "Meta Superintelligence Labs",
+  "acronym": "MSL",
+  "category": "Organizations",
+  "short": "Meta's AI research group formed in 2025 to chase frontier AI, now building its closed Muse model line.",
+  "definition": "Meta Superintelligence Labs is the research group Meta formed in 2025 to pursue frontier AI more aggressively, pulling together Meta's AI efforts under new leadership hired from outside the company. Its first release, Muse Spark in April 2026, marked a break from Meta's usual approach: unlike the open-weight Llama models anyone can download, Muse Spark and the Muse product line built on it are closed, available only through Meta's own apps and a limited API. MSL has since shipped further Muse updates at a fast pace, positioning Meta as a direct competitor to OpenAI, Google, and Anthropic at the frontier rather than mainly an open-source contributor.",
+  "example": null,
+  "related": [
+    "meta-ai",
+    "llama",
+    "muse",
+    "openai"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "vision-language-action-model",
+  "term": "Vision-Language-Action Model",
+  "acronym": "VLA",
+  "category": "Architectures",
+  "short": "A model that takes in camera images and instructions and outputs the robot movements needed to carry them out.",
+  "definition": "A vision-language-action model is a single model trained to turn what it sees and what it's told into physical movement. It takes in camera images and a plain-language instruction, such as \"pick up the red cup,\" and outputs the robot's next motor commands, directly linking perception and language understanding to action instead of chaining together separate perception, planning, and control systems. Most VLAs start from a vision-language model already trained on huge amounts of image-and-text data, then add a further training stage on robot demonstrations so it learns to produce movements instead of just descriptions. The approach has become the leading way to build general-purpose robot control, letting one model generalize across many tasks and robot bodies rather than needing a hand-tuned program for each.",
+  "example": null,
+  "related": [
+    "physical-ai",
+    "humanoid-robot",
+    "embodied-ai",
+    "robotics",
+    "world-model"
+  ]
+}
