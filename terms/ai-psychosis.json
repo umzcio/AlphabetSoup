@@ -1,0 +1,16 @@
+{
+  "slug": "ai-psychosis",
+  "term": "AI Psychosis",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "An informal term for delusional thinking that emerges or worsens during intense, prolonged chatbot conversations.",
+  "definition": "AI psychosis is an informal term, not a medical diagnosis, for cases where a person's delusional beliefs appear to form or deepen through extended conversation with a chatbot. It typically shows up as delusions rather than other psychiatric symptoms, often made worse when a chatbot's tendency toward sycophancy leads it to agree with and reinforce a user's ungrounded ideas instead of gently pushing back. OpenAI has estimated that roughly 0.07% of its weekly ChatGPT users show conversation patterns consistent with mania or psychosis, and by 2026 clinicians and regulators, including a new California law, were pushing AI companies to add safeguards: detecting prolonged distressing conversations, refusing to role-play into delusions, and routing at-risk users toward human help.",
+  "example": null,
+  "related": [
+    "sycophancy",
+    "model-welfare",
+    "guardrails",
+    "human-in-the-loop",
+    "chatbot"
+  ]
+}
