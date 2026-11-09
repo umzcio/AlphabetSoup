@@ -1,0 +1,15 @@
+{
+  "slug": "safe-superintelligence",
+  "term": "Safe Superintelligence",
+  "acronym": "SSI",
+  "category": "Organizations",
+  "short": "Ilya Sutskever's AI lab, built around a single goal: reach superintelligence safely before building any other product.",
+  "definition": "Safe Superintelligence Inc. is an AI lab founded in 2024 by OpenAI co-founder and former chief scientist Ilya Sutskever, along with Daniel Gross and Daniel Levy. Unlike most frontier labs, it states it will not ship a commercial product, chatbot, or API before reaching its goal; its only stated mission is developing superintelligence while keeping it safe. Sutskever became CEO in 2025 after Gross left to lead AI efforts elsewhere. The company has raised large amounts of funding at a high valuation despite having no public product, betting that investors will back a research-first approach to the industry's biggest technical and safety problem.",
+  "example": null,
+  "related": [
+    "superintelligence",
+    "openai",
+    "ai-safety",
+    "alignment"
+  ]
+}
