@@ -1,0 +1,16 @@
+{
+  "slug": "neocloud",
+  "term": "Neocloud",
+  "acronym": null,
+  "category": "Hardware & Systems",
+  "short": "A cloud provider built from the ground up around renting out GPUs for AI, rather than general-purpose computing.",
+  "definition": "A neocloud is a cloud computing company built specifically around AI workloads: it buys large numbers of GPUs and rents access to them, by the hour or under multi-year contracts, mainly to AI labs and companies training or running models. That's different from older hyperscalers like AWS, Azure, and Google Cloud, which offer GPUs alongside a much broader menu of general-purpose cloud services. Companies commonly described as neoclouds include CoreWeave, Lambda, Crusoe, and Nebius. The category grew quickly alongside surging AI compute demand, and because many neoclouds carry heavy debt taken on to buy chips, their finances are closely watched as a signal of whether AI infrastructure spending is sustainable.",
+  "example": null,
+  "related": [
+    "gpu",
+    "nvidia",
+    "datacenter",
+    "cluster",
+    "ai-bubble"
+  ]
+}

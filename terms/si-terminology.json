@@ -1,0 +1,14 @@
+{
+  "slug": "si-terminology",
+  "term": "SI (Super Intelligence)",
+  "acronym": "Super Intelligence",
+  "category": "Safety & Alignment",
+  "short": "The term the US federal government adopted in place of \"AI\" in official use, by executive order in late September 2026.",
+  "definition": "SI is short for \"Super Intelligence,\" the term a September 2026 US executive order, titled \"Inaugurating the Era of Super Intelligence,\" directed federal agencies to use in place of \"artificial intelligence\" in official communications, websites, and policy documents, to the extent existing law allows. The order doesn't rewrite past regulations, contracts, or statutes, and it gave a White House science and technology office 60 days to propose legislative language formally defining the term. It's a naming and framing choice rather than a new technical concept, and it shouldn't be confused with superintelligence, the longstanding research term for a hypothetical AI that would far exceed human ability; critics noted the rename borrows that term's connotation of dramatically greater capability without the underlying technology having changed.",
+  "example": null,
+  "related": [
+    "superintelligence",
+    "agi",
+    "ai-governance"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "circular-ai-financing",
+  "term": "Circular AI Financing",
+  "acronym": null,
+  "category": "Foundations",
+  "short": "When an AI company invests in, or extends credit to, its own customers or suppliers, who then spend that money back on its products.",
+  "definition": "Circular AI financing describes deals where a company funds a customer or supplier, and that money flows back to the funder as revenue, rather than coming from independent demand. A chipmaker might take equity in a startup that then uses the cash mainly to buy that chipmaker's hardware, or a model developer might get a large compute credit from a cloud provider that is also one of its investors. These arrangements aren't necessarily improper, and companies involved argue the underlying demand for their products is real, but critics say they can make revenue and growth look stronger than genuine end-user demand would support, inflating valuations across several companies at once. The worry, echoing vendor financing in the dot-com era, is contagion: if one link in the chain falters, the inflated value at every other link it touched comes into question too. It's a major reason the AI bubble debate has intensified alongside the biggest infrastructure deals in the industry.",
+  "example": null,
+  "related": [
+    "ai-bubble",
+    "nvidia",
+    "project-stargate",
+    "neocloud"
+  ]
+}
