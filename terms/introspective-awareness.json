@@ -1,0 +1,15 @@
+{
+  "slug": "introspective-awareness",
+  "term": "Introspective Awareness",
+  "acronym": null,
+  "category": "Evaluation",
+  "short": "A model's limited, inconsistent ability to notice and report on its own internal state.",
+  "definition": "Introspective awareness research asks whether a language model can accurately notice things about its own internal processing, rather than just generating a plausible-sounding guess. One way researchers test this is concept injection: they find the internal activity pattern that corresponds to a concept and artificially inject it into the model while it runs, then ask the model whether it notices anything unusual. Some models can report an injected concept, sometimes before producing any text influenced by it, which suggests a narrow, real but unreliable capacity for self-monitoring. It matters for AI safety because systems that could accurately report on their own internal states, including sources of bias or latent goals, would be more inspectable — but the same capacity could also be used to notice and strategically hide them, and current results show this ability is inconsistent and easy to fool.",
+  "example": null,
+  "related": [
+    "mechanistic-interpretability",
+    "activation-steering",
+    "sparse-autoencoder",
+    "model-welfare"
+  ]
+}

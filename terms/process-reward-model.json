@@ -10,6 +10,7 @@
     "reward-model",
     "rlhf",
     "reasoning-model",
-    "chain-of-thought"
+    "chain-of-thought",
+    "outcome-reward-model"
   ]
 }

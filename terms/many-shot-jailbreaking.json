@@ -1,0 +1,15 @@
+{
+  "slug": "many-shot-jailbreaking",
+  "term": "Many-Shot Jailbreaking",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "Stuffing a long prompt with many fake examples of the model answering harmful requests, to wear down its refusals.",
+  "definition": "Many-shot jailbreaking exploits long context windows by filling the prompt with dozens or hundreds of fake dialogue turns in which an AI assistant answers increasingly harmful requests without objection, before finally asking for the thing the attacker actually wants. The repeated examples act like in-context training: the model's pattern-following tendency starts to outweigh its safety training, making it more likely to comply with the final request too. Anthropic researchers identified this attack as a direct side effect of growing context windows, and it pushed labs to add defenses that specifically watch for this pattern rather than relying only on single-prompt filtering.",
+  "example": null,
+  "related": [
+    "jailbreak",
+    "in-context-learning",
+    "long-context-modeling",
+    "red-teaming"
+  ]
+}
