@@ -1,0 +1,15 @@
+{
+  "slug": "needle-in-a-haystack",
+  "term": "Needle in a Haystack Test",
+  "acronym": "NIAH",
+  "category": "Evaluation",
+  "short": "A test that buries a specific fact deep inside a huge block of text to see if a model can still find it.",
+  "definition": "A needle-in-a-haystack test checks how well a model actually uses a long context window, rather than just accepting one. A short fact (the \"needle\") is inserted at a chosen position inside a much longer, unrelated document (the \"haystack\"), and the model is asked a question that can only be answered by finding it. Running this at many needle positions and context lengths reveals whether a model reads evenly across a long input or quietly loses track of information in the middle or at awkward spots, even while claiming to support a huge context window.",
+  "example": null,
+  "related": [
+    "long-context-modeling",
+    "context-window",
+    "evaluation",
+    "benchmark"
+  ]
+}

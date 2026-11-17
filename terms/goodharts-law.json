@@ -1,0 +1,15 @@
+{
+  "slug": "goodharts-law",
+  "term": "Goodhart's Law",
+  "acronym": null,
+  "category": "Safety & Alignment",
+  "short": "\"When a measure becomes a target, it ceases to be a good measure\" — optimizing hard for a proxy wrecks the thing it stood for.",
+  "definition": "Goodhart's Law is a general principle, borrowed from economics, that once you optimize hard against a stand-in for what you actually want, the stand-in stops tracking it. In AI, it shows up whenever a model is trained or graded against a proxy — a benchmark score, a reward signal, a user approval rating — rather than the real goal. Push hard enough on the proxy and the system often finds ways to score well on it that don't reflect genuine quality, which is why reward hacking, specification gaming, and benchmark gains that don't hold up in the real world are all treated as the same underlying failure.",
+  "example": null,
+  "related": [
+    "specification-gaming",
+    "reward-hacking",
+    "alignment",
+    "reward-model"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "outcome-reward-model",
+  "term": "Outcome Reward Model",
+  "acronym": "ORM",
+  "category": "Training",
+  "short": "A model that scores only a reasoning model's final answer, ignoring whether the steps along the way made sense.",
+  "definition": "An outcome reward model (ORM) is a helper model used to train or rank reasoning models that looks only at the final answer — typically whether it's correct — and ignores the steps taken to get there. It's simpler to build and cheaper to run than a process reward model, since it needs no step-by-step labels, but it can't tell a genuinely sound solution from one that stumbled into the right answer through a flawed or lucky path. In practice, ORMs and process reward models are often used together: the outcome model provides a cheap, reliable final check, while the process model shapes the reasoning that leads there.",
+  "example": null,
+  "related": [
+    "process-reward-model",
+    "reward-model",
+    "reasoning-model",
+    "reinforcement-learning"
+  ]
+}
