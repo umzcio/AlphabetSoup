@@ -1,0 +1,10 @@
+{
+  "slug": "amd",
+  "term": "AMD",
+  "acronym": "Advanced Micro Devices",
+  "category": "Organizations",
+  "short": "A chipmaker whose Instinct GPUs are the leading rival to NVIDIA's for AI data centers.",
+  "definition": "AMD (Advanced Micro Devices) is a chipmaker and NVIDIA's main rival in AI data-center hardware. Its Instinct line of GPUs, paired with AMD's own CPUs and networking gear in rack-scale systems like Helios, is used by cloud providers and AI labs to train and run large models. AMD has steadily expanded the Instinct lineup, adding chip variants with more memory or faster inference, to compete more directly with NVIDIA on the hardware behind frontier AI.",
+  "example": null,
+  "related": ["gpu", "nvidia", "accelerator", "hbm"]
+}

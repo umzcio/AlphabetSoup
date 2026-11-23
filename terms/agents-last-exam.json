@@ -1,0 +1,10 @@
+{
+  "slug": "agents-last-exam",
+  "term": "Agents' Last Exam",
+  "acronym": "ALE",
+  "category": "Evaluation",
+  "short": "A hard benchmark testing AI agents on real, checkable professional work across many industries.",
+  "definition": "Agents' Last Exam (ALE) is a difficult benchmark from UC Berkeley's RDI research group that tests AI agents on long, real-world professional work — multi-step business and office tasks with a checkable outcome — rather than short question answering. It covers over a thousand tasks spanning many industries and difficulty tiers, built with help from hundreds of domain experts, and keeps most of its hardest tasks private so models can't be trained on them. Early runs showed most AI agents completing only a small fraction of its hardest tier correctly, underscoring how far current agents still are from reliably doing real economically valuable work on their own.",
+  "example": null,
+  "related": ["humanitys-last-exam", "benchmark", "evaluation", "agent"]
+}

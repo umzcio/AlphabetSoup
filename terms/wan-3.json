@@ -1,0 +1,10 @@
+{
+  "slug": "wan-3",
+  "term": "Wan 3.0",
+  "acronym": null,
+  "category": "Multimodal",
+  "short": "Alibaba's video-generation model that turns text, images, or documents into clips up to 30 seconds long.",
+  "definition": "Wan 3.0 is a video-generation model from Alibaba, released in 2026, that creates videos up to 30 seconds long from text prompts, images, audio, or even documents like slide decks and spreadsheets. It can also extend an existing clip to make it longer rather than only generating from scratch. Unlike earlier, openly released Wan models, Alibaba kept Wan 3.0's weights closed, offering it only through its own cloud platforms as it competes with rivals such as Google's Veo and ByteDance's Seedance.",
+  "example": null,
+  "related": ["alibaba", "alibaba-cloud", "veo", "seedance", "text-to-video"]
+}

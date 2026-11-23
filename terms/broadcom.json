@@ -1,0 +1,10 @@
+{
+  "slug": "broadcom",
+  "term": "Broadcom",
+  "acronym": null,
+  "category": "Organizations",
+  "short": "A chip company that designs custom AI accelerators for others, including Google's TPUs and OpenAI's Jalapeño.",
+  "definition": "Broadcom is a chip and infrastructure company that, rather than selling its own general-purpose AI chips, designs custom AI accelerators (ASICs built for one specific job) for other companies to run at massive scale. It has helped build Google's TPUs this way for years, and in 2026 it partnered with OpenAI to co-design Jalapeño, OpenAI's first in-house AI chip. This custom-silicon approach lets large AI companies get hardware tailored to their own workloads instead of relying solely on off-the-shelf GPUs.",
+  "example": null,
+  "related": ["jalapeno", "asic", "tpu", "openai"]
+}
