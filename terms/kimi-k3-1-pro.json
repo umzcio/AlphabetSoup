@@ -1,0 +1,10 @@
+{
+  "slug": "kimi-k3-1-pro",
+  "term": "Kimi K3.1 Pro",
+  "acronym": null,
+  "category": "Models & Products",
+  "short": "Moonshot AI's October 2026 model, built on Kimi K3, with deliberately limited hacking ability.",
+  "definition": "Kimi K3.1 Pro is an open-weight AI model released by the Chinese company Moonshot AI in October 2026 as a post-trained upgrade to its earlier Kimi K3 model. Like K3, it's a large mixture-of-experts model (around 3 trillion total parameters, though only a fraction activate for any given request) with a 1-million-token context window, aimed mainly at coding and multi-step agentic tasks. Moonshot says it deliberately filtered cyberattack-related material out of the model's training data to limit its ability to find and exploit software vulnerabilities, while leaving its general coding skill intact — part of a wider industry push to restrict offensive 'cyber' capability in widely available models.",
+  "example": null,
+  "related": ["kimi-k3", "kimi", "moonshot-ai", "open-weights", "moe"]
+}
